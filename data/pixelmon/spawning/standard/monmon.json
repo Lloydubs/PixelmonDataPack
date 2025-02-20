@@ -1,0 +1,30 @@
+{
+  "id": "Monmon",
+  "spawnInfos": [
+    {
+      "spec": "species:Monmon",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "jungles",
+          "byg:tropical_rainforest"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

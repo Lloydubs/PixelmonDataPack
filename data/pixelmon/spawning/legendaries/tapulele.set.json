@@ -1,0 +1,530 @@
+{
+  "id": "TapuLele",
+  "spawnInfos": [
+    {
+      "spec": "species:TapuLele level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:TapuLele palette:anubis 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:anubis 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:arctic level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:cosplay level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:crimson level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:easter 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:easter 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:ethereal level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:galaxy 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:galaxy 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:god level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:halloween 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:halloween 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:halloween 3 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:metal level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:nippon level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:painted 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:painted 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:retro level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:soulfire level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:sweetshop level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:tribal level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:winter 1 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:TapuLele palette:winter 2 level:60",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.1
+    }
+  ]
+}

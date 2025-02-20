@@ -1,0 +1,383 @@
+{
+  "id": "Entei",
+  "spawnInfos": [
+    {
+      "spec": "species:Entei level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Entei palette:arctic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:egyptian level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:electric 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:electric 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:meadownian 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:meadownian 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:molten level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:purified 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:purified 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:water 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Entei palette:water 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "maxY": 100
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

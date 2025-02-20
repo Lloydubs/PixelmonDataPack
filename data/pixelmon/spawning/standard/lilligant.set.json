@@ -1,0 +1,203 @@
+{
+  "id": "Lilligant",
+  "spawnInfos": [
+    {
+      "spec": "species:Lilligant",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Lilligant palette:easter 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lilligant palette:easter 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lilligant palette:fusion",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lilligant palette:gem",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lilligant palette:resolute",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Lilligant form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Lilligant form:hisuian palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:absorb_bulb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

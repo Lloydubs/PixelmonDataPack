@@ -1,0 +1,1097 @@
+{
+  "id": "Lycanroc",
+  "spawnInfos": [
+    {
+      "spec": "species:Lycanroc form:midday",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Lycanroc form:midday",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midday palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Lycanroc form:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Lycanroc form:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:midnight palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Lycanroc form:dusk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:mythology 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:mythology 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Lycanroc form:dusk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:mythology 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:mythology 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Lycanroc form:dusk palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "Cinccino",
+  "spawnInfos": [
+    {
+      "spec": "species:Cinccino",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Cinccino palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Cinccino palette:fusion",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Cinccino palette:heroic",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Cinccino palette:sakura",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Cinccino palette:valentines",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.6
+    }
+  ]
+}

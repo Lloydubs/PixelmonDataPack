@@ -1,0 +1,149 @@
+{
+  "id": "Trevenant",
+  "spawnInfos": [
+    {
+      "spec": "species:Trevenant",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Trevenant palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Trevenant palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Trevenant palette:sakura",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Trevenant palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Trevenant palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_root",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

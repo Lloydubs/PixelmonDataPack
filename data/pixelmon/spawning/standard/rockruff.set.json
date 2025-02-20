@@ -1,0 +1,203 @@
+{
+  "id": "Rockruff",
+  "spawnInfos": [
+    {
+      "spec": "species:Rockruff",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Rockruff palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Rockruff palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Rockruff palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Rockruff palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Rockruff palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mesas"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Rockruff",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Rockruff palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rockruff palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rockruff palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rockruff palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rockruff palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "attackIndex": 900063,
+    "attackName": "Gift of Darkness",
+    "attackType": "DARK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 100,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "Burn",
+            "modifiers": [
+            ],
+            "persists": false,
+            "effectTypeID": "Burn"
+        },
+        {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

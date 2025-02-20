@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900134,
+    "attackName": "Tequila Knuckle",
+    "attackType": "Grass",
+    "attackCategory": "PHYSICAL",
+    "basePower": 25,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 75,
+    "makesContact": true,
+    "effects": [
+
+        {
+            "type": "Confusion",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 25.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Confusion"
+        },
+        {
+            "minHits": 3,
+            "maxHits": 6,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        }       
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

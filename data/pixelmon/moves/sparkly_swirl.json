@@ -1,0 +1,43 @@
+{
+  "attackIndex": 14730,
+  "attackName": "Sparkly Swirl",
+  "attackType": "FAIRY",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "Confusion",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+  ],
+  "animations": [],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "fairium_z",
+      "attackName": "Twinkle Tackle",
+      "basePower": 110,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

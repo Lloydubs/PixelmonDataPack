@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900098,
+    "attackName": "Night Stalker",
+    "attackType": "DARK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 60,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": -1,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Pursuit"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FellStinger"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

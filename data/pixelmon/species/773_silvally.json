@@ -1,0 +1,1194 @@
+{
+  "name": "Silvally",
+  "dex": 773,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.8,
+        "width": 1.5,
+        "length": 1,
+        "eyeHeight": 1.8,
+        "hoverHeight": 1.8
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Aerial Ace",
+              "Bite",
+              "Explosion",
+              "Fire Fang",
+              "Ice Fang",
+              "Imprison",
+              "Iron Head",
+              "Multi-Attack",
+              "Poison Fang",
+              "Scary Face",
+              "Tackle",
+              "Thunder Fang"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Double Hit"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Metal Sound"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Crush Claw"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Tri Attack"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "X-Scissor"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Take Down"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Double-Edge"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Parting Shot"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Grass Pledge",
+          "Steel Beam",
+          "Terrain Pulse"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Self-Destruct",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Steel Wing",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Facade",
+          "Swift",
+          "Imprison",
+          "U-turn",
+          "Payback",
+          "Shadow Claw",
+          "Thunder Fang",
+          "Ice Fang",
+          "Fire Fang",
+          "Round",
+          "Snarl",
+          "Air Slash"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Flamethrower",
+          "Surf",
+          "Ice Beam",
+          "Thunderbolt",
+          "Tri Attack",
+          "Substitute",
+          "Reversal",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Crunch",
+          "Shadow Ball",
+          "Heat Wave",
+          "Hyper Voice",
+          "Iron Defense",
+          "Dragon Claw",
+          "X-Scissor",
+          "Zen Headbutt",
+          "Flash Cannon",
+          "Iron Head",
+          "Work Up",
+          "Psychic Fangs"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Confide",
+          "Defog",
+          "Double Team",
+          "Flame Charge",
+          "Frustration",
+          "Heal Block",
+          "Hidden Power",
+          "Laser Focus",
+          "Last Resort",
+          "Magic Coat",
+          "Punishment",
+          "Pursuit",
+          "Rage",
+          "Razor Wind",
+          "Return",
+          "Roar",
+          "Signal Beam",
+          "Swagger",
+          "Tailwind",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Shadow Ball",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Aerial Ace",
+          "Facade",
+          "Flame Charge",
+          "Rest",
+          "Round",
+          "Steel Wing",
+          "Explosion",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Thunder Wave",
+          "Swords Dance",
+          "Rock Slide",
+          "X-Scissor",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Flash Cannon",
+          "Surf",
+          "Snarl",
+          "Confide"
+        ],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "RKSSystem"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.2,
+            "z": 0.0
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.2,
+            "z": 0.0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "specialAttack": 95,
+        "specialDefense": 95,
+        "speed": 95
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 114,
+        "baseFriendship": 70,
+        "spawnLevel": 50,
+        "spawnLevelRange": 0,
+        "spawnLocations": []
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/base/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/base/custom-mecha/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "AMORPHOUS"
+      ],
+      "types": [
+        "NORMAL"
+      ],
+      "preEvolutions": [
+        "TypeNull"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 120,
+      "weight": 100.5,
+      "catchRate": 3,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "hp": 3
+      }
+    },
+    {
+      "name": "grass",
+      "types": [
+        "GRASS"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/grass/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/grass/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/grass/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/grass/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/grass/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/grass/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/grass/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/grass/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/grass/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/grass/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fire",
+      "types": [
+        "FIRE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/fire/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fire/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/fire/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fire/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/fire/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fire/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/fire/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fire/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/fire/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fire/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "water",
+      "types": [
+        "WATER"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/water/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/water/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/water/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/water/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/water/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/water/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/water/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/water/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/water/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/water/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "flying",
+      "types": [
+        "FLYING"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/flying/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/flying/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/flying/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/flying/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/flying/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/flying/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/flying/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/flying/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/flying/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/flying/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bug",
+      "types": [
+        "BUG"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/bug/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/bug/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/bug/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/bug/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/bug/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/bug/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/bug/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/bug/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/bug/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/bug/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "poison",
+      "types": [
+        "POISON"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/poison/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/poison/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/poison/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/poison/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/poison/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/poison/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/poison/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/poison/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/poison/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/poison/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "electric",
+      "types": [
+        "ELECTRIC"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/electric/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/electric/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/electric/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/electric/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/electric/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/electric/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/electric/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/electric/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/electric/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/electric/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "psychic",
+      "types": [
+        "PSYCHIC"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/psychic/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/psychic/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/psychic/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/psychic/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/psychic/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/psychic/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/psychic/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/psychic/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/psychic/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/psychic/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rock",
+      "types": [
+        "ROCK"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/rock/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/rock/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/rock/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/rock/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/rock/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/rock/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/rock/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/rock/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/rock/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/rock/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ground",
+      "types": [
+        "GROUND"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/ground/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ground/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/ground/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ground/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/ground/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ground/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/ground/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ground/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/ground/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ground/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dark",
+      "types": [
+        "DARK"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/dark/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dark/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/dark/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dark/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/dark/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dark/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/dark/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dark/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/dark/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dark/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ghost",
+      "types": [
+        "GHOST"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/ghost/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ghost/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/ghost/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ghost/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/ghost/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ghost/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/ghost/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ghost/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/ghost/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ghost/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "steel",
+      "types": [
+        "STEEL"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/steel/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/steel/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/steel/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/steel/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/steel/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/steel/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/steel/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/steel/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/steel/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/steel/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fighting",
+      "types": [
+        "FIGHTING"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/fighting/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fighting/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/fighting/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fighting/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/fighting/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fighting/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/fighting/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fighting/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/fighting/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fighting/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ice",
+      "types": [
+        "ICE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/ice/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ice/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/ice/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ice/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/ice/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ice/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/ice/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ice/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/ice/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/ice/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "dragon",
+      "types": [
+        "DRAGON"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/dragon/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dragon/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/dragon/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dragon/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/dragon/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dragon/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/dragon/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dragon/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/dragon/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/dragon/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    },
+    {
+      "name": "fairy",
+      "types": [
+        "FAIRY"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/773_silvally/all/fairy/none/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fairy/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/773_silvally/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/773_silvally/all/fairy/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fairy/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/773_silvally/all/fairy/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fairy/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/773_silvally/all/fairy/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fairy/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mecha",
+              "texture": "pixelmon:pokemon/773_silvally/all/fairy/custom-mecha/texture.png",
+              "sprite": "pixelmon:pokemon/773_silvally/all/fairy/custom-mecha/sprite.png",
+              "particle": ""
+            },
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 7
+}

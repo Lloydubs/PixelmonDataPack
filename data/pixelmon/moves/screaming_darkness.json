@@ -1,0 +1,52 @@
+{
+    "attackIndex": 900115,
+    "attackName": "Screaming Darkness",
+    "attackType": "DARK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 40,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+{
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 20.0
+                }],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+        {
+            "minHits": 2,
+            "maxHits": 4,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        }
+    ],
+    "animations": [
+	{
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"speed": 0.7
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

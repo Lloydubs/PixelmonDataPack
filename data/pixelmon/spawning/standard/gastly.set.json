@@ -1,0 +1,544 @@
+{
+  "id": "Gastly",
+  "spawnInfos": [
+    {
+      "spec": "species:Gastly",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Gastly palette:online",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Gastly",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Gastly palette:online",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Gastly",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Gastly palette:online",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:dark",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:primal",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:oak_planks"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Gastly",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Gastly palette:online",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:dark",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:halloween 3",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Gastly palette:primal",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 8,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

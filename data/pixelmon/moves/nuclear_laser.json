@@ -1,0 +1,95 @@
+{
+    "attackIndex": 900099,
+    "attackName": "Nuclear Laser",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 130,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "percentRecoil": 25,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Recoil"
+        },
+       {
+      "type": "Poison",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Poison"
+      }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

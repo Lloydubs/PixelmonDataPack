@@ -1,0 +1,205 @@
+{
+  "id": "Golisopod",
+  "spawnInfos": [
+    {
+      "spec": "species:Golisopod",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golisopod palette:corrupt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:gold",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:purified 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golisopod palette:purified 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "id": "Ribombee",
+  "spawnInfos": [
+    {
+      "spec": "species:Ribombee",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Ribombee palette:ethereal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:valentines 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Ribombee palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

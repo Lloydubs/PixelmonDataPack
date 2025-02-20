@@ -1,0 +1,42 @@
+{
+  "attackIndex": 800009,
+  "attackName": "Splendor Blade",
+  "attackType": "DRAGON",
+  "basePower": 0,
+  "ppBase": 10,
+  "ppMax": 10,
+  "accuracy": -1,
+  "makesContact": false,
+  "effects": [
+    {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "ATTACK",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+  }
+}

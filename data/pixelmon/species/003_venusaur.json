@@ -1,0 +1,914 @@
+{
+  "name": "Venusaur",
+  "dex": 3,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 1.6,
+        "width": 2.3,
+        "length": 1,
+        "eyeHeight": 1.6,
+        "hoverHeight": 1.6
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Growth",
+              "Petal Blizzard",
+              "Petal Dance",
+              "Tackle",
+              "Vine Whip"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Leech Seed"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Razor Leaf"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Poison Powder",
+              "Sleep Powder"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Seed Bomb"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Take Down"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Sweet Scent"
+            ]
+          },
+          {
+            "level": 37,
+            "attacks": [
+              "Synthesis"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Worry Seed"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Double-Edge"
+            ]
+          },
+          {
+            "level": 58,
+            "attacks": [
+              "Solar Beam"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Frenzy Plant",
+          "Grass Pledge",
+          "Grassy Glide",
+          "Terrain Pulse"
+        ],
+        "eggMoves": [
+          "Curse",
+          "Ingrain",
+          "Nature Power",
+          "Petal Dance",
+          "Skull Bash",
+          "Toxic"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Charm",
+          "Attract",
+          "Sunny Day",
+          "Facade",
+          "Helping Hand",
+          "Weather Ball",
+          "Bullet Seed",
+          "Venoshock",
+          "Round",
+          "Bulldoze",
+          "Grassy Terrain",
+          "False Swipe",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Earthquake",
+          "Amnesia",
+          "Substitute",
+          "Sludge Bomb",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Energy Ball",
+          "Earth Power",
+          "Leaf Storm",
+          "Power Whip",
+          "Grass Knot",
+          "Work Up"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bide",
+          "Bind",
+          "Block",
+          "Captivate",
+          "Celebrate",
+          "Confide",
+          "Cut",
+          "Defense Curl",
+          "Double Team",
+          "Echoed Voice",
+          "Flash",
+          "Frustration",
+          "Fury Cutter",
+          "Grass Whistle",
+          "Headbutt",
+          "Hidden Power",
+          "Knock Off",
+          "Mega Drain",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Razor Wind",
+          "Reflect",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Sludge",
+          "Strength",
+          "String Shot",
+          "Swagger"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Roar",
+          "Toxic",
+          "Venoshock",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Energy Ball",
+          "Giga Impact",
+          "Swords Dance",
+          "Bulldoze",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Nature Power",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Roar",
+          "Toxic",
+          "Venoshock",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Energy Ball",
+          "Giga Impact",
+          "Flash",
+          "Swords Dance",
+          "Bulldoze",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Nature Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Roar",
+          "Toxic",
+          "Venoshock",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Energy Ball",
+          "Giga Impact",
+          "Flash",
+          "Swords Dance",
+          "Bulldoze",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Roar",
+          "Toxic",
+          "Bullet Seed",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Giga Drain",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Energy Ball",
+          "Endure",
+          "Giga Impact",
+          "Flash",
+          "Swords Dance",
+          "Captivate",
+          "Sleep Talk",
+          "Natural Gift",
+          "Grass Knot",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Roar",
+          "Toxic",
+          "Bullet Seed",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Giga Drain",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sludge Bomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves2": [
+          "Headbutt",
+          "Curse",
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Sweet Scent",
+          "Snore",
+          "Hyper Beam",
+          "Protect",
+          "Giga Drain",
+          "Endure",
+          "Frustration",
+          "Solar Beam",
+          "Return",
+          "Mud-Slap",
+          "Double Team",
+          "Swagger",
+          "Sleep Talk",
+          "Defense Curl",
+          "Rest",
+          "Attract",
+          "Fury Cutter"
+        ],
+        "tmMoves1": [
+          "Swords Dance",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Hyper Beam",
+          "Rage",
+          "Mega Drain",
+          "Solar Beam",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Rest",
+          "Substitute"
+        ],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Overgrow"
+        ],
+        "hiddenAbilities": [
+          "Chlorophyll"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.5,
+            "z": 0.45
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 80
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 236,
+        "baseFriendship": 70,
+        "spawnLevel": 32,
+        "spawnLevelRange": 18,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/003_venusaur/all/base/none/model.pqc"
+                ],
+                "yRotation": 24.12
+              },
+              "sounds": [
+                "pixelmon.mob.venusaur",
+                "pixelmon.mob.venusaur",
+                "pixelmon.mob.venusaur"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "zombie",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/zombie/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-christmas/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "coral reef",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-coralreef/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-coralreef/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "diamond",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-diamond/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-diamond/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-ditto/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-ditto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween2/texture.png",
+			  "emissive": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween2/emissive.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 3",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween3/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-halloween3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ice",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-ice/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-ice/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+			  "name": "oblivion",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-oblivion/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-oblivion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "pearl",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-pearl/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-pearl/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-summer1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-summer1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-summer2/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-summer2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-val/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-val/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "venomous",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-venomous/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-venomous/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-winter2/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-winter2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/base/custom-winter1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/base/custom-winter1/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "GRASS"
+      ],
+      "types": [
+        "GRASS",
+        "POISON"
+      ],
+      "preEvolutions": [
+        "Ivysaur",
+        "Bulbasaur"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+        "pixelmon:venusaurite"
+      ],
+      "megas": [
+        "mega"
+      ],
+      "gigantamax": {
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "gmax",
+        "move": "G-Max Vine Lash"
+      },
+      "eggCycles": 21,
+      "weight": 100.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 2,
+        "specialDefense": 1
+      }
+    },
+    {
+      "name": "mega",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 2.1,
+        "width": 2.3,
+        "length": 2.3
+      },
+      "abilities": {
+        "abilities": [
+          "ThickFat"
+        ]
+      },
+      "battleStats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "specialAttack": 122,
+        "specialDefense": 120,
+        "speed": 80
+      },
+      "weight": 155.5,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/003_venusaur/all/mega/none/model.pqc"
+                ],
+                "yRotation": 24.12
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-christmas/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "coral reef",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-coralreef/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-coralreef/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "diamond",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-diamond/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-diamond/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-ditto/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-ditto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween2/texture.png",
+			  "emissive": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween2/emissive.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 3",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween3/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-halloween3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ice",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-ice/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-ice/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+			  "name": "oblivion",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-oblivion/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-oblivion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "pearl",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-pearl/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-pearl/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-summer1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-summer1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-summer2/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-summer2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-val/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-val/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "venomous",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-venomous/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-venomous/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-winter2/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-winter2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/mega/custom-winter1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/mega/custom-winter1/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "gmax",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 2.1,
+        "width": 3.0,
+        "length": 3.0
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/none/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/003_venusaur/all/gmax/none/model.pqc"
+                ],
+                "yRotation": 24.12
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/custom-easter/sprite.png",
+              "particle": ""
+            },			
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/custom-halloween2/texture.png",
+			  "emissive": "pixelmon:pokemon/003_venusaur/all/gmax/custom-halloween2/emissive.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/003_venusaur/all/gmax/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/003_venusaur/all/gmax/custom-radioactive/sprite.png",
+              "particle": ""
+            }			
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 1
+}

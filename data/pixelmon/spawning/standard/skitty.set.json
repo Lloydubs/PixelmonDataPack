@@ -1,0 +1,225 @@
+{
+  "id": "Skitty",
+  "spawnInfos": [
+    {
+      "spec": "species:Skitty",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Skitty palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:insectoid",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:purified 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:purified 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Skitty palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

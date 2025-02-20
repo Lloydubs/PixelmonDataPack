@@ -1,0 +1,365 @@
+{
+  "id": "Cleffa",
+  "spawnInfos": [
+    {
+      "spec": "species:Cleffa",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Cleffa palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:toy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Cleffa palette:toy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Cleffa",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Cleffa palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:toy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cleffa palette:toy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:moon_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

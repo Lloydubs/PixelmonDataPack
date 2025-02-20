@@ -1,0 +1,375 @@
+{
+  "id": "Gastrodon",
+  "spawnInfos": [
+    {
+      "spec": "species:Gastrodon",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 8.0
+    }
+	{
+      "spec": "species:Gastrodon palette:alluring",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:aquatic",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:deep sea",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:magma",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:molten",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:oblivion",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:obscuros",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:prismatic",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Gastrodon palette:rainbow",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Gastrodon",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 15.0
+    },
+	{
+      "spec": "species:Gastrodon palette:alluring",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:aquatic",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:deep sea",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:magma",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:molten",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:oblivion",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:obscuros",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:prismatic",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    },
+	{
+      "spec": "species:Gastrodon palette:rainbow",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.5
+    }
+  ]
+}

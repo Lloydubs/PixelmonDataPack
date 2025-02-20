@@ -1,0 +1,485 @@
+{
+  "id": "Ivysaur",
+  "spawnInfos": [
+    {
+      "spec": "species:Ivysaur",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Ivysaur palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Ivysaur palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Ivysaur palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

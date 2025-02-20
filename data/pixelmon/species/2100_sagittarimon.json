@@ -1,0 +1,307 @@
+{
+  "name": "Sagittarimon",
+  "dex": 2100,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.5,
+        "length": 1.5,
+        "eyeHeight": 3.5,
+        "hoverHeight": 3.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer",
+              "Scorching Sands",
+              "Meteor Gallop",
+              "Judgement Arrow"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Return"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Mud Shot"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Dragon Pulse"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Hyperspace Hole"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Searing Shot"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Earth Power"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Clanging Scales"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Sandsear Storm"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Scale Shot"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Rock Slide",
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Thunder Punch",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Shadow Claw",
+          "Fire Fang",
+          "Round",
+          "Bulldoze",
+          "False Swipe",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Surf",
+          "Earthquake",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Hydro Pump",
+          "Focus Energy",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Dragon Claw",
+          "Poison Jab",
+          "Dragon Pulse",
+          "Earth Power",
+          "Heat Wave",
+          "Superpower",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Bug Buzz",
+          "Dragon Pulse",
+          "Earth Power",
+          "Stone Edge",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Double Team",
+          "Dragon Rage",
+          "Dragon Tail",
+          "Headbutt",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Dragon Rage",
+          "Frustration",
+          "Fury Cutter",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Hone Claws",
+          "Laser Focus",
+          "Mimic",
+          "Return",
+          "Rock Smash",
+          "Roost",
+          "Secret Power",
+          "Signal Beam",
+          "Silver Wind",
+          "Sonic Boom",
+          "Strength",
+          "Struggle Bug",
+          "Swagger",
+          "Tailwind",
+          "Toxic",
+          "Twister"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Blaze"
+        ],
+        "hiddenAbilities": [
+          "QuickFeet"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 107,
+        "attack": 89,
+        "defense": 98,
+        "specialAttack": 132,
+        "specialDefense": 93,
+        "speed": 161
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2100_sagittarimon/all/base/none/texture.png",
+              "emissive": "pixelmon:pokemon/2100_sagittarimon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2100_sagittarimon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2100_sagittarimon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2100_sagittarimon/all/base/shiny/texture.png",
+              "emissive": "pixelmon:pokemon/2100_sagittarimon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2100_sagittarimon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "DRAGON",
+        "GROUND"
+      ],
+      "preEvolutions": [
+        "Veemon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 37.4,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Veemon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
+      "evYields": {
+        "speed": 3,
+        "specialattack": 3
+      }
+    }
+  ],
+  "generation": 20
+}

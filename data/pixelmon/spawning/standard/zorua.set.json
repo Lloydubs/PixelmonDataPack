@@ -1,0 +1,384 @@
+{
+  "id": "Zorua",
+  "spawnInfos": [
+    {
+      "spec": "species:Zorua",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Zorua palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zorua palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 3.0
+    },
+    {
+      "spec": "species:Zorua form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:ice_spikes"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:ice_spikes"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:ice_spikes"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Zorua form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Zorua form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Zorua form:hisuian palette:cosmic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Zorua form:hisuian palette:witch",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": "species:Zorua form:hisuian palette:witch boss:haunted",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 120.0
+    },
+    {
+      "spec": "species:Zorua palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Veemon",
+  "spawnInfos": [
+    {
+      "spec": "species:Veemon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "stringBiomes": [
+          "minecraft:giant_tree_taiga_hills"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

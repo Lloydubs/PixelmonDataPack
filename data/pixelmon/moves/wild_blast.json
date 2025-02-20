@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900152,
+    "attackName": "Wild Blast",
+    "attackType": "FIRE",
+    "attackCategory": "SPECIAL",
+    "basePower": 50,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "RepeatDamage",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "RepeatDamage"
+    },
+    {
+      "type": "Accuracy",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

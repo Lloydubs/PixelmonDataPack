@@ -1,0 +1,415 @@
+{
+  "id": "Scyther",
+  "spawnInfos": [
+    {
+      "spec": "species:Scyther",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Scyther palette:arctic",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:heroic",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:outer worlds",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:spotted",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:valentines",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:winter 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Scyther palette:winter 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Scyther",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Scyther palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Scyther palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

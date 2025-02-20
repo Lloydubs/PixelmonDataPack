@@ -1,0 +1,1143 @@
+{
+  "id": "Honedge",
+  "spawnInfos": [
+    {
+      "spec": "species:Honedge",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:four sword",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:squad",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:sweet",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Honedge palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Honedge",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:cosmic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:four sword",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:galaxy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:glass",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:lunar",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:norse",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:outer worlds",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:poison",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:squad",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:sweet",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:toxic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Honedge",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:cosmic",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:four sword",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:galaxy",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:glass",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:lunar",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:norse",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:outer worlds",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:poison",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:squad",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:sweet",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:toxic",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Honedge",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:arkasian 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:cosmic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:ditto 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:four sword",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:galaxy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:glass",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:lunar",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:norse",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:outer worlds",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:poison",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:squad",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:sweet",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Honedge palette:toxic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 21,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

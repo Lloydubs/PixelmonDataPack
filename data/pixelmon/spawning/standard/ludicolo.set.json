@@ -1,0 +1,264 @@
+{
+  "id": "Ludicolo",
+  "spawnInfos": [
+    {
+      "spec": "species:Ludicolo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Ludicolo palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ludicolo palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ludicolo palette:fall",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ludicolo palette:fantasy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ludicolo palette:patriotic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ludicolo palette:trick or treat",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 41,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,492 @@
+
+{
+  "id": "Aurorus",
+  "spawnInfos": [
+    {
+      "spec": "species:Aurorus",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Aurorus palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:atlante",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:coralp",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:coralw",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:ditto 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:ditto 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:galaxy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:galaxy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:gemstone 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:gemstone 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:jurassic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:pirate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:snowfall",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:valentines 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Aurorus palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

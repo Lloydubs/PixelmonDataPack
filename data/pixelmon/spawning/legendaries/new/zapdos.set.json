@@ -1,0 +1,515 @@
+{
+  "id": "Zapdos",
+  "spawnInfos": [
+    {
+      "spec": "species:Zapdos level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zapdos palette:black and white level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:charged level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:crimson level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:derp 1 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:derp 2 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:egyptian level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:metal 1 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:metal 2 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:moon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:nippon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:shadow level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:tier 1 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos palette:tier 2 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:arctic level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:crimson level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:derp 1 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:derp 2 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event black level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event blue level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event gold level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event green level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event pink level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event red level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event white level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:event yellow level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:molten level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:neon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:nippon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zapdos form:galarian palette:norse level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "stringBiomes": [
+          "savannas"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

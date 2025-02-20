@@ -1,0 +1,137 @@
+{
+  "id": "Trapinch",
+  "spawnInfos": [
+    {
+      "spec": "species:Trapinch",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 170.0
+    },
+	{
+      "spec": "species:Trapinch palette:battlecast",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 17.0
+    },
+	{
+      "spec": "species:Trapinch palette:glass",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 17.0
+    },
+	{
+      "spec": "species:Trapinch palette:midnight",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 17.0
+    },
+	{
+      "spec": "species:Trapinch palette:moon",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 17.0
+    },
+	{
+      "spec": "species:Trapinch palette:sakura",
+      "stringLocationTypes": [
+        "Land",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:soft_sand",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 17.0
+    }
+  ]
+}

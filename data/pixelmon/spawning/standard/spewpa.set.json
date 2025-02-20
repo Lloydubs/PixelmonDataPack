@@ -1,0 +1,115 @@
+{
+  "id": "Spewpa",
+  "spawnInfos": [
+    {
+      "spec": "species:Spewpa",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Spewpa palette:autumn",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Spewpa palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Spewpa palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Spewpa palette:spring",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 10,
+      "maxLevel": 11,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

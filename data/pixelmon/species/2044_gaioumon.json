@@ -1,0 +1,348 @@
+{
+	"name": "Gaioumon",
+	"dex": 2044,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 4.0,
+				"width": 2.0,
+				"length": 2.0,
+				"eyeHeight": 4.0,
+				"hoverHeight": 4.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+							"Extreme Speed",
+							"Rinkazan",
+							"Rinkageki",
+							"Zen Recovery"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Ember"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Smokescreen"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Flame Wheel"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Slash"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Scary Face"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Take Down"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Barage"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Head Smash"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Drain Punch"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Sacred Sword"
+						]
+					},
+					{
+						"level": 54,
+						"attacks": [
+							"Close Combat"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Thunder Punch",
+					"Fire Spin",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Focus Punch",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"LongReach"
+				],
+				"hiddenAbilities": [
+					"Moxie"
+				]
+			},
+			"movement": {
+				"rideable": true,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 131,
+				"attack": 155,
+				"defense": 108,
+				"specialAttack": 93,
+				"specialDefense": 102,
+				"speed": 91
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 220,
+				"baseFriendship": 70,
+				"spawnLevel": 48,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2044_gaioumon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2044_gaioumon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2044_gaioumon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2044_gaioumon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2044_gaioumon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2044_gaioumon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2044_gaioumon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"FIGHTING",
+				"NORMAL"
+			],
+			"preEvolutions": [
+				"MasterTyrannomon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": true,
+				"canGigantamax": true,
+				"form": "Fierce Blade Mode",
+				"move": "Binding Whirlwind"
+			},
+			"eggCycles": 21,
+			"weight": 65.5,
+			"catchRate": 50,
+			"malePercentage": -1,
+			"evolutions": [],
+			"evYields": {
+				"attack": 3,
+				"hp": 3
+			}
+		},
+		{
+			"name": "Fierce Blade Mode",
+			"tags": [
+				"temp"
+			],
+			"types": [
+				"FIGHTING",
+				"DARK"
+			],
+			"weight": 80.5,
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2044_gaioumon/all/fierce/none/texture.png",
+							"emissive": "pixelmon:pokemon/2044_gaioumon/all/fierce/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2044_gaioumon/all/fierce/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2044_gaioumon/all/fierce/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2044_gaioumon/all/fierce/shiny/texture.png",
+							"emissive": "pixelmon:pokemon/2044_gaioumon/all/fierce/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2044_gaioumon/all/fierce/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			]
+		}
+	],
+	"generation": 20
+}

@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900122,
+    "attackName": "Shining Gold Solar Storm",
+    "attackType": "NORMAL",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Flee"
+    }
+    ],
+    "animations": [
+                 {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 235, 46],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

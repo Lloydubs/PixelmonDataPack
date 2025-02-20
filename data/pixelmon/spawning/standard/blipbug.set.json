@@ -1,0 +1,153 @@
+{
+  "id": "Blipbug",
+  "spawnInfos": [
+    {
+      "spec": "species:Blipbug",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Blipbug palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Blipbug palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Blipbug palette:spring",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Blipbug",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Blipbug palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Blipbug palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Blipbug palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 9,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+    "attackIndex": 900102,
+    "attackName": "Phantom Pain",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "damage": 200,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "DoSetDamage"
+    },
+    {
+      "type": "Poison",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Poison"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

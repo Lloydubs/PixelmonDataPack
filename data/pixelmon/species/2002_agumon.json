@@ -1,0 +1,316 @@
+{
+	"name": "Agumon",
+	"dex": 2002,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 1.1,
+				"width": 1.1,
+				"length": 1,
+				"eyeHeight": 1.1,
+				"hoverHeight": 1.1
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Ember"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Smokescreen"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Bite"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Slash"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Scary Face"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Fire Spin"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Inferno"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Flare Blitz"
+						]
+					}
+				],
+				"tutorMoves": [
+					"Fire Pledge"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Thunder Punch",
+					"Fire Spin",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Focus Punch",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"Blaze"
+				],
+				"hiddenAbilities": [
+					"SolarPower"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 56,
+				"attack": 80,
+				"defense": 50,
+				"specialAttack": 72,
+				"specialDefense": 50,
+				"speed": 72
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 5,
+				"spawnLevelRange": 2,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2002_agumon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2002_agumon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2002_agumon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2002_agumon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2002_agumon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2002_agumon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2002_agumon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"FIRE"
+			],
+			"preEvolutions": [],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 16.5,
+			"catchRate": 100,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 20,
+					"to": "Geogreymon",
+					"conditions": [
+						{
+							"biomes": [
+								"minecraft:wooded_mountains",
+								"minecraft:taiga_mountains",
+								"minecraft:snowy_taiga_mountains",
+								"minecraft:mountains"
+							],
+							"evoConditionType": "biome"
+						}
+					],
+					"evoType": "leveling",
+					"moves": [
+						"Smack Down"
+					]
+				},
+				{
+					"level": 20,
+					"to": "Greymon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Flame Wheel"
+
+					]
+				}
+			],
+			"evYields": {
+				"attack": 1
+			}
+		}
+	],
+	"generation": 20
+}

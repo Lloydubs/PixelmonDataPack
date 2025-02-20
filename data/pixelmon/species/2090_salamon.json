@@ -1,0 +1,364 @@
+{
+   "name": "Salamon",
+   "dex": 2090,
+   "defaultForms": [
+      ""
+   ],
+   "forms": [
+      {
+         "name": "",
+         "experienceGroup": "MEDIUM_SLOW",
+         "dimensions": {
+            "height": 1.1,
+            "width": 1.1,
+            "length": 1,
+            "eyeHeight": 1.1,
+            "hoverHeight": 1.1
+         },
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Sweet Kiss"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Pound"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Fairy Wind"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Heart Stamp"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Return"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Tail Slap"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Acrobatics"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Fly"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level": 45,
+                  "attacks": [
+                     "Psycho Cut"
+                  ]
+               },
+               {
+                  "level": 50,
+                  "attacks": [
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level": 55,
+                  "attacks": [
+                     "Sunsteel Strike"
+                  ]
+               }
+            ],
+            "tutorMoves": [
+               "Calm Mind",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Giga Impact",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves": [],
+            "tmMoves8": [
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Giga Impact",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Attract",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+               "Assurance",
+               "Round",
+               "Retaliate",
+               "Draining Kiss",
+               "Mystical Fire",
+               "Air Slash",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves": [
+               "Body Slam",
+               "Flamethrower",
+               "Psychic",
+               "Metronome",
+               "Fire Blast",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Hyper Voice",
+               "Aura Sphere",
+               "Nasty Plot",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Rollout",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "RunAway"
+            ],
+            "hiddenAbilities": [
+               "Rattled"
+            ]
+         },
+         "movement": {
+            "rideable": false,
+            "canFly": false,
+            "canSurf": false,
+            "canRideShoulder": false
+         },
+         "aggression": {
+            "timid": 80,
+            "passive": 0,
+            "aggressive": 20
+         },
+         "battleStats": {
+            "hp": 68,
+            "attack": 65,
+            "defense": 60,
+            "specialAttack": 65,
+            "specialDefense": 60,
+            "speed": 62
+         },
+         "tags": [
+            "legendary"
+         ],
+         "spawn": {
+            "baseExp": 102,
+            "baseFriendship": 70,
+            "spawnLevel": 5,
+            "spawnLevelRange": 2,
+            "spawnLocations": [
+               "LAND"
+            ]
+         },
+         "possibleGenders": [
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties": [
+            {
+               "gender": "ALL",
+               "palettes": [
+                  {
+                     "name": "none",
+                     "texture": "pixelmon:pokemon/2090_salamon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2090_salamon/all/base/none/emissive.png",
+                     "sprite": "pixelmon:pokemon/2090_salamon/all/base/none/sprite.png",
+                     "particle": "",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2090_salamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name": "shiny",
+                     "texture": "pixelmon:pokemon/2090_salamon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2090_salamon/all/base/shiny/emissive.png",
+                     "sprite": "pixelmon:pokemon/2090_salamon/all/base/shiny/sprite.png",
+                     "particle": "arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups": [
+            "UNDISCOVERED"
+         ],
+         "types": [
+            "NORMAL"
+         ],
+         "preEvolutions": [],
+         "defaultBaseForm": "",
+         "megaItems": [],
+         "megas": [],
+         "gigantamax": {
+            "canHaveFactor": false,
+            "canGigantamax": false
+         },
+         "eggCycles": 21,
+         "weight": 13.4,
+         "catchRate": 100,
+         "malePercentage": -1,
+         "evolutions": [
+            {
+               "level": 20,
+               "to": "BlackGatomon",
+               "conditions": [
+                  {
+                     "time": "NIGHT",
+                     "evoConditionType": "time"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Echoed Voice"
+               ]
+            },
+            {
+               "level": 20,
+               "to": "Gatomon",
+               "conditions": [],
+               "evoType": "leveling",
+               "moves": [
+                  "Covet"
+
+               ]
+            }
+         ],
+         "evYields": {
+            "hp": 1
+         }
+      }
+   ],
+   "generation": 20
+}

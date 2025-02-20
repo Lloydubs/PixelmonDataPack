@@ -1,0 +1,331 @@
+{
+   "name":"Tsukaimon",
+   "dex":2135,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":0.8,
+            "width":1.0,
+            "length":0.5,
+            "eyeHeight":0.8,
+            "hoverHeight":0.8
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Tackle"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Pound"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Peck"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Bite"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Shadow Sneak"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Assurance"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Cross Poison"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Ceaseless Edge"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Poison Jab"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Darkest Lariat"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Psychic Fangs"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Gunk Shot"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Dual Wingbeat",
+               "Expanding Force",
+               "Earth Power",
+               "Burning Jealousy",
+               "Corrosive Gas",
+               "Lash Out",
+               "Skitter Smack",
+               "Dual Wingbeat",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Hyper Beam",
+               "Giga Impact",
+               "Dig",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Snore",
+               "Protect",
+               "Scary Face",
+               "Fire Spin",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Fling",
+               "Thunder Fang",
+               "Ice Fang",
+               "Fire Fang",
+               "Cross Poison",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Power Swap",
+               "Guard Swap",
+               "Round",
+               "Retaliate",
+               "Magic Room",
+               "Round",
+               "Air Slash",
+               "Trick Room",
+               "False Swipe",
+               "Brutal Swing",
+               "Stomping Tantrum"
+            ],
+            "trMoves":[
+               "Swords Dance",
+               "Earthquake",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Sludge Bomb",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Crunch",
+               "Shadow Ball",
+               "Taunt",
+               "Iron Tail",
+               "Crunch",
+               "Shadow Ball",
+               "Taunt",
+               "Poison Jab",
+               "Dark Pulse",
+               "Nasty Plot",
+               "Foul Play",
+               "Play Rough",
+               "Venom Drench",
+               "Future Sight",
+               "Heat Wave",
+               "Trick",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "KeenEye"
+            ],
+            "hiddenAbilities":[
+               "ThickFat"
+            ]
+         },
+         "movement":{
+            "rideable":false,
+            "canFly":false,
+            "canSurf":false,
+            "canRideShoulder":false
+         },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":83,
+            "attack":75,
+            "defense":65,
+            "specialAttack":50,
+            "specialDefense":65,
+            "speed":42
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":5,
+            "spawnLevelRange":2,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2135_tsukaimon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2135_tsukaimon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2135_tsukaimon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2135_tsukaimon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2135_tsukaimon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2135_tsukaimon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2135_tsukaimon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "NORMAL"
+         ],
+         "preEvolutions":[
+            
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":14.8,
+         "catchRate":100,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "level":20,
+               "to":"Vilemon",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Poison Fang"
+               ]
+            }
+         ],
+         "evYields":{
+            "hp":1
+         }
+      }
+   ],
+   "generation":20
+}

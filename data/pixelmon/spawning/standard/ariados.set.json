@@ -1,0 +1,412 @@
+{
+  "id": "Ariados",
+  "spawnInfos": [
+    {
+      "spec": "species:Ariados",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Ariados palette:animalistic",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:hero 1",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:hero 2",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:otaku",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:shadow 1",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:shadow 2",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:terror",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Ariados",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Ariados palette:animalistic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:hero 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:hero 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:otaku",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:shadow 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:shadow 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Ariados palette:terror",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 22,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

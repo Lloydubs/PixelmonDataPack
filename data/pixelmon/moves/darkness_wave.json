@@ -1,0 +1,72 @@
+{
+    "attackIndex": 900030,
+    "attackName": "Darkness Wave",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 110,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FoulPlay"
+    },
+    {
+      "type": "PoisonBadly",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "PoisonBadly"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"conical": false,
+				"rgb": [178, 102, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

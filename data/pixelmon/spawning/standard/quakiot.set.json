@@ -1,0 +1,25 @@
+{
+  "id": "Quakiot",
+  "spawnInfos": [
+    {
+      "spec": "species:Quakiot",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

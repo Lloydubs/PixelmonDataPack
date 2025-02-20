@@ -1,0 +1,336 @@
+{
+	"name": "Groundramon",
+	"dex": 2031,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 5.0,
+				"width": 4.0,
+				"length": 4.0,
+				"eyeHeight": 5.0,
+				"hoverHeight": 5.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+							"Bulldoze",
+							"Megaton Hammer Crush"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Ember"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Smokescreen"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Sand Attack"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Slash"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Pluck"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Twister"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Acrobatics"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Earth Power"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Dragon Claw"
+						]
+					},
+					{
+						"level": 54,
+						"attacks": [
+							"Thunder"
+						]
+					},
+					{
+						"level": 60,
+						"attacks": [
+							"Zap Cannon"
+						]
+					},
+					{
+						"level": 56,
+						"attacks": [
+							"Sacred Sword"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Thunder Punch",
+					"Fire Spin",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Focus Punch",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"SandSpit"
+				],
+				"hiddenAbilities": [
+					"SolidRock"
+				]
+			},
+			"movement": {
+				"rideable": true,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.0,
+						"y": 0.5,
+						"z": 0.0
+					},
+					"moving": {
+						"x": 0,
+						"y": 0,
+						"z": 3
+					}
+				}
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 103,
+				"attack": 81,
+				"defense": 108,
+				"specialAttack": 81,
+				"specialDefense": 108,
+				"speed": 79
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 220,
+				"baseFriendship": 70,
+				"spawnLevel": 32,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2031_groundramon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2031_groundramon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2031_groundramon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2031_groundramon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2031_groundramon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2031_groundramon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2031_groundramon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"DRAGON",
+				"GROUND"
+			],
+			"preEvolutions": [
+				"CoredramonGreen"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 36.5,
+			"catchRate": 50,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "Breakdramon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Earthquake",
+						"Destroyed Rush",
+						"Gravity Crush"
+					]
+				}
+			],
+			"evYields": {
+				"defense": 2,
+				"Specialdefense": 2
+			}
+		}
+	],
+	"generation": 20
+}

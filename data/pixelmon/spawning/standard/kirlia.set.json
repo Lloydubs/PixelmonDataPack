@@ -1,0 +1,289 @@
+{
+  "id": "Kirlia",
+  "spawnInfos": [
+    {
+      "spec": "species:Kirlia",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Kirlia palette:akuma",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Kirlia palette:cheongsam",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Kirlia palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Kirlia palette:shadow 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Kirlia palette:shadow 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Kirlia palette:spring",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Kirlia",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Kirlia palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Kirlia palette:cheongsam",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Kirlia palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Kirlia palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Kirlia palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Kirlia palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Kirlia palette:strike",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

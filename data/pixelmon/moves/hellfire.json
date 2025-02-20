@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900075,
+    "attackName": "Hellfire",
+    "attackType": "PSYCHIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 15,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+        {
+            "minHits": 5,
+            "maxHits": 9,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PhotonGeyser"
+    }
+          ],
+    "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "BEAM",
+          "texture": "FLAME",
+          "power": -40,
+          "scale": 0.15,
+          "segments": 10,
+          "speed": 0.6
+        }
+      }
+    }
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

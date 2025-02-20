@@ -1,0 +1,1030 @@
+{
+  "id": "Charizard",
+  "spawnInfos": [
+    {
+      "spec": "species:Charizard",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Charizard palette:anubis",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:aquatic 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:aquatic 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:blood",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:cosmic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:deep sea",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:ditto",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:easter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:easter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:gembound",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:irradiated",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:rgb",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:skeletal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Charizard",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Charizard palette:anubis",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:aquatic 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:aquatic 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:blood",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:cosmic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:deep sea",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:ditto",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:easter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:easter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:gembound",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:irradiated",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:rgb",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:skeletal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charizard palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

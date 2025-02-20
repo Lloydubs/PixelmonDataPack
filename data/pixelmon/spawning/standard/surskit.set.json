@@ -1,0 +1,71 @@
+{
+  "id": "Surskit",
+  "spawnInfos": [
+    {
+      "spec": "species:Surskit",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Surskit palette:arctic",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Surskit palette:octorock",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

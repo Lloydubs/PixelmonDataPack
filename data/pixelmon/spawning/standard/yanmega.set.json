@@ -1,0 +1,179 @@
+{
+  "id": "Yanmega",
+  "spawnInfos": [
+    {
+      "spec": "species:Yanmega",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Yanmega palette:aquatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Yanmega palette:arctic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Yanmega palette:black and white",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Yanmega palette:dark",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Yanmega palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

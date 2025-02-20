@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900128,
+    "attackName": "Anima",
+    "attackType": "DRAGON",
+    "attackCategory": "SPECIAL",
+    "basePower": 135,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FlyingPress"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Eruption"
+    }
+    ],
+    "animations": [
+	{
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"speed": 0.7
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

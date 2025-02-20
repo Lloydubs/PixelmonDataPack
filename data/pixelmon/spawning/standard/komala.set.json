@@ -1,0 +1,100 @@
+{
+  "id": "Komala",
+  "spawnInfos": [
+    {
+      "spec": "species:Komala",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Komala palette:australia 1",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Komala palette:australia 2",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Komala palette:halloween",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Komala palette:valentines",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 15,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

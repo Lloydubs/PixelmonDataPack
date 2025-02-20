@@ -1,0 +1,1314 @@
+{
+  "id": "Doublade",
+  "spawnInfos": [
+    {
+      "spec": "species:Doublade",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },{
+      "spec": "species:Doublade palette:ganon blade",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:squad",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:sweet",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Doublade",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:cosmic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:galaxy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ganon blade",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:glass",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:lunar",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:norse",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:outer worlds",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:poison",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:squad",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:sweet",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toxic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Doublade palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Doublade",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:cosmic",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:galaxy",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ganon blade",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:glass",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:lunar",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:norse",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:outer worlds",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:poison",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:squad",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:sweet",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toxic",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toy",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Doublade",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:arkasian 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:cosmic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ditto 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:galaxy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:ganon blade",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:glass",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:lunar",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:norse",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:outer worlds",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:poison",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:squad",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:sweet",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toxic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Doublade palette:toy",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 36,
+      "maxLevel": 49,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:land_chalice"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

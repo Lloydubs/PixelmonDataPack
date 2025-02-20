@@ -1,0 +1,48 @@
+{
+    "attackIndex": 900041,
+    "attackName": "Eden's Javelin",
+    "attackType": "flying",
+    "attackCategory": "PHYSICAL",
+    "basePower": 80,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "TopsyTurvy"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Conversion"
+    }
+    ],
+    "animations": [
+                 {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

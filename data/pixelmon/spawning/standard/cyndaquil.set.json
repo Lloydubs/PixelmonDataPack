@@ -1,0 +1,365 @@
+{
+  "id": "Cyndaquil",
+  "spawnInfos": [
+    {
+      "spec": "species:Cyndaquil",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:faceless 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:faceless 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Cyndaquil",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:faceless 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:faceless 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Cyndaquil palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

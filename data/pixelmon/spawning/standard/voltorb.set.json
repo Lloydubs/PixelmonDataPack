@@ -1,0 +1,371 @@
+{
+  "id": "Voltorb",
+  "spawnInfos": [
+    {
+      "spec": "species:Voltorb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Voltorb palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:toy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Voltorb palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Voltorb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Voltorb palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:toy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Voltorb palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Voltorb form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Voltorb form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 50.0
+    }
+  ]
+}

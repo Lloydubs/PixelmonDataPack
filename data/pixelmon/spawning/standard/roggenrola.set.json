@@ -1,0 +1,429 @@
+{
+  "id": "Roggenrola",
+  "spawnInfos": [
+    {
+      "spec": "species:Roggenrola",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gem 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gem 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gemstone 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gemstone 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:ice",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Roggenrola palette:rising sun",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Roggenrola",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gem 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gem 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gemstone 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:gemstone 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:halloween",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:ice",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Roggenrola palette:rising sun",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 7,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:ever_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 13.0
+    }
+  ]
+}

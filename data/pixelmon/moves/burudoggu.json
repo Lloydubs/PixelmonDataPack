@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900020,
+    "attackName": "Burudoggu",
+    "attackType": "GHOST",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "RaiseStats"
+    },
+    {
+      "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 33.3
+                }
+      ],
+      "persists": false,
+      "effectTypeID": "RaiseStats"
+    }],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": false,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

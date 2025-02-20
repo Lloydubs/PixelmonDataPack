@@ -1,0 +1,116 @@
+{
+    "attackIndex": 900119,
+    "attackName": "Seven's Fantasia",
+    "attackType": "PSYCHIC",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "TrickRoom",
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "TrickRoom"
+        },
+    {
+      "type": "ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPECIAL_ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+   {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [148, 0, 211],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [75, 0, 130],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 255],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 255, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 127, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"30": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": false,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

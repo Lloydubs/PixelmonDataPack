@@ -1,0 +1,341 @@
+{
+  "id": "Baltoy",
+  "spawnInfos": [
+    {
+      "spec": "species:Baltoy",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Baltoy palette:egyptian",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Baltoy palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Baltoy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Baltoy palette:egyptian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Baltoy palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 20,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

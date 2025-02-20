@@ -1,0 +1,325 @@
+{
+  "id": "Spectrier",
+  "spawnInfos": [
+    {
+      "spec": "species:Spectrier level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Spectrier palette:akuma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:christmas level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:easter level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:gamma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:halloween 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:halloween 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:halloween 3 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:meadownian 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:meadownian 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:river level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:skeletal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:sunshine 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Spectrier palette:sunshine 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

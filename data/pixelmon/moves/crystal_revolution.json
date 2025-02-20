@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900024,
+    "attackName": "Crystal Revolution",
+    "attackType": "GHOST",
+    "attackCategory": "PHYSICAL",
+    "basePower": 80,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Freeze",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 50.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Freeze"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

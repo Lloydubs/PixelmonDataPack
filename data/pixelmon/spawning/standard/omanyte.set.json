@@ -1,0 +1,149 @@
+{
+  "id": "Omanyte",
+  "spawnInfos": [
+    {
+      "spec": "species:Omanyte",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Omanyte palette:aether",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:anubis",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:atlante",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:beta",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:gemstone 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:gemstone 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omanyte palette:glass",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

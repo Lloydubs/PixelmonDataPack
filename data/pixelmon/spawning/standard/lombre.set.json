@@ -1,0 +1,190 @@
+{
+  "id": "Lombre",
+  "spawnInfos": [
+    {
+      "spec": "species:Lombre",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomeoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Lombre palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomeoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lombre palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomeoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lombre palette:fall",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomeoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Lombre palette:trick or treat",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomeoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.8
+    }
+  ]
+}

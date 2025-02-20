@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900118,
+    "attackName": "Bao Yu",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 30,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    },
+     {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    }   
+  ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 102],
+				"scale": 0.5
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

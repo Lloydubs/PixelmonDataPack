@@ -1,0 +1,330 @@
+{
+	"name": "Phantomon",
+	"dex": 2057,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 3.0,
+				"width": 2.0,
+				"length": 2.0,
+				"eyeHeight": 3.0,
+				"hoverHeight": 3.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+							"Astonish",
+							"Words of Death"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Shadow Sneak"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Confuse Ray"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Quick Attack"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Payback"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Crunch"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Confusion"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Hex"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Luster Purge"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Psychic"
+						]
+					},
+					{
+						"level": 45,
+						"attacks": [
+							"Shadow Ball"
+						]
+					},
+					{
+						"level": 52,
+						"attacks": [
+							"Psystrike"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Hyper Beam",
+					"Giga Impact",
+					"Magical Leaf",
+					"Solar Beam",
+					"Dig",
+					"Reflect",
+					"Safeguard",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Icy Wind",
+					"Attract",
+					"Rain Dance",
+					"Sunny Day",
+					"Will-O-Wisp",
+					"Facade",
+					"Helping Hand",
+					"Brick Break",
+					"Imprison",
+					"Rock Tomb",
+					"Payback",
+					"Fling",
+					"Drain Punch",
+					"Shadow Claw",
+					"Wonder Room",
+					"Low Sweep",
+					"Trick Room",
+					"Round",
+					"Hex",
+					"Bulldoze",
+					"Phantom Force",
+					"Brutal Swing"
+				],
+				"trMoves": [
+					"Earthquake",
+					"Psychic",
+					"Substitute",
+					"Endure",
+					"Sleep Talk",
+					"Shadow Ball",
+					"Trick",
+					"Crunch",
+					"Encore",
+					"Dark Pulse",
+					"Overheat",
+					"Dragon Claw",
+					"Zen Headbutt",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up",
+					"Iron Tail",
+					"Poison Jab",
+					"Dazzling Gleam",
+					"Energy Ball",
+					"Leaf Storm",
+					"Grass Knot",
+					"Foul Play",
+					"Ally Switch"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Captivate",
+					"Confide",
+					"Counter",
+					"Cut",
+					"Double Team",
+					"Double-Edge",
+					"Dream Eater",
+					"Dynamic Punch",
+					"Embargo",
+					"Feint Attack",
+					"Flash",
+					"Focus Punch",
+					"Foresight",
+					"Frustration",
+					"Fury Cutter",
+					"Gravity",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Incinerate",
+					"Magic Coat",
+					"Mimic",
+					"Moonlight",
+					"Mud-Slap",
+					"Natural Gift",
+					"Nightmare",
+					"Octazooka",
+					"Ominous Wind",
+					"Pain Split",
+					"Power-Up Punch",
+					"Psych Up",
+					"Punishment",
+					"Return",
+					"Rock Smash",
+					"Role Play",
+					"Secret Power",
+					"Seismic Toss",
+					"Shock Wave",
+					"Signal Beam",
+					"Snatch",
+					"Spite",
+					"Swagger",
+					"Telekinesis",
+					"Tickle",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"CursedBody"
+				],
+				"hiddenAbilities": [
+					"Illusion"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": true,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 98,
+				"attack": 94,
+				"defense": 86,
+				"specialAttack": 114,
+				"specialDefense": 81,
+				"speed": 87
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 220,
+				"baseFriendship": 70,
+				"spawnLevel": 32,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2057_phantomon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2057_phantomon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2057_phantomon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2057_phantomon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2057_phantomon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2057_phantomon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2057_phantomon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"GHOST",
+				"PSYCHIC"
+			],
+			"preEvolutions": [
+				"Soulmon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 17.0,
+			"catchRate": 50,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "Daemon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Nasty Plot",
+						"Double Dust",
+						"Slash Nail"
+						
+
+					]
+				}
+			],
+			"evYields": {
+				"SpecialAttack": 2,
+				"Attack": 2,
+				"HP": 1
+			}
+		}
+	],
+	"generation": 20
+}

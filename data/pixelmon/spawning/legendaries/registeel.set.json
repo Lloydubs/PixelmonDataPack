@@ -1,0 +1,181 @@
+{
+  "id": "Registeel",
+  "spawnInfos": [
+    {
+      "spec": "species:Registeel level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Registeel palette:christmas level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:crimson level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:hero 1 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:hero 2 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:mecha level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:samurai level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Registeel palette:steampunk level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    }
+  ]
+}

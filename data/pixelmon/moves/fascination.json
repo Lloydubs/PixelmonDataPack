@@ -1,0 +1,74 @@
+{
+    "attackIndex": 900125,
+    "attackName": "Fascination",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 60,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 70,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Taunt",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Taunt"
+    },
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    },
+    {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+    ],
+    "animations": [
+        {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 255]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 255]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"conical": false,
+				"rgb": [255, 51, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 255]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [255, 51, 255]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

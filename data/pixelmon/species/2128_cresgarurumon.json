@@ -1,0 +1,323 @@
+{
+	"name": "CresGarurumon",
+	"dex": 2128,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 3.2,
+			"width": 1.8,
+			"length": 1.4,
+			"eyeHeight": 3.2,
+			"hoverHeight": 3.2
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch",
+                                                "Circle Moon Kick",
+                                                "Beast Cyclone",
+                                                "Fury: Ice Moon Fang",
+					"Behemoth Blade"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Mist"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Icy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Bite"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Aurora Beam"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Glaciate"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"High Jump Kick"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Volt Switch"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Flash Cannon"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Icicle Spear",
+                                                "Arm Thrust"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Rock Blast",
+                                                "Precipice Blades"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Zap Cannon",
+          "Steel Beam",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Ice Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Rock Blast",
+          "Payback",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Avalanche",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Snarl",
+          "Smart Strike",
+          "Stomping Tantrum",
+          "Retaliate"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Substitute",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Ice Beam",
+          "Blizzard",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Iron Defense",
+          "Close Combat",
+          "Heavy Slam",
+          "High Horsepower",
+          "Throat Chop",
+          "Body Press",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Stored Power",
+          "Work Up"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Technician"
+			],
+			"hiddenAbilities": [
+				"SkillLink"
+			]
+		},
+		"movement": {
+			"rideable": false,
+			"canFly": false,
+			"canSurf": false,
+			"canRideShoulder": false
+		},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 94,
+			"attack": 140,
+			"defense":103,
+			"specialAttack": 95,
+			"specialDefense": 97,
+			"speed": 151
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 220,
+			"baseFriendship": 70,
+			"spawnLevel": 45,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2128_cresgarurumon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2128_cresgarurumon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2128_cresgarurumon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2128_cresgarurumon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2128_cresgarurumon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2128_cresgarurumon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2128_cresgarurumon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"ICE",
+                        "FIGHTING"
+		],
+		"preEvolutions": [ "WereGarurumon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [
+                             ],
+		"megas": [
+                         ],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 37.8,
+		"catchRate": 10,
+		"malePercentage": -1,
+		"evolutions": [{
+                                "with": "BlitzGreymon",
+                                "to": "OmegamonAlterS",
+                                "conditions": [],
+                                "evoType": "trade",
+				"moves": [
+                                                "Supreme Sword",
+                                                "Transcendent Cannon"
+                                         ]
+                        },
+                        {
+          "to": "OmegamonAlterS ",
+          "conditions": [
+            {
+              "withPokemon": [
+                "BlitzGreymon"
+              ],
+              "withTypes": [],
+              "evoConditionType": "party"
+              },
+              {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+              }
+          ],
+          "evoType": "leveling",
+				"moves": [
+                                                "Supreme Sword",
+                                                "Transcendent Cannon"
+                                         ]
+        }
+		],
+		"evYields": {
+			"defense": 2,
+                        "attack":3,
+                        "speed":3
+		}
+	}
+  ],
+	"generation": 20
+}

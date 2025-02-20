@@ -1,0 +1,159 @@
+{
+  "id": "Vanillite",
+  "spawnInfos": [
+    {
+      "spec": "species:Vanillite",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Vanillite palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vanillite palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vanillite palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vanillite palette:summer 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vanillite palette:summer 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vanillite palette:sweet",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 20,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

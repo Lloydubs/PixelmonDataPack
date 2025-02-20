@@ -1,0 +1,305 @@
+{
+  "id": "Noibat",
+  "spawnInfos": [
+    {
+      "spec": "species:Noibat",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Noibat palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Noibat palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Noibat palette:dark galaxy",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Noibat palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Noibat palette:summer",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Noibat",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Noibat palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Noibat palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Noibat palette:dark galaxy",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Noibat palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Noibat palette:summer",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Noibat",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Noibat palette:animalistic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noibat palette:battlecast",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noibat palette:dark galaxy",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noibat palette:radioactive",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noibat palette:summer",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 31,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    }
+  ]
+}

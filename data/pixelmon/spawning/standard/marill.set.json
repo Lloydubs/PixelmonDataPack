@@ -1,0 +1,283 @@
+{
+  "id": "Marill",
+  "spawnInfos": [
+    {
+      "spec": "species:Marill",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Marill palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:easter 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Marill palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Marill palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

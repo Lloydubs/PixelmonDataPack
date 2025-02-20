@@ -1,0 +1,31 @@
+{
+  "id": "Biyomon",
+  "spawnInfos": [
+    {
+      "spec": "species:Biyomon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "minecraft:wooded_hills",
+          "biomesoplenty:forested_fields",
+          "byg:dacite_ridges"
+        ]
+      },
+      "rarity": 0.75
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "Uxie",
+  "spawnInfos": [
+    {
+      "spec": "species:Uxie level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Uxie palette:blood level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Uxie palette:crimson level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Uxie palette:halloween level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Uxie palette:hero level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

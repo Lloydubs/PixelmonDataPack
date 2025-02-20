@@ -1,0 +1,41 @@
+{
+    "attackIndex": 900001,
+    "attackName": "Absolute Territory",
+    "attackType": "GRASS",
+    "attackCategory": "PHYSICAL",
+    "basePower": 55,
+    "ppBase": 12,
+    "ppMax": 16,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "langStart": "pixelmon.status.grassyterrain",
+            "langEnd": "pixelmon.status.grassyterrainend",
+            "type": "GrassyTerrain",
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "GrassyTerrain"
+        },
+        {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

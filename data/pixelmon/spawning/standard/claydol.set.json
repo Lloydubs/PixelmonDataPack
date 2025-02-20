@@ -1,0 +1,497 @@
+{
+  "id": "Claydol",
+  "spawnInfos": [
+    {
+      "spec": "species:Claydol",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Claydol palette:akuma",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:egyptian",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:naruto",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:norse",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:relic castle",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Claydol",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Claydol palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:egyptian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:naruto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:relic castle",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Claydol palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_midlands",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:cryptic_wastes",
+          "nullscape:void_barrens",
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Claydol palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

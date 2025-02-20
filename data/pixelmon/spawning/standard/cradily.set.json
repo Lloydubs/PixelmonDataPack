@@ -1,0 +1,77 @@
+{
+  "id": "Cradily",
+  "spawnInfos": [
+    {
+      "spec": "species:Cradily",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Cradily palette:deep sea",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Cradily palette:forest",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Cradily palette:halloween",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

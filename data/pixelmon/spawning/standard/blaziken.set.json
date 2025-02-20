@@ -1,0 +1,203 @@
+{
+  "id": "Blaziken",
+  "spawnInfos": [
+    {
+      "spec": "species:Blaziken",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Blaziken palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:egyptian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:gold",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Blaziken palette:venomous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

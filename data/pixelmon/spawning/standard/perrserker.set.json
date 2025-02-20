@@ -1,0 +1,113 @@
+{
+  "id": "Perrserker",
+  "spawnInfos": [
+    {
+      "spec": "species:Perrserker",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:quick_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:snowy_plains",
+          "#pixelmon:spawning/freezing_mountains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_snowy"
+            ]
+          }
+        }
+      ],
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Perrserker palette:christmas 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:quick_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:snowy_plains",
+          "#pixelmon:spawning/freezing_mountains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_snowy"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Perrserker palette:christmas 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:quick_claw",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:snowy_plains",
+          "#pixelmon:spawning/freezing_mountains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_snowy"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    }
+  ]
+}

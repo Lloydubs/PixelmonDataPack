@@ -1,0 +1,95 @@
+{
+  "id": "Mienshao",
+  "spawnInfos": [
+    {
+      "spec": "species:Mienshao",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Mienshao palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Mienshao palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Mienshao palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Mienshao palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 24,
+      "maxLevel": 51,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.9
+    }
+  ]
+}

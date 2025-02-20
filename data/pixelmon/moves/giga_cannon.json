@@ -1,0 +1,89 @@
+{
+    "attackIndex": 900065,
+    "attackName": "Giga Cannon",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 200,
+    "ppBase": 10,
+    "ppMax": 18,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 249, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 249, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 249, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 249, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 249, 51],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

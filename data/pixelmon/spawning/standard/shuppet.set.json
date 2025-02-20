@@ -1,0 +1,345 @@
+{
+  "id": "Shuppet",
+  "spawnInfos": [
+    {
+      "spec": "species:Shuppet",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_plains"
+            ]
+          }
+        }
+      ],
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_plains"
+            ]
+          }
+        }
+      ],
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_plains"
+            ]
+          }
+        }
+      ],
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_plains"
+            ]
+          }
+        }
+      ],
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "structures": [
+              "minecraft:village_plains"
+            ]
+          }
+        }
+      ],
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Shuppet",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:halloween 3",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuppet palette:shadow",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:spell_tag",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Shuppet palette:witch",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 130.0
+    },
+    {
+      "spec": "species:Shuppet palette:witch boss:haunted",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "minLevel": 15,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 160.0
+    }
+  ]
+}

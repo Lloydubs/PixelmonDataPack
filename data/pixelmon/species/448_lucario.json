@@ -1,0 +1,923 @@
+{
+  "name": "Lucario",
+  "dex": 448,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 1.3,
+        "width": 0.9,
+        "length": 1,
+        "eyeHeight": 1.3,
+        "hoverHeight": 1.3
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Aura Sphere",
+              "Copycat",
+              "Detect",
+              "Feint",
+              "Final Gambit",
+              "Force Palm",
+              "Helping Hand",
+              "Life Dew",
+              "Metal Claw",
+              "Nasty Plot",
+              "Quick Attack",
+              "Reversal",
+              "Rock Smash",
+              "Screech",
+              "Work Up"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Counter"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Laser Focus"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Power-Up Punch"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Metal Sound"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Quick Guard"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Bone Rush"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Swords Dance"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Heal Pulse"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Meteor Mash"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Dragon Pulse"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Extreme Speed"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Close Combat"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Coaching",
+          "Steel Beam",
+          "Terrain Pulse"
+        ],
+        "eggMoves": [
+          "Bite",
+          "Bullet Punch",
+          "Circle Throw",
+          "Cross Chop",
+          "Detect",
+          "High Jump Kick",
+          "Howl",
+          "Mind Reader",
+          "Vacuum Wave"
+        ],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Ice Punch",
+          "Thunder Punch",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Screech",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Revenge",
+          "Brick Break",
+          "Rock Tomb",
+          "Payback",
+          "Fling",
+          "Drain Punch",
+          "Shadow Claw",
+          "Low Sweep",
+          "Round",
+          "Retaliate",
+          "Bulldoze"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Low Kick",
+          "Earthquake",
+          "Psychic",
+          "Agility",
+          "Focus Energy",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Shadow Ball",
+          "Blaze Kick",
+          "Iron Defense",
+          "Bulk Up",
+          "Calm Mind",
+          "Close Combat",
+          "Aura Sphere",
+          "Poison Jab",
+          "Dark Pulse",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Nasty Plot",
+          "Zen Headbutt",
+          "Flash Cannon",
+          "Stone Edge",
+          "Work Up"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Dual Chop",
+          "Focus Punch",
+          "Follow Me",
+          "Foresight",
+          "Frustration",
+          "Fury Cutter",
+          "Headbutt",
+          "Hidden Power",
+          "Hone Claws",
+          "Magnet Rise",
+          "Me First",
+          "Mud-Slap",
+          "Natural Gift",
+          "Return",
+          "Roar",
+          "Role Play",
+          "Secret Power",
+          "Sky Uppercut",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Water Pulse"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Low Sweep",
+          "Round",
+          "Focus Blast",
+          "Fling",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Poison Jab",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Dark Pulse",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Psychic",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Low Sweep",
+          "Round",
+          "Focus Blast",
+          "Fling",
+          "Shadow Claw",
+          "Payback",
+          "Retaliate",
+          "Giga Impact",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Poison Jab",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Secret Power",
+          "Dark Pulse",
+          "Power-Up Punch",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Psychic",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Low Sweep",
+          "Round",
+          "Focus Blast",
+          "Fling",
+          "Shadow Claw",
+          "Payback",
+          "Retaliate",
+          "Giga Impact",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Work Up",
+          "Poison Jab",
+          "Swagger",
+          "Substitute",
+          "Flash Cannon",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Focus Punch",
+          "Water Pulse",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Psychic",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Focus Blast",
+          "Fling",
+          "Endure",
+          "Dragon Pulse",
+          "Drain Punch",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Stone Edge",
+          "Swords Dance",
+          "Captivate",
+          "Dark Pulse",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Poison Jab",
+          "Swagger",
+          "Substitute",
+          "Flash Cannon"
+        ],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Steadfast",
+          "InnerFocus"
+        ],
+        "hiddenAbilities": [
+          "Justified"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.05,
+            "z": -0.2
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.05,
+            "z": -0.02
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "specialAttack": 115,
+        "specialDefense": 70,
+        "speed": 90
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 184,
+        "baseFriendship": 70,
+        "spawnLevel": 21,
+        "spawnLevelRange": 15,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/448_lucario/all/base/none/model.pqc"
+                ],
+                "yRotation": 24.2
+              },
+              "sounds": [
+                "pixelmon.mob.lucario",
+                "pixelmon.mob.lucario"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "online",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/online/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/online/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/448_lucario/all/base/online/model.pqc"
+                ],
+                "yRotation": 24.2
+              }
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-alter/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-anubis/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-anubis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "beta",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-beta/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-beta/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "black and white",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-black-white/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-black-white/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "class",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-class/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-class/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fantasy",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-fantasy/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-fantasy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gemstone 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-gemstone1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-gemstone1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gemstone 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-gemstone2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-gemstone2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-hero1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-hero1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-hero2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-hero2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "heroic",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-heroic/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-heroic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "midnight",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-midnight/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-midnight/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "naruto",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-naruto/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-naruto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-neon1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-neon1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-neon2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-neon2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "online 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-online2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-online2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "phantom",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-phantom/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-phantom/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rising sun",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-risingsun/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-risingsun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "royal",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-royal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-temple/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "terra",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-terra/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-terra/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-winter1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-winter1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/base/custom-winter2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/base/custom-winter2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD",
+        "HUMAN_LIKE"
+      ],
+      "types": [
+        "FIGHTING",
+        "STEEL"
+      ],
+      "preEvolutions": [
+        "Riolu"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+        "pixelmon:lucarionite"
+      ],
+      "megas": [
+        "mega"
+      ],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 26,
+      "weight": 54.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "attack": 1,
+        "specialAttack": 1
+      }
+    },
+    {
+      "name": "mega",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "Adaptability"
+        ]
+      },
+      "battleStats": {
+        "hp": 70,
+        "attack": 145,
+        "defense": 88,
+        "specialAttack": 140,
+        "specialDefense": 70,
+        "speed": 112
+      },
+      "weight": 57.5,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/none/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/448_lucario/all/mega/none/model.pqc"
+                ],
+                "yRotation": 24.2
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "alter",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-alter/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-anubis/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-anubis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "black and white",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-black-white/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-black-white/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "class",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-class/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-class/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fantasy",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-fantasy/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-fantasy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "heroic",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-heroic/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-heroic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "midnight",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-midnight/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-midnight/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-neon1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-neon1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-neon2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-neon2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "online",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-online/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-online/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "royal",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-royal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-temple/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "terra",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-terra/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-terra/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 1",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-winter1/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-winter1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 2",
+              "texture": "pixelmon:pokemon/448_lucario/all/mega/custom-winter2/texture.png",
+              "sprite": "pixelmon:pokemon/448_lucario/all/mega/custom-winter2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 4
+}

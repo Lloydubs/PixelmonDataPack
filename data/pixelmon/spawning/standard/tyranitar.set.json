@@ -1,0 +1,1041 @@
+{
+  "id": "Tyranitar",
+  "spawnInfos": [
+    {
+      "spec": "species:Tyranitar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:battlecast",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:deep sea",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:obscuros",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:royal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:scales",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Tyranitar palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Tyranitar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Tyranitar palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:battlecast",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:deep sea",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:halloween 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:obscuros",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:royal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:scales",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Tyranitar palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

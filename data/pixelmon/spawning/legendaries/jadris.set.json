@@ -1,0 +1,26 @@
+{
+  "id": "Jadris",
+  "spawnInfos": [
+    {
+      "spec": "species:Jadris level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,507 @@
+{
+   "name":"OmegamonZwart",
+   "dex":2130,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":6.0,
+            "width":2.9,
+            "length":1.9,
+            "eyeHeight":6.0,
+            "hoverHeight":6.0
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch",
+                                                "Full Moon Kick",
+                                                "Cocytus Breath",
+                                                "Metal Howling",
+                                                "Ominous Wind",
+                                                "Supreme Cannon",
+                                                "Transcendent Sword",
+							"Night Daze",
+							"Giga Destroyer",
+						        "Dark Gaia Force",
+						        "Black Tornado"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Double Slap",
+                     "Ember"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Pursuit",
+                     "Smokescreen"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Icy Wind",
+                     "Dragon Breath"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Snarl"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Aurora Beam",
+                     "Slash"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Glaciate",
+                     "Scary Face"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Dark Pulse",
+                     "Crunch"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Volt Switch",
+                     "Mirror Shot"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Flash Cannon",
+                     "Dark Pulse"
+                  ]
+               },
+               {
+                  "level":48,
+                  "attacks":[
+                     "Night Daze",
+                     "Heat Wave"
+                  ]
+               },
+               {
+                  "level":54,
+                  "attacks":[
+                     "Ice Beam",
+                     "Fiery Dance"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Fire Pledge",
+               "Hydro Cannon",
+               "Zap Cannon",
+               "Steel Beam",
+               "Steel Beam",
+               "Steel Roller",
+               "Triple Axel"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Ice Punch",
+               "Pin Missile",
+               "Hyper Beam",
+               "Giga Impact",
+               "Dig",
+               "Safeguard",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Icy Wind",
+               "Rain Dance",
+               "Hail",
+               "Facade",
+               "Rock Tomb",
+               "Icicle Spear",
+               "Rock Blast",
+               "Payback",
+               "Avalanche",
+               "Thunder Fang",
+               "Ice Fang",
+               "Round",
+               "Bulldoze",
+               "Stomping Tantrum",
+               "Weather Ball",
+               "Fake Tears",
+               "Icicle Spear",
+               "Shadow Claw",
+               "Psycho Cut",
+               "Low Sweep",
+               "Round",
+               "Retaliate",
+               "Snarl",
+               "False Swipe",
+               "Mega Punch",
+               "Mega Kick",
+               "Fire Punch",
+               "Thunder Punch",
+               "Fire Spin",
+               "Dig",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Scary Face",
+               "Attract",
+               "Sunny Day",
+               "Beat Up",
+               "Will-O-Wisp",
+               "Facade",
+               "Swift",
+               "Helping Hand",
+               "Brick Break",
+               "Weather Ball",
+               "Rock Tomb",
+               "Fling",
+               "Shadow Claw",
+               "Fire Fang",
+               "Round",
+               "Acrobatics",
+               "False Swipe"
+            ],
+            "trMoves":[
+               "Swords Dance",
+               "Thunderbolt",
+               "Thunder",
+               "Substitute",
+               "Endure",
+               "Uproar",
+               "Trick",
+               "Dark Pulse",
+               "Nasty Plot",
+               "Electro Ball",
+               "Outrage",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Ice Beam",
+               "Blizzard",
+               "Focus Energy",
+               "Endure",
+               "Sleep Talk",
+               "Superpower",
+               "Poison Jab",
+               "Dark Pulse",
+               "X-Scissor",
+               "Focus Blast",
+               "Nasty Plot",
+               "Baton Pass",
+               "Iron Tail",
+               "Shadow Ball",
+               "Hyper Voice",
+               "Stored Power",
+               "Work Up",
+               "Swords Dance",
+               "Body Slam",
+               "Flamethrower",
+               "Fire Blast",
+               "Substitute",
+               "Outrage",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Crunch",
+               "Heat Wave",
+               "Overheat",
+               "Dragon Claw",
+               "Dragon Dance",
+               "Flare Blitz",
+               "Dragon Pulse",
+               "Work Up"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "DarkAura"
+            ],
+            "hiddenAbilities":[
+               "Trace"
+            ]
+         },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 2.0,
+            "y": 11.0,
+            "z": 1.0
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 3.0,
+            "z": 8.5
+               }
+            },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 10,
+          "pitch_rate": 10,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+      },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":120,
+            "attack":155,
+            "defense":95,
+            "specialAttack":155,
+            "specialDefense":95,
+            "speed":120
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":220,
+            "baseFriendship":70,
+            "spawnLevel":45,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2130_omegamonzwart/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2130_omegamonzwart/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2130_omegamonzwart/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "ICE",
+            "FIRE"
+         ],
+         "preEvolutions":[
+            "BlackMetalGarurumon",
+            "BlackWarGreymon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            "pixelmon:charizardite_x"
+         ],
+         "megas":[
+            "X-Antibody"
+         ],
+         "gigantamax":{
+            "canHaveFactor":true,
+            "canGigantamax":true,
+            "form":"Defeat",
+            "move":"Grey Sword - Spiral"
+         },
+         "eggCycles":21,
+         "weight":124.4,
+         "catchRate":2,
+         "malePercentage":-1,
+         "evolutions":[
+            
+         ],
+         "evYields":{
+            "specialattack":4,
+            "attack":4,
+            "speed":3
+         }
+      },
+      {
+         "name":"X-Antibody",
+         "tags":[
+            "temp"
+         ],
+         "abilities":{
+            "abilities":[
+               "AsOne"
+            ]
+         },
+         "battleStats":{
+            "hp":120,
+            "attack":185,
+            "defense":105,
+            "specialAttack":185,
+            "specialDefense":105,
+            "speed":140
+         },
+         "weight":154.7,
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/x/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2130_omegamonzwart/all/x/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/x/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2130_omegamonzwart/all/x/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/x/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2130_omegamonzwart/all/x/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/x/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ]
+      },
+      {
+         "name":"Defeat",
+         "tags":[
+            "temp"
+         ],
+         "types":[
+            "GHOST",
+            "DARK"
+         ],
+         "abilities":{
+            "abilities":[
+               "WanderingSpirit"
+            ]
+         },
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/none/texture.png",
+                     "emissive":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2130_omegamonzwart/all/defeat/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/shiny/texture.png",
+                     "emissive":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2130_omegamonzwart/all/defeat/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "generation":20
+}

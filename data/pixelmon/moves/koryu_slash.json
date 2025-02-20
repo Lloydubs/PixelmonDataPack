@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900081,
+    "attackName": "Koryu Slash",
+    "attackType": "DRAGON",
+    "attackCategory": "SPECIAL",
+    "basePower": 80,
+    "ppBase": 10,
+    "ppMax": 18,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "HyperDrill"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": "tube"
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

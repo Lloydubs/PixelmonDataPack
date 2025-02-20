@@ -1,0 +1,463 @@
+{
+   "name":"Lilithmon",
+   "dex":2104,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":3.1,
+            "width":3.1,
+            "length":0.3,
+            "eyeHeight":3.1,
+            "hoverHeight":3.1
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch",
+                     "Nasty Plot",
+                     "Phantom Pain",
+                     "Darkness Love",
+                     "Darkness Wave"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Sweet Kiss"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Pound"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Fairy Wind"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Snarl"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Echoed Voice"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Confusion"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Shadow Ball"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Dark Pulse"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Oblivion Wing"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Moongeist Beam"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Dark Void"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Night Daze"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Calm Mind",
+               "Foul Play",
+               "Earth Power",
+               "Icy Wind",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Spite",
+               "Superpower",
+               "Tailwind",
+               "Uproar",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Air Cutter",
+               "Captivate",
+               "Curse",
+               "Detect",
+               "Double-Edge",
+               "Thunder Wave",
+               "Shadow Claw",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Pluck",
+               "Retaliate",
+               "Secret Power",
+               "Steel Wing",
+               "Attract",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+               "Assurance",
+               "Retaliate",
+               "Draining Kiss",
+               "Nightmare",
+               "Air Slash",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+               "Body Slam",
+               "Flamethrower",
+               "Psychic",
+               "Metronome",
+               "Fire Blast",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Hyper Voice",
+               "Aura Sphere",
+               "Nasty Plot",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Rollout",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "Dazzling"
+            ],
+            "hiddenAbilities":[
+               "Berserk"
+            ]
+         },
+         "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 0,
+						"y": 0.7,
+						"z": 0.35
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":94,
+            "attack":88,
+            "defense":98,
+            "specialAttack":155,
+            "specialDefense":103,
+            "speed":142
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":220,
+            "baseFriendship":70,
+            "spawnLevel":45,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2104_lilithmon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2104_lilithmon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2104_lilithmon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2104_lilithmon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2104_lilithmon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2104_lilithmon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2104_lilithmon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "FLYING",
+            "DARK"
+         ],
+         "preEvolutions":[
+            "LadyDevimon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            "pixelmon:charizardite_x"
+         ],
+         "megas":[
+            "X-Antibody"
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":27.5,
+         "catchRate":10,
+         "malePercentage":-1,
+         "evolutions":[
+            
+         ],
+         "evYields":{
+            "speed":3,
+            "specialattack":3
+         }
+      },
+      {
+         "name":"X-Antibody",
+         "tags":[
+            "temp"
+         ],
+         "abilities":{
+            "abilities":[
+               "ParentalBond"
+            ]
+         },
+         "battleStats":{
+            "hp":109,
+            "attack":101,
+            "defense":106,
+            "specialAttack":181,
+            "specialDefense":110,
+            "speed":173
+         },
+         "weight":110.5,
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2104_lilithmon/all/x/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2104_lilithmon/all/x/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2104_lilithmon/all/x/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2104_lilithmon/all/x/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2104_lilithmon/all/x/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2104_lilithmon/all/x/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2104_lilithmon/all/x/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "generation":20
+}

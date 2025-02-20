@@ -1,0 +1,275 @@
+{
+  "id": "Frogadier",
+  "spawnInfos": [
+    {
+      "spec": "species:Frogadier",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Frogadier palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:rising sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Frogadier palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Frogadier palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

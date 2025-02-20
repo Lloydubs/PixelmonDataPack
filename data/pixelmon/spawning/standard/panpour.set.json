@@ -1,0 +1,62 @@
+{
+  "id": "Panpour",
+  "spawnInfos": [
+    {
+      "spec": "species:Panpour",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Panpour palette:candy",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Panpour palette:halloween",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 11,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

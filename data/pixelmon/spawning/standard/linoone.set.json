@@ -1,0 +1,155 @@
+{
+  "id": "Linoone",
+  "spawnInfos": [
+    {
+      "spec": "species:Linoone",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Linoone palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Linoone palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+    {
+      "spec": "species:Linoone form:galarian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Linoone form:galarian palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 31,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:max_revive",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:potion",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

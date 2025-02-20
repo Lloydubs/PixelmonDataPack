@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900095,
+    "attackName": "Metal Howling",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 80,
+    "ppBase": 20,
+    "ppMax": 30,
+    "accuracy": -1,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "SPECIAL_DEFENSE",
+      "amount": -2,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPECIAL_ATTACK",
+      "amount": 2,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

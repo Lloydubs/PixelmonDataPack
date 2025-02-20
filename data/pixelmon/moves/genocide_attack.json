@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900060,
+    "attackName": "Genocide Attack",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 30,
+    "ppBase": 10,
+    "ppMax": 25,
+    "accuracy": 65,
+    "makesContact": false,
+    "effects": [
+        {
+            "minHits": 4,
+            "maxHits": 7,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+        {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

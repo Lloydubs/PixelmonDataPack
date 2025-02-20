@@ -1,0 +1,489 @@
+{
+   "name":"Gomamon",
+   "dex":2154,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":1.2,
+            "width":1.3,
+            "length":1.4,
+            "eyeHeight":1.2,
+            "hoverHeight":1.2
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Ice Shard"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Double Slap"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Ice Ball"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Sing"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Jet Punch"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Horn Attack"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Rock Slide"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Wild Charge"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Ice Hammer"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Stone Edge"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Gigaton Hammer"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Glacial Lance"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Coaching",
+               "Steel Roller",
+               "Lash Out",
+               "Earth Power",
+"Hyper Voice",
+"Ice Punch",
+"Icy Wind",
+"Iron Defense",
+               "Defog",
+               "Drill Run",
+               "Psychic",
+               "Rest",
+"Flip Turn",
+"Focus Punch",
+"Foul Play",
+          "Meteor Beam",
+               "Earth Power",
+               "Skitter Smack",
+               "Hyper Beam",
+               "Play Rough",
+"Water Pulse",
+               "Psychic",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Hyper Beam",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Will-O-Wisp",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Acrobatics",
+               "Volt Switch",
+               "Electroweb",
+               "Eerie Impulse",
+               "Air Slash",
+               "U-Turn",
+               "Revenge",
+               "Drain Punch",
+               "Cross Poison",
+               "Venoshock",
+               "Low Sweep",
+               "Brutal Swing",
+               "Smart Strike",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Dig",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Fly",
+               "Giga Impact",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Rock Blast",
+          "Power Swap",
+               "Reflect",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Giga Drain",
+               "Venoshock",
+               "Round",
+               "Smart Strike",
+          "Whirlpool",
+          "Facade",
+          "Helping Hand",
+          "Dive",
+          "Weather Ball",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze",
+          "Smart Strike",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+          "Blizzard",
+          "Earthquake",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+               "Crunch",
+               "Iron Defense",
+               "Poison Jab",
+               "X-Scissor",
+               "Bug Buzz",
+               "Energy Ball",
+               "Flash Cannon",
+               "Electro Ball",
+               "Wild Charge",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+          "Seed Bomb",
+          "Focus Blast",
+          "Energy Ball",
+          "Earth Power",
+          "Leaf Storm",
+               "Endure",
+          "Skill Swap",
+          "Overheat",
+          "Cosmic Power",
+          "Iron Defense",
+          "Calm Mind",
+               "Trick",
+               "Endure",
+               "Sleep Talk",
+           "Megahorn",
+          "Iron Tail",
+          "Future Sight",
+          "Hyper Voice",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt",
+               "Baton Pass",
+               "Iron Tail",
+               "Superpower",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab",
+          "Waterfall",
+               "Throat Chop",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+          "Ancient Power",
+          "Baton Pass",
+          "Charge Beam",
+          "Confide",
+          "Defense Curl",
+          "Double Team",
+               "Double-Edge",
+               "Endure",
+               "Flash",
+               "Fury Cutter",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Rock Smash",
+               "Secret Power",
+               "Silver Wind",
+          "Rollout",
+          "Secret Power",
+          "Signal Beam",
+               "Swift",
+               "Take Down",
+               "Foresight",
+               "Frustration",
+          "Frost Breath",
+          "Frustration",
+          "Grass Whistle",
+          "Headbutt",
+          "Hidden Power",
+               "Nasty Plot",
+               "Gunk Shot",
+               "Ominous Wind",
+               "Pluck",
+               "Hone Claws",
+               "Laser Focus",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Return",
+               "Roost",
+               "Secret Power",
+               "Silver Wind",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+          "Secret Power",
+          "Strength",
+          "Synthesis",
+          "Toxic",
+          "Water Pulse",
+               "Bestow",
+               "Captivate",
+               "Rock Smash",
+               "Secret Power",
+               "Signal Beam",
+               "Snatch",
+               "Steamroller",
+               "Strength",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Roost",
+          "Secret Power",
+          "Shock Wave",
+          "Signal Beam",
+          "Skull Bash",
+          "Solar Beam",
+          "Strength",
+          "Swagger",
+          "Take Down",
+               "Trick",
+               "Skill Swap",
+               "Iron Defense",
+               "Calm Mind",
+               "Bug Buzz",
+          "Natural Gift",
+          "Nightmare",
+          "Psywave",
+          "Rage",
+          "Reflect",
+          "Refresh",
+               "Stored Power",
+               "Ally Switch",
+               "Body Press"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "IceScales"
+            ],
+            "hiddenAbilities":[
+               "Pickup"
+            ]
+         },
+         "movement":{
+            "rideable":false,
+            "canFly":false,
+            "canSurf":false,
+            "canRideShoulder":false
+         },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":67,
+            "attack":66,
+            "defense":71,
+            "specialAttack":55,
+            "specialDefense":65,
+            "speed":56
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":5,
+            "spawnLevelRange":2,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2154_gomamon/all/base/none/texture.png", "emissive":"pixelmon:pokemon/2154_gomamon/all/base/none/emissive.png",                    "sprite":"pixelmon:pokemon/2154_gomamon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2154_gomamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2154_gomamon/all/base/shiny/texture.png",
+"emissive":"pixelmon:pokemon/2154_gomamon/all/base/shiny/emissive.png",                        "sprite":"pixelmon:pokemon/2154_gomamon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "ICE"
+         ],
+         "preEvolutions":[
+            
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":10.6,
+         "catchRate":100,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "level":20,
+               "to":"Ikkakumon",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Flip Turn"
+               ]
+            }
+         ],
+         "evYields":{
+            "defense":1
+         }
+      }
+   ],
+   "generation":20
+}

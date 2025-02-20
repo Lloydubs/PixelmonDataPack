@@ -1,0 +1,70 @@
+{
+    "attackIndex": 900140,
+    "attackName": "Transcendent Cannon",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 30,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Confusion",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 10.0
+                }
+            ],
+            "persists": true,
+            "effectTypeID": "Confusion"
+        },
+        {
+            "minHits": 3,
+            "maxHits": 5,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			},
+			"7": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			},
+			"14": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

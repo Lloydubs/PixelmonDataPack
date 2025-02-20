@@ -1,0 +1,291 @@
+{
+	"name": "Gabumon",
+	"dex": 2111,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 1.1,
+			"width": 1.1,
+			"length": 1,
+			"eyeHeight": 1.1,
+			"hoverHeight": 1.1
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Mist"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Icy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Bite"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Aurora Beam"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Glaciate"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"High Jump Kick"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Volt Switch"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Flash Cannon"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Blue Flare"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Ice Beam"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Zap Cannon",
+          "Steel Beam",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Ice Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Rock Blast",
+          "Payback",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Avalanche",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Snarl",
+          "Smart Strike",
+          "Stomping Tantrum",
+          "Retaliate"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Substitute",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Ice Beam",
+          "Blizzard",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Iron Defense",
+          "Close Combat",
+          "Heavy Slam",
+          "High Horsepower",
+          "Throat Chop",
+          "Body Press",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Stored Power",
+          "Work Up"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Overcoat"
+			],
+			"hiddenAbilities": [
+				"SnowCloak"
+			]
+		},
+		"movement": {
+			"rideable": false,
+			"canFly": false,
+			"canSurf": false,
+			"canRideShoulder": false
+		},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 55,
+			"attack": 62,
+			"defense":57,
+			"specialAttack": 76,
+			"specialDefense": 58,
+			"speed": 72
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 102,
+			"baseFriendship": 70,
+			"spawnLevel": 5,
+			"spawnLevelRange": 2,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2111_gabumon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2111_gabumon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2111_gabumon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2111_gabumon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2111_gabumon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2111_gabumon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2111_gabumon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"ICE"
+		],
+		"preEvolutions": [
+		],
+		"defaultBaseForm": "",
+		"megaItems": [],
+		"megas": [],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 17.2,
+		"catchRate": 100,
+		"malePercentage": -1,
+		"evolutions": [
+                               {
+				"level": 20,
+				"to": "Garurumon",
+				"conditions": [],
+				"evoType": "leveling",
+				"moves": [
+					"Frost Breath"
+				]
+			}
+			
+		],
+		"evYields": {
+			"specialattack": 1
+		}
+	}],
+	"generation": 20
+}

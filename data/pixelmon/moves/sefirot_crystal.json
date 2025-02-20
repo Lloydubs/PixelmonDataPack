@@ -1,0 +1,38 @@
+{
+    "attackIndex": 900117,
+    "attackName": "Sefirot Crystal",
+    "attackType": "FAIRY",
+    "attackCategory": "PHYSICAL",
+    "basePower": 20,
+    "ppBase": 10,
+    "ppMax": 24,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+        {
+      "type": "MagicCoat",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MagicCoat"
+        },
+        {
+            "minHits": 5,
+            "maxHits": 7,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        }
+       ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

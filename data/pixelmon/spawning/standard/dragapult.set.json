@@ -1,0 +1,541 @@
+{
+  "id": "Dragapult",
+  "spawnInfos": [
+    {
+      "spec": "species:Dragapult",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Dragapult palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Dragapult",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Dragapult palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dragapult palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Dragapult palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 60,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

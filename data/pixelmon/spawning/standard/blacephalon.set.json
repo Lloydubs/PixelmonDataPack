@@ -1,0 +1,401 @@
+{
+  "id": "Blacephalon",
+  "spawnInfos": [
+    {
+      "spec": "species:Blacephalon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Blacephalon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:carnival",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:crimson",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:neon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:retro",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Blacephalon palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

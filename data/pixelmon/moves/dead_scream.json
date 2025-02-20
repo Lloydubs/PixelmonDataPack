@@ -1,0 +1,82 @@
+{
+    "attackIndex": 900032,
+    "attackName": "Dead Scream",
+    "attackType": "GHOST",
+    "attackCategory": "SPECIAL",
+    "basePower": 85,
+    "ppBase": 10,
+    "ppMax": 18,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "Perish",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 20.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Perish"
+        },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 20.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+    ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"conical": false,
+				"rgb": [178, 102, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  }
+}

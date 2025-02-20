@@ -1,0 +1,271 @@
+{
+  "id": "Sceptile",
+  "spawnInfos": [
+    {
+      "spec": "species:Sceptile",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Sceptile palette:ben 10",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:diamond",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:fusion 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:fusion 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:lunar",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:pearl",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:rainbow",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:rgb",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:summer 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:summer 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:sun",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Sceptile palette:video game",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

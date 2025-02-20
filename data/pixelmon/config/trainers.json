@@ -1,0 +1,608 @@
+{
+  "types": [
+{
+"name": "Steves1",
+"textures": [
+"Steve",
+"AthleteSteve",
+"BackwardsSteve",
+"BoxerSteve",
+"CyclistSteve",
+"DeveloperSteve",
+"FrozenSteve",
+"HalfSteveHalfZombie",
+"KingSteve",
+"NewSteve",
+"NewSteve[Hat]",
+"ParkaSteve",
+"PrisonerSteve",
+"SantaSteve",
+"ScottishSteve"
+]
+},
+{
+"name": "Steves2",
+"textures": [
+"Steve123",
+"SteveExplorer",
+"SteveInBlackClothes",
+"Steve[Beard]",
+"Steve[CreeperShirt]",
+"Steve[DiamondArmor]",
+"Steve[Flannel]",
+"Steve[GlassHelmet]",
+"Steve[IronArmor]",
+"Steve[NoColor]",
+"Steve_with_Beard[NoColor]",
+"TennisSteve",
+"TuxedoSteve",
+"WatermelonSteve",
+"WinterSteve"
+]
+},
+{
+"name": "Steves3",
+"textures": [
+"WinterSteve2"
+]
+},
+{
+"name": "Business",
+"textures": [
+"business_1",
+"business_2",
+"business_3",
+"business_4",
+"business_5",
+"business_6"
+]
+},
+{
+"name": "Casual",
+"textures": [
+"casual_1",
+"casual_2",
+"casual_3",
+"casual_4",
+"casual_5",
+"casual_6"
+]
+},
+{
+"name": "TheDoctors",
+"textures": [
+"docwho_1",
+"docwho_2",
+"docwho_3",
+"docwho_4",
+"docwho_6",
+"docwho_7",
+"docwho_8",
+"docwho_9-1",
+"docwho_9-2",
+"docwho_10",
+"docwho_12",
+"docwho_13",
+"docwho_14",
+"docwho_15",
+"docwho_19"
+]
+},
+{
+"name": "Gamers",
+"textures": [
+"gamers_1",
+"gamers_2",
+"gamers_3",
+"gamers_4",
+"gamers_5",
+"gamers_6",
+"gamers_7",
+"gamers_8"
+]
+},
+{
+"name": "Pandas",
+"textures": [
+"panda_build",
+"panda_cura",
+"panda_engineer",
+"panda_korean",
+"panda_medieval",
+"panda_nuclear",
+"panda_nueva_ropa",
+"panda_tirantes",
+"panda_traje"
+]
+},
+{
+"name": "Hoodies",
+"textures": [
+"sketchs-blue-hoodie",
+"sketchs-green-hoodie",
+"sketchs-halloween-hoodie",
+"sketchs-orange-hoodie",
+"sketchs-pink-hoodie",
+"sketchs-red-hoodie",
+"sketchs-yellow-hoodie"
+]
+},
+{
+"name": "Pokemon1",
+"textures": [
+"pkmn_elio",
+"pkmn_ethan",
+"pkmn_florian",
+"pkmn_lucas",
+"pkmn_nate",
+"pkmn_victor"
+]
+},
+{
+"name": "Pokemon2",
+"textures": [
+"snorlax_1",
+"snorlax_2",
+"snorlax_3"
+]
+},
+    {
+      "name": "Steve",
+      "textures": [
+        "scottish",
+        "santa",
+        "suit",
+        "prisoner",
+        "Custom_RP",
+        "Custom_PN",
+        "professorras",
+        "jonsnow",
+        "knight"
+      ]
+    },
+    {
+      "name": "BugCatcher",
+      "textures": [
+        "bugcatcher1",
+        "bugcatcher2",
+        "bugcatcher3",
+        "bugcatcher4"
+      ]
+    },
+    {
+      "name": "BugManiac",
+      "textures": [
+        "bugcatchergirl"
+      ]
+    },
+    {
+      "name": "FemaleRocketGrunt",
+      "textures": [
+        "rocketgruntfemale1",
+        "rocketgruntfemale2",
+        "rocketgruntfemale3",
+        "rocketgruntfemale4",
+        "rocketgruntfemale5",
+        "rocketgruntfemale6"
+      ]
+    },
+    {
+      "name": "MaleRocketGrunt",
+      "textures": [
+        "rocketgruntmale1",
+        "rocketgruntmale2",
+        "rocketgruntmale3",
+        "rocketgruntmale4",
+        "rocketgruntmale5",
+        "rocketgruntmale6"
+      ]
+    },
+    {
+      "name": "FemaleAquaGrunt",
+      "textures": [
+        "aquagruntfemale"
+      ]
+    },
+    {
+      "name": "MaleAquaGrunt",
+      "textures": [
+        "aquagruntmale"
+      ]
+    },
+    {
+      "name": "FemaleMagmaGrunt",
+      "textures": [
+        "magmagruntfemale"
+      ]
+    },
+    {
+      "name": "MaleMagmaGrunt",
+      "textures": [
+        "magmagruntmale"
+      ]
+    },
+    {
+      "name": "FemaleFlareGrunt",
+      "textures": [
+        "flaregruntfemale"
+      ]
+    },
+    {
+      "name": "MaleFlareGrunt",
+      "textures": [
+        "flaregruntmale"
+      ]
+    },
+    {
+      "name": "FemaleGalacticGrunt",
+      "textures": [
+        "galacticgruntfemale"
+      ]
+    },
+    {
+      "name": "MaleGalacticGrunt",
+      "textures": [
+        "galacticgruntmale"
+      ]
+    },
+    {
+      "name": "FemalePlasmaGrunt",
+      "textures": [
+        "plasmagruntfemale"
+      ]
+    },
+    {
+      "name": "MalePlasmaGrunt",
+      "textures": [
+        "plasmagruntmale"
+      ]
+    },
+    {
+      "name": "FemaleSkullGrunt",
+      "textures": [
+        "skullgruntfemale"
+      ]
+    },
+    {
+      "name": "MaleSkullGrunt",
+      "textures": [
+        "skullgruntmale"
+      ]
+    },
+    {
+      "name": "FemaleTeamYellGrunt",
+      "textures": [
+        "teamyellgruntfemale"
+      ]
+    },
+    {
+      "name": "MaleTeamYellGrunt",
+      "textures": [
+        "teamyellgruntmale"
+      ]
+    },
+    {
+      "name": "Bosses",
+      "textures": [
+        "aquaboss",
+        "galacticboss",
+        "magmaboss",
+        "giovanni",
+        "guzma",
+        "n"
+      ]
+    },
+    {
+      "name": "Pirate",
+      "textures": [
+        "piratecaptain",
+        "pirategrunt1",
+        "pirategrunt2"
+      ]
+    },
+    {
+      "name": "Sport",
+      "textures": [
+        "football1",
+        "football2"
+      ]
+    },
+    {
+      "name": "FireBreather",
+      "textures": [
+        "firebreather1",
+        "firebreather2",
+        "firebreather3",
+        "firebreather4"
+      ]
+    },
+    {
+      "name": "Youngster",
+      "textures": [
+        "youngster1",
+        "youngster2",
+        "youngster3",
+        "youngster4",
+        "youngster5"
+      ]
+    },
+    {
+      "name": "Lass",
+      "textures": [
+        "youngstergirl",
+        "youngstergirl2",
+        "lass",
+        "lass2"
+      ]
+    },
+    {
+      "name": "PkmnBreederWoman",
+      "textures": [
+        "pkmn_breeder_f",
+        "breedergreen_f"
+      ]
+    },
+    {
+      "name": "Pokemaniac",
+      "textures": [
+        "pokemaniac1",
+        "pokemaniac2",
+        "pokemaniac3"
+      ]
+    },
+    {
+      "name": "Pokemaniacgirl",
+      "textures": [
+        "pokemaniacgirl1",
+        "pokemaniacgirl2",
+        "pokemaniacgirl3"
+      ]
+    },
+    {
+      "name": "Policeman",
+      "textures": [
+        "policeman"
+      ]
+    },
+    {
+      "name": "PreschoolerGirl",
+      "textures": [
+        "preschooler_f1"
+      ]
+    },
+    {
+      "name": "Rancher",
+      "textures": [
+        "rancher"
+      ]
+    },
+    {
+      "name": "Gardener",
+      "textures": [
+        "gardenermale1",
+        "gardenermale2"
+      ]
+    },
+    {
+      "name": "RichBoy",
+      "textures": [
+        "richboy"
+      ]
+    },
+    {
+      "name": "FemaleScientist",
+      "textures": [
+        "scientist_f"
+      ]
+    },
+    {
+      "name": "MaleScientist",
+      "textures": [
+        "scientist_m"
+      ]
+    },
+    {
+      "name": "Swimmer",
+      "textures": [
+        "swimmer_m1",
+        "swimmer_m2",
+        "swimmer_f1",
+        "swimmer_f2"
+      ]
+    },
+    {
+      "name": "Fisherman",
+      "textures": [
+        "fisherman"
+      ]
+    },
+    {
+      "name": "Miner",
+      "textures": [
+        "miner"
+      ]
+    },
+    {
+      "name": "Blacksmith",
+      "textures": [
+        "blacksmith"
+      ]
+    }
+  ],
+  "list": [
+    {
+      "name": "bugcatcher"
+    },
+    {
+      "name": "bugmaniac"
+    },
+    {
+      "name": "femalerocketgrunt"
+    },
+    {
+      "name": "malerocketgrunt"
+    },
+    {
+      "name": "femaleaquagrunt"
+    },
+    {
+      "name": "maleaquagrunt"
+    },
+    {
+      "name": "femalemagmagrunt"
+    },
+    {
+      "name": "malemagmagrunt"
+    },
+    {
+      "name": "pirate"
+    },
+    {
+      "name": "sport"
+    },
+    {
+      "name": "firebreather"
+    },
+    {
+      "name": "fisherman"
+    },
+    {
+      "name": "gardener"
+    },
+    {
+      "name": "lass"
+    },
+    {
+      "name": "ornithologist"
+    },
+    {
+      "name": "pokemaniac"
+    },
+    {
+      "name": "pkmnbreeder_f"
+    },
+    {
+      "name": "policeman"
+    },
+    {
+      "name": "preschoolergirl"
+    },
+    {
+      "name": "rancher"
+    },
+    {
+      "name": "pokemaniacgirl"
+    },
+    {
+      "name": "richboy"
+    },
+    {
+      "name": "scientistwoman"
+    },
+    {
+      "name": "scientist"
+    },
+    {
+      "name": "swimmer"
+    },
+    {
+      "name": "miner"
+    },
+    {
+      "name": "blacksmith"
+    },
+    {
+      "name": "youngster"
+    },
+    {
+      "name": "steve"
+    },
+    {
+      "name": "teamyellgruntmale"
+    },
+    {
+      "name": "teamyellgruntfemale"
+    },
+    {
+      "name": "skullgruntmale"
+    },
+    {
+      "name": "skullgruntfemale"
+    },
+    {
+      "name": "plasmagruntmale"
+    },
+    {
+      "name": "plasmagruntfemale"
+    },
+    {
+      "name": "n"
+    },
+    {
+      "name": "mountaineer"
+    },
+    {
+      "name": "magmaboss"
+    },
+    {
+      "name": "guzma"
+    },
+    {
+      "name": "giovani"
+    },
+    {
+      "name": "gentleman"
+    },
+    {
+      "name": "galacticgruntmale"
+    },
+    {
+      "name": "galacticgruntfemale"
+    },
+    {
+      "name": "galacticboss"
+    },
+    {
+      "name": "flaregruntmale"
+    },
+    {
+      "name": "flaregruntfemale"
+    },
+    {
+      "name": "aquaboss"
+    },
+    {
+    "name": "steves1"
+    },
+    {
+    "name": "steves2"
+    },
+    {
+    "name": "steves3"
+    },
+    {
+    "name": "business"
+    },
+    {
+    "name": "casual"
+    },
+    {
+    "name": "thedoctors"
+    },
+    {
+    "name": "gamers"
+    },
+    {
+    "name": "pandas"
+    },
+    {
+    "name": "hoodies"
+    },
+    {
+    "name": "pokemon1"
+    },
+    {
+    "name": "pokemon2"
+    }
+  ]
+}

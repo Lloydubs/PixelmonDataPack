@@ -1,0 +1,50 @@
+{
+  "id": "Porygon",
+  "spawnInfos": [
+    {
+      "spec": "species:Porygon palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Porygon palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Porygon palette:paper",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

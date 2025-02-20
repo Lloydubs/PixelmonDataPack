@@ -1,0 +1,916 @@
+{
+  "id": "Froslass",
+  "spawnInfos": [
+    {
+      "spec": "species:Froslass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Froslass palette:corrupt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:steampunk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:sunshine 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:sunshine 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:trainer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Snorunt",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Froslass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Froslass palette:corrupt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },{
+      "spec": "species:Froslass palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:steampunk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:sunshine 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:sunshine 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Froslass palette:trainer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

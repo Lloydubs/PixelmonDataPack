@@ -1,0 +1,35 @@
+{
+    "attackIndex": 900047,
+    "attackName": "Fatal Flame",
+    "attackType": "DRAGON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 300,
+    "ppBase": 25,
+    "ppMax": 32,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Suicide"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Pursuit"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": true
+    }
+}

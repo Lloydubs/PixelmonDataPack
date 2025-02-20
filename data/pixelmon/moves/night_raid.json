@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900097,
+    "attackName": "Night Raid",
+    "attackType": "DARK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 100,
+    "ppBase": 35,
+    "ppMax": 56,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "priority": 2,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FakeOut"
+    },
+    {
+      "drainPercent": 75,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

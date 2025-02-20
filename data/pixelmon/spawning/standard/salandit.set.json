@@ -1,0 +1,225 @@
+{
+  "id": "Salandit",
+  "spawnInfos": [
+    {
+      "spec": "species:Salandit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Salandit palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Salandit palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Salandit palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Salandit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:brimstone_caverns",
+          "byg:embur_bog",
+          "byg:magma_wastes"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Salandit palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:brimstone_caverns",
+          "byg:embur_bog",
+          "byg:magma_wastes"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Salandit palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:brimstone_caverns",
+          "byg:embur_bog",
+          "byg:magma_wastes"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Salandit palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:brimstone_caverns",
+          "byg:embur_bog",
+          "byg:magma_wastes"
+        ]
+      },
+      "rarity": 13.0
+    },
+  ]
+}

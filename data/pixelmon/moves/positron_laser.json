@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900107,
+    "attackName": "Positron Laser",
+    "attackType": "DRAGON",
+    "attackCategory": "SPECIAL",
+    "basePower": 120,
+    "ppBase": 5,
+    "ppMax": 8,
+    "accuracy": 75,
+    "makesContact": false,
+    "effects": [
+             {
+      "type": "Gravity",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Gravity"
+    }
+     ],
+    "animations": [
+                 {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,311 @@
+{
+  "id": "Furret",
+  "spawnInfos": [
+    {
+      "spec": "species:Furret",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Furret palette:animalistic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:christmas 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:christmas 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:cny tiger 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:cny tiger 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:prismatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:valentines 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Furret palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/freezing_forests",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

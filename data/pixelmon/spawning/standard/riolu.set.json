@@ -1,0 +1,671 @@
+{
+  "id": "Riolu",
+  "spawnInfos": [
+    {
+      "spec": "species:Riolu",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Riolu pette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:gemstone 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:gemstone 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:neon 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:neon 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:rising sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:royal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Riolu pette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 3.0
+    },
+    {
+      "spec": "species:Riolu",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Riolu palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:gemstone 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:gemstone 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:neon 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:neon 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:rising sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:royal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Riolu palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

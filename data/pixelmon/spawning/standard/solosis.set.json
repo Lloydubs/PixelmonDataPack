@@ -1,0 +1,131 @@
+{
+  "id": "Solosis",
+  "spawnInfos": [
+    {
+      "spec": "species:Solosis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Solosis palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Solosis palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Solosis palette:galaxy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Solosis palette:galaxy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Solosis palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Solosis palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

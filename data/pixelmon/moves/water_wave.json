@@ -1,0 +1,74 @@
+{
+    "attackIndex": 900127,
+    "attackName": "Water Wave",
+    "attackType": "WATER",
+    "attackCategory": "SPECIAL",
+    "basePower": 125,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ClearTerrainPresent"
+    },
+    {
+      "weatherRock": "dampRock",
+      "type": "Rainy",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Rainy"
+    },
+    {
+      "message": "pixelmon.effect.iceburn",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "IceBurn"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "BLUE_MAGIC",
+				"rgb": [122, 211, 255]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "BLUE_MAGIC",
+				"rgb": [122, 211, 255]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "BLUE_MAGIC",
+				"conical": false,
+				"rgb": [122, 211, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "BLUE_MAGIC",
+				"rgb": [122, 211, 255]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "BLUE_MAGIC",
+				"rgb": [122, 211, 255]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

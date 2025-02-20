@@ -1,0 +1,357 @@
+{
+  "name": "BlackGatomon",
+  "dex": 2094,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+            "height": 0.7,
+            "width": 0.7,
+            "length": 0.3,
+            "eyeHeight": 0.7,
+            "hoverHeight": 0.7
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Scratch",
+              "Echoed Voice"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Pound"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Fairy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Snarl"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Echoed Voice"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Confusion"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Shadow Ball"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Dark Pulse"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Oblivion Wing"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Moongeist Beam"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Dark Void"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Night Daze"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Calm Mind",
+          "Foul Play",
+          "Earth Power",
+          "Icy Wind",
+          "Hyper Beam",
+          "Mystical Fire",
+          "Play Rough",
+          "Power Shift",
+          "Spite",
+          "Superpower",
+          "Tailwind",
+          "Uproar",
+          "Zen Headbutt"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Air Cutter",
+          "Captivate",
+          "Curse",
+          "Detect",
+          "Double-Edge",
+          "Thunder Wave",
+          "Shadow Claw",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Pluck",
+          "Retaliate",
+          "Secret Power",
+          "Steel Wing",
+          "Attract",
+          "Facade",
+          "Swift",
+          "Revenge",
+          "Fake Tears",
+          "U-turn",
+          "Payback",
+          "Assurance",
+          "Retaliate",
+          "Draining Kiss",
+          "Nightmare",
+          "Air Slash",
+          "Brutal Swing",
+          "Smart Strike"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Flamethrower",
+          "Psychic",
+          "Metronome",
+          "Fire Blast",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Iron Defense",
+          "Bulk Up",
+          "Brave Bird",
+          "Shadow Ball",
+          "Future Sight",
+          "Uproar",
+          "Heat Wave",
+          "Trick",
+          "Hyper Voice",
+          "Aura Sphere",
+          "Nasty Plot",
+          "Zen Headbutt",
+          "Grass Knot",
+          "Stored Power",
+          "Iron Head",
+          "Heavy Slam",
+          "Work Up",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Air Cutter",
+          "Bestow",
+          "Captivate",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Hyper Voice",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Dream Eater",
+          "Echoed Voice",
+          "Endeavor",
+          "Flash",
+          "Focus Punch",
+          "Foresight",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Incinerate",
+          "Laser Focus",
+          "Lucky Chant",
+          "Magic Coat",
+          "Mimic",
+          "Mirror Move",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Roost",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Silver Wind",
+          "Soft-Boiled",
+          "Swagger",
+          "Tailwind",
+          "Telekinesis",
+          "Toxic",
+          "Twister",
+          "Water Pulse",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Pickpocket"
+        ],
+        "hiddenAbilities": [
+          "QuickDraw"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 67,
+        "attack": 68,
+        "defense": 70,
+        "specialAttack": 89,
+        "specialDefense": 72,
+        "speed": 84
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 102,
+        "baseFriendship": 70,
+        "spawnLevel": 20,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2094_blackgatomon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2094_blackgatomon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2094_blackgatomon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2094_blackgatomon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2094_blackgatomon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2094_blackgatomon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2094_blackgatomon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "NORMAL",
+        "DARK"
+      ],
+      "preEvolutions": [
+        "Salamon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 18.7,
+      "catchRate": 100,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "level": 32,
+          "to": "ladyDevimon",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Chatter",
+            "Darkness Wave"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 2,
+        "specialattack": 2
+      }
+    }
+  ],
+  "generation": 20
+}

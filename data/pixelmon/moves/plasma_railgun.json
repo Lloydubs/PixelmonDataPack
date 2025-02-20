@@ -1,0 +1,55 @@
+{
+    "attackIndex": 900104,
+    "attackName": "Plasma Railgun",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 30,
+    "ppBase": 10,
+    "ppMax": 18,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    },
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+    ],
+    "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "BEAM",
+          "texture": "SOLID",
+          "power": -40,
+          "scale": 0.15,
+          "segments": 10,
+          "speed": 0.6,
+          "rgb": [255, 248, 20]
+        }
+      }
+    }
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

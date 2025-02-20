@@ -1,0 +1,221 @@
+{
+  "id": "Crustle",
+  "spawnInfos": [
+    {
+      "spec": "species:Crustle",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Crustle palette:christmas 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:christmas 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:gem 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:gem 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:gold",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:sunset",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Crustle palette:sweetshop",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:hard_stone",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

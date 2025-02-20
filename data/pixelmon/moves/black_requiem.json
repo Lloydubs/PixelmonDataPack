@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900012,
+    "attackName": "Black Requiem",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 115,
+    "ppBase": 5,
+    "ppMax": 8,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Perish",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 33.3
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Perish"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    },
+  "flags": {
+    "authentic": true,
+    "sound": true
+  }
+}

@@ -1,0 +1,1028 @@
+{
+  "id": "Decidueye",
+  "spawnInfos": [
+    {
+      "spec": "species:Decidueye",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Decidueye palette:akuma",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:hero",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:love 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:love 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:naruto",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:phantom",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:stridak 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:stridak 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:valentines",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Decidueye",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Decidueye palette:akuma",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:hero",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:love 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:love 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:naruto",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:phantom",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:stridak 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:stridak 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:valentines",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Decidueye palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 1.5,
+          "condition": {
+            "times": [
+              "MIDNIGHT"
+            ]
+          }
+        }
+      ],
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Decidueye form:hisuian",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Decidueye form:hisuian palette:autumn",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Decidueye form:hisuian palette:oni",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 34,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+{
+  "id": "Ferroseed",
+  "spawnInfos": [
+    {
+      "spec": "species:Ferroseed",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Ferroseed palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:glass",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Ferroseed palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Ferroseed",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Ferroseed palette:alter",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:black and white",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:dark",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:easter",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:gem",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:glass",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    },
+	{
+      "spec": "species:Ferroseed palette:shadow",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sticky_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/freezing_forests"
+        ],
+        "maxLightLevel": 2
+      },
+      "rarity": 0.9
+    }
+  ]
+}

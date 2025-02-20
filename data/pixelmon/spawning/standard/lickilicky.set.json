@@ -1,0 +1,221 @@
+{
+  "id": "Lickilicky",
+  "spawnInfos": [
+    {
+      "spec": "species:Lickilicky",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Lickilicky palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:fusion 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:fusion 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Lickilicky palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 37,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lagging_tail",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

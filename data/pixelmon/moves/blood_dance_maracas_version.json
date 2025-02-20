@@ -1,0 +1,38 @@
+{
+    "attackIndex": 900015,
+    "attackName": "Blood Dance: Maracas Version",
+    "attackType": "Ground",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 8,
+    "ppMax": 12,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "ATTACK",
+      "amount": 2,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "Grubbin",
+  "spawnInfos": [
+    {
+      "spec": "species:Grubbin",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Grubbin palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Grubbin palette:magma",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Forage"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

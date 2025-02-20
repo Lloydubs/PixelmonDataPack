@@ -1,0 +1,178 @@
+{
+  "id": "Poliwag",
+  "spawnInfos": [
+    {
+      "spec": "species:Poliwag",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Poliwag palette:christmas",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Poliwag palette:gamma",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Poliwag palette:shadow",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Poliwag palette:vapor",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "weathers": [
+              "RAIN"
+            ]
+          }
+        }
+      ],
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Poliwag palette:valencian",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+   "name":"Patamon",
+   "dex":2134,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":0.8,
+            "width":1.0,
+            "length":0.5,
+            "eyeHeight":0.8,
+            "hoverHeight":0.8
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Tackle"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Pound"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Peck"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Heart Stamp"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Return"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Air Cutter"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Sky Drop"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Psyshield Bash"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Psycho Cut"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Double Iron Bash"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Calm Mind",
+               "Dual Wingbeat",
+               "Expanding Force",
+               "Earth Power",
+               "Giga Impact",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Icy Wind",
+               "Steel Wing",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Power Swap",
+               "Guard Swap",
+               "Round",
+               "Retaliate",
+               "Magic Room",
+               "Round",
+               "Air Slash",
+               "Trick Room",
+               "Mystical Fire",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+               "Psychic",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+               "Shadow Ball",
+               "Future Sight",
+               "Heat Wave",
+               "Trick",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Calm Mind",
+               "Dark Pulse",
+               "Energy Ball",
+               "Zen Headbutt",
+               "Flash Cannon",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               "Aerial Ace",
+               "Charge Beam",
+               "Confide",
+               "Defog",
+               "Double Team",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pain Split",
+               "Pluck",
+               "Psych Up",
+               "Refresh",
+               "Return",
+               "Secret Power",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Smack Down",
+               "Swagger",
+               "Synchronoise",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "KeenEye"
+            ],
+            "hiddenAbilities":[
+               "ThickFat"
+            ]
+         },
+         "movement":{
+            "rideable":false,
+            "canFly":false,
+            "canSurf":false,
+            "canRideShoulder":false
+         },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":63,
+            "attack":76,
+            "defense":74,
+            "specialAttack":53,
+            "specialDefense":74,
+            "speed":40
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":5,
+            "spawnLevelRange":2,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2134_patamon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2134_patamon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2134_patamon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2134_patamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2134_patamon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2134_patamon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2134_patamon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "NORMAL"
+         ],
+         "preEvolutions":[
+            "Pegasusmon",
+            "Prairiemon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":14.8,
+         "catchRate":100,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "item":{
+                  "itemID":"pixelmon:pearl"
+               },
+               "to":"Pegasusmon",
+               "conditions":[
+                  
+               ],
+               "evoType":"interact",
+               "moves":[
+                  "Star Shower",
+                  "Mane Wind"
+               ]
+            },
+            {
+               "item":{
+                  "itemID":"pixelmon:star_piece"
+               },
+               "to":"Prairiemon",
+               "conditions":[
+                  
+               ],
+               "evoType":"interact",
+               "moves":[
+                  "Sonic Ears",
+                  "Dimension Hole"
+               ]
+            },
+            {
+               "level":20,
+               "to":"Angemon",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Comet Punch"
+               ]
+            }
+         ],
+         "evYields":{
+            "attack":1
+         }
+      }
+   ],
+   "generation":20
+}

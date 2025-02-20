@@ -1,0 +1,1433 @@
+{
+  "name": "Pikachu",
+  "dex": 25,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.55,
+        "width": 0.35,
+        "length": 1,
+        "eyeHeight": 0.55,
+        "hoverHeight": 0.55
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Charm",
+              "Growl",
+              "Nasty Plot",
+              "Nuzzle",
+              "Play Nice",
+              "Quick Attack",
+              "Sweet Kiss",
+              "Tail Whip",
+              "Thunder Shock"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Thunder Wave"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Double Team"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Electro Ball"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Feint"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Spark"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Agility"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Slam"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Discharge"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Thunderbolt"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Light Screen"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Thunder"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Celebrate",
+          "Rising Voltage"
+        ],
+        "eggMoves": [
+          "Charge",
+          "Disarming Voice",
+          "Fake Out",
+          "Flail",
+          "Present",
+          "Tickle",
+          "Wish"
+        ],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Pay Day",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Dig",
+          "Light Screen",
+          "Reflect",
+          "Rest",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Brick Break",
+          "Fling",
+          "Round",
+          "Volt Switch",
+          "Electroweb",
+          "Draining Kiss",
+          "Electric Terrain"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder",
+          "Agility",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Iron Tail",
+          "Uproar",
+          "Nasty Plot",
+          "Grass Knot",
+          "Electro Ball",
+          "Wild Charge",
+          "Play Rough"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bestow",
+          "Bide",
+          "Calm Mind",
+          "Captivate",
+          "Charge Beam",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Defense Curl",
+          "Detect",
+          "Double Kick",
+          "Double Slap",
+          "Double-Edge",
+          "Dynamic Punch",
+          "Echoed Voice",
+          "Endeavor",
+          "Extreme Speed",
+          "Flash",
+          "Fly",
+          "Focus Punch",
+          "Follow Me",
+          "Frustration",
+          "Happy Hour",
+          "Headbutt",
+          "Heart Stamp",
+          "Hidden Power",
+          "Hold Hands",
+          "Knock Off",
+          "Laser Focus",
+          "Last Resort",
+          "Lucky Chant",
+          "Magnet Rise",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Refresh",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Sing",
+          "Skull Bash",
+          "Strength",
+          "Submission",
+          "Swagger",
+          "Sweet Scent",
+          "Take Down",
+          "Teeter Dance",
+          "Toxic",
+          "Yawn",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Wild Charge",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Flash",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Wild Charge",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Flash",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Wild Charge",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Focus Punch",
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Fling",
+          "Charge Beam",
+          "Endure",
+          "Flash",
+          "Thunder Wave",
+          "Captivate",
+          "Sleep Talk",
+          "Natural Gift",
+          "Grass Knot",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Focus Punch",
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
+          "Curse",
+          "Rollout",
+          "Toxic",
+          "Zap Cannon",
+          "Hidden Power",
+          "Snore",
+          "Protect",
+          "Rain Dance",
+          "Endure",
+          "Frustration",
+          "Iron Tail",
+          "Thunder",
+          "Return",
+          "Mud-Slap",
+          "Double Team",
+          "Swagger",
+          "Sleep Talk",
+          "Swift",
+          "Defense Curl",
+          "Thunder Punch",
+          "Detect",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves1": [
+          "Mega Punch",
+          "Mega Kick",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Pay Day",
+          "Submission",
+          "Seismic Toss",
+          "Rage",
+          "Thunderbolt",
+          "Thunder",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Swift",
+          "Skull Bash",
+          "Rest",
+          "Thunder Wave",
+          "Substitute"
+        ],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Static"
+        ],
+        "hiddenAbilities": [
+          "LightningRod"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "specialAttack": 50,
+        "specialDefense": 50,
+        "speed": 90
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 82,
+        "baseFriendship": 70,
+        "spawnLevel": 6,
+        "spawnLevelRange": 44,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "drowned",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/drowned/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/drowned/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alluring",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-alluring/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-alluring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "beta",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-beta/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-beta/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosplay",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-cosplay/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-cosplay/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 1",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 2",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 3",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto3/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-ditto3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ethereal",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-ethereal/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-ethereal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "event",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-event/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-event/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-halloween2/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meme 1",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-meme1/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-meme1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meme 2",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-meme2/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-meme2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "otaku",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-otaku/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-otaku/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "patchwork",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-patchwork/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-patchwork/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "primal",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-primal/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-primal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rainbow",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-rainbow/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-rainbow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rgb",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-rgb/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-rgb/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "school",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-school/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-school/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "special",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-special/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-special/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "superhero",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-superhero/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-superhero/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-toxic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/custom-val2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD",
+        "FAIRY"
+      ],
+      "types": [
+        "ELECTRIC"
+      ],
+      "preEvolutions": [
+        "Pichu"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "gmax",
+        "move": "G-Max Volt Crash"
+      },
+      "eggCycles": 21,
+      "weight": 6.0,
+      "catchRate": 190,
+      "malePercentage": 0,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:thunder_stone"
+          },
+          "to": "Raichu form:alolan",
+          "conditions": [
+            {
+              "withPokemon": [],
+              "withTypes": [],
+              "withForms": [
+                "ALOLAN"
+              ],
+              "evoConditionType": "party"
+            }
+          ],
+          "evoType": "interact",
+          "moves": [
+            "Psychic"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:thunder_stone"
+          },
+          "to": "Raichu form:base",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Thunder Punch"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 2
+      }
+    },
+    {
+      "name": "gmax",
+      "tags": [
+        "temp"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/gmax/none/model.pqc"
+                ],
+                "rotateAngleX": 3.141592653589793,
+                "rotateAngleY": 6.28318530718
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 1",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/custom-ditto1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 2",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/custom-ditto2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "patchwork",
+              "texture": "pixelmon:pokemon/025_pikachu/all/gmax/custom-patchwork/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/gmax/custom-patchwork/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "belle",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/belle/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/belle/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/belle/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "cosplay",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/cosplay/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/cosplay/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/cosplay/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "phd",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/phd/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/phd/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/phd/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "popstar",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/popstar/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/popstar/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/popstar/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "rockstar",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/rockstar/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/rockstar/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/rockstar/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "name": "libre",
+      "possibleGenders": [
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/libre/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/libre/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/libre/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "meadownian",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/meadownian/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/meadownian/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/meadownian/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+	{
+      "name": "partner",
+      "experienceGroup": "MEDIUM_SLOW",
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Tackle",
+              "Growl",
+              "Play Nice"
+            ]
+          },
+          {
+            "level": 7,
+            "attacks": [
+              "Thunder Shock"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Quick Attack"
+            ]
+          },
+          {
+            "level": 14,
+            "attacks": [
+              "Electro Ball"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Feint"
+            ]
+          },
+          {
+            "level": 22,
+            "attacks": [
+              "Spark",
+              "Nuzzle"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Agility"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Slam"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Discharge"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Thunderbolt"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Light Screen"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Thunder"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Pika Papow"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Celebrate",
+          "Rising Voltage",
+          "Floaty Fall",
+          "Splishy Splash",
+          "Zippy Zap"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Pay Day",
+          "Thunder Punch",
+          "Thunder Wave",
+          "Dig",
+          "Light Screen",
+          "Reflect",
+          "Rest",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Brick Break",
+          "Fling",
+          "Round",
+          "Volt Switch",
+          "Electroweb",
+          "Draining Kiss",
+          "Electric Terrain"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Surf",
+          "Thunderbolt",
+          "Thunder",
+          "Agility",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Iron Tail",
+          "Uproar",
+          "Nasty Plot",
+          "Grass Knot",
+          "Electro Ball",
+          "Wild Charge",
+          "Play Rough"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bestow",
+          "Bide",
+          "Calm Mind",
+          "Captivate",
+          "Charge Beam",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Defense Curl",
+          "Detect",
+          "Double Kick",
+          "Double Slap",
+          "Double-Edge",
+          "Dynamic Punch",
+          "Echoed Voice",
+          "Endeavor",
+          "Extreme Speed",
+          "Flash",
+          "Fly",
+          "Focus Punch",
+          "Follow Me",
+          "Frustration",
+          "Happy Hour",
+          "Headbutt",
+          "Heart Stamp",
+          "Hidden Power",
+          "Hold Hands",
+          "Knock Off",
+          "Laser Focus",
+          "Last Resort",
+          "Lucky Chant",
+          "Magnet Rise",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Refresh",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Sing",
+          "Skull Bash",
+          "Strength",
+          "Submission",
+          "Swagger",
+          "Sweet Scent",
+          "Take Down",
+          "Teeter Dance",
+          "Toxic",
+          "Yawn",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Wild Charge",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Flash",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Wild Charge",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Echoed Voice",
+          "Fling",
+          "Charge Beam",
+          "Flash",
+          "Volt Switch",
+          "Thunder Wave",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Wild Charge",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Focus Punch",
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Fling",
+          "Charge Beam",
+          "Endure",
+          "Flash",
+          "Thunder Wave",
+          "Captivate",
+          "Sleep Talk",
+          "Natural Gift",
+          "Grass Knot",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Focus Punch",
+          "Toxic",
+          "Hidden Power",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
+          "Curse",
+          "Rollout",
+          "Toxic",
+          "Zap Cannon",
+          "Hidden Power",
+          "Snore",
+          "Protect",
+          "Rain Dance",
+          "Endure",
+          "Frustration",
+          "Iron Tail",
+          "Thunder",
+          "Return",
+          "Mud-Slap",
+          "Double Team",
+          "Swagger",
+          "Sleep Talk",
+          "Swift",
+          "Defense Curl",
+          "Thunder Punch",
+          "Detect",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves1": [
+          "Mega Punch",
+          "Mega Kick",
+          "Toxic",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Pay Day",
+          "Submission",
+          "Seismic Toss",
+          "Rage",
+          "Thunderbolt",
+          "Thunder",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Swift",
+          "Skull Bash",
+          "Rest",
+          "Thunder Wave",
+          "Substitute"
+        ],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Static"
+        ],
+        "hiddenAbilities": [
+          "LightningRod"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": true
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 20,
+        "aggressive": 0
+      },
+      "battleStats": {
+        "hp": 45,
+        "attack": 80,
+        "defense": 50,
+        "specialAttack": 80,
+        "specialDefense": 60,
+        "speed": 120
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 164,
+        "baseFriendship": 40,
+        "spawnLevel": 5,
+        "spawnLevelRange": 20,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "MALE",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/partner/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu"
+              ]
+            }
+          ]
+        },
+        {
+          "gender": "FEMALE",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/025_pikachu/all/cosplay/none/texture.png",
+              "sprite": "pixelmon:pokemon/025_pikachu/all/base/partner/spritefem.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/025_pikachu/all/cosplay/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu",
+                "pixelmon.mob.pikachu"
+              ]
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "ELECTRIC"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "gigantamax": {
+        "canHaveFactor": true,
+        "canGigantamax": false
+      },
+      "evolutions": [
+        {
+          "level": 255,
+          "to": "Pikachu form:partner",
+          "conditions": [         
+          {
+            "friendship": 999,
+            "evoConditionType": "friendship"
+          }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Celebrate"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 3
+      }
+    }
+  ],
+  "generation": 1
+}

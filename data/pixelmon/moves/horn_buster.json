@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Horn Buster",
+    "attackType": "BUG",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FoulPlay"
+    },
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+    ],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

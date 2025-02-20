@@ -1,0 +1,278 @@
+{
+  "id": "Regirock",
+  "spawnInfos": [
+    {
+      "spec": "species:Regirock level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Regirock palette:abyss level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:black and white level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:christmas level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:crimson level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:gamma level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:gembound level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:gemstone 1 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:gemstone 2 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:mecha level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:molten level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:spartan level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regirock palette:toy level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    }
+  ]
+}

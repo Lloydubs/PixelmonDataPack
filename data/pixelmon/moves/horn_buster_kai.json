@@ -1,0 +1,55 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Horn Buster Kai",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 140,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Eruption"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FoulPlay"
+    },
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 30.0
+        }
+    ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

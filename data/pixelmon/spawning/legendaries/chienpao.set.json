@@ -1,0 +1,68 @@
+{
+    "id": "ChienPao",
+    "spawnInfos": [
+      {
+        "spec": "species:Chien-Pao level:60",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/freezing_mountains"
+          ],
+          "minY": 100
+        },
+        "rarity": 3.0
+      },
+	  {
+        "spec": "species:Chien-Pao palette:abyss level:60",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/freezing_mountains"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      },
+	  {
+        "spec": "species:Chien-Pao palette:molten level:60",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/freezing_mountains"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      }
+    ]
+  }

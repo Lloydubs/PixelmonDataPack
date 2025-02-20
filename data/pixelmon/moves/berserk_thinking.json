@@ -1,0 +1,35 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Berserk Thinking",
+    "attackType": "POISON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 120,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "PetalDance"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Curse"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

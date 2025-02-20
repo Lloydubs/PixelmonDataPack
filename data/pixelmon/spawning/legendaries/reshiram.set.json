@@ -1,0 +1,305 @@
+{
+  "id": "Reshiram",
+  "spawnInfos": [
+    {
+      "spec": "species:Reshiram level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Reshiram palette:class level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:demonic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:elite level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:gembound level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:magma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:moon level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:nippon level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:outer worlds level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:royal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:soulfire level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:summer 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Reshiram palette:summer 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

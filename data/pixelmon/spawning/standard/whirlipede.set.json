@@ -1,0 +1,145 @@
+{
+  "id": "Whirlipede",
+  "spawnInfos": [
+    {
+      "spec": "species:Whirlipede",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Whirlipede palette:arctic",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Whirlipede palette:food",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Whirlipede palette:valentines 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Whirlipede palette:valentines 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 22,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:poison_barb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900150,
+    "attackName": "Victory Sword",
+    "attackType": "NORMAL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 70,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "ATTACK",
+            "amount": 1,
+            "isUser": true,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        },
+        {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

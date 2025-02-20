@@ -1,0 +1,310 @@
+{
+  "id": "Froakie",
+  "spawnInfos": [
+    {
+      "spec": "species:Froakie",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Froakie palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:faceless 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:faceless 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },{
+      "spec": "species:Froakie palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:rising sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Froakie palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Froakie palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

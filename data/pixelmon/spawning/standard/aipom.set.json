@@ -1,0 +1,236 @@
+{
+  "id": "Aipom",
+  "spawnInfos": [
+    {
+      "spec": "species:Aipom",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Aipom palette:cny 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:cny 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:ditto 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:ditto 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:magma",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:nintendo",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:purified 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom palette:purified 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Aipom form:centonian",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

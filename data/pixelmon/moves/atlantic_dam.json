@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900003,
+    "attackName": "Atlantic Dam",
+    "attackType": "GRASS",
+    "attackCategory": "SPECIAL",
+    "basePower": 70,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "SPEED",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "PoisonBadly",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PoisonBadly"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,149 @@
+{
+  "id": "Carracosta",
+  "spawnInfos": [
+    {
+      "spec": "species:Carracosta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Carracosta palette:animalistic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:atlante",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:coralp",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:coralw",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:sea turtle",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Carracosta palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

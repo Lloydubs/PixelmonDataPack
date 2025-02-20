@@ -1,0 +1,41 @@
+{
+    "attackIndex": 900078,
+    "attackName": "Judgement of the Blade",
+    "attackType": "FIGHTING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 55,
+    "ppBase": 10,
+    "ppMax": 16,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "Evasion",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Speed",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

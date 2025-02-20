@@ -1,0 +1,47 @@
+{
+    "attackIndex": 900143,
+    "attackName": "Trident Arm",
+    "attackType": "ELECTRIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 70,
+    "ppBase": 30,
+    "ppMax": 48,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [    
+        {
+            "type": "Flinch",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 25.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Flinch"
+        },
+        {
+            "type": "Burn",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 25.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Burn"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

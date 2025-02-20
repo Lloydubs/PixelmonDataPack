@@ -1,0 +1,109 @@
+{
+  "id": "Minun",
+  "spawnInfos": [
+    {
+      "spec": "species:Minun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Minun palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Minun palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Minun palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:cell_battery",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

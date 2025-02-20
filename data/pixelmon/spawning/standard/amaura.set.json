@@ -1,0 +1,348 @@
+{
+  "id": "Amaura",
+  "spawnInfos": [
+    {
+      "spec": "species:Amaura",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Amaura palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:beta",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:ditto 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:ditto 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:gemstone 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:gemstone 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Amaura palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}
+

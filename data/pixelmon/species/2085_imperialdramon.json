@@ -1,0 +1,784 @@
+{
+  "name": "Imperialdramon",
+  "dex": 2085,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 9.0,
+        "width": 3.5,
+        "length": 3.5,
+        "eyeHeight": 9.0,
+        "hoverHeight": 9.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer",
+              "Night Daze",
+              "Dragon Kick",
+              "Eternal Zeal",
+              "Desperado Blaster"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Comet Punch"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Fire Fang"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Bug Bite"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Dragon Tail"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Pin Missile"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Lunge"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Dragon Claw"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Drill Peck"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Outrage"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Megahorn"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Swift",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Rock Tomb",
+          "Shadow Claw",
+          "Fire Fang",
+          "Bulldoze",
+          "False Swipe",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe",
+          "Round"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Surf",
+          "Earthquake",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Hydro Pump",
+          "Focus Energy",
+          "Poison Jab",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Crunch",
+          "Hyper Voice",
+          "Iron Defense",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aerial Ace",
+          "Captivate",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Dragon Rage",
+          "Frustration",
+          "Fury Cutter",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Hone Claws",
+          "Laser Focus",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Wish"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "SheerForce"
+        ],
+        "hiddenAbilities": [
+          "DragonsMaw"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 17.0,
+            "z": 2
+          },
+          "moving": {
+            "x": 0,
+            "y": 2.0,
+            "z": 17
+               }
+            },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 10,
+          "pitch_rate": 10,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+         },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 102,
+        "attack": 125,
+        "defense": 107,
+        "specialAttack": 95,
+        "specialDefense": 116,
+        "speed": 135
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 45,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2085_imperialdramon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2085_imperialdramon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2085_imperialdramon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "DRAGON",
+        "BUG"
+      ],
+      "preEvolutions": [
+        "Paildramon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "Fighting Mode",
+        "move": "Splendor Blade"
+      },
+      "eggCycles": 21,
+      "weight": 72.9,
+      "catchRate": 10,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "with": "Omegamon",
+          "to": "Imperialdramon form:Paladin",
+          "conditions": [],
+          "evoType": "trade",
+          "moves": [
+            "Solar Blade",
+            "Sacred Sword",
+            "Omega Blade"
+          ]
+        },
+        {
+          "to": "Imperialdramon form:Paladin",
+          "conditions": [
+            {
+              "withPokemon": [
+                "Omegamon"
+              ],
+              "withTypes": [],
+              "evoConditionType": "party"
+            },
+            {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Solar Blade",
+            "Sacred Sword",
+            "Omega Blade"
+          ]
+        }
+      ],
+      "evYields": {
+        "hp": 2,
+        "speed": 2,
+        "attack": 3
+      }
+    },
+    {
+      "name": "Fighting Mode",
+      "tags": [
+        "temp"
+      ],
+      "battleStats": {
+        "hp": 98,
+        "attack": 140,
+        "defense": 100,
+        "specialAttack": 96,
+        "specialDefense": 102,
+        "speed": 144
+      },
+      "types": [
+        "DRAGON",
+        "FIGHTING"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/fighting/none/texture.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/fighting/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2085_imperialdramon/all/fighting/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/fighting/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/fighting/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Paladin",
+     "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer",
+              "Night Daze",
+              "Dragon Kick",
+              "Eternal Zeal",
+              "Desperado Blaster",
+              "Solar Blade",
+            "Sacred Sword",
+            "Omega Blade"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Comet Punch"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Fire Fang"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Bug Bite"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Dragon Tail"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Pin Missile"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Lunge"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Dragon Claw"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Drill Peck"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Outrage"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Megahorn"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor"
+        ],
+        "eggMoves": [
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Swift",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Rock Tomb",
+          "Shadow Claw",
+          "Fire Fang",
+          "Bulldoze",
+          "False Swipe",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe",
+          "Round",
+               "Ice Punch",
+               "Pin Missile",
+               "Hyper Beam",
+               "Giga Impact",
+               "Dig",
+               "Safeguard",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Icy Wind",
+               "Rain Dance",
+               "Hail",
+               "Facade",
+               "Rock Tomb",
+               "Icicle Spear",
+               "Rock Blast",
+               "Payback",
+               "Avalanche",
+               "Thunder Fang",
+               "Ice Fang",
+               "Round",
+               "Bulldoze",
+               "Stomping Tantrum",
+               "Weather Ball",
+               "Fake Tears",
+               "Icicle Spear",
+               "Avalanche",
+               "Ice Fang",
+               "Round",
+               "Bulldoze",
+               "Snarl",
+               "Smart Strike",
+               "Stomping Tantrum",
+               "Retaliate",
+               "Mega Punch",
+               "Mega Kick",
+               "Fire Punch",
+               "Thunder Punch",
+               "Fire Spin",
+               "Dig",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Scary Face",
+               "Attract",
+               "Sunny Day",
+               "Beat Up",
+               "Will-O-Wisp",
+               "Facade",
+               "Swift",
+               "Helping Hand",
+               "Brick Break",
+               "Weather Ball",
+               "Rock Tomb",
+               "Fling",
+               "Shadow Claw",
+               "Fire Fang",
+               "Round",
+               "Acrobatics",
+               "False Swipe"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Surf",
+          "Earthquake",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Hydro Pump",
+          "Focus Energy",
+          "Poison Jab",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Crunch",
+          "Hyper Voice",
+          "Iron Defense",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt",
+               "Swords Dance",
+               "Thunderbolt",
+               "Thunder",
+               "Substitute",
+               "Endure",
+               "Uproar",
+               "Trick",
+               "Dark Pulse",
+               "Nasty Plot",
+               "Electro Ball",
+               "Outrage",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Ice Beam",
+               "Blizzard",
+               "Focus Energy",
+               "Endure",
+               "Sleep Talk",
+               "Superpower",
+               "Iron Defense",
+               "Close Combat",
+               "Heavy Slam",
+               "High Horsepower",
+               "Throat Chop",
+               "Body Press",
+               "Baton Pass",
+               "Iron Tail",
+               "Shadow Ball",
+               "Hyper Voice",
+               "Stored Power",
+               "Work Up",
+               "Swords Dance",
+               "Body Slam",
+               "Flamethrower",
+               "Fire Blast",
+               "Substitute",
+               "Outrage",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Crunch",
+               "Heat Wave",
+               "Overheat",
+               "Dragon Claw",
+               "Dragon Dance",
+               "Flare Blitz",
+               "Dragon Pulse",
+               "Work Up"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aerial Ace",
+          "Captivate",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Dragon Rage",
+          "Frustration",
+          "Fury Cutter",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Hone Claws",
+          "Laser Focus",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Wish"
+        ],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+      "battleStats": {
+        "hp": 107,
+        "attack": 157,
+        "defense": 111,
+        "specialAttack": 110,
+        "specialDefense": 116,
+        "speed": 139
+      },
+      "types": [
+        "DRAGON",
+        "BUG"
+      ],
+		"abilities": {
+			"abilities": [
+				"FairyAura"
+			],
+			"hiddenAbilities": [
+				"IntrepidSword"
+			]
+		},
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Imperialdramon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/paladin/none/texture.png",
+              "emissive": "pixelmon:pokemon/2085_imperialdramon/all/paladin/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/paladin/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2085_imperialdramon/all/paladin/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2085_imperialdramon/all/paladin/shiny/texture.png",
+              "emissive": "pixelmon:pokemon/2085_imperialdramon/all/paladin/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2085_imperialdramon/all/paladin/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 20
+}

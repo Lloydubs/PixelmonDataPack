@@ -1,0 +1,318 @@
+{
+	"name": "Palmon",
+	"dex": 2062,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 1.1,
+				"width": 1.1,
+				"length": 1,
+				"eyeHeight": 1.1,
+				"hoverHeight": 1.1
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Vine Whip"
+						]
+					},
+					{
+						"level": 9,
+						"attacks": [
+							"Leech Seed"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Razor Leaf"
+						]
+					},
+					{
+						"level": 15,
+						"attacks": [
+							"Absorb"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Poison Sting"
+						]
+					},
+					{
+						"level": 25,
+						"attacks": [
+							"Poison Tail"
+						]
+					},
+					{
+						"level": 30,
+						"attacks": [
+							"Needle Arm"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Leaf Blade"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Mega Drain"
+						]
+					},
+					{
+						"level": 51,
+						"attacks": [
+							"Poison Jab"
+						]
+					},
+					{
+						"level": 58,
+						"attacks": [
+							"Solar Beam"
+						]
+					}
+				],
+				"tutorMoves": [
+					"Grass Pledge"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Hyper Beam",
+					"Giga Impact",
+					"Magical Leaf",
+					"Solar Beam",
+					"Light Screen",
+					"Safeguard",
+					"Hyper Beam",
+					"Solar Beam",
+					"Safeguard",
+					"Protect",
+					"Giga Drain",
+					"Charm",
+					"Attract",
+					"Sunny Day",
+					"Facade",
+					"Bullet Seed",
+					"Fling",
+					"Drain Punch",
+					"Venoshock",
+					"Round",
+					"Grassy Terrain",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Earthquake",
+					"Amnesia",
+					"Substitute",
+					"Sludge Bomb",
+					"Outrage",
+					"Endure",
+					"Seed Bomb",
+					"Energy Ball",
+					"Earth Power",
+					"Leaf Storm",
+					"Power Whip",
+					"Dazzling Gleam",
+					"Grass Knot",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Bide",
+					"Body Slam",
+					"Bug Bite",
+					"Captivate",
+					"Curse",
+					"Cut",
+					"Double-Edge",
+					"Endure",
+					"Flash",
+					"Mimic",
+					"Morning Sun",
+					"Rage",
+					"Secret Power",
+					"Take Down",
+					"Teeter Dance",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"Overgrow"
+				],
+				"hiddenAbilities": [
+					"PoisonTouch"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 62,
+				"attack": 76,
+				"defense": 59,
+				"specialAttack": 53,
+				"specialDefense": 56,
+				"speed": 74
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 5,
+				"spawnLevelRange": 2,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2062_palmon/all/base/none/texture.png",
+							"emissive": "pixelmon:pokemon/2062_palmon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2062_palmon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2062_palmon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2062_palmon/all/base/shiny/texture.png",
+							"emissive": "pixelmon:pokemon/2062_palmon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2062_palmon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"GRASS"
+			],
+			"preEvolutions": [
+				"Ponchomon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 10.5,
+			"catchRate": 100,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 20,
+					"to": "Togemon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Mach Punch"
+					]
+				},
+				{
+					"item": {
+						"itemID": "pixelmon:shoal_shell"
+					},
+					"to": "Ponchomon",
+					"conditions": [],
+					"evoType": "interact",
+					"moves": [
+						"Bulldoze",
+						"Tequila Knuckle",
+						"Blood Dance: Maracas Version"
+					]
+				}
+			],
+			"evYields": {
+				"attack": 1
+			}
+		}
+	],
+	"generation": 20
+}

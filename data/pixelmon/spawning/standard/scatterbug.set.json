@@ -1,0 +1,125 @@
+{
+  "id": "Scatterbug",
+  "spawnInfos": [
+    {
+      "spec": "species:Scatterbug",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Forage",
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Scatterbug palette:autumn",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Forage",
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Scatterbug palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Forage",
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Scatterbug palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Forage",
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Scatterbug palette:spring",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Forage",
+        "Headbutt"
+      ],
+      "minLevel": 3,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

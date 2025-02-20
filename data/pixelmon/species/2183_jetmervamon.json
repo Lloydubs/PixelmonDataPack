@@ -1,0 +1,513 @@
+{
+   "name":"JetMervamon",
+   "dex":2183,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":4.1,
+            "width":1.7,
+            "length":1,
+            "eyeHeight":4.1,
+            "hoverHeight":4.1
+         },
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch",
+                  "Poison Jab",                  
+                  "Night Stalker",
+                  "Love Poison",
+                     "Mind Fogger",
+                     "Strike Roll",
+                     "Madness Merry-Go-Round",
+                     "Ouroboros Gate"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Sweet Kiss"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Pound"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Fairy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Heart Stamp"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Return"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Bone Club"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"Sky Uppercut"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Extreme Speed"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Play Rough"
+					]
+				},
+
+          {
+            "level": 45,
+            "attacks": [
+              "Close Combat"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Behemoth Blade"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Head Charge"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Esper Wing"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Beak Blast"
+            ]
+          }
+			],
+           "tutorMoves":[
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Earth Power",
+          "Giga Impact",
+          "Expanding Force",
+          "Mystical Fire",
+          "Play Rough",
+          "Power Shift",
+          "Psychic",
+          "Rest",
+          "Dual Wingbeat",
+          "Corrosive Gas",
+          "Zen Headbutt",
+          "Dual Wingbeat",
+          "Rising Voltage",
+               "Earth Power",
+"Hyper Voice",
+"Expanding Force",
+"Icy Wind",
+"Iron Defense",
+               "Dragon Pulse",
+          "Lash Out",
+          "Scorching Sands",
+          "Steel Beam",
+               "Psychic",
+               "Rest",
+          "Meteor Beam",
+               "Earth Power",
+               "Skitter Smack",
+          "Covet",
+          "Defog",
+          "Icy Wind",
+          "Role Play",
+          "Sky Attack",
+"Terrain Pulse",
+               "Psychic",
+               "Outrage",
+               "Sky Attack"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Pay Day",
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Hyper Beam",
+          "Bounce",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Fling",
+          "Drain Punch",
+          "Low Sweep",
+          "Swift",
+          "Rock Tomb",
+          "Sand Tomb",
+          "U-turn",
+          "Misty Terrain",
+          "Psychic Terrain",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Air Slash",
+          "Brutal Swing",
+          "Smart Strike",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Light Screen",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Steel Wing",
+          "Sandstorm",
+          "Rain Dance",
+          "U-turn",
+          "Round",
+          "Volt Switch",
+          "Eerie Impulse",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+          "Facade",
+          "Swift",
+          "Weather Ball",
+          "U-turn",
+          "Mystical Fire",
+          "Air Slash",
+               "U-Turn",
+               "Revenge",
+          "Will-O-Wisp",
+          "Facade",
+          "U-turn",
+          "Round",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Dig",
+               "Screech",
+               "Rest",
+               "Fly",
+               "Giga Impact",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Rock Blast",
+          "Power Swap",
+               "Reflect",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Round",
+          "Eerie Impulse",
+          "Smart Strike",
+          "Steel Wing",
+          "Attract",
+          "Sandstorm",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Payback",
+          "Assurance",
+          "Guard Swap",
+          "Round",
+          "Air Slash",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+          "Body Slam",
+          "Low Kick",
+          "Psychic",
+          "Agility",
+          "Low Kick",
+          "Thunderbolt",
+          "Thunder",
+          "Agility",
+          "Substitute",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Bulk Up",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Cosmic Power",
+          "Close Combat",
+          "Trick",
+          "Hyper Voice",
+          "Earth Power",
+          "Stone Edge",
+          "Stealth Rock",
+          "Stored Power",
+          "Focus Blast",
+          "Grass Knot",
+          "Work Up",
+          "Drill Run",
+          "Play Rough",
+          "Work Up",
+          "Hurricane",
+          "Body Press",
+          "Flamethrower",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Psychic",
+          "Fire Blast",
+          "Substitute",
+          "Endure",
+               "Poison Jab",
+               "X-Scissor",
+               "Bug Buzz",
+               "Energy Ball",
+               "Flash Cannon",
+               "Electro Ball",
+               "Wild Charge",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+          "Hyper Voice",
+          "Overheat",
+          "Calm Mind",
+          "Flare Blitz",
+          "Brave Bird",
+          "Earth Power",
+               "Baton Pass",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "MotorDrive"
+            ],
+            "hiddenAbilities":[
+               "WeakArmor"
+            ]
+         },
+        "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 4.5,
+						"y": 0,
+						"z": 0.54
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":95,
+            "attack":150,
+            "defense":115,
+            "specialAttack":115,
+            "specialDefense":105,
+            "speed":170
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":220,
+            "baseFriendship":70,
+            "spawnLevel":48,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2183_jetmervamon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2183_jetmervamon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2183_jetmervamon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2183_jetmervamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2183_jetmervamon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2183_jetmervamon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2183_jetmervamon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "POISON",
+            "FLYING"
+         ],
+         "preEvolutions":[
+            "Mervamon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":61.1,
+         "catchRate":10,
+         "malePercentage":-1,
+         "evolutions":[
+            
+         ],
+         "evYields":{
+            "speed":5,
+            "attack":4
+         }
+      }
+   ],
+   "generation":20
+}

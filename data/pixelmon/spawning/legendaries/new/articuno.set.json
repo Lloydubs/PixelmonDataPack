@@ -1,0 +1,557 @@
+{
+  "id": "Articuno",
+  "spawnInfos": [
+    {
+      "spec": "species:Articuno level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno palette:akuma level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:arctic level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:crimson level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:egyptian level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:ethereal level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:ice level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:moon level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:nippon level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:oblivion level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:shadow level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:snow level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:tier 1 level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:tier 2 level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno palette:vapor level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Articuno form:galarian level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:crimson level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:easter level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:elemental level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:love 1 level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:love 2 level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:midnight level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Articuno form:galarian palette:toy level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

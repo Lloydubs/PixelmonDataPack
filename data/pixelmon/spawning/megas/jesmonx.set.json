@@ -1,0 +1,23 @@
+{
+  "id": "Jesmon X",
+  "spawnInfos": [
+    {
+      "spec": "species:Jesmon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "plains",
+          "biomesoplenty:tundra",
+          "biomesoplenty:tundra_basin",
+          "biomesoplenty:tundra_bog"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

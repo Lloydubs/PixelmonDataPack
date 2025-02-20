@@ -1,0 +1,45 @@
+{
+  "id": "Quaxwell",
+  "spawnInfos": [
+    {
+      "spec": "species:Quaxwell",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Quaxwell palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

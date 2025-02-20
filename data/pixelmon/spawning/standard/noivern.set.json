@@ -1,0 +1,1005 @@
+{
+  "id": "Noivern",
+  "spawnInfos": [
+    {
+      "spec": "species:Noivern",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Noivern palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:aquatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:coralp",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:coralw",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:dark galaxy",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:metal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:neon 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:neon 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:neon 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:nintendo",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:summer",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:vampire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:vapor",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Noivern palette:video game",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Noivern",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Noivern palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:aquatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:coralp",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:coralw",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:dark galaxy",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:metal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:neon 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:neon 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:neon 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:nintendo",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:summer",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:vampire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:vapor",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Noivern palette:video game",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Noivern",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Noivern palette:animalistic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:aquatic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:battlecast",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:christmas",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:coralp",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:coralw",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:dark galaxy",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:metal",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:neon 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:neon 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:neon 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:nintendo",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:radioactive",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:summer",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:vampire",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:vapor",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Noivern palette:video game",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 48,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "maxLightLevel": 0
+      },
+      "rarity": 0.01
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "id": "Hoopa",
+  "spawnInfos": [
+    {
+      "spec": "species:Hoopa level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Hoopa palette:crimson level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:ethereal level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:god level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:halloween level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:neon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:norse level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:oni level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:samurai level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Hoopa palette:shadow level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:prison_bottle",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "structures": [
+          "minecraft:desert_pyramid"
+        ]
+      },
+      "rarity": 0.02
+    }
+  ]
+}

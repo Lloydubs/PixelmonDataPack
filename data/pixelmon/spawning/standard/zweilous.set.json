@@ -1,0 +1,206 @@
+{
+  "id": "Zweilous",
+  "spawnInfos": [
+    {
+      "spec": "species:Zweilous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Zweilous palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Zweilous palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Zweilous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Zweilous palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Zweilous palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Zweilous",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Zweilous palette:primal",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Zweilous palette:radioactive",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxLightLevel": 0
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Zweilous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Zweilous palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Zweilous palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 51,
+      "maxLevel": 63,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

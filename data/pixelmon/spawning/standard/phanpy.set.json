@@ -1,0 +1,131 @@
+{
+  "id": "Phanpy",
+  "spawnInfos": [
+    {
+      "spec": "species:Phanpy",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Phanpy palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Phanpy palette:dessert 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Phanpy palette:dessert 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Phanpy palette:egyptian",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Phanpy palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 5,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 13.0
+    }
+  ]
+}

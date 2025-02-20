@@ -1,0 +1,1106 @@
+{
+  "id": "Dragonite",
+  "spawnInfos": [
+    {
+      "spec": "species:Dragonite",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Dragonite palette:arctic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:blood",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:coralp",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:coralw",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:cosplay",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:crimson",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:dessert 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:dessert 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:ditto",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },{
+      "spec": "species:Dragonite palette:easter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:event",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:fusion 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:fusion 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:galaxy",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:gembound",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:glass",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:infernal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:insectoid",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:magma",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:metal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:moon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:poison",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:purple haze",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:rising sun",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:royal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:school 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:school 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:steampunk 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:steampunk 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:sun",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:sunset",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:toxic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Dragonite palette:video game",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Dragonite form:creator",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Dragonite form:base palette:ashen",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 55,
+      "maxLevel": 70,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

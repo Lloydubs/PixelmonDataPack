@@ -1,0 +1,29 @@
+{
+    "attackIndex": 900069,
+    "attackName": "God Fist",
+    "attackType": "FLYING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 110,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Flee"
+    }],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

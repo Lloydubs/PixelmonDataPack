@@ -1,0 +1,38 @@
+{
+    "attackIndex": 900121,
+    "attackName": "Number One Punch",
+    "attackType": "STEEL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 110,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BoltBeak"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "JumpKick"
+    }
+],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

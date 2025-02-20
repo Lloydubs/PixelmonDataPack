@@ -1,0 +1,46 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Viking Flail",
+    "attackType": "ROCK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 3,
+    "ppMax": 6,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "effectTypeID": "BarbBarrage",
+      "modifiers": [],
+      "persists": false
+    },
+    {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 33.3
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

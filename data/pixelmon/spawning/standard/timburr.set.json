@@ -1,0 +1,105 @@
+{
+  "id": "Timburr",
+  "spawnInfos": [
+    {
+      "spec": "species:Timburr",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ],
+        "minY": 85
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Timburr palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Timburr palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Timburr palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Timburr palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ],
+        "minY": 85
+      },
+      "rarity": 13.0
+    }
+  ]
+}

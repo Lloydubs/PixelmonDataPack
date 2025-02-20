@@ -1,0 +1,173 @@
+{
+  "id": "Elgyem",
+  "spawnInfos": [
+    {
+      "spec": "species:Elgyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Elgyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Elgyem palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Elgyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:small_end_islands",
+          "minecraft:end_barrens",
+          "minecraft:end_midlands",
+          "byg:ivis_fields",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:viscal_isles",
+          "byg:shattered_viscal_isles",
+          "nullscape:void_barrens"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Elgyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:small_end_islands",
+          "minecraft:end_barrens",
+          "minecraft:end_midlands",
+          "byg:ivis_fields",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:viscal_isles",
+          "byg:shattered_viscal_isles",
+          "nullscape:void_barrens"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Elgyem palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:small_end_islands",
+          "minecraft:end_barrens",
+          "minecraft:end_midlands",
+          "byg:ivis_fields",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:viscal_isles",
+          "byg:shattered_viscal_isles",
+          "nullscape:void_barrens"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Elgyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Elgyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Elgyem palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 41,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

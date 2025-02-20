@@ -1,0 +1,330 @@
+{
+  "id": "Glastrier",
+  "spawnInfos": [
+    {
+      "spec": "species:Glastrier level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Glastrier palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:demonic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:easter level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:ethereal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:gamma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:halloween level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:infernal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:meadownian 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:meadownian 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:oblivion level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:sunshine 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Glastrier palette:sunshine 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

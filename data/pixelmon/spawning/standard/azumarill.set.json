@@ -1,0 +1,595 @@
+{
+  "id": "Azumarill",
+  "spawnInfos": [
+    {
+      "spec": "species:Azumarill",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Azumarill palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:easter 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:easter 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:easter 5",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:food",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:gamer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:painted 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:painted 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:poison",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Azumarill palette:toxic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "baseBlocks": [
+          "minecraft:sand",
+          "biomesoplenty:white_sand",
+          "byg:white_sand"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Azumarill palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

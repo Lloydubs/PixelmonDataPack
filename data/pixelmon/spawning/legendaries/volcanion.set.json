@@ -1,0 +1,291 @@
+{
+  "id": "Volcanion",
+  "spawnInfos": [
+    {
+      "spec": "species:Volcanion level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcanion palette:arctic level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:christmas level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:crimson level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:dark 1 level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:dark 2 level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:easter level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:rgb level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:spartan level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Volcanion palette:sun level:70",
+      "stringLocationTypes": [
+        "Liquid Floor"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic",
+          "byg:oasis",
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

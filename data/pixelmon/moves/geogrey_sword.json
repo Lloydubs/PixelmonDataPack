@@ -1,0 +1,38 @@
+{
+    "attackIndex": 900062,
+    "attackName": "GeoGrey Sword",
+    "attackType": "ROCK",
+    "attackCategory": "SPECIAL",
+    "basePower": 100,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "SPECIAL_DEFENSE",
+            "amount": -1,
+            "isUser": false,
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 40.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

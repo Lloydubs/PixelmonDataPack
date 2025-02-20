@@ -1,0 +1,90 @@
+{
+    "attackIndex": 900079,
+    "attackName": "Knowledge Stream",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 60,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+      "type": "SPECIAL_DEFENSE",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "DEFENSE",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPECIAL_ATTACK",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "ATTACK",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPEED",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

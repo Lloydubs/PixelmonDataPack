@@ -1,0 +1,386 @@
+{
+  "name": "Veemon",
+  "dex": 2079,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 1.1,
+        "width": 1.1,
+        "length": 1,
+        "eyeHeight": 1.1,
+        "hoverHeight": 1.1
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Return"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Bounce"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Dragon Claw"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Psycho Cut"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Head Charge"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Zen Headbutt"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Dragon Ascent"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Brave Bird"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Swift",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Rock Tomb",
+          "Shadow Claw",
+          "Fire Fang",
+          "Bulldoze",
+          "False Swipe",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe",
+          "Round"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Surf",
+          "Earthquake",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Hydro Pump",
+          "Focus Energy",
+          "Poison Jab",
+          "Fire Blast",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Crunch",
+          "Hyper Voice",
+          "Iron Defense",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aerial Ace",
+          "Captivate",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Dragon Rage",
+          "Frustration",
+          "Fury Cutter",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Hone Claws",
+          "Laser Focus",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rage",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Wish"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "HyperCutter"
+        ],
+        "hiddenAbilities": [
+          "KeenEye"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 61,
+        "attack": 69,
+        "defense": 56,
+        "specialAttack": 58,
+        "specialDefense": 62,
+        "speed": 74
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 102,
+        "baseFriendship": 70,
+        "spawnLevel": 5,
+        "spawnLevelRange": 2,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2079_veemon/all/base/none/texture.png",
+              "emissive": "pixelmon:pokemon/2079_veemon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2079_veemon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2079_veemon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2079_veemon/all/base/shiny/texture.png",
+              "emissive": "pixelmon:pokemon/2079_veemon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2079_veemon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "NORMAL"
+      ],
+      "preEvolutions": [
+        "Lighdramon",
+        "Flamedramon",
+        "Magnamon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 13.3,
+      "catchRate": 100,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:pearl"
+          },
+          "to": "Sagittarimon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Scorching Sands",
+            "Judgement Arrow",
+            "Meteor Gallop"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:nugget"
+          },
+          "to": "Gargoylemon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Ice Fang",
+            "White Statue",
+            "Black Statue"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:strange_souvenir"
+          },
+          "to": "GoldVeedramon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Ancient Power",
+            "V-Nova Blast",
+            "Cutter Shoot"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:tiny_mushroom"
+          },
+          "to": "Lighdramon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Thunder Fang",
+            "Electric Byte",
+            "Lightning Blade"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:rare_bone"
+          },
+          "to": "Flamedramon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Fire Fang",
+            "Fire Rocket",
+            "Knuckle Fire"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:comet_shard"
+          },
+          "to": "Magnamon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Psybeam",
+            "Magna Blast",
+            "Shining Gold Solar Storm"
+          ]
+        },
+        {
+          "level": 20,
+          "to": "ExVeemon",
+          "conditions": [
+            {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+            }
+          ],
+          "evoType": "leveling",
+          "moves": [
+            "Wing Attack"
+          ]
+        },
+        {
+          "level": 20,
+          "to": "Veedramon",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Wing Attack"
+          ]
+        }
+      ],
+      "evYields": {
+        "attack": 1,
+        "specialattack": 1
+      }
+    }
+  ],
+  "generation": 20
+}

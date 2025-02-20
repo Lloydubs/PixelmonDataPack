@@ -1,0 +1,306 @@
+{
+  "id": "Floatzel",
+  "spawnInfos": [
+    {
+      "spec": "species:Floatzel",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Floatzel palette:dream",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Floatzel palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Floatzel palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Floatzel palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Floatzel palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Floatzel palette:tails",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/lakes",
+          "minecraft:stony_shore",
+          "byg:rocky_beach",
+          "terralith:gravel_beach",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Buizel",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 0.8
+    },
+  ]
+}

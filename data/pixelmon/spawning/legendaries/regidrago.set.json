@@ -1,0 +1,205 @@
+{
+  "id": "Regidrago",
+  "spawnInfos": [
+    {
+      "spec": "species:Regidrago level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Regidrago palette:christmas level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:crimson level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:dark galaxy level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:gamma level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:meadownian 1 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:meadownian 2 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:oblivion level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:skeletal level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regidrago palette:summer level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

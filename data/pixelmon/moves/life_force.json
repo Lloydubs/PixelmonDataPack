@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Life Force",
+    "attackType": "FIRE",
+    "attackCategory": "SPECIAL",
+    "basePower": 70,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 85,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Synthesis"
+    },
+    {
+      "drainPercent": 30,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

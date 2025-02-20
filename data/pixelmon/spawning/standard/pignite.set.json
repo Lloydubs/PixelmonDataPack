@@ -1,0 +1,95 @@
+{
+  "id": "Pignite",
+  "spawnInfos": [
+    {
+      "spec": "species:Pignite",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Pignite palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Pignite palette:fall festival 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Pignite palette:fall festival 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Pignite palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 17,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

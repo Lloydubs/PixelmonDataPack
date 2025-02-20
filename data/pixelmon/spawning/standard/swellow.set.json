@@ -1,0 +1,131 @@
+{
+  "id": "Swellow",
+  "spawnInfos": [
+    {
+      "spec": "species:Swellow",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Swellow palette:akuma",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Swellow palette:corrupt",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Swellow palette:halloween 1",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Swellow palette:halloween 2",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Swellow palette:shadow",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 25,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

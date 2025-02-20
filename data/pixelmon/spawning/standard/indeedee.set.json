@@ -1,0 +1,237 @@
+{
+  "id": "Indeedee",
+  "spawnInfos": [
+    {
+      "spec": "species:Indeedee",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Indeedee palette:city",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:love 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Indeedee palette:love 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 28,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:sitrus_berry",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:oran_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

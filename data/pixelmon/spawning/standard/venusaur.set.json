@@ -1,0 +1,530 @@
+{
+  "id": "Venusaur",
+  "spawnInfos": [
+    {
+      "spec": "species:Venusaur",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Venusaur palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:venomous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Venusaur palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

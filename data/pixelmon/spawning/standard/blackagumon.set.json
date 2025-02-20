@@ -1,0 +1,31 @@
+{
+  "id": "BlackAgumon",
+  "spawnInfos": [
+    {
+      "spec": "species:BlackAgumon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "arid",
+          "minecraft:badlands",
+          "biomesoplenty:volcanic_plains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

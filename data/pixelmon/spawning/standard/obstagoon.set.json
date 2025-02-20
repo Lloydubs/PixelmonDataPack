@@ -1,0 +1,45 @@
+{
+  "id": "Obstagoon",
+  "spawnInfos": [
+    {
+      "spec": "species:Obstagoon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Obstagoon palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "minecraft:snowy_plains",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+    "attackIndex": 900021,
+    "attackName": "Celestial Arrow",
+    "attackType": "Fairy",
+    "attackCategory": "PHYSICAL",
+    "basePower": 80,
+    "ppBase": 20,
+    "ppMax": 30,
+    "accuracy": 75,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "Paralysis",
+            "modifiers": [
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

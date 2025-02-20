@@ -1,0 +1,383 @@
+{
+  "id": "Alakazam",
+  "spawnInfos": [
+    {
+      "spec": "species:Alakazam",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Alakazam palette:ben 10",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:corrupt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:psychedelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:resolute",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:rocket",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:school 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:school 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Alakazam palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:twisted_spoon",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:end_highlands"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

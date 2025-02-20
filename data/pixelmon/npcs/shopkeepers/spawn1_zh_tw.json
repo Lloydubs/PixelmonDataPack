@@ -1,0 +1,1200 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+{
+"name": "aquaboss.png"
+},
+{
+"name": "aquagruntfemale.png"
+},
+{
+"name": "aquagruntmale.png"
+},
+{
+"name": "artist.png"
+},
+{
+"name": "baker.png"
+},
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "blacksmith.png"
+},
+{
+"name": "breedergreen_f.png"
+},
+{
+"name": "breedergreen_m.png"
+},
+{
+"name": "bugcatcher1.png"
+},
+{
+"name": "bugcatcher2.png"
+},
+{
+"name": "bugcatcher3.png"
+},
+{
+"name": "bugcatcher4.png"
+},
+{
+"name": "bugcatchergirl.png"
+},
+{
+"name": "cueball.png"
+},
+{
+"name": "cult.png"
+},
+{
+"name": "doctor.png"
+},
+{
+"name": "dress.png"
+},
+{
+"name": "electricleader1.png"
+},
+{
+"name": "engineer.png"
+},
+{
+"name": "evilprofessor.png"
+},
+{
+"name": "firebreather1.png"
+},
+{
+"name": "firebreather2.png"
+},
+{
+"name": "firebreather3.png"
+},
+{
+"name": "firebreather4.png"
+},
+{
+"name": "fireleader2.png"
+},
+{
+"name": "fisherman.png"
+},
+{
+"name": "flaregruntfemale.png"
+},
+{
+"name": "flaregruntmale.png"
+},
+{
+"name": "flyingleader1.png"
+},
+{
+"name": "flyingleader2.png"
+},
+{
+"name": "football1.png"
+},
+{
+"name": "football2.png"
+},
+{
+"name": "galacticboss.png"
+},
+{
+"name": "galacticgruntfemale.png"
+},
+{
+"name": "galacticgruntmale.png"
+},
+{
+"name": "gardenermale1.png"
+},
+{
+"name": "gardenermale2.png"
+},
+{
+"name": "giovanni.png"
+},
+{
+"name": "gnome_trader.png"
+},
+{
+"name": "grassbugleader1.png"
+},
+{
+"name": "guzma.png"
+},
+{
+"name": "hexmaniac.png"
+},
+{
+"name": "hiker.png"
+},
+{
+"name": "iceleader1.png"
+},
+{
+"name": "iceleader2.png"
+},
+{
+"name": "jonsnow.png"
+},
+{
+"name": "knight.png"
+},
+{
+"name": "lass.png"
+},
+{
+"name": "lass2.png"
+},
+{
+"name": "lass3.png"
+},
+{
+"name": "lighthousekeeper.png"
+},
+{
+"name": "littleboy.png"
+},
+{
+"name": "littlegirl.png"
+},
+{
+"name": "lumberjack.png"
+},
+{
+"name": "lysandre.png"
+},
+{
+"name": "madame.png"
+},
+{
+"name": "magmaboss.png"
+},
+{
+"name": "magmagruntfemale.png"
+},
+{
+"name": "magmagruntmale.png"
+},
+{
+"name": "mailman.png"
+},
+{
+"name": "mechanic.png"
+},
+{
+"name": "miner.png"
+},
+{
+"name": "monk1.png"
+},
+{
+"name": "monk2.png"
+},
+{
+"name": "monsieur.png"
+},
+{
+"name": "n.png"
+},
+{
+"name": "npcchat1.png"
+},
+{
+"name": "npcchat2.png"
+},
+{
+"name": "nursejoy.png"
+},
+{
+"name": "officerjenny.png"
+},
+{
+"name": "oldfisherman.png"
+},
+{
+"name": "oldman.png"
+},
+{
+"name": "oldwoman.png"
+},
+{
+"name": "ornithologist.png"
+},
+{
+"name": "ornithologist_f.png"
+},
+{
+"name": "piratecaptain.png"
+},
+{
+"name": "pirategrunt1.png"
+},
+{
+"name": "pirategrunt2.png"
+},
+{
+"name": "pkmn_breeder_f.png"
+},
+{
+"name": "plasmagruntfemale.png"
+},
+{
+"name": "plasmagruntmale.png"
+},
+{
+"name": "pokefan_f.png"
+},
+{
+"name": "pokefan_m.png"
+},
+{
+"name": "pokemaniac1.png"
+},
+{
+"name": "pokemaniac2.png"
+},
+{
+"name": "pokemaniac3.png"
+},
+{
+"name": "pokemaniacgirl1.png"
+},
+{
+"name": "pokemaniacgirl2.png"
+},
+{
+"name": "pokemaniacgirl3.png"
+},
+{
+"name": "policeman.png"
+},
+{
+"name": "preschooler_f1.png"
+},
+{
+"name": "prisoner.png"
+},
+{
+"name": "professorras.png"
+},
+{
+"name": "psychic.png"
+},
+{
+"name": "psychicleader1.png"
+},
+{
+"name": "psychic_f.png"
+},
+{
+"name": "punkgirl.png"
+},
+{
+"name": "punkguy.png"
+},
+{
+"name": "rancher.png"
+},
+{
+"name": "ranger_f.png"
+},
+{
+"name": "ranger_m.png"
+},
+{
+"name": "richboy.png"
+},
+{
+"name": "rocketgruntfemale1.png"
+},
+{
+"name": "rocketgruntfemale2.png"
+},
+{
+"name": "rocketgruntfemale3.png"
+},
+{
+"name": "rocketgruntfemale4.png"
+},
+{
+"name": "rocketgruntfemale5.png"
+},
+{
+"name": "rocketgruntfemale6.png"
+},
+{
+"name": "rocketgruntmale1.png"
+},
+{
+"name": "rocketgruntmale2.png"
+},
+{
+"name": "rocketgruntmale3.png"
+},
+{
+"name": "rocketgruntmale4.png"
+},
+{
+"name": "rocketgruntmale5.png"
+},
+{
+"name": "rocketgruntmale6.png"
+},
+{
+"name": "rockleader1.png"
+},
+{
+"name": "sailor.png"
+},
+{
+"name": "sailor2.png"
+},
+{
+"name": "santa.png"
+},
+{
+"name": "schoolboy.png"
+},
+{
+"name": "schoolgirl.png"
+},
+{
+"name": "scientist_f.png"
+},
+{
+"name": "scientist_m.png"
+},
+{
+"name": "scottish.png"
+},
+{
+"name": "shopgirl.png"
+},
+{
+"name": "shoplady.png"
+},
+{
+"name": "shoplady2.png"
+},
+{
+"name": "shoplady3.png"
+},
+{
+"name": "shoplady4.png"
+},
+{
+"name": "shoplady5.png"
+},
+{
+"name": "shopman.png"
+},
+{
+"name": "shopman2.png"
+},
+{
+"name": "shopman3.png"
+},
+{
+"name": "shopman4.png"
+},
+{
+"name": "shopman5.png"
+},
+{
+"name": "shopsecondman.png"
+},
+{
+"name": "skullgruntfemale.png"
+},
+{
+"name": "skullgruntmale.png"
+},
+{
+"name": "spawntrader.png"
+},
+{
+"name": "steelleader1.png"
+},
+{
+"name": "streetthug.png"
+},
+{
+"name": "suit.png"
+},
+{
+"name": "supernerd.png"
+},
+{
+"name": "swimmer_f1.png"
+},
+{
+"name": "swimmer_f2.png"
+},
+{
+"name": "swimmer_m1.png"
+},
+{
+"name": "swimmer_m2.png"
+},
+{
+"name": "teamyellfemale.png"
+},
+{
+"name": "teamyellgruntfemale.png"
+},
+{
+"name": "teamyellgruntmale.png"
+},
+{
+"name": "teamyellmale.png"
+},
+{
+"name": "tesla.png"
+},
+{
+"name": "waterleader1.png"
+},
+{
+"name": "waterleader2.png"
+},
+{
+"name": "youngster1.png"
+},
+{
+"name": "youngster2.png"
+},
+{
+"name": "youngster3.png"
+},
+{
+"name": "youngster4.png"
+},
+{
+"name": "youngster5.png"
+},
+{
+"name": "youngster6.png"
+},
+{
+"name": "youngster7.png"
+},
+{
+"name": "youngstergirl.png"
+},
+{
+"name": "youngstergirl2.png"
+}
+],
+  "names": [
+{
+"name":"乔治"
+},
+{
+"name":"德博拉"
+},
+{
+"name":"布里安娜"
+},
+{
+"name":"姓名"
+},
+{
+"name":"妮娜"
+},
+{
+"name":"梅西"
+},
+{
+"name":"乔安娜"
+},
+{
+"name":"夏洛特"
+},
+{
+"name":"莱拉"
+},
+{
+"name":"田娜"
+},
+{
+"name":"麦亚"
+},
+{
+"name":"加布里埃拉"
+},
+{
+"name":"弗兰西斯卡"
+},
+{
+"name":"康坦斯"
+},
+{
+"name":"米莉亚"
+},
+{
+"name":"凯拉"
+},
+{
+"name":"阿尔菲"
+},
+{
+"name":"切尔西"
+},
+{
+"name":"艾丽西亚"
+},
+{
+"name":"简"
+},
+{
+"name":"迪米"
+},
+{
+"name":"埃尔西"
+},
+{
+"name":"扎赫拉"
+},
+{
+"name":"莉莉安"
+},
+{
+"name":"弗菲恩"
+},
+{
+"name":"凯拉"
+},
+{
+"name":"Ellen"
+},
+{
+"name":"芭芭拉"
+},
+{
+"name":"黛西"
+},
+{
+"name":"加布里埃尔"
+},
+{
+"name":"阿丽雅"
+},
+{
+"name":"紫罗兰"
+},
+{
+"name":"芙蓉姐姐"
+},
+{
+"name":"伊斯梅尔"
+},
+{
+"name":"阿米尔"
+},
+{
+"name":"郝伯特"
+},
+{
+"name":"尼古拉"
+},
+{
+"name":"阿尔文"
+},
+{
+"name":"鲁弗斯"
+},
+{
+"name":"拉拉"
+},
+{
+"name":"威利"
+},
+{
+"name":"乌玛"
+},
+{
+"name":"布雷特"
+},
+{
+"name":"珍珠"
+},
+{
+"name":"雅克"
+},
+{
+"name":"扎克"
+},
+{
+"name":"杰西"
+},
+{
+"name":"胡安"
+},
+{
+"name":"罗伊"
+},
+{
+"name":"弗雷泽"
+},
+{
+"name":"马歇尔"
+},
+{
+"name":"约翰尼"
+},
+{
+"name":"拉斐尔"
+},
+{
+"name":"劳埃德"
+},
+{
+"name":"条款"
+},
+{
+"name":"爱德华"
+},
+{
+"name":"吉姆"
+},
+{
+"name":"耶利米"
+},
+{
+"name":"伯纳德"
+},
+{
+"name":"罗伯特"
+},
+{
+"name":"哈罗德"
+},
+{
+"name":"布兰登"
+},
+{
+"name":"帕特里克"
+},
+{
+"name":"马克西米利安"
+},
+{
+"name":"阿格里波"
+},
+{
+"name":"阿格里帕"
+},
+{
+"name":"艾尔贝"
+},
+{
+"name":"阿尔都斯"
+},
+{
+"name":"阿莱克斯"
+},
+{
+"name":"阿玛里"
+},
+{
+"name":"阿兰"
+},
+{
+"name":"艾瑞爾"
+},
+{
+"name":"阿罗哈"
+},
+{
+"name":"阿斯蒂"
+},
+{
+"name":"阿维利"
+},
+{
+"name":"Awee"
+},
+{
+"name":"阿沃特维"
+},
+{
+"name":"阿约顿德"
+},
+{
+"name":"吕晓明"
+},
+{
+"name":"班迪尔"
+},
+{
+"name":"彪哥"
+},
+{
+"name":"卡姆"
+},
+{
+"name":"卡姆林"
+},
+{
+"name":"卡莫"
+},
+{
+"name":"陈"
+},
+{
+"name":"丘克"
+},
+{
+"name":"蒋介石"
+},
+{
+"name":"芝马"
+},
+{
+"name":"芝那"
+},
+{
+"name":"芝恩贝克"
+},
+{
+"name":"Chizoba"
+},
+{
+"name":"秦"
+},
+{
+"name":"科迪"
+},
+{
+"name":"D'Arcy"
+},
+{
+"name":"达纳"
+},
+{
+"name":"达纳"
+},
+{
+"name":"达拉"
+},
+{
+"name":"达瓦"
+},
+{
+"name":"德尼兹"
+},
+{
+"name":"达尔文（Dîyar"
+},
+{
+"name":"杜巴库"
+},
+{
+"name":"杜伊古"
+},
+{
+"name":"辽宁省"
+},
+{
+"name":"辽宁省"
+},
+{
+"name":"辽宁省"
+},
+{
+"name":"吕晓明"
+},
+{
+"name":"Emmery"
+},
+{
+"name":"尹恩荣"
+},
+{
+"name":"邓丽君"
+},
+{
+"name":"冯小刚"
+},
+{
+"name":"费杜斯"
+},
+{
+"name":"Fido"
+},
+{
+"name":"Firdos"
+},
+{
+"name":"Flick"
+},
+{
+"name":"格雷特"
+},
+{
+"name":"Gili"
+},
+{
+"name":"Glaucia"
+},
+{
+"name":"Gul"
+},
+{
+"name":"Gurpreet"
+},
+{
+"name":"秦皇岛"
+},
+{
+"name":"Heike"
+},
+{
+"name":"日纳塔"
+},
+{
+"name":"晓明"
+},
+{
+"name":"辉"
+},
+{
+"name":"爹地"
+},
+{
+"name":"伊图麦伦"
+},
+{
+"name":"翟"
+},
+{
+"name":"姜文"
+},
+{
+"name":"尹志强"
+},
+{
+"name":"洁西"
+},
+{
+"name":"蒋介石"
+},
+{
+"name":"賈"
+},
+{
+"name":"静"
+},
+{
+"name":"Jip"
+},
+{
+"name":"Jools"
+},
+{
+"name":"卡德"
+},
+{
+"name":"Kagiso"
+},
+{
+"name":"冯小刚"
+},
+{
+"name":"坎塔"
+},
+{
+"name":"坎塔（Kaulana"
+},
+{
+"name":"Kehinde"
+},
+{
+"name":"坎特"
+},
+{
+"name":"坎特（Khayrat"
+},
+{
+"name":"坎儿井"
+},
+{
+"name":"坎儿井"
+},
+{
+"name":"莱西"
+},
+{
+"name":"Lakshmi"
+},
+{
+"name":"Laxmi"
+},
+{
+"name":"林赛"
+},
+{
+"name":"Liraz"
+},
+{
+"name":"琳琳（Lorrin"
+},
+{
+"name":"卢凯罗"
+},
+{
+"name":"伦吉勒"
+},
+{
+"name":"卢佩"
+},
+{
+"name":"马杜"
+},
+{
+"name":"马杜"
+},
+{
+"name":"姆兰"
+},
+{
+"name":"马卡纳"
+},
+{
+"name":"马蒂"
+},
+{
+"name":"马蒂亚"
+},
+{
+"name":"Maurie"
+},
+{
+"name":"冯小刚"
+},
+{
+"name":"Min-Jun"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"米南赫勒"
+},
+{
+"name":"莫内"
+},
+{
+"name":"蒙大拿"
+},
+{
+"name":"慕迪瓦"
+},
+{
+"name":"纳西姆"
+},
+{
+"name":"梦之城_梦之城娱乐_梦之城国际娱乐_梦之城国际娱乐平台"
+},
+{
+"name":"Nerþuz"
+},
+{
+"name":"Neram"
+},
+{
+"name":"Noam"
+},
+{
+"name":"Nour"
+},
+{
+"name":"Nsia"
+},
+{
+"name":"努卡"
+},
+{
+"name":"奥夫拉"
+},
+{
+"name":"Ogochukwu"
+},
+{
+"name":"奥拉因卡"
+},
+{
+"name":"吕文杰"
+},
+{
+"name":"奥贡巴亚尔"
+},
+{
+"name":"帕吉特"
+},
+{
+"name":"帕尔默"
+},
+{
+"name":"佩恩"
+},
+{
+"name":"拉特纳"
+},
+{
+"name":"リックモード"
+},
+{
+"name":"燕子"
+},
+{
+"name":"Şan"
+},
+{
+"name":"胜"
+},
+{
+"name":"薛凯琪"
+},
+{
+"name":"薛凯琪"
+},
+{
+"name":"苏凡纳"
+},
+{
+"name":"斯塔夫"
+},
+{
+"name":"斯蒂芬"
+},
+{
+"name":"燕子"
+},
+{
+"name":"苏曼"
+},
+{
+"name":"Tatum"
+},
+{
+"name":"Tendai"
+},
+{
+"name":"Tivoli"
+},
+{
+"name":"蒂旺格"
+},
+{
+"name":"吕晓明"
+},
+{
+"name":"Tshepo"
+},
+{
+"name":"苠"
+},
+{
+"name":"Tumelo"
+},
+{
+"name":"姆巴佩"
+},
+{
+"name":"姆巴达"
+},
+{
+"name":"努尔哈赤"
+},
+{
+"name":"梵娜"
+},
+{
+"name":"汪莉"
+},
+{
+"name":"韦弗利"
+},
+{
+"name":"玮"
+},
+{
+"name":"徐安"
+},
+{
+"name":"雅穆尔"
+},
+{
+"name":"优姬"
+}
+  ],
+  "chat": [
+    {
+      "hello": "您在這裡啊！寶可夢訓練家！我這裡有一些珍貴的進化石給您挑選。",
+      "goodbye": "幸運的話您還有機會再次遇到我，寶可夢訓練家。"
+    },
+    {
+      "hello": "您好！我看您是個頂尖的寶可夢訓練家！我有販售一些珍貴的進化石。",
+      "goodbye": "很高興與您做生意。"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:sun_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:fire_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:water_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:moon_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:thunder_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:leaf_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dawn_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:dusk_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    },
+    {
+      "name": "pixelmon:shiny_stone",
+      "multi": 4.0,
+      "rarity": 0.2
+    }
+  ]
+}

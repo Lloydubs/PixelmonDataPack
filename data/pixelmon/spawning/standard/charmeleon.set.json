@@ -1,0 +1,801 @@
+{
+  "id": "Charmeleon",
+  "spawnInfos": [
+    {
+      "spec": "species:Charmeleon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Charmeleon palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:aquatic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },{
+      "spec": "species:Charmeleon palette:aquatic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:deep sea",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:gembound",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:skeletal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Charmeleon palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "minecraft:eroded_badlands",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Charmeleon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Charmeleon palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:aquatic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:aquatic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:deep sea",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:gembound",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:skeletal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Charmeleon palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+    "attackIndex": 900130,
+    "attackName": "Supreme Sword",
+    "attackType": "FIGHTING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 30,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "Flinch",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 10.0
+                }
+            ],
+            "persists": true,
+            "effectTypeID": "Flinch"
+        },
+        {
+            "minHits": 3,
+            "maxHits": 5,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"conical": false,
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,461 @@
+{
+  "name": "Durant",
+  "dex": 632,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.5,
+        "width": 0.7,
+        "length": 1,
+        "eyeHeight": 0.5,
+        "hoverHeight": 0.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Fury Cutter",
+              "Sand Attack"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Vise Grip"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Metal Claw"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Beat Up"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Bug Bite"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Bite"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Agility"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Dig"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "X-Scissor"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Metal Sound"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Iron Head"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Entrainment"
+            ]
+          },
+          {
+            "level": 52,
+            "attacks": [
+              "Iron Defense"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Guillotine"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Skitter Smack",
+          "Steel Beam"
+        ],
+        "eggMoves": [
+          "First Impression",
+          "Flail",
+          "Infestation",
+          "Metal Burst",
+          "Struggle Bug"
+        ],
+        "tmMoves8": [
+          "Giga Impact",
+          "Thunder Wave",
+          "Dig",
+          "Screech",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Attract",
+          "Sandstorm",
+          "Beat Up",
+          "Facade",
+          "Helping Hand",
+          "Rock Tomb",
+          "Shadow Claw",
+          "Thunder Fang",
+          "Round",
+          "Retaliate",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Agility",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Baton Pass",
+          "Crunch",
+          "Superpower",
+          "Iron Defense",
+          "X-Scissor",
+          "Energy Ball",
+          "Flash Cannon",
+          "Iron Head",
+          "Stone Edge"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Aerial Ace",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Endeavor",
+          "Feint Attack",
+          "Frustration",
+          "Hidden Power",
+          "Hone Claws",
+          "Return",
+          "Rock Climb",
+          "Rock Polish",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Swagger",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Protect",
+          "Frustration",
+          "Return",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Shadow Claw",
+          "Giga Impact",
+          "Rock Polish",
+          "Stone Edge",
+          "Thunder Wave",
+          "Rock Slide",
+          "X-Scissor",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Toxic",
+          "Hidden Power",
+          "Protect",
+          "Frustration",
+          "Return",
+          "Dig",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Shadow Claw",
+          "Retaliate",
+          "Giga Impact",
+          "Rock Polish",
+          "Stone Edge",
+          "Thunder Wave",
+          "Struggle Bug",
+          "Rock Slide",
+          "X-Scissor",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Toxic",
+          "Hidden Power",
+          "Protect",
+          "Frustration",
+          "Return",
+          "Dig",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Shadow Claw",
+          "Retaliate",
+          "Giga Impact",
+          "Rock Polish",
+          "Stone Edge",
+          "Thunder Wave",
+          "Struggle Bug",
+          "Rock Slide",
+          "X-Scissor",
+          "Swagger",
+          "Substitute",
+          "Flash Cannon",
+          "Rock Smash"
+        ],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Swarm",
+          "Hustle"
+        ],
+        "hiddenAbilities": [
+          "Truant"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 58,
+        "attack": 109,
+        "defense": 112,
+        "specialAttack": 48,
+        "specialDefense": 48,
+        "speed": 109
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 169,
+        "baseFriendship": 70,
+        "spawnLevel": 34,
+        "spawnLevelRange": 12,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/632_durant/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/632_durant/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/632_durant/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "aluminium",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-aluminium/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-aluminium/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "amethyst",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-amethyst/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-amethyst/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "coal",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-coal/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-coal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crystal",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-crystal/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-crystal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "diamond",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-diamond/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-diamond/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "emerald",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-emerald/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-emerald/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gold 1",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-gold1/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-gold1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gold 2",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-gold2/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-gold2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "iron",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-iron/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-iron/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lapis",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-lapis/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-lapis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "quartz",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-quartz/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-quartz/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "redstone",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-redstone/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-redstone/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ruby",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-ruby/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-ruby/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sapphire",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-sapphire/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-sapphire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "silicon",
+              "texture": "pixelmon:pokemon/632_durant/all/base/custom-silicon/texture.png",
+              "sprite": "pixelmon:pokemon/632_durant/all/base/custom-silicon/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "BUG"
+      ],
+      "types": [
+        "BUG",
+        "STEEL"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 33.0,
+      "catchRate": 90,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "defense": 2
+      }
+    }
+  ],
+  "generation": 5
+}

@@ -1,0 +1,48 @@
+{
+    "attackIndex": 900151,
+    "attackName": "Volcanic Flare",
+    "attackType": "FIRE",
+    "attackCategory": "SPECIAL",
+    "basePower": 125,
+    "ppBase": 5,
+    "ppMax": 8,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Defog"
+    }
+    ],
+    "animations": [    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "FLAME",
+				"variation": 0.6,
+				"speed": 0.5,
+				"scale": 0.3,
+				"segments": 25
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,1155 @@
+{
+  "id": "Umbreon",
+  "spawnInfos": [
+    {
+      "spec": "species:Umbreon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Umbreon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:egyptian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:neon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:rangos",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:special",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Umbreon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Umbreon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Umbreon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:egyptian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:neon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:rangos",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:special",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Umbreon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Umbreon palette:ashen",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Umbreon palette:strike",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Umbreon palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

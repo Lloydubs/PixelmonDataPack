@@ -1,0 +1,45 @@
+{
+    "attackIndex": 900124,
+    "attackName": "Sonic Ears",
+    "attackType": "FLYING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 45,
+    "ppBase": 10,
+    "ppMax": 24,
+    "accuracy": 70,
+    "makesContact": true,
+    "effects": [
+        {
+            "minHits": 2,
+            "maxHits": 4,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+        {
+            "type": "DEFENSE",
+            "amount": -1,
+            "isUser": false,
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 20.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

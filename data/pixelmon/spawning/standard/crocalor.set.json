@@ -1,0 +1,62 @@
+{
+  "id": "Crocalor",
+  "spawnInfos": [
+    {
+      "spec": "species:Crocalor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Crocalor palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Crocalor palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

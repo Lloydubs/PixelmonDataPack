@@ -1,0 +1,221 @@
+{
+  "name": "Ditto",
+  "dex": 132,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.25,
+        "width": 0.35,
+        "length": 1,
+        "eyeHeight": 0.25,
+        "hoverHeight": 0.25
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Transform"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Limber"
+        ],
+        "hiddenAbilities": [
+          "Imposter"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "specialAttack": 48,
+        "specialDefense": 48,
+        "speed": 48
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 61,
+        "baseFriendship": 70,
+        "spawnLevel": 15,
+        "spawnLevelRange": 35,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/132_ditto/all/base/none/model.pqc"
+                ],
+                "movementThreshold": 0.02
+              },
+              "sounds": [
+                "pixelmon.mob.ditto"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "zombie",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/zombie/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 1",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-galaxy1/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-galaxy1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 2",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-galaxy2/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-galaxy2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-hero/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-hero/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "irradiated",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-irradiated/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-irradiated/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "naruto",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-naruto/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-naruto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "purified 1",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-purified1/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-purified1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "purified 2",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-purified2/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-purified2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 1",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-summer1/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-summer1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 2",
+              "texture": "pixelmon:pokemon/132_ditto/all/base/custom-summer2/texture.png",
+              "sprite": "pixelmon:pokemon/132_ditto/all/base/custom-summer2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "DITTO"
+      ],
+      "types": [
+        "NORMAL"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 4.0,
+      "catchRate": 35,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "hp": 1
+      }
+    }
+  ],
+  "generation": 1
+}

@@ -1,0 +1,103 @@
+{
+    "attackIndex": 900044,
+    "attackName": "End of the World",
+    "attackType": "POISON",
+    "attackCategory": "SPECIAL",
+    "basePower": 70,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Defog"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "TidyUp"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "KnockOff"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.3,
+				"segments": 1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": true
+    }
+}

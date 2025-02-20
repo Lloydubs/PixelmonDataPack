@@ -1,0 +1,485 @@
+{
+  "id": "Drifblim",
+  "spawnInfos": [
+    {
+      "spec": "species:Drifblim",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Drifblim palatte:carnival",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:cny tiger 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:cny tiger 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:crimson",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event black",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event blue 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event blue 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event gold",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event green 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event green 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event pink 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event pink 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event purple",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event red",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event white",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event yellow 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:event yellow 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:nintendo",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:valentines",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drifblim palatte:withered",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 30,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

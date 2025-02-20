@@ -1,0 +1,282 @@
+{
+  "id": "Drakloak",
+  "spawnInfos": [
+    {
+      "spec": "species:Drakloak",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Drakloak palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drakloak palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drakloak palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drakloak palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drakloak palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Drakloak palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Drakloak",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Drakloak palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Drakloak palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Drakloak palette:dark galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Drakloak palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Drakloak palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Drakloak palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Drakloak palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

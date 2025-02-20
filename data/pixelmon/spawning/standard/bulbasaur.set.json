@@ -1,0 +1,572 @@
+{
+  "id": "Bulbasaur",
+  "spawnInfos": [
+    {
+      "spec": "species:Bulbasaur",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Bulbasaur palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:faceless 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:faceless 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{	
+      "spec": "species:Bulbasaur palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:love 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:love 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{	
+      "spec": "species:Bulbasaur palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{	
+      "spec": "species:Bulbasaur palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Bulbasaur palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    }	
+  ]
+}

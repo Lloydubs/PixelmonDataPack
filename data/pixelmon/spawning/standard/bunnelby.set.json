@@ -1,0 +1,234 @@
+{
+  "id": "Bunnelby",
+  "spawnInfos": [
+    {
+      "spec": "species:Bunnelby",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Bunnelby palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Bunnelby palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Bunnelby palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Bunnelby palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },{
+      "spec": "species:Bunnelby palette:easter 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Bunnelby palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Bunnelby",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Bunnelby palette:cny 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Bunnelby palette:cny 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    },{
+      "spec": "species:Bunnelby palette:easter 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Bunnelby palette:easter 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Bunnelby palette:easter 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Bunnelby palette:valentines",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 19,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 70
+      },
+      "rarity": 4.0
+    }
+  ]
+}

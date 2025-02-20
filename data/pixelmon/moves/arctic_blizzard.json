@@ -1,0 +1,50 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Arctic Blizzard",
+    "attackType": "ICE",
+    "attackCategory": "PHYSICAL",
+    "basePower": 75,
+    "ppBase": 3,
+    "ppMax": 6,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 40.0
+        }],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    },
+    {
+      "effectTypeID": "BarbBarrage",
+      "modifiers": [],
+      "persists": false
+    },
+    {
+      "weatherRock": "icyRock",
+      "type": "Hail",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Hail"
+    }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

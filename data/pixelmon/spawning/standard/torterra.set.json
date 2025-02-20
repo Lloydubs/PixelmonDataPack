@@ -1,0 +1,325 @@
+{
+  "id": "Torterra",
+  "spawnInfos": [
+    {
+      "spec": "species:Torterra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Torterra palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:obscuros",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:pirate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:snowfall",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:spring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Torterra palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

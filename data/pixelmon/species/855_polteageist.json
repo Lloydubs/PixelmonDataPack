@@ -1,0 +1,349 @@
+{
+  "name": "Polteageist",
+  "dex": 855,
+  "defaultForms": [
+    "phony",
+    "antique"
+  ],
+  "forms": [
+    {
+      "name": "phony",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 0.4,
+        "width": 0.4,
+        "length": 1,
+        "eyeHeight": 0.4,
+        "hoverHeight": 0.4
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Aromatic Mist",
+              "Astonish",
+              "Mega Drain",
+              "Strength Sap",
+              "Teatime",
+              "Withdraw"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Protect"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Sucker Punch"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Aromatherapy"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Giga Drain"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Nasty Plot"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Shadow Ball"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Memento"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Shell Smash"
+            ]
+          },
+          {
+            "level": 66,
+            "attacks": [
+              "Curse"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Poltergeist"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Self-Destruct",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Will-O-Wisp",
+          "Facade",
+          "Imprison",
+          "Payback",
+          "Wonder Room",
+          "Round",
+          "Hex",
+          "Phantom Force"
+        ],
+        "trMoves": [
+          "Psychic",
+          "Metronome",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Baton Pass",
+          "Shadow Ball",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Foul Play",
+          "Stored Power",
+          "Ally Switch"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "WeakArmor"
+        ],
+        "hiddenAbilities": [
+          "CursedBody"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "specialAttack": 134,
+        "specialDefense": 114,
+        "speed": 70
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 178,
+        "baseFriendship": 50,
+        "spawnLevel": 40,
+        "spawnLevelRange": 14,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/none/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/855_polteageist/all/phony/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.polteageist"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/custom-christmas/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magical",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/custom-magical/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/custom-magical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/855_polteageist/all/phony/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/phony/custom-summer/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MINERAL",
+        "AMORPHOUS"
+      ],
+      "types": [
+        "GHOST"
+      ],
+      "preEvolutions": [
+        "Sinistea"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 0.4,
+      "catchRate": 60,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 2
+      }
+    },
+    {
+      "name": "antique",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/none/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/855_polteageist/all/antique/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "anubis",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-anubis/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-anubis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ethereal",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-ethereal/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-ethereal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magical",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-magical/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-magical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-molten/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-molten/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sweet",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-sweet/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-sweet/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toon",
+              "texture": "pixelmon:pokemon/855_polteageist/all/antique/custom-toon/texture.png",
+              "sprite": "pixelmon:pokemon/855_polteageist/all/antique/custom-toon/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "evYields": {
+        "specialAttack": 2
+      }
+    }
+  ],
+  "generation": 8
+}

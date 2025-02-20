@@ -1,0 +1,957 @@
+{
+  "id": "Gengar",
+  "spawnInfos": [
+    {
+      "spec": "species:Gengar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:online",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:charged",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:crimson",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:halloween 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:inverse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:invisible",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:malice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:obscuros",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:oni",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:phantom",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:skeletal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:trainer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Gengar palette:ember",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:soul_sand_valley",
+          "incendium:weeping_valley"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Gengar palette:ashen",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDDAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Gengar",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Gengar palette:online",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:charged",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:crimson",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:dark",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:easter",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:halloween 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:halloween 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:halloween 3",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:halloween 4",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:hero",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:inverse",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:invisible",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:malice",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:oblivion",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:obscuros",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:oni",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:phantom",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:primal",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:skeletal",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:summer 1",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:summer 2",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:trainer",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Gengar palette:ember",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Gengar boss:haunted",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:haunted_tower"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

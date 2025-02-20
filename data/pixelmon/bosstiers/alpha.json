@@ -1,0 +1,43 @@
+{
+  "id": "alpha",
+  "name": "enum.trainerBoss.alpha",
+  "canRandomlySpawn": true,
+  "weight": 3,
+  "color": {
+    "r": 255, "g": 255, "b": 255, "a": 255
+  },
+  "modelScaleFactor": 2.1,
+  "isMega": false,
+  "megaStoneObtainChance": 0,
+  "megaStoneRepeatChance": 0,
+  "alwaysPalette": "",
+  "levelMultiplier": 1,
+  "extraLevels": 20,
+  "dropSets": [
+    {
+      "chance": 1,
+      "quantity": 1,
+      "drops": [
+        {
+          "weight": 7,
+          "name": "",
+          "item": "pixelmon:xl_exp_candy",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 7,
+          "name": "",
+          "item": "pixelmon:dynamax_candy",
+          "commands": [],
+          "ephemeral": false
+        },
+        {
+          "weight": 6,
+          "name": "",
+          "item": "pixelmon:rare_candy",
+          "commands": [],
+          "ephemeral": false
+        }
+      ]
+    }

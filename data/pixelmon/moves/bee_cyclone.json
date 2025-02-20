@@ -1,0 +1,53 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Bee Cyclone",
+    "attackType": "BUG",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": -1,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "DEFENSE",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPECIAL_DEFENSE",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Substitute",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Substitute"
+    },
+    {
+      "increment": 25,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    }
+    ],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

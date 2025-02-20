@@ -1,0 +1,78 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Sorrow Blue",
+    "attackType": "WATER",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 1,
+    "ppMax": 2,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FakeOut"
+    },
+    {
+      "type": "SPECIAL_ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPEED",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "weatherRock": "dampRock",
+      "type": "Rainy",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Rainy"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

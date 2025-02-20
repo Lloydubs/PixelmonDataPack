@@ -1,0 +1,454 @@
+{
+   "name": "Angewomon",
+   "dex": 2097,
+   "defaultForms": [
+      ""
+   ],
+   "forms": [
+      {
+         "name": "",
+         "experienceGroup": "MEDIUM_SLOW",
+         "dimensions": {
+            "height": 3.3,
+            "width": 2.0,
+            "length": 0.5,
+            "eyeHeight": 3.3,
+            "hoverHeight": 3.3
+         },
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch",
+                     "Spirit Break",
+                     "Celestial Arrow"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Sweet Kiss"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Pound"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Fairy Wind"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Heart Stamp"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Return"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Tail Slap"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Acrobatics"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Fly"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level": 45,
+                  "attacks": [
+                     "Psycho Cut"
+                  ]
+               },
+               {
+                  "level": 50,
+                  "attacks": [
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level": 55,
+                  "attacks": [
+                     "Sunsteel Strike"
+                  ]
+               }
+            ],
+            "tutorMoves": [
+               "Calm Mind",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Giga Impact",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves": [],
+            "tmMoves8": [
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Giga Impact",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Attract",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+               "Assurance",
+               "Round",
+               "Retaliate",
+               "Draining Kiss",
+               "Mystical Fire",
+               "Air Slash",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves": [
+               "Body Slam",
+               "Flamethrower",
+               "Psychic",
+               "Metronome",
+               "Fire Blast",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Hyper Voice",
+               "Aura Sphere",
+               "Nasty Plot",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Rollout",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "Aerilate"
+            ],
+            "hiddenAbilities": [
+               "Unburden"
+            ]
+         },
+         "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": -3,
+						"y": 0.01,
+						"z": 0.8
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression": {
+            "timid": 80,
+            "passive": 0,
+            "aggressive": 20
+         },
+         "battleStats": {
+            "hp": 102,
+            "attack": 106,
+            "defense": 89,
+            "specialAttack": 87,
+            "specialDefense": 84,
+            "speed": 92
+         },
+         "tags": [
+            "legendary"
+         ],
+         "spawn": {
+            "baseExp": 220,
+            "baseFriendship": 70,
+            "spawnLevel": 32,
+            "spawnLevelRange": 5,
+            "spawnLocations": [
+               "LAND"
+            ]
+         },
+         "possibleGenders": [
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties": [
+            {
+               "gender": "ALL",
+               "palettes": [
+                  {
+                     "name": "none",
+                     "texture": "pixelmon:pokemon/2097_angewomon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2097_angewomon/all/base/none/emissive.png",
+                     "emissive": "pixelmon:pokemon/2097_angewomon/all/base/none/emissive.png",
+                     "sprite": "pixelmon:pokemon/2097_angewomon/all/base/none/sprite.png",
+                     "particle": "",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2097_angewomon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name": "shiny",
+                     "texture": "pixelmon:pokemon/2097_angewomon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2097_angewomon/all/base/shiny/emissive.png",
+                     "emissive": "pixelmon:pokemon/2097_angewomon/all/base/shiny/emissive.png",
+                     "sprite": "pixelmon:pokemon/2097_angewomon/all/base/shiny/sprite.png",
+                     "particle": "arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups": [
+            "UNDISCOVERED"
+         ],
+         "types": [
+            "FLYING",
+            "FAIRY"
+         ],
+         "preEvolutions": [
+            "Gatomon"
+         ],
+         "defaultBaseForm": "",
+         "megaItems": [],
+         "megas": [],
+         "gigantamax": {
+            "canHaveFactor": false,
+            "canGigantamax": false
+         },
+         "eggCycles": 21,
+         "weight": 27.5,
+         "catchRate": 100,
+         "malePercentage": -1,
+         "evolutions": [
+            {
+               "with": "Ladydevimon",
+               "to": "Mastemon",
+               "conditions": [],
+               "evoType": "trade",
+               "moves": [
+                  "Magic Powder",
+                  "Holy Desire",
+                  "Dark Despair"
+               ]
+            },
+            {
+               "to": "Mastemon",
+               "conditions": [
+                  {
+                     "withPokemon": [
+                        "Ladydevimon"
+                     ],
+                     "withTypes": [],
+                     "evoConditionType": "party"
+                  },
+                  {
+                     "friendship": 220,
+                     "evoConditionType": "friendship"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Magic Powder",
+                  "Holy Desire",
+                  "Dark Despair"
+               ]
+            },
+            {
+               "level": 45,
+               "to": "Magnadramon",
+               "conditions": [
+                  {
+                     "item": {
+                        "itemID": "pixelmon:dragon_memory"
+                     },
+                     "evoConditionType": "heldItem"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Dragon Rush",
+                  "Apocalypse",
+                  "Hermit Fog"
+               ]
+            },
+            {
+               "level": 45,
+               "to": "Ophanimon",
+               "conditions": [],
+               "evoType": "leveling",
+               "moves": [
+                  "King's Shield",
+                  "Eden's Javelin",
+                  "Sefirot Crystal"
+               ]
+            }
+         ],
+         "evYields": {
+            "hp": 2,
+            "attack": 3,
+            "speed": 1
+         }
+      }
+   ],
+   "generation": 20
+}

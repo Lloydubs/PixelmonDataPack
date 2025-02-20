@@ -1,0 +1,544 @@
+{
+   "name":"MegaKabuterimonBlue",
+   "dex":2160,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":8.1,
+            "width":4.6,
+            "length":4.1,
+            "eyeHeight":8.1,
+            "hoverHeight":8.1
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch",
+                     "Wild Scratch",
+                     "Relic Song"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Poison Sting"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Cut"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Fury Cutter"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Metal Sound"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Psybeam"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Silver Wind"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Esper Wing"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Bug Buzz"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Quiver Dance"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Boomburst"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Eerie Spell"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Clanging Scales"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Coaching",
+               "Steel Roller",
+               "Lash Out",
+               "Earth Power",
+               "Giga Impact",
+               "Expanding Force",
+               "Bug Bite",
+               "Defog",
+               "Drill Run",
+               "Electroweb",
+               "Rising Voltage",
+               "Giga Drain",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Corrosive Gas",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Skitter Smack",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Bounce",
+          "Struggle Bug",
+          "Thief",
+          "Trailblaze",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Steel Wing",
+               "Acrobatics",
+               "Volt Switch",
+               "Electroweb",
+               "Eerie Impulse",
+               "Air Slash",
+               "U-Turn",
+               "Revenge",
+               "Cross Poison",
+               "Venoshock",
+               "Brutal Swing",
+               "Smart Strike",
+          "Swords Dance",
+          "Dark Pulse",
+          "Leech Life",
+          "Substitute",
+          "X-Scissor",
+          "Reversal",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Fly",
+          "Psycho Cut",
+          "Trick Room",
+          "Wonder Room",
+          "Magic Room",
+          "Round",
+          "Psychic Terrain",
+               "Facade",
+               "Rock Tomb",
+               "Payback",
+               "Assurance",
+               "Cross Poison",
+               "Venoshock",
+               "Round",
+               "Smart Strike",
+               "Stomping Tantrum",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+          "Bug Buzz",
+          "Tera Blast",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+               "Thunderbolt",
+               "Thunder",
+               "Agility",
+          "Psychic",
+          "Agility",
+          "Leech Life",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Baton Pass",
+          "Shadow Ball",
+          "Future Sight",
+          "Trick",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+               "Shadow Ball",
+               "Uproar",
+               "X-Scissor",
+               "Bug Buzz",
+               "Body Press",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+               "Shadow Ball",
+               "Future Sight",
+               "Trick",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Megahorn",
+               "Baton Pass",
+               "Iron Tail",
+               "Superpower",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab",
+               "X-Scissor",
+               "Venom Drench",
+               "Throat Chop",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               "Air Cutter",
+               "Baton Pass",
+               "Bide",
+               "Captivate",
+               "Curse",
+               "Cut",
+               "Double-Edge",
+               "Endure",
+               "Flash",
+               "Fury Cutter",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Rock Smash",
+               "Secret Power",
+               "Silver Wind",
+               "Skull Bash",
+               "Struggle Bug",
+               "Sweet Scent",
+               "Swift",
+               "Take Down",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "X-Scissor",
+               "Focus Blast",
+               "Nasty Plot",
+               "Gunk Shot",
+               "Mirror Move",
+               "Ominous Wind",
+               "Pluck",
+               "Hone Claws",
+               "Laser Focus",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Return",
+               "Roost",
+               "Secret Power",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon",
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Rock Smash",
+               "Secret Power",
+               "Signal Beam",
+               "Snatch",
+               "Steamroller",
+               "Strength",
+               "Struggle Bug",
+               "Swagger",
+               "Twineedle",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Roost",
+               "Shock Wave",
+               "Signal Beam",
+               "Sky Drop",
+               "Swagger",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Future Sight",
+               "Trick",
+               "Skill Swap",
+               "Iron Defense",
+               "Calm Mind",
+               "Bug Buzz",
+               "Energy Ball",
+               "Zen Headbutt",
+               "Stored Power",
+               "Ally Switch",
+               "Body Press"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "EarthEater"
+            ],
+            "hiddenAbilities":[
+               "Pickup"
+            ]
+         },
+        "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 4.5,
+						"y": 0,
+						"z": 9.5
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":88,
+            "attack":78,
+            "defense":85,
+            "specialAttack":105,
+            "specialDefense":112,
+            "speed":92
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":32,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2160_megakabuterimonblue/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2160_megakabuterimonblue/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2160_megakabuterimonblue/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2160_megakabuterimonblue/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2160_megakabuterimonblue/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2160_megakabuterimonblue/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2160_megakabuterimonblue/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "BUG",
+            "PSYCHIC"
+         ],
+         "preEvolutions":[
+            "Ballistamon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":34.5,
+         "catchRate":20,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "level":45,
+               "to":"TyrantKabuterimon",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Tail Glow",
+                  "Shine of Bee",
+                  "Bee Cyclone"
+               ]
+            }
+         ],
+         "evYields":{
+            "specialdefense":3,
+            "specialattack":2
+         }
+      }
+   ],
+   "generation":20
+}

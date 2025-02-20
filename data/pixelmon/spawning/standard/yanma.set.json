@@ -1,0 +1,121 @@
+{
+  "id": "Yanma",
+  "spawnInfos": [
+    {
+      "spec": "species:Yanma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Yanma palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Yanma palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Yanma palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

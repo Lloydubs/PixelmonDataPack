@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900010,
+    "attackName": "Bind Red Trigger",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 35,
+    "ppBase": 25,
+    "ppMax": 38,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    },
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

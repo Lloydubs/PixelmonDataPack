@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900028,
+    "attackName": "Darkness Bluster",
+    "attackType": "DARK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 75,
+    "ppBase": 15,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Defog"
+    },
+    {
+      "type": "Disable",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Disable"
+    },
+    {
+      "type": "MagicRoom",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MagicRoom"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

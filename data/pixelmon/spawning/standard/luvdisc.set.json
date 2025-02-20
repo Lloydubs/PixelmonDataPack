@@ -1,0 +1,500 @@
+{
+  "id": "Luvdisc",
+  "spawnInfos": [
+    {
+      "spec": "species:Luvdisc",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Luvdisc palette:animalistic",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:cosplay",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:deep sea",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:galaxy",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:glass",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:rainbow 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:rainbow 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:river",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:sweet",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Luvdisc palette:sweetshop",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:heart_scale",
+          "percentChance": 50
+        }
+      ],
+      "minLevel": 15,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Luvdisc",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 13.0
+    }
+  ]
+}

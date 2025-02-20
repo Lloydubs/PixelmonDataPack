@@ -1,0 +1,31 @@
+{
+  "id": "Vorvomon",
+  "spawnInfos": [
+    {
+      "spec": "species:Vorvomon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "eroded_badlands",
+          "biomesoplenty:volcano",
+          "byg:sierra_badlands"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900025,
+    "attackName": "Curse of Queen",
+    "attackType": "Flying",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 15,
+    "ppMax": 25,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Burn",
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Burn"
+        },
+        {
+      "type": "SPEED",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

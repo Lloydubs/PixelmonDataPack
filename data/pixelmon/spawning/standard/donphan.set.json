@@ -1,0 +1,173 @@
+{
+  "id": "Donphan",
+  "spawnInfos": [
+    {
+      "spec": "species:Donphan",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Donphan palette:dessert 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:dessert 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:egyptian",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:irradiated",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:magical",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Donphan palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 25,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 100
+      },
+      "rarity": 0.6
+    }
+  ]
+}

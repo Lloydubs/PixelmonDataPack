@@ -1,0 +1,1291 @@
+{
+  "id": "Golurk",
+  "spawnInfos": [
+    {
+      "spec": "species:Golurk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:deep sea",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:gem 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:gem 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:patriotic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:temple",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Golurk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Golurk palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:gem 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:gem 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:patriotic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:temple",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Golurk palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Golurk",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:christmas",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:coral reef",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:easter",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:gem 1",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:gem 2",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:halloween",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:hero",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:heroic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:oblivion",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:patriotic",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:temple",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Golurk palette:terra",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:spear_pillar"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Golurk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Golurk palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:coral reef",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:gem 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:gem 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:heroic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:patriotic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:temple",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Golurk palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:light_clay",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:withered_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

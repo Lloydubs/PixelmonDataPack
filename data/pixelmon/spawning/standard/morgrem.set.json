@@ -1,0 +1,181 @@
+{
+  "id": "Morgrem",
+  "spawnInfos": [
+    {
+      "spec": "species:Morgrem",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Morgrem palette:gamma",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Morgrem palette:winter 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Morgrem palette:winter 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Morgrem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Morgrem palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Morgrem palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Morgrem palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 32,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

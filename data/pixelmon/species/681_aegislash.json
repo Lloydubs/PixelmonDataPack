@@ -1,0 +1,737 @@
+{
+  "name": "Aegislash",
+  "dex": 681,
+  "defaultForms": [
+    "shield"
+  ],
+  "forms": [
+    {
+      "name": "shield",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 2.0,
+        "width": 1.0,
+        "length": 1,
+        "eyeHeight": 2.0,
+        "hoverHeight": 2.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Aerial Ace",
+              "Autotomize",
+              "Fury Cutter",
+              "Head Smash",
+              "Iron Defense",
+              "Iron Head",
+              "King\u0027s Shield",
+              "Metal Sound",
+              "Night Slash",
+              "Power Trick",
+              "Retaliate",
+              "Sacred Sword",
+              "Shadow Sneak",
+              "Slash",
+              "Swords Dance",
+              "Tackle"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Steel Beam"
+        ],
+        "eggMoves": [
+          "Block",
+          "Destiny Bond",
+          "Wide Guard"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Blade",
+          "Screech",
+          "Reflect",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Round",
+          "Retaliate",
+          "False Swipe",
+          "Air Slash",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Shadow Ball",
+          "Iron Defense",
+          "Gyro Ball",
+          "Close Combat",
+          "Flash Cannon",
+          "Iron Head"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "After You",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Frustration",
+          "Hidden Power",
+          "Laser Focus",
+          "Magnet Rise",
+          "Pursuit",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Spite",
+          "Swagger",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Return",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Reflect",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "False Swipe",
+          "Brutal Swing",
+          "Shadow Claw",
+          "Giga Impact",
+          "Gyro Ball",
+          "Swords Dance",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Return",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Reflect",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "False Swipe",
+          "Shadow Claw",
+          "Retaliate",
+          "Giga Impact",
+          "Gyro Ball",
+          "Swords Dance",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "StanceChange"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.5,
+            "z": -0.3
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.5,
+            "z": -0.3
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 140,
+        "specialAttack": 50,
+        "specialDefense": 140,
+        "speed": 60
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 234,
+        "baseFriendship": 0,
+        "spawnLevel": 50,
+        "spawnLevelRange": 12,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/none/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/681_aegislash/all/shield/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.aegislash"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "alter",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/alter/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "america",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-america/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-america/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-arkasian1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-arkasian1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-arkasian2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-arkasian2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "captain america",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-captainamerica/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-captainamerica/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "class",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-class/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-class/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "corrupt",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-corrupt/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-corrupt/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosmic",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-cosmic/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-cosmic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-ditto1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-ditto2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "food",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-food/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-food/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-hero1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-hero1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-hero2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-hero2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nintendo",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-nintendo/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-nintendo/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "oni",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-oni/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-oni/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-outerworlds/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-outerworlds/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-squad/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-squad/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sweet",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-sweet/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-sweet/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-toxic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-val2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "zelda",
+              "texture": "pixelmon:pokemon/681_aegislash/all/shield/custom-zelda/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/shield/custom-zelda/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MINERAL"
+      ],
+      "types": [
+        "STEEL",
+        "GHOST"
+      ],
+      "preEvolutions": [
+        "Doublade",
+        "Honedge"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 53.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "defense": 2,
+        "specialDefense": 1
+      }
+    },
+    {
+      "name": "blade",
+      "battleStats": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 50,
+        "specialAttack": 140,
+        "specialDefense": 50,
+        "speed": 60
+      },
+      "tags": [
+        "temp"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/none/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/681_aegislash/all/blade/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "alter",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/alter/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "america",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-america/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-america/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-arkasian1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-arkasian1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-arkasian2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-arkasian2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "class",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-class/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-class/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "corrupt",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-corrupt/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-corrupt/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosmic",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-cosmic/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-cosmic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-ditto1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-ditto2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "food",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-food/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-food/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-hero1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-hero1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hero 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-hero2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-hero2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nintendo",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-nintendo/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-nintendo/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "oni",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-oni/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-oni/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-outerworlds/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-outerworlds/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-squad/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-squad/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sweet",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-sweet/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-sweet/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-toxic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-val2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "zelda",
+              "texture": "pixelmon:pokemon/681_aegislash/all/blade/custom-zelda/texture.png",
+              "sprite": "pixelmon:pokemon/681_aegislash/all/blade/custom-zelda/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 6
+}

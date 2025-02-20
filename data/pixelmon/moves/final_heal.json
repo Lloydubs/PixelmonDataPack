@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900049,
+    "attackName": "Final Heal",
+    "attackType": "Psychic",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 1,
+    "ppMax": 2,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "increment": 100,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "LunarBlessing"
+    }
+  ],
+  "animations": [
+   "leapForward"
+  ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": false,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

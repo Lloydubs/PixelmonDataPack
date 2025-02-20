@@ -1,0 +1,580 @@
+{
+  "id": "Darkrai",
+  "spawnInfos": [
+    {
+      "spec": "species:Darkrai level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Darkrai palette:advance level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Darkrai palette:arkasian 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:arkasian 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:ben 10 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:cosmic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:demonic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:easter level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:halloween level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:lunar level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:nightmare 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:nightmare 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:nippon level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:obscuros level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:outer worlds level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:poison level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:rgb level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:soulfire level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:spring level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:squad level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Darkrai palette:toxic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "minY": 85,
+        "moonPhase": 4
+      },
+      "rarity": 0.03
+    }
+  ]
+}

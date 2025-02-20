@@ -1,0 +1,523 @@
+{
+  "id": "Rowlet",
+  "spawnInfos": [
+    {
+      "spec": "species:Rowlet",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rowlet palette:diamond",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 1",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 2",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:heroic",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:ice",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:pearl",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Rowlet",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rowlet palette:diamond",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 1",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 2",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:heroic",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:ice",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:pearl",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Rowlet",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Rowlet palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rowlet palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rowlet palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rowlet palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Rowlet",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Rowlet palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:faceless 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Rowlet palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

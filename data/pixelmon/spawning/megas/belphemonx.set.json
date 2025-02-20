@@ -1,0 +1,20 @@
+{
+  "id": "Belphemon X",
+  "spawnInfos": [
+    {
+      "spec": "species:Belphemon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:swamp"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

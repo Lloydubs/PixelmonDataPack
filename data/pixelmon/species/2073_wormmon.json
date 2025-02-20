@@ -1,0 +1,330 @@
+{
+  "name": "Wormmon",
+  "dex": 2073,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 1.1,
+        "width": 1.1,
+        "length": 1,
+        "eyeHeight": 1.1,
+        "hoverHeight": 1.1
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Fury Attack",
+              "Twineedle"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Poison Sting"
+            ]
+          },
+          {
+            "level": 14,
+            "attacks": [
+              "Fell Stinger"
+            ]
+          },
+          {
+            "level": 17,
+            "attacks": [
+              "Pursuit"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Snarl"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Venoshock"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Assurance"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Vacuum Wave"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Pin Missile"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Poison Jab"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Aura Sphere"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Bug Buzz"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Secret Sword"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Sludge Wave"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Bug Bite",
+          "Defog",
+          "Drill Run",
+          "Electroweb",
+          "Endeavor",
+          "Giga Drain",
+          "Knock Off",
+          "Laser Focus",
+          "Snore",
+          "Tailwind",
+          "Throat Chop"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Screech",
+          "Light Screen",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Round",
+          "Acrobatics",
+          "Volt Switch",
+          "Electroweb",
+          "Eerie Impulse",
+          "Air Slash",
+          "Hyper Beam",
+          "Giga Impact",
+          "Swift",
+          "Revenge",
+          "U-turn",
+          "Assurance",
+          "Fling",
+          "Cross Poison",
+          "Venoshock",
+          "Round",
+          "Hex"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Agility",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Megahorn",
+          "X-Scissor",
+          "Bug Buzz",
+          "Power Gem",
+          "Close Combat",
+          "Poison Jab",
+          "X-Scissor",
+          "Bug Buzz",
+          "Focus Blast",
+          "Energy Ball",
+          "Iron Head",
+          "Drill Run"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bide",
+          "Body Slam",
+          "Bug Bite",
+          "Captivate",
+          "Curse",
+          "Cut",
+          "Double-Edge",
+          "Endure",
+          "Flash",
+          "Mimic",
+          "Morning Sun",
+          "Rage",
+          "Secret Power",
+          "Take Down",
+          "Teeter Dance",
+          "Ominous Wind",
+          "Secret Power",
+          "String Shot",
+          "Struggle Bug",
+          "Swift",
+          "Twister",
+          "Rage",
+          "Reflect",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Seismic Toss",
+          "Skull Bash",
+          "Strength",
+          "Submission",
+          "Swagger",
+          "Take Down",
+          "Toxic"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "NaturalCure"
+        ],
+        "hiddenAbilities": [
+          "RunAway"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 55,
+        "attack": 56,
+        "defense": 63,
+        "specialAttack": 72,
+        "specialDefense": 60,
+        "speed": 74
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 102,
+        "baseFriendship": 70,
+        "spawnLevel": 5,
+        "spawnLevelRange": 2,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2073_wormmon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2073_wormmon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2073_wormmon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2073_wormmon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2073_wormmon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2073_wormmon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2073_wormmon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "BUG"
+      ],
+      "preEvolutions": [
+        "Flybeemon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 6.7,
+      "catchRate": 100,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "level": 20,
+          "to": "Stingmon",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Bullet Punch"
+          ]
+        },
+        {
+          "item": {
+            "itemID": "pixelmon:shoal_salt"
+          },
+          "to": "Flybeemon",
+          "conditions": [],
+          "evoType": "interact",
+          "moves": [
+            "Gust",
+            "Fly Spark",
+            "Poison Stinger"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 1
+      }
+    }
+  ],
+  "generation": 20
+}

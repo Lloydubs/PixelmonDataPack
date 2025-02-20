@@ -1,0 +1,601 @@
+{
+  "name": "Feraligatr",
+  "dex": 160,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 2.3,
+        "width": 1.6,
+        "length": 1,
+        "eyeHeight": 2.3,
+        "hoverHeight": 2.3
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Agility",
+              "Leer",
+              "Rage",
+              "Scratch",
+              "Water Gun"
+            ]
+          },
+          {
+            "level": 6,
+            "attacks": [
+              "Water Gun"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Rage"
+            ]
+          },
+          {
+            "level": 13,
+            "attacks": [
+              "Bite"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Scary Face"
+            ]
+          },
+          {
+            "level": 21,
+            "attacks": [
+              "Ice Fang"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Flail"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 37,
+            "attacks": [
+              "Chip Away"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Slash"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Screech"
+            ]
+          },
+          {
+            "level": 58,
+            "attacks": [
+              "Thrash"
+            ]
+          },
+          {
+            "level": 63,
+            "attacks": [
+              "Aqua Tail"
+            ]
+          },
+          {
+            "level": 71,
+            "attacks": [
+              "Superpower"
+            ]
+          },
+          {
+            "level": 76,
+            "attacks": [
+              "Hydro Pump"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Aqua Tail",
+          "Block",
+          "Dragon Pulse",
+          "Focus Punch",
+          "Hydro Cannon",
+          "Ice Punch",
+          "Icy Wind",
+          "Iron Tail",
+          "Liquidation",
+          "Low Kick",
+          "Outrage",
+          "Snore",
+          "Spite",
+          "Superpower",
+          "Uproar",
+          "Water Pledge",
+          "Water Pulse"
+        ],
+        "eggMoves": [
+          "Ancient Power",
+          "Aqua Jet",
+          "Block",
+          "Crunch",
+          "Dragon Dance",
+          "Fake Tears",
+          "Flatter",
+          "Hydro Pump",
+          "Ice Punch",
+          "Metal Claw",
+          "Mud Sport",
+          "Thrash",
+          "Water Pulse",
+          "Water Sport"
+        ],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [
+          "Avalanche",
+          "Body Slam",
+          "Captivate",
+          "Counter",
+          "Curse",
+          "Cut",
+          "Detect",
+          "Dig",
+          "Dive",
+          "Double-Edge",
+          "Dynamic Punch",
+          "Endure",
+          "Fury Cutter",
+          "Headbutt",
+          "Hone Claws",
+          "Mega Kick",
+          "Mega Punch",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Power-Up Punch",
+          "Razor Wind",
+          "Rock Smash",
+          "Secret Power",
+          "Seismic Toss",
+          "Strength",
+          "Whirlpool"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Focus Blast",
+          "Scald",
+          "Fling",
+          "Shadow Claw",
+          "Giga Impact",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Focus Blast",
+          "Scald",
+          "Fling",
+          "Shadow Claw",
+          "Giga Impact",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Power-Up Punch",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Focus Blast",
+          "Scald",
+          "Fling",
+          "Shadow Claw",
+          "Giga Impact",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Focus Punch",
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Focus Blast",
+          "Fling",
+          "Endure",
+          "Dragon Pulse",
+          "Shadow Claw",
+          "Giga Impact",
+          "Avalanche",
+          "Swords Dance",
+          "Captivate",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Focus Punch",
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Brick Break",
+          "Double Team",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract"
+        ],
+        "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
+          "Curse",
+          "Roar",
+          "Toxic",
+          "Rock Smash",
+          "Hidden Power",
+          "Snore",
+          "Blizzard",
+          "Hyper Beam",
+          "Icy Wind",
+          "Protect",
+          "Rain Dance",
+          "Endure",
+          "Frustration",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Mud-Slap",
+          "Double Team",
+          "Ice Punch",
+          "Swagger",
+          "Sleep Talk",
+          "Detect",
+          "Rest",
+          "Attract",
+          "Fury Cutter"
+        ],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Torrent"
+        ],
+        "hiddenAbilities": [
+          "SheerForce"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.05
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 100,
+        "specialAttack": 79,
+        "specialDefense": 83,
+        "speed": 78
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 210,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 20,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/160_feraligatr/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.feraligatr",
+                "pixelmon.mob.feraligatr"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "zombie",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/zombie/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-alter/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-christmas/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "city",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-city/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-city/sprite.png",
+              "particle": ""
+            },{
+              "name": "coralp",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-coralp/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-coralp/sprite.png",
+              "particle": ""
+            },{
+              "name": "coralw",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-coralw/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-coralw/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-demonic/sprite.png",
+              "particle": ""
+            },{
+              "name": "diamond",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-diamond/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-diamond/sprite.png",
+              "particle": ""
+            },{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "moon",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-moon/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-moon/sprite.png",
+              "particle": ""
+            },{
+              "name": "nintendo",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-nintendo/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-nintendo/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "pearl",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-pearl/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-pearl/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "river",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-river/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-river/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "yoshi",
+              "texture": "pixelmon:pokemon/160_feraligatr/all/base/custom-yoshi/texture.png",
+              "sprite": "pixelmon:pokemon/160_feraligatr/all/base/custom-yoshi/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "WATER_ONE"
+      ],
+      "types": [
+        "WATER"
+      ],
+      "preEvolutions": [
+        "Croconaw",
+        "Totodile"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 88.8,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "attack": 2,
+        "defense": 1
+      }
+    }
+  ],
+  "generation": 2
+}

@@ -1,0 +1,181 @@
+{
+  "id": "Terrakion",
+  "spawnInfos": [
+    {
+      "spec": "species:Terrakion level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Terrakion palette:blood level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:egyptian level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:fantasy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:radioactive level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:rising sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Terrakion palette:templar level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.3
+    }
+  ]
+}

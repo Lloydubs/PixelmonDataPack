@@ -1,0 +1,350 @@
+{
+  "id": "Celebi",
+  "spawnInfos": [
+    {
+      "spec": "species:Celebi level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Celebi palette:arctic level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:autumn level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:christmas level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:class level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:crimson level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:easter level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:event level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:fall level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:moon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:nippon level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:retro level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:samurai level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:toy level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Celebi palette:withered level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

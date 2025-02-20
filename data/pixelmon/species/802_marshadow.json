@@ -1,0 +1,544 @@
+{
+  "name": "Marshadow",
+  "dex": 802,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 0.8,
+        "width": 0.5,
+        "length": 1,
+        "eyeHeight": 0.8,
+        "hoverHeight": 0.8
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Copycat",
+              "Counter",
+              "Feint",
+              "Fire Punch",
+              "Ice Punch",
+              "Shadow Sneak",
+              "Thunder Punch"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Role Play"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Shadow Punch"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Force Palm"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Assurance"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Sucker Punch"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Drain Punch"
+            ]
+          },
+          {
+            "level": 63,
+            "attacks": [
+              "Psych Up"
+            ]
+          },
+          {
+            "level": 72,
+            "attacks": [
+              "Spectral Thief"
+            ]
+          },
+          {
+            "level": 81,
+            "attacks": [
+              "Laser Focus"
+            ]
+          },
+          {
+            "level": 90,
+            "attacks": [
+              "Endeavor"
+            ]
+          },
+          {
+            "level": 99,
+            "attacks": [
+              "Close Combat"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Coaching",
+          "Poltergeist",
+          "Skitter Smack"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Will-O-Wisp",
+          "Facade",
+          "Swift",
+          "Revenge",
+          "Brick Break",
+          "Rock Tomb",
+          "Bounce",
+          "Payback",
+          "Assurance",
+          "Fling",
+          "Drain Punch",
+          "Shadow Claw",
+          "Low Sweep",
+          "Round",
+          "Hex",
+          "Acrobatics",
+          "Phantom Force",
+          "False Swipe"
+        ],
+        "trMoves": [
+          "Low Kick",
+          "Agility",
+          "Substitute",
+          "Reversal",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Shadow Ball",
+          "Superpower",
+          "Blaze Kick",
+          "Bulk Up",
+          "Calm Mind",
+          "Close Combat",
+          "Aura Sphere",
+          "Poison Jab",
+          "Focus Blast",
+          "Zen Headbutt",
+          "Iron Head",
+          "Stone Edge",
+          "Grass Knot",
+          "Foul Play",
+          "Work Up",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Confide",
+          "Double Team",
+          "Echoed Voice",
+          "Focus Punch",
+          "Frustration",
+          "Hidden Power",
+          "Jump Kick",
+          "Knock Off",
+          "Last Resort",
+          "Pursuit",
+          "Return",
+          "Rolling Kick",
+          "Smack Down",
+          "Snatch",
+          "Swagger",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Calm Mind",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Protect",
+          "Frustration",
+          "Smack Down",
+          "Return",
+          "Shadow Ball",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Thief",
+          "Low Sweep",
+          "Round",
+          "Echoed Voice",
+          "Focus Blast",
+          "False Swipe",
+          "Fling",
+          "Will-O-Wisp",
+          "Acrobatics",
+          "Shadow Claw",
+          "Payback",
+          "Giga Impact",
+          "Stone Edge",
+          "Psych Up",
+          "Rock Slide",
+          "Poison Jab",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Confide"
+        ],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Technician"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "specialAttack": 90,
+        "specialDefense": 90,
+        "speed": 125
+      },
+      "tags": [
+        "mythical"
+      ],
+      "spawn": {
+        "baseExp": 120,
+        "baseFriendship": 70,
+        "spawnLevel": 50,
+        "spawnLevelRange": 0,
+        "spawnLocations": []
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/802_marshadow/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.marshadow"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alluring",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-alluring/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-alluring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "corrupt",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-corrupt/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-corrupt/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dream",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-dream/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-dream/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween2/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 3",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween3/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 4",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween4/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween4/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 5",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween5/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween5/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 6",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween6/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween6/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 7",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween7/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-halloween7/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lucky 1",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-lucky1/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-lucky1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lucky 2",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-lucky2/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-lucky2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magma",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-magma/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-magma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "midnight",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-midnight/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-midnight/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-outerworlds/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-outerworlds/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sunset",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-sunset/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-sunset/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "terror",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-terror/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-terror/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "vampire",
+              "texture": "pixelmon:pokemon/802_marshadow/all/base/custom-vampire/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/base/custom-vampire/sprite.png",
+              "particle": ""
+            }
+        }
+      ],
+      "eggGroups": [
+        "AMORPHOUS"
+      ],
+      "types": [
+        "FIGHTING",
+        "GHOST"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 120,
+      "weight": 22.2,
+      "catchRate": 3,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "attack": 2,
+        "speed": 1
+      }
+    },
+    {
+      "name": "zenith",
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/802_marshadow/all/zenith/none/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/802_marshadow/all/zenith/none/model.pqc"
+                ],
+                "rotateAngleX": 0
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/802_marshadow/all/zenith/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "outer worlds",
+              "texture": "pixelmon:pokemon/802_marshadow/all/zenith/custom-outerworlds/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/custom-outerworlds/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "terror",
+              "texture": "pixelmon:pokemon/802_marshadow/all/zenith/custom-terror/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/zenith/custom-terror/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "advance",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 0.8,
+        "width": 0.5,
+        "length": 1,
+        "eyeHeight": 0.8,
+        "hoverHeight": 0.8
+      },	
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/802_marshadow/all/advance/none/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/advance/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/802_marshadow/all/advance/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.marshadow"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/802_marshadow/all/advance/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/advance/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "zenith",
+              "texture": "pixelmon:pokemon/802_marshadow/all/advance/custom-zenith/texture.png",
+              "sprite": "pixelmon:pokemon/802_marshadow/all/advance/custom-zenith/sprite.png",
+              "particle": ""
+            }
+          ]
+		}
+	  ]	
+	}
+  ],
+  "generation": 7
+}

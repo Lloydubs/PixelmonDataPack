@@ -1,0 +1,20 @@
+{
+  "id": "BlackMetalGarurumon X",
+  "spawnInfos": [
+    {
+      "spec": "species:BlackMetalGarurumon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:snowy_taiga"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

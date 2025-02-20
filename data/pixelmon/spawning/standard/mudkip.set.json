@@ -1,0 +1,293 @@
+{
+  "id": "Mudkip",
+  "spawnInfos": [
+    {
+      "spec": "species:Mudkip",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Mudkip palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:faceless 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:faceless 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:pearl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:rising sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Mudkip",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Mudkip palette:dark",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:diamond",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:faceless 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:faceless 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:pearl",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:rising sun",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Mudkip palette:sun",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 2,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:lush_caves"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

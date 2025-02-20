@@ -1,0 +1,423 @@
+{
+	"name": "Rosemon",
+	"dex": 2065,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 4.0,
+				"width": 1.0,
+				"length": 1.0,
+				"eyeHeight": 4.0,
+				"hoverHeight": 4.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+							"Power Whip",
+						        "Thorn Whip",
+						        "Rosy Cradle",
+							"Spirit Break",
+							"Temptation"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Vine Whip"
+						]
+					},
+					{
+						"level": 9,
+						"attacks": [
+							"Leech Seed"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Razor Leaf"
+						]
+					},
+					{
+						"level": 15,
+						"attacks": [
+							"Absorb"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Poison Sting"
+						]
+					},
+					{
+						"level": 25,
+						"attacks": [
+							"Poison Tail"
+						]
+					},
+					{
+						"level": 30,
+						"attacks": [
+							"Needle Arm"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Leaf Blade"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Poison Jab"
+						]
+					},
+					{
+						"level": 51,
+						"attacks": [
+							"Heart Stamp"
+						]
+					}
+				],
+				"tutorMoves": [
+					"Grass Pledge"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Hyper Beam",
+					"Giga Impact",
+					"Magical Leaf",
+					"Solar Beam",
+					"Light Screen",
+					"Safeguard",
+					"Hyper Beam",
+					"Solar Beam",
+					"Safeguard",
+					"Protect",
+					"Giga Drain",
+					"Charm",
+					"Attract",
+					"Sunny Day",
+					"Facade",
+					"Bullet Seed",
+					"Fling",
+					"Drain Punch",
+					"Venoshock",
+					"Round",
+					"Grassy Terrain",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Earthquake",
+					"Amnesia",
+					"Substitute",
+					"Sludge Bomb",
+					"Outrage",
+					"Endure",
+					"Seed Bomb",
+					"Energy Ball",
+					"Earth Power",
+					"Leaf Storm",
+					"Power Whip",
+					"Dazzling Gleam",
+					"Grass Knot",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Bide",
+					"Body Slam",
+					"Bug Bite",
+					"Captivate",
+					"Curse",
+					"Cut",
+					"Double-Edge",
+					"Endure",
+					"Flash",
+					"Mimic",
+					"Morning Sun",
+					"Rage",
+					"Secret Power",
+					"Take Down",
+					"Teeter Dance",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"AromaVeil"
+				],
+				"hiddenAbilities": [
+					"Dazzling"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 109,
+				"attack": 144,
+				"defense": 104,
+				"specialAttack": 88,
+				"specialDefense": 97,
+				"speed": 138
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 220,
+				"baseFriendship": 70,
+				"spawnLevel": 48,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2065_rosemon/all/base/none/texture.png",
+							"emissive": "pixelmon:pokemon/2065_rosemon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2065_rosemon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2065_rosemon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2065_rosemon/all/base/shiny/texture.png",
+							"emissive": "pixelmon:pokemon/2065_rosemon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2065_rosemon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"GRASS",
+				"POISON"
+			],
+			"preEvolutions": [
+				"Lilimon"
+			],
+			"defaultBaseForm": "",
+      "megaItems": [
+        "pixelmon:charizardite_x"
+      ],
+      "megas": [
+        "X-Antibody"
+      ],
+			"gigantamax": {
+				"canHaveFactor": true,
+				"canGigantamax": true,
+				"form": "Burst Mode",
+				"move": "Kiss of Breath"
+			},
+			"eggCycles": 21,
+			"weight": 30.2,
+			"catchRate": 10,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"with": "Lotusmon",
+					"to": "Rafflesimon",
+					"conditions": [],
+					"evoType": "trade",
+					"moves": [
+						"Ballet Gun",
+						"Wisselen"
+					]
+				},
+				{
+					"to": "Rafflesimon",
+					"conditions": [
+						{
+							"withPokemon": [
+								"Lotusmon"
+							],
+							"withTypes": [],
+							"evoConditionType": "party"
+						},
+						{
+							"friendship": 220,
+							"evoConditionType": "friendship"
+						}
+					],
+					"evoType": "leveling",
+					"moves": [
+						"Ballet Gun",
+						"Wisselen"
+                                           	 ]				
+				}
+			],
+			"evYields": {
+				"attack": 3,
+				"speed": 3,
+				"hp": 2
+			}
+		},
+    {
+      "name": "X-Antibody",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "WellBakedBody"
+        ]
+      },
+      "battleStats": {
+				"hp": 131,
+				"attack": 162,
+				"defense": 124,
+				"specialAttack": 102,
+				"specialDefense": 108,
+				"speed": 153
+      },
+      "weight": 35.4,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2065_rosemon/all/x/none/texture.png", 																"emissive": "pixelmon:pokemon/2065_rosemon/all/x/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2065_rosemon/all/x/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2065_rosemon/all/x/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2065_rosemon/all/x/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2065_rosemon/all/x/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2065_rosemon/all/x/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    },
+		{
+			"name": "Burst Mode",
+			"tags": [
+				"temp"
+			],
+			"types": [
+				"GRASS",
+				"FAIRY"
+			],
+			"abilities": {
+				"abilities": [
+					"SpeedBoost"
+				]
+			},
+			"weight": 30.7,
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2065_rosemon/all/burst/none/texture.png",
+							"emissive": "pixelmon:pokemon/2065_rosemon/all/burst/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2065_rosemon/all/burst/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2065_rosemon/all/burst/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2065_rosemon/all/burst/shiny/texture.png",
+							"emissive": "pixelmon:pokemon/2065_rosemon/all/burst/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2065_rosemon/all/burst/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			]
+		}
+	],
+	"generation": 20
+}

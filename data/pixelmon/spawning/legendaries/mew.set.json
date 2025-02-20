@@ -1,0 +1,759 @@
+{
+  "id": "Mew",
+  "spawnInfos": [
+    {
+      "spec": "species:Mew level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Mew palette:battlecast level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:charged level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:deepsea level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:ditto level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:festive level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:fusion level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:galaxy 1 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:galaxy 2 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:halloween 1 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:halloween 2 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:hero level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:lunar level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:molten 1 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:molten 2 level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:moon level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:oblivion level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:patriotic level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:resolute level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:shadow level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:skeletal level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:spartan level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:toon level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Mew palette:wooden level:70",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade",
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lum_berry",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:jungle_pyramid"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "Tsukaimon",
+  "spawnInfos": [
+    {
+      "spec": "species:Tsukaimon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "plains",
+          "biomesoplenty:clover_patch"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

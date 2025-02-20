@@ -1,0 +1,194 @@
+{
+  "id": "Vanillish",
+  "spawnInfos": [
+    {
+      "spec": "species:Vanillish",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Vanillish palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Vanillish palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Vanillish palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Vanillish palette:summer 1",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Vanillish palette:summer 2",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Vanillish palette:sweet",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 36,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:never_melt_ice",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

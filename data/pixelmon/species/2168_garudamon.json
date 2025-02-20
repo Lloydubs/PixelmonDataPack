@@ -1,0 +1,546 @@
+{
+   "name":"Garudamon",
+   "dex":2168,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":7.6,
+            "width":3.4,
+            "length":1.9,
+            "eyeHeight":7.6,
+            "hoverHeight":7.6
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Peck",
+                     "Hyperspace Hole",
+                     "Shadow Wing"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Fury Attack"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Gust"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Tailwind"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Air Cutter"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Round"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Incinerate"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Chatter"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Dazzling Gleam"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Hurricane"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Fiery Dance"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Burn Up"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Aeroblast"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Fire Pledge",
+               "Lash Out",
+               "Earth Power",
+"Hyper Voice",
+"Expanding Force",
+"Icy Wind",
+"Iron Defense",
+               "Defog",
+               "Dragon Pulse",
+          "Burning Jealousy",
+          "Dual Wingbeat",
+          "Scorching Sands",
+               "Blast Burn",
+               "Psychic",
+               "Rest",
+          "Meteor Beam",
+               "Earth Power",
+               "Skitter Smack",
+               "Hyper Beam",
+               "Play Rough",
+"Terrain Pulse",
+               "Psychic",
+               "Outrage",
+               "Sky Attack"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Fire Spin",
+          "Rest",
+          "Thief",
+               "Hyper Beam",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Will-O-Wisp",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+          "Facade",
+          "Swift",
+          "Weather Ball",
+          "U-turn",
+          "Round",
+          "Mystical Fire",
+          "Air Slash",
+               "U-Turn",
+               "Revenge",
+          "Will-O-Wisp",
+          "Facade",
+          "Swift",
+          "U-turn",
+          "Round",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Dig",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Fly",
+               "Giga Impact",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Rock Blast",
+          "Power Swap",
+               "Reflect",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Protect",
+          "Giga Drain",
+          "Steel Wing",
+          "Sandstorm",
+          "Rain Dance",
+          "Facade",
+          "Helping Hand",
+          "Dive",
+          "Weather Ball",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze",
+          "Smart Strike",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+          "Flamethrower",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Psychic",
+          "Fire Blast",
+          "Substitute",
+          "Endure",
+               "Poison Jab",
+               "X-Scissor",
+               "Bug Buzz",
+               "Energy Ball",
+               "Flash Cannon",
+               "Electro Ball",
+               "Wild Charge",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+          "Hyper Voice",
+          "Overheat",
+          "Calm Mind",
+          "Flare Blitz",
+          "Brave Bird",
+          "Earth Power",
+               "Endure",
+          "Skill Swap",
+          "Overheat",
+          "Cosmic Power",
+          "Iron Defense",
+          "Calm Mind",
+               "Trick",
+               "Endure",
+               "Sleep Talk",
+           "Megahorn",
+          "Iron Tail",
+          "Future Sight",
+          "Hyper Voice",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt",
+               "Baton Pass",
+          "Heat Wave",
+          "Overheat",
+          "Flare Blitz",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab",
+          "Waterfall",
+               "Throat Chop",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+          "Ancient Power",
+          "Baton Pass",
+          "Aerial Ace",
+          "Air Cutter",
+          "Bide",
+          "Confide",
+          "Curse",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Double-Edge",
+          "Extrasensory",
+          "Flame Charge",
+          "Frustration",
+          "Headbutt",
+          "Hidden Power",
+          "Laser Focus",
+          "Mimic",
+          "Morning Sun",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Rollout",
+          "Secret Power",
+          "Signal Beam",
+               "Swift",
+               "Take Down",
+               "Foresight",
+               "Frustration",
+          "Frost Breath",
+          "Frustration",
+          "Grass Whistle",
+          "Headbutt",
+          "Hidden Power",
+               "Nasty Plot",
+          "Sky Drop",
+          "Swagger",
+          "Tailwind",
+          "Take Down",
+          "Toxic",
+          "Twister",
+          "Whirlwind",
+               "Return",
+               "Roost",
+               "Secret Power",
+               "Silver Wind",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+          "Secret Power",
+          "Strength",
+          "Synthesis",
+          "Toxic",
+          "Water Pulse",
+               "Bestow",
+               "Captivate",
+               "Rock Smash",
+               "Secret Power",
+               "Signal Beam",
+               "Snatch",
+               "Steamroller",
+          "Pluck",
+          "Rage",
+          "Razor Wind",
+          "Reflect",
+          "Return",
+          "Roar",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Roost",
+          "Secret Power",
+          "Shock Wave",
+          "Signal Beam",
+          "Skull Bash",
+          "Solar Beam",
+          "Strength",
+          "Swagger",
+          "Take Down",
+               "Trick",
+               "Skill Swap",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Punishment",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Roost",
+          "Secret Power",
+               "Body Press"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "Justified"
+            ],
+            "hiddenAbilities":[
+               "Costar"
+            ]
+         },
+        "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 3.0,
+						"y": 2.5,
+						"z": 2.4
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":105,
+            "attack":78,
+            "defense":86,
+            "specialAttack":98,
+            "specialDefense":91,
+            "speed":102
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":32,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2168_garudamon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2168_garudamon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2168_garudamon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2168_garudamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2168_garudamon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2168_garudamon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2168_garudamon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "FLYING",
+            "FIRE"
+         ],
+         "preEvolutions":[
+            "Birdramon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":32.5,
+         "catchRate":20,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "level":45,
+               "to":"Phoenixmon",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Eruption",
+                  "Life Force",
+                  "Starlight Explosion"
+               ]
+            }
+         ],
+         "evYields":{
+            "hp":3,
+            "speed":2
+         }
+      }
+   ],
+   "generation":20
+}

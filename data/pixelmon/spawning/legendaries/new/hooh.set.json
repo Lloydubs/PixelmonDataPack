@@ -1,0 +1,465 @@
+{
+  "id": "HoOh",
+  "spawnInfos": [
+    {
+      "spec": "species:Ho-Oh level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Ho-Oh palette:online level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:alluring level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:anubis level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:arctic level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:autumn level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:crimson level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:demonic level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:fall festival 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:fall festival 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:fusion level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:ice level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:meadownian 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:meadownian 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:metal level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:moon level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:rgb level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:shadow 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:shadow 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:soulfire level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:sun level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:tier 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Ho-Oh palette:tier 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

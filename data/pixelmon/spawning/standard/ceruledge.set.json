@@ -1,0 +1,89 @@
+{
+    "id": "Ceruledge",
+    "spawnInfos": [
+      {
+        "spec": "species:Ceruledge",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 45,
+        "typeID": "pokemon",
+        "heldItems": [
+        ],
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "biomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+           ]
+        },
+        "rarity": 5.0
+      },
+	  {
+        "spec": "species:Ceruledge palette:midnight",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 45,
+        "typeID": "pokemon",
+        "heldItems": [
+        ],
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "biomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+           ]
+        },
+        "rarity": 0.5
+      },
+	  {
+        "spec": "species:Ceruledge palette:nippon",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 45,
+        "typeID": "pokemon",
+        "heldItems": [
+        ],
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "biomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+           ]
+        },
+        "rarity": 0.5
+      },
+	  {
+        "spec": "species:Ceruledge palette:norse",
+        "stringLocationTypes": [
+          "Land"
+        ],
+        "minLevel": 25,
+        "maxLevel": 45,
+        "typeID": "pokemon",
+        "heldItems": [
+        ],
+        "condition": {
+          "times": [
+            "NIGHT"
+          ],
+          "biomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+           ]
+        },
+        "rarity": 0.5
+      }
+    ]
+  }

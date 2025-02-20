@@ -1,0 +1,509 @@
+ {
+   "name":"Ballistamon",
+   "dex":2159,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":2.1,
+            "width":1.4,
+            "length":1.0,
+            "eyeHeight":2.1,
+            "hoverHeight":2.1
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Poison Sting"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Cut"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Fury Cutter"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Metal Sound"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Psybeam"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Silver Wind"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Esper Wing"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Bug Buzz"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Quiver Dance"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Boomburst"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Eerie Spell"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Clanging Scales"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Coaching",
+               "Steel Roller",
+               "Lash Out",
+               "Earth Power",
+               "Giga Impact",
+               "Expanding Force",
+               "Bug Bite",
+               "Defog",
+               "Drill Run",
+               "Electroweb",
+               "Rising Voltage",
+               "Giga Drain",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Corrosive Gas",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Skitter Smack",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Bounce",
+          "Struggle Bug",
+          "Thief",
+          "Trailblaze",
+               "Rest",
+               "Rock Slide",
+               "Snore",
+               "Protect",
+               "Steel Wing",
+               "Acrobatics",
+               "Volt Switch",
+               "Electroweb",
+               "Eerie Impulse",
+               "Air Slash",
+               "U-Turn",
+               "Revenge",
+               "Cross Poison",
+               "Venoshock",
+               "Brutal Swing",
+               "Smart Strike",
+          "Swords Dance",
+          "Dark Pulse",
+          "Leech Life",
+          "Substitute",
+          "X-Scissor",
+          "Reversal",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Fly",
+          "Psycho Cut",
+          "Trick Room",
+          "Wonder Room",
+          "Magic Room",
+          "Round",
+          "Psychic Terrain",
+               "Facade",
+               "Rock Tomb",
+               "Payback",
+               "Assurance",
+               "Cross Poison",
+               "Venoshock",
+               "Round",
+               "Smart Strike",
+               "Stomping Tantrum",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+          "Bug Buzz",
+          "Tera Blast",
+               "Hyper Beam",
+               "Giga Impact",
+               "Solar Beam",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+               "Thunderbolt",
+               "Thunder",
+               "Agility",
+          "Psychic",
+          "Agility",
+          "Leech Life",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Baton Pass",
+          "Shadow Ball",
+          "Future Sight",
+          "Trick",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+               "Shadow Ball",
+               "Uproar",
+               "X-Scissor",
+               "Bug Buzz",
+               "Body Press",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+               "Shadow Ball",
+               "Future Sight",
+               "Trick",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Megahorn",
+               "Baton Pass",
+               "Iron Tail",
+               "Superpower",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab",
+               "X-Scissor",
+               "Venom Drench",
+               "Throat Chop",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               "Air Cutter",
+               "Baton Pass",
+               "Bide",
+               "Captivate",
+               "Curse",
+               "Cut",
+               "Double-Edge",
+               "Endure",
+               "Flash",
+               "Fury Cutter",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Rock Smash",
+               "Secret Power",
+               "Silver Wind",
+               "Skull Bash",
+               "Struggle Bug",
+               "Sweet Scent",
+               "Swift",
+               "Take Down",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "X-Scissor",
+               "Focus Blast",
+               "Nasty Plot",
+               "Gunk Shot",
+               "Mirror Move",
+               "Ominous Wind",
+               "Pluck",
+               "Hone Claws",
+               "Laser Focus",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Return",
+               "Roost",
+               "Secret Power",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon",
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Rock Smash",
+               "Secret Power",
+               "Signal Beam",
+               "Snatch",
+               "Steamroller",
+               "Strength",
+               "Struggle Bug",
+               "Swagger",
+               "Twineedle",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Roost",
+               "Shock Wave",
+               "Signal Beam",
+               "Sky Drop",
+               "Swagger",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Future Sight",
+               "Trick",
+               "Skill Swap",
+               "Iron Defense",
+               "Calm Mind",
+               "Bug Buzz",
+               "Energy Ball",
+               "Zen Headbutt",
+               "Stored Power",
+               "Ally Switch",
+               "Body Press"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "BattleArmour"
+            ],
+            "hiddenAbilities":[
+               "FullMetalBody"
+            ]
+         },
+         "movement":{
+            "rideable":true,
+            "canFly":false,
+            "canSurf":false,
+            "canRideShoulder":false,
+				"ridingOffsets": {
+					"standing": {
+						"x": -1.0,
+						"y": 0.8,
+						"z": 0.0
+					},
+					"moving": {
+						"x": -1.0,
+						"y": 0.8,
+						"z": 0.0
+					}
+				}
+         },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":73,
+            "attack":60,
+            "defense":70,
+            "specialAttack":86,
+            "specialDefense":92,
+            "speed":69
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":20,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2159_ballistamon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2159_ballistamon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2159_ballistamon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2159_ballistamon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2159_ballistamon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2159_ballistamon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2159_ballistamon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "BUG",
+            "PSYCHIC"
+         ],
+         "preEvolutions":[
+            "Tentomon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":18.8,
+         "catchRate":100,
+         "malePercentage":-1,
+         "evolutions":[
+            {
+               "level":32,
+               "to":"MegaKabuterimonBlue",
+               "conditions":[
+                  
+               ],
+               "evoType":"leveling",
+               "moves":[
+                  "Relic Song",
+                  "Wild Scratch"
+               ]
+            }
+         ],
+         "evYields":{
+            "specialdefense":2
+         }
+      }
+   ],
+   "generation":20
+}

@@ -1,0 +1,353 @@
+{
+  "id": "Magcargo",
+  "spawnInfos": [
+    {
+      "spec": "species:Magcargo",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:gembound",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:radioactive",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:shadow",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:slime",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:summer",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Magcargo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:gembound",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:slime",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Magcargo palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "neededNearbyBlocks": [
+          "lava"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal",
+          "incendium:quartz_flats"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Magcargo",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:gembound",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:radioactive",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:shadow",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:slime",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Magcargo palette:summer",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 38,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "rarity": 8.0
+    }
+  ]
+}

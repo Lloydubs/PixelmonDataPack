@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900122,
+    "attackName": "Dark Spirit",
+    "attackType": "GHOST",
+    "attackCategory": "SPECIAL",
+    "basePower": 120,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "KnockOff"
+    }
+],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 102],
+				"scale": 3.0
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

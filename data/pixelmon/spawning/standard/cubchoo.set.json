@@ -1,0 +1,51 @@
+{
+  "id": "Cubchoo",
+  "spawnInfos": [
+    {
+      "spec": "species:Cubchoo",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Cubchoo palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 22,
+      "maxLevel": 37,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:frozen_river",
+          "minecraft:frozen_ocean",
+          "minecraft:snowy_beach",
+          "minecraft:snowy_plains",
+          "minecraft:ice_spikes",
+          "biomesoplenty:tundra",
+          "byg:frozen_lake",
+          "byg:shattered_glacier"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

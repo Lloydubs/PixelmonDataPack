@@ -1,0 +1,436 @@
+{
+	"name": "Belphemon",
+	"dex": 2125,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 3.7,
+			"width": 2.6,
+			"length": 2.6,
+			"eyeHeight": 3.7,
+			"hoverHeight": 3.7
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch",
+                                                "Hellfire",
+					        "Dark Void",
+                                                "Eternal Nightmare",
+                                                "Gift of Darkness"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Beat Up"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Poison Fang"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Heart Stamp"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Shadow Sneak"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Psycho Cut"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"Cross Poison"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Ceaseless Edge"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"High Jump Kick"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Belly Drum"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Zen Headbutt"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Expanding Force",
+          "Lash Out",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Rest",
+          "Rock Slide",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Drain Punch",
+          "Shadow Claw",
+          "Wonder Room",
+          "Payback",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Shadow Claw",
+          "Guard Swap",
+          "Psycho Cut",
+          "Trick Room",
+          "Round",
+          "Retaliate",
+          "Brutal Swing",
+          "False Swipe"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Body Slam",
+          "Low Kick",
+          "Psychic",
+          "Metronome",
+          "Substitute",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Poison Jab",
+          "Dark Pulse",
+          "X-Scissor",
+          "Focus Blast",
+          "Nasty Plot",
+          "Baton Pass",
+          "Poison Jab",
+          "Dark Pulse",
+          "Power Gem",
+          "Stored Power",
+          "Work Up"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Comatose"
+			],
+			"hiddenAbilities": [
+				"Comatose"
+			]
+		},
+         "movement":{
+                  "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.0,
+						"y": 5.6,
+						"z": 0.0
+					},
+					"moving": {
+						"x": 5,
+						"y": 0.0,
+						"z": 5.6
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 155,
+			"attack": 83,
+			"defense":145,
+			"specialAttack": 94,
+			"specialDefense": 131,
+			"speed": 72
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 220,
+			"baseFriendship": 70,
+			"spawnLevel": 45,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2125_belphemon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2125_belphemon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2125_belphemon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2125_belphemon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2125_belphemon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"PSYCHIC",
+                        "DARK"
+		],
+		"preEvolutions": [ "Astamon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [
+                "pixelmon:charizardite_x"
+                             ],
+		"megas": [
+                "X-Antibody"
+                         ],
+		"gigantamax": {
+            "canHaveFactor": true,
+            "canGigantamax": true,
+            "form": "Rage Mode",
+            "move": "Lampranthus"
+         },
+		"eggCycles": 21,
+		"weight": 220.9,
+		"catchRate": 10,
+		"malePercentage": -1,
+		"evolutions": [
+		],
+		"evYields": {
+			"hp": 3,
+                        "defense":3,
+                        "specialdefense":3
+		}
+	},
+                {
+      "name": "X-Antibody",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "PurePower"
+        ]
+      },
+      "battleStats": {
+        "hp": 143,
+        "attack": 175,
+        "defense": 127,
+        "specialAttack": 115,
+        "specialDefense": 118,
+        "speed": 102
+      },
+      "weight": 574.7,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2125_belphemon/all/x/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/x/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2125_belphemon/all/x/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2125_belphemon/all/x/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2125_belphemon/all/x/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/x/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2125_belphemon/all/x/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rage Mode",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+			"abilities": [
+				"Intimidate"
+			],
+			"hiddenAbilities": [
+				"AngerPoint"
+			]
+      },
+      "battleStats": {
+			"hp": 108,
+			"attack": 174,
+			"defense":101,
+			"specialAttack": 97,
+			"specialDefense": 98,
+			"speed": 102
+      },
+      "weight": 574.7,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2125_belphemon/all/rage/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/rage/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2125_belphemon/all/rage/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2125_belphemon/all/rage/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2125_belphemon/all/rage/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2125_belphemon/all/rage/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2125_belphemon/all/rage/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+	"generation": 20
+}

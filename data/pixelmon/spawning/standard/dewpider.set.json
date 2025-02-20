@@ -1,0 +1,83 @@
+{
+  "id": "Dewpider",
+  "spawnInfos": [
+    {
+      "spec": "species:Dewpider",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 9,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "pixelmon:ultra_jungle",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Dewpider palette:halloween 1",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 9,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "pixelmon:ultra_jungle",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Dewpider palette:halloween 2",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 9,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "pixelmon:ultra_jungle",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

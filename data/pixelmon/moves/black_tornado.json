@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900014,
+    "attackName": "Black Tornado",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 100,
+    "ppBase": 15,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "percentRecoil": 20,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  }
+}

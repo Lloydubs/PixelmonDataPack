@@ -1,0 +1,411 @@
+{
+	"name": "MetalGarurumon",
+	"dex": 2126,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 2.0,
+			"width": 1.8,
+			"length": 1.7,
+			"eyeHeight": 2.0,
+			"hoverHeight": 2.0
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch",
+                                                "Circle Moon Kick",
+					"Aeroblast",
+                                                "Cocytus Breath",
+                                                "Garuru Tomahawk"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Mist"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Icy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Bite"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Aurora Beam"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Glaciate"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"High Jump Kick"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Volt Switch"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Flash Cannon"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Blue Flare"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Ice Beam"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Zap Cannon",
+          "Steel Beam",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Ice Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Rock Blast",
+          "Payback",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Avalanche",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Snarl",
+          "Smart Strike",
+          "Stomping Tantrum",
+          "Retaliate"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Substitute",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Ice Beam",
+          "Blizzard",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Iron Defense",
+          "Close Combat",
+          "Heavy Slam",
+          "High Horsepower",
+          "Throat Chop",
+          "Body Press",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Stored Power",
+          "Work Up"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Anticipation"
+			],
+			"hiddenAbilities": [
+				"ShadowTag"
+			]
+		},
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.3
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.5
+               }
+            },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 10,
+          "pitch_rate": 10,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+      },
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 93,
+			"attack": 96,
+			"defense":95,
+			"specialAttack": 149,
+			"specialDefense": 104,
+			"speed": 143
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 220,
+			"baseFriendship": 70,
+			"spawnLevel": 45,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2126_metalgarurumon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2126_metalgarurumon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2126_metalgarurumon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2126_metalgarurumon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2126_metalgarurumon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2126_metalgarurumon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2126_metalgarurumon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"ICE",
+                        "STEEL"
+		],
+		"preEvolutions": [ "WereGarurumon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [
+                "pixelmon:charizardite_x"
+                             ],
+		"megas": [
+                "X-Antibody"
+                         ],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 39.7,
+		"catchRate": 10,
+		"malePercentage": -1,
+		"evolutions": [{
+                                "with": "WarGreymon",
+                                "to": "Omegamon",
+                                "conditions": [],
+                                "evoType": "trade",
+				        "moves": [
+                                                "Supreme Cannon",
+                                                "Transcendent Sword"
+                                                 ]
+                        },
+                        {
+          "to": "Omegamon",
+          "conditions": [
+            {
+              "withPokemon": [
+                "WarGreymon"
+              ],
+              "withTypes": [],
+              "evoConditionType": "party"
+              },
+              {
+              "friendship": 220,
+              "evoConditionType": "friendship"
+              }
+          ],
+          "evoType": "leveling",
+				        "moves": [
+                                                "Supreme Cannon",
+                                                "Transcendent Sword"
+                                                 ]
+        }
+		],
+		"evYields": {
+			"specialattack": 3,
+                        "attack":2,
+                        "speed":3
+		}
+	},
+                {
+      "name": "X-Antibody",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "BeastBoost"
+        ]
+      },
+      "battleStats": {
+			"hp": 100,
+			"attack": 114,
+			"defense":104,
+			"specialAttack": 174,
+			"specialDefense": 121,
+			"speed": 167
+      },
+      "weight": 54.3,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2126_metalgarurumon/all/x/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2126_metalgarurumon/all/x/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2126_metalgarurumon/all/x/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2126_metalgarurumon/all/x/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2126_metalgarurumon/all/x/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2126_metalgarurumon/all/x/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2126_metalgarurumon/all/x/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+	"generation": 20
+}

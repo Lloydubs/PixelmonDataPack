@@ -1,0 +1,110 @@
+{
+  "id": "TypeNull",
+  "spawnInfos": [
+    {
+      "spec": "species:TypeNull level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "structures": [
+          "minecraft:stronghold"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:TypeNull palette:ben 10 level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "structures": [
+          "minecraft:stronghold"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:TypeNull palette:crimson level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "structures": [
+          "minecraft:stronghold"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:TypeNull palette:egyptian level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "structures": [
+          "minecraft:stronghold"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:TypeNull palette:mecha level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "structures": [
+          "minecraft:stronghold"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

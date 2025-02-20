@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900031,
+    "attackName": "Darkness Zone",
+    "attackType": "Dark",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 70,
+    "makesContact": false,
+    "effects": [
+            {
+      "type": "Accuracy",
+      "amount": -3,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

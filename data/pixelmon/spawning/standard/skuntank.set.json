@@ -1,0 +1,68 @@
+{
+  "id": "Skuntank",
+  "spawnInfos": [
+    {
+      "spec": "species:Skuntank",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Skuntank palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Skuntank palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 53,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

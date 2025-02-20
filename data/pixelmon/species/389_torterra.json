@@ -1,0 +1,512 @@
+{
+  "name": "Torterra",
+  "dex": 389,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 2.2,
+        "width": 2.2,
+        "length": 1,
+        "eyeHeight": 2.2,
+        "hoverHeight": 2.2
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Absorb",
+              "Earthquake",
+              "Razor Leaf",
+              "Tackle",
+              "Withdraw",
+              "Wood Hammer"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Withdraw"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Absorb"
+            ]
+          },
+          {
+            "level": 13,
+            "attacks": [
+              "Razor Leaf"
+            ]
+          },
+          {
+            "level": 17,
+            "attacks": [
+              "Curse"
+            ]
+          },
+          {
+            "level": 22,
+            "attacks": [
+              "Bite"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Mega Drain"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Leech Seed"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Synthesis"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Giga Drain"
+            ]
+          },
+          {
+            "level": 57,
+            "attacks": [
+              "Leaf Storm"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Block",
+          "Earth Power",
+          "Frenzy Plant",
+          "Giga Drain",
+          "Grass Pledge",
+          "Iron Head",
+          "Iron Tail",
+          "Outrage",
+          "Seed Bomb",
+          "Snore",
+          "Stealth Rock",
+          "Stomping Tantrum",
+          "Superpower",
+          "Synthesis",
+          "Worry Seed"
+        ],
+        "eggMoves": [
+          "Amnesia",
+          "Body Slam",
+          "Double-Edge",
+          "Earth Power",
+          "Grassy Terrain",
+          "Growth",
+          "Heavy Slam",
+          "Sand Tomb",
+          "Seed Bomb",
+          "Spit Up",
+          "Stockpile",
+          "Superpower",
+          "Swallow",
+          "Thrash",
+          "Tickle",
+          "Wide Guard",
+          "Worry Seed"
+        ],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bullet Seed",
+          "Captivate",
+          "Cut",
+          "Endure",
+          "Flash",
+          "Headbutt",
+          "Mud-Slap",
+          "Natural Gift",
+          "Rock Smash",
+          "Secret Power",
+          "Strength"
+        ],
+        "tmMoves7": [
+          "Work Up",
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Nature Power",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
+          "Flash",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Nature Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Energy Ball",
+          "Giga Impact",
+          "Rock Polish",
+          "Flash",
+          "Stone Edge",
+          "Swords Dance",
+          "Bulldoze",
+          "Rock Slide",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Roar",
+          "Toxic",
+          "Bullet Seed",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Giga Drain",
+          "Safeguard",
+          "Frustration",
+          "Solar Beam",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Reflect",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Energy Ball",
+          "Endure",
+          "Giga Impact",
+          "Rock Polish",
+          "Flash",
+          "Stone Edge",
+          "Swords Dance",
+          "Stealth Rock",
+          "Captivate",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Grass Knot",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Overgrow"
+        ],
+        "hiddenAbilities": [
+          "ShellArmour"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.2,
+            "z": 1.1
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "specialAttack": 75,
+        "specialDefense": 85,
+        "speed": 56
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 208,
+        "baseFriendship": 70,
+        "spawnLevel": 36,
+        "spawnLevelRange": 9,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/389_torterra/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.torterra"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "zombie",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/zombie/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/zombie/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "diamond",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-diamond/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-diamond/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter 1",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-easter1/texture.png",
+			  "emissive": "pixelmon:pokemon/389_torterra/all/base/custom-easter1/emissive.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-easter1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter 2",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-easter2/texture.png",
+			  "emissive": "pixelmon:pokemon/389_torterra/all/base/custom-easter2/emissive.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-easter2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ice",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-ice/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-ice/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "obscuros",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-obscuros/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-obscuros/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "pearl",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-pearl/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-pearl/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "pirate",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-pirate/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-pirate/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "snowfall",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-snowfall/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-snowfall/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "spring",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-spring/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-spring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sunset",
+              "texture": "pixelmon:pokemon/389_torterra/all/base/custom-sunset/texture.png",
+              "sprite": "pixelmon:pokemon/389_torterra/all/base/custom-sunset/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MONSTER",
+        "GRASS"
+      ],
+      "types": [
+        "GRASS",
+        "GROUND"
+      ],
+      "preEvolutions": [
+        "Grotle",
+        "Turtwig"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 310.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "attack": 2,
+        "defense": 1
+      }
+    }
+  ],
+  "generation": 4
+}

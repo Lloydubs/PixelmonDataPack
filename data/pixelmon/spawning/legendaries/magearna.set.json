@@ -1,0 +1,509 @@
+{
+  "id": "Magearna",
+  "spawnInfos": [
+    {
+      "spec": "species:Magearna level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Magearna palette:alice 1 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:alice 2 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:alluring level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:anubis level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:arctic level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:autumn level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:christmas level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:city level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:clone level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:cosmic level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:cosplay level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:crimson level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:deep sea level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:easter 1 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:easter 2 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:easter 3 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:fusion level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:meadownian 1 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:meadownian 2 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:spartan level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:stridak 1 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:stridak 2 level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    },
+	{
+      "spec": "species:Magearna palette:valentines level:50",
+      "stringLocationTypes": [
+        "Indoors"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "minecraft:mansion"
+        ]
+      },
+      "rarity": 0.03
+    }
+  ]
+}

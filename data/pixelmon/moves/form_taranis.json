@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900053,
+    "attackName": "Form Taranis",
+    "attackType": "POISON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 80,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Poison",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 20.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Poison"
+        },
+    {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

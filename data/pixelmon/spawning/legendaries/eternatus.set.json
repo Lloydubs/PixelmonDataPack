@@ -1,0 +1,247 @@
+{
+  "id": "Eternatus",
+  "spawnInfos": [
+    {
+      "spec": "species:Eternatus level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Eternatus palette:anubis level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:demonic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:halloween level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:poison level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:skeletal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:soulfire level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:toxic 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Eternatus palette:toxic 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:end_barrens",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

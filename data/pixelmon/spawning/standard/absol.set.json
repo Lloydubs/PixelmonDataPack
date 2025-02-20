@@ -1,0 +1,312 @@
+{
+  "id": "Absol",
+  "spawnInfos": [
+    {
+      "spec": "species:Absol",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 90.0
+    },
+    {
+      "spec": "species:Absol",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Absol palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:casino",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:crimson",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:terror",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Absol palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:purpur_peaks",
+          "byg:nightshade_forest"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "id": "Nihilego",
+  "spawnInfos": [
+    {
+      "spec": "species:Nihilego",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Nihilego palette:crimson",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:elemental",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:ethereal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:neon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:river",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Nihilego palette:venomous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

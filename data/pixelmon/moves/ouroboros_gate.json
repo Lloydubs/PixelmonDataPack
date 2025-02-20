@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900126,
+    "attackName": "Ouroboros Gate",
+    "attackType": "FLYING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 160,
+    "ppBase": 2,
+    "ppMax": 3,
+    "accuracy": 50,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+              {
+          "type": "Chance",
+          "value": 33.3
+        }],
+      "persists": false,
+      "effectTypeID": "Burn"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

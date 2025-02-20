@@ -1,0 +1,789 @@
+{
+  "name": "Kyogre",
+  "dex": 382,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.3,
+        "width": 3.5,
+        "length": 1,
+        "eyeHeight": 1.3,
+        "hoverHeight": 1.3
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Ancient Power",
+              "Body Slam",
+              "Scary Face",
+              "Water Pulse"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Aqua Tail"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Muddy Water"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Ice Beam"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Sheer Cold"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Aqua Ring"
+            ]
+          },
+          {
+            "level": 63,
+            "attacks": [
+              "Origin Pulse"
+            ]
+          },
+          {
+            "level": 72,
+            "attacks": [
+              "Hydro Pump"
+            ]
+          },
+          {
+            "level": 81,
+            "attacks": [
+              "Double-Edge"
+            ]
+          },
+          {
+            "level": 90,
+            "attacks": [
+              "Water Spout"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Whirlpool",
+          "Facade",
+          "Brick Break",
+          "Dive",
+          "Rock Tomb",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Waterfall",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Uproar",
+          "Muddy Water",
+          "Calm Mind",
+          "Iron Head",
+          "Heavy Slam",
+          "Scald",
+          "Liquidation"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Block",
+          "Confide",
+          "Defense Curl",
+          "Double Team",
+          "Frustration",
+          "Headbutt",
+          "Hidden Power",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Signal Beam",
+          "Strength",
+          "Swagger",
+          "Swift",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Round",
+          "Scald",
+          "Giga Impact",
+          "Thunder Wave",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Round",
+          "Scald",
+          "Giga Impact",
+          "Thunder Wave",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Round",
+          "Scald",
+          "Giga Impact",
+          "Thunder Wave",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Water Pulse",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Rock Tomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Brine",
+          "Endure",
+          "Giga Impact",
+          "Avalanche",
+          "Thunder Wave",
+          "Psych Up",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Water Pulse",
+          "Calm Mind",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Rock Tomb",
+          "Facade",
+          "Secret Power",
+          "Rest"
+        ],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Drizzle"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": true,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": -0.5
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "swimmingParameters": {
+          "depthRangeStart": 5,
+          "depthRangeEnd": 100,
+          "swimSpeed": 15,
+          "decayRate": 0.99,
+          "refreshRate": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 90,
+        "specialAttack": 150,
+        "specialDefense": 140,
+        "speed": 90
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 218,
+        "baseFriendship": 0,
+        "spawnLevel": 70,
+        "spawnLevelRange": 0,
+        "spawnLocations": [
+          "WATER"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/382_kyogre/all/base/none/model.pqc"
+                ],
+                "yRotation": 22.3
+              },
+              "sounds": [
+                "pixelmon.mob.kyogre"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "animalistic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-animalistic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-animalistic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "atlante",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-atlante/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-atlante/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "black and white",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-black-white/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-black-white/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gembound",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-gembound/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-gembound/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gemstone 1",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-gemstone1/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-gemstone1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gemstone 2",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-gemstone2/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-gemstone2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "obscuros",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-obscuros/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-obscuros/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "prismatic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-prismatic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-prismatic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rainbow 1",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-rainbow1/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-rainbow1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rainbow 2",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-rainbow2/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-rainbow2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rgb",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-rgb/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-rgb/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rising sun",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-risingsun/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-risingsun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rocket",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-rocket/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-rocket/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-temple/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-toxic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "vapor",
+              "texture": "pixelmon:pokemon/382_kyogre/all/base/custom-vapor/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/base/custom-vapor/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "DRAGON",
+        "MONSTER"
+      ],
+      "types": [
+        "WATER"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 121,
+      "weight": 352.0,
+      "catchRate": 5,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 3
+      }
+    },
+    {
+      "name": "primal",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "PrimordialSea"
+        ]
+      },
+      "battleStats": {
+        "hp": 100,
+        "attack": 150,
+        "defense": 90,
+        "specialAttack": 180,
+        "specialDefense": 160,
+        "speed": 90
+      },
+      "weight": 430.0,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/none/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/382_kyogre/all/primal/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.kyogre.primal"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "animalistic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-animalistic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-animalistic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "atlante",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-atlante/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-atlante/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "black and white",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-black-white/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-black-white/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gembound",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-gembound/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-gembound/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "obscuros",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-obscuros/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-obscuros/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "prismatic",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-prismatic/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-prismatic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rainbow",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-rainbow1/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-rainbow1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rocket",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-rocket/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-rocket/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-summer/texture.png",
+			  "emissive": "pixelmon:pokemon/382_kyogre/all/primal/custom-summer/emissive.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/382_kyogre/all/primal/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/382_kyogre/all/primal/custom-temple/sprite.png",
+              "particle": ""
+            }		
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 3
+}

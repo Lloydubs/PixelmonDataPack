@@ -1,0 +1,349 @@
+{
+  "id": "Joltik",
+  "spawnInfos": [
+    {
+      "spec": "species:Joltik",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Joltik palette:cosplay",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:heroic",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:lucas",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Joltik palette:valentines",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Joltik",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Joltik palette:cosplay",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:heroic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:lucas",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Joltik palette:valentines",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:web"
+            ]
+          }
+        }
+      ],
+      "rarity": 2.0
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "id": "Grimmsnarl",
+  "spawnInfos": [
+    {
+      "spec": "species:Grimmsnarl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Grimmsnarl palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:nightmare 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:nightmare 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:oni",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:superhero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed",
+          "biomesoplenty:mystic_grove",
+          "byg:twilight_valley",
+          "byg:twilight_valley_hills",
+          "byg:weeping_witch_forest",
+          "byg:weeping_witch_clearing"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Grimmsnarl",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Grimmsnarl palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:nightmare 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:nightmare 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:oni",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:superhero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Grimmsnarl palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:crimson_forest",
+          "minecraft:warped_forest",
+          "biomesoplenty:undergrowth",
+          "byg:crimson_gardens",
+          "byg:glowstone_gardens",
+          "byg:withering_woods"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

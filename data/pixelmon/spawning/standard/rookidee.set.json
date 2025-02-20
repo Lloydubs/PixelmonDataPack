@@ -1,0 +1,432 @@
+{
+  "id": "Rookidee",
+  "spawnInfos": [
+    {
+      "spec": "species:Rookidee",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Rookidee palette:alter",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Rookidee palette:christmas",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Rookidee palette:lunar",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Rookidee palette:molten",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Rookidee palette:rainbow",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Rookidee palette:rgb",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 30.0
+    },
+    {
+      "spec": "species:Rookidee",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 200.0
+    },
+	{
+      "spec": "species:Rookidee palette:alter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:rgb",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 20.0
+    },
+    {
+      "spec": "species:Rookidee",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 200.0
+    },
+	{
+      "spec": "species:Rookidee palette:alter",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:lunar",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:molten",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:rainbow",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Rookidee palette:rgb",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 7,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 20.0
+    }
+  ]
+}

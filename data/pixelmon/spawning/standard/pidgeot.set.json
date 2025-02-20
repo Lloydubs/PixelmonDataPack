@@ -1,0 +1,225 @@
+{
+  "id": "Pidgeot",
+  "spawnInfos": [
+    {
+      "spec": "species:Pidgeot",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Pidgeot palette:aquatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:fusion 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:fusion 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:hunter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Pidgeot palette:vapor",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Pidgeot palette:pink",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 36,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "Omastar",
+  "spawnInfos": [
+    {
+      "spec": "species:Omastar",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Omastar palette:anubis",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:atante",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:beta",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:gembound",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:gemstone 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:gemstone 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:glass",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Omastar palette:relic castle",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    
+  ]
+}

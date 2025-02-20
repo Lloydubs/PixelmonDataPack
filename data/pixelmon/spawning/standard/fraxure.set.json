@@ -1,0 +1,79 @@
+{
+  "id": "Fraxure",
+  "spawnInfos": [
+    {
+      "spec": "species:Fraxure",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Fraxure palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Fraxure",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Fraxure pette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 39,
+      "maxLevel": 47,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

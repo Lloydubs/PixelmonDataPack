@@ -1,0 +1,320 @@
+{
+  "name": "Smeargle",
+  "dex": 235,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "FAST",
+      "dimensions": {
+        "height": 1.2,
+        "width": 1.0,
+        "length": 1,
+        "eyeHeight": 1.2,
+        "hoverHeight": 1.2
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 21,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 51,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 61,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 71,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 81,
+            "attacks": [
+              "Sketch"
+            ]
+          },
+          {
+            "level": 91,
+            "attacks": [
+              "Sketch"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [
+          "Captivate",
+          "False Swipe",
+          "Flamethrower",
+          "Fury Swipes",
+          "Mean Look",
+          "Odor Sleuth",
+          "Seismic Toss",
+          "Sleep Talk",
+          "Spore"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "OwnTempo",
+          "Technician"
+        ],
+        "hiddenAbilities": [
+          "Moody"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 55,
+        "attack": 20,
+        "defense": 35,
+        "specialAttack": 20,
+        "specialDefense": 45,
+        "speed": 75
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 106,
+        "baseFriendship": 70,
+        "spawnLevel": 5,
+        "spawnLevelRange": 35,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/235_smeargle/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "city",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-city/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-city/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosplay",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-cosplay/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-cosplay/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-halloween2/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magma",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-magma/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-magma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "radioactive",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-radioactive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad 1",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-squad1/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-squad1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad 2",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-squad2/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-squad2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad 3",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-squad3/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-squad3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad 4",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-squad4/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-squad4/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 1",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-summer1/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-summer1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer 2",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-summer2/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-summer2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines",
+              "texture": "pixelmon:pokemon/235_smeargle/all/base/custom-val/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/base/custom-val/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD"
+      ],
+      "types": [
+        "NORMAL"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 58.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "speed": 1
+      }
+    },
+    {
+      "name": "centonian",
+      "experienceGroup": "FAST",
+      "dimensions": {
+        "height": 1.2,
+        "width": 1.0,
+        "length": 1,
+        "eyeHeight": 1.2,
+        "hoverHeight": 1.2
+      },	
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/235_smeargle/all/centonian/none/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/centonian/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/235_smeargle/all/centonian/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/235_smeargle/all/centonian/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/235_smeargle/all/centonian/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }	
+          ]
+		}
+	  ]	
+	}
+  ],
+  "generation": 2
+}

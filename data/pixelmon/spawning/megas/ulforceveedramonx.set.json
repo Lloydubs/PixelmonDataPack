@@ -1,0 +1,20 @@
+{
+  "id": "UlforceVeedramon X",
+  "spawnInfos": [
+    {
+      "spec": "species:UlforceVeedramon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:giant_tree_taiga_hills"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

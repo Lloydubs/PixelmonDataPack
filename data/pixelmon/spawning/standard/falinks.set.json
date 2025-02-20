@@ -1,0 +1,165 @@
+{
+  "id": "Falinks",
+  "spawnInfos": [
+    {
+      "spec": "species:Falinks",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Falinks palette:alice 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:alice 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:alluring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:fantasy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Falinks palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "Smeargle",
+  "spawnInfos": [
+    {
+      "spec": "species:Smeargle",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Smeargle form:centonian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:city",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:cosplay",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:squad 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:squad 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:squad 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:squad 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:summer 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:summer 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Smeargle palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas"
+        ]
+      },
+      "rarity": 0.6
+    }
+  ]
+}

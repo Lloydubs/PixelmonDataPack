@@ -1,0 +1,185 @@
+{
+  "id": "Grookey",
+  "spawnInfos": [
+    {
+      "spec": "species:Grookey",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Grookey palette:diamond",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:faceless 1",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:faceless 2",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:gamma",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:glass",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:pearl",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:poison",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:rising sun",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Grookey palette:toxic",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

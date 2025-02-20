@@ -1,0 +1,30 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Giant Scissors",
+    "attackType": "BUG",
+    "attackCategory": "PHYSICAL",
+    "basePower": 150,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 70,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "WringOut"
+    }
+    ],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

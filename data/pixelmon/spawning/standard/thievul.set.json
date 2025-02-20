@@ -1,0 +1,131 @@
+{
+  "id": "Thievul",
+  "spawnInfos": [
+    {
+      "spec": "species:Thievul",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Thievul palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Thievul palette:mythology 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Thievul palette:mythology 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Thievul palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Thievul palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 18,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

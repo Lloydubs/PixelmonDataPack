@@ -1,0 +1,395 @@
+{
+  "id": "Noctowl",
+  "spawnInfos": [
+    {
+      "spec": "species:Noctowl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Noctowl palette:anubis",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:arctic 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:arctic 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:fusion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Noctowl palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/freezing_forests",
+          "#pixelmon:spawning/magical",
+          "biomesoplenty:tundra"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Noctowl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Noctowl palette:anubis",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:arctic 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:arctic 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:fusion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:winter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Noctowl palette:winter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 20,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

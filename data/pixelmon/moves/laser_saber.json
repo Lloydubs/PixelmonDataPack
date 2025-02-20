@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900083,
+    "attackName": "Laser Saber",
+    "attackType": "DRAGON",
+    "attackCategory": "SPECIAL",
+    "basePower": 30,
+    "ppBase": 20,
+    "ppMax": 32,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [       
+        {
+            "minHits": 3,
+            "maxHits": 4,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+        {
+            "type": "Burn",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 20.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Burn"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

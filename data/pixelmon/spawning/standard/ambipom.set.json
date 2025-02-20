@@ -1,0 +1,378 @@
+{
+  "id": "Ambipom",
+  "spawnInfos": [
+    {
+      "spec": "species:Ambipom",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Ambipom",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Ambipom form:centonian",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:animalistic",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:cny 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:cny 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:ditto 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:ditto 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:magma",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:nintendo",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:otaku",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:phantom",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:purified 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:purified 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:valentines",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Ambipom palette:video game",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 33,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

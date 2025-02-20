@@ -1,0 +1,855 @@
+{
+  "id": "Victini",
+  "spawnInfos": [
+    {
+      "spec": "species:Victini level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.4
+    },
+	{
+      "spec": "species:Victini palette:aquatic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:arctic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:battlecast level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:black and white level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:casino level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:christmas 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:christmas 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:cosmic 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:cosmic 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:dessert 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:dessert 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:easter 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:easter 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:halloween level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:insectoid level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:lunar level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:magma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:meadownian 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:meadownian 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:metal level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:nippon level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:outer worlds level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:rgb level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:rising sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:shadow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:soulfire level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:spartan level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:spring level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Victini palette:vapor level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "CLEAR"
+        ],
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 90
+      },
+      "rarity": 0.04
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "id": "Thwackey",
+  "spawnInfos": [
+    {
+      "spec": "species:Thwackey",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Thwackey palette:diamond",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:gamma",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:glass",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:pearl",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:poison",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:rising sun",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Thwackey palette:toxic",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 16,
+      "maxLevel": 34,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

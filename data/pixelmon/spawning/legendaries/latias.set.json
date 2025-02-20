@@ -1,0 +1,383 @@
+{
+  "id": "Latias",
+  "spawnInfos": [
+    {
+      "spec": "species:Latias level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Latias palette:blood level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:christmas level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:city level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:crimson level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:dark level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:deepsea level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:demonic level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:easter level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:nippon level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:poison level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:purple haze level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:resolute level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:rgb level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:shadow level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Latias palette:toxic level:70",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

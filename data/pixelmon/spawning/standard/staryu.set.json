@@ -1,0 +1,408 @@
+{
+  "id": "Staryu",
+  "spawnInfos": [
+    {
+      "spec": "species:Staryu",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Staryu palette:christmas 1",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:christmas 2",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:cosplay",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:fall",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:glass",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:halloween",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:molten",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:rainbow",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:shadow 1",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:shadow 2",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:winter 1",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Staryu palette:winter 2",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Forage"
+      ],
+      "minLevel": 10,
+      "maxLevel": 15,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:star_piece",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:stardust",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

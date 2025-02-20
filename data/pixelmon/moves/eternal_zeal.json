@@ -1,0 +1,37 @@
+{
+    "attackIndex": 900046,
+    "attackName": "Eternal Zeal",
+    "attackType": "FIRE",
+    "attackCategory": "PHYSICAL",
+    "basePower": 115,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 85,
+    "makesContact": false,
+    "effects": [
+
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

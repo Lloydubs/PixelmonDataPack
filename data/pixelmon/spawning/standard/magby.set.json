@@ -1,0 +1,109 @@
+{
+  "id": "Magby",
+  "spawnInfos": [
+    {
+      "spec": "species:Magby",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:magma_wastes",
+          "incendium:infernal_dunes",
+          "incendium:volcanic_deltas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Magby palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:nether_wastes",
+          "minecraft:basalt_deltas",
+          "byg:magma_wastes",
+          "incendium:infernal_dunes",
+          "incendium:volcanic_deltas"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Magby",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Magby palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Magby",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Magby palette:shadow",
+      "stringLocationTypes": [
+        "Lava Floor"
+      ],
+      "minLevel": 5,
+      "maxLevel": 10,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

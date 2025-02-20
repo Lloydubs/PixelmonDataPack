@@ -1,0 +1,331 @@
+{
+  "name": "Gargoylemon",
+  "dex": 2102,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.5,
+        "length": 1.5,
+        "eyeHeight": 3.5,
+        "hoverHeight": 3.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer",
+            "Ice Fang",
+            "White Statue",
+            "Black Statue"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Return"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Psycho Cut"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Dragon Darts"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Avalanche"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Stone Axe"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Ice Hammer"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Outrage"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Clangorous Soul"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Scale Shot",
+          "Meteor Beam"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Steel Wing",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Scary Face",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Imprison",
+          "Weather Ball",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Payback",
+          "Fling",
+          "Shadow Claw",
+          "Round",
+          "Brutal Swing",
+          "Stomping Tantrum",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Ice Beam",
+          "Blizzard",
+          "Psychic",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Earth Power",
+          "Zen Headbutt",
+          "Flash Cannon",
+          "Iron Head",
+          "Stone Edge",
+          "Dragon Claw",
+          "Poison Jab",
+          "Earth Power",
+          "Heat Wave",
+          "Superpower",
+          "Bug Buzz",
+          "Dragon Pulse",
+          "Earth Power",
+          "Iron Head",
+          "Stone Edge",
+          "Stealth Rock",
+          "Play Rough",
+          "High Horsepower",
+          "Psychic Fangs"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Double Team",
+          "Dragon Rage",
+          "Dragon Tail",
+          "Bide",
+          "Block",
+          "Confide",
+          "Double Team",
+          "Frustration",
+          "Hidden Power",
+          "Hone Claws",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Dragon Rage",
+          "Dragon Tail",
+          "Echoed Voice",
+          "Frustration",
+          "Hidden Power",
+          "Hone Claws",
+          "Laser Focus",
+          "Return",
+          "Rock Smash",
+          "Roost",
+          "Secret Power",
+          "Signal Beam",
+          "Strength",
+          "Swagger",
+          "Secret Power",
+          "Sky Attack",
+          "Sky Drop",
+          "Smack Down",
+          "Strength",
+          "Swagger",
+          "Torment",
+          "Toxic",
+          "Twister"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "CursedBody"
+        ],
+        "hiddenAbilities": [
+          "Hustle"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 125,
+        "attack": 141,
+        "defense": 121,
+        "specialAttack": 87,
+        "specialDefense": 163,
+        "speed": 43
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2102_gargoylemon/all/base/none/texture.png",
+              "emissive": "pixelmon:pokemon/2102_gargoylemon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2102_gargoylemon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2102_gargoylemon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2102_gargoylemon/all/base/shiny/texture.png",
+              "emissive": "pixelmon:pokemon/2102_gargoylemon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2102_gargoylemon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "DRAGON",
+        "ICE"
+      ],
+      "preEvolutions": [
+        "Veemon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 63.2,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Veemon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
+      "evYields": {
+        "specialdefense": 3,
+        "attack": 3
+      }
+    }
+  ],
+  "generation": 20
+}

@@ -1,0 +1,1229 @@
+{
+  "id": "Sableye",
+  "spawnInfos": [
+    {
+      "spec": "species:Sableye",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Sableye palette:arkasian 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:arkasian 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:boosted 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:boosted 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:christmas 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:christmas 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:hero",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:love 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:love 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:lunar",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:magma",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:mecha",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:molten",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:obscuros",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:phantom",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:shadow",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:sweetshop",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:terra",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:winter 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:winter 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "structures": [
+              "minecraft:mineshaft"
+            ]
+          }
+        }
+      ],
+      "rarity": 3.0
+    },
+    {
+      "spec": "species:Sableye",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Sableye palette:arkasian 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:arkasian 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:boosted 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:boosted 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:christmas 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:christmas 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:love 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:love 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:lunar",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:obscuros",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:phantom",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sableye palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:wide_lens",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

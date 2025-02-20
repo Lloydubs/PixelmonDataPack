@@ -1,0 +1,943 @@
+{
+  "name": "Dragonite",
+  "dex": 149,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 2.2,
+        "width": 1.2,
+        "length": 1,
+        "eyeHeight": 2.2,
+        "hoverHeight": 2.2
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Extreme Speed",
+              "Fire Punch",
+              "Hurricane",
+              "Leer",
+              "Roost",
+              "Thunder Punch",
+              "Thunder Wave",
+              "Twister",
+              "Wing Attack",
+              "Wrap"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Dragon Tail"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Agility"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Slam"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Aqua Tail"
+            ]
+          },
+          {
+            "level": 39,
+            "attacks": [
+              "Dragon Rush"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Outrage"
+            ]
+          },
+          {
+            "level": 46,
+            "attacks": [
+              "Safeguard"
+            ]
+          },
+          {
+            "level": 53,
+            "attacks": [
+              "Rain Dance"
+            ]
+          },
+          {
+            "level": 62,
+            "attacks": [
+              "Dragon Dance"
+            ]
+          },
+          {
+            "level": 80,
+            "attacks": [
+              "Hyper Beam"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Dual Wingbeat",
+          "Scale Shot"
+        ],
+        "eggMoves": [
+          "Aqua Jet",
+          "Dragon Breath",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Dragon Rush",
+          "Extreme Speed",
+          "Haze",
+          "Iron Tail",
+          "Mist",
+          "Supersonic",
+          "Water Pulse"
+        ],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Fire Spin",
+          "Thunder Wave",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Steel Wing",
+          "Attract",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Whirlpool",
+          "Facade",
+          "Swift",
+          "Brick Break",
+          "Dive",
+          "Rock Tomb",
+          "Fling",
+          "Round",
+          "Bulldoze",
+          "Air Slash",
+          "Brutal Swing",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Flamethrower",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Agility",
+          "Fire Blast",
+          "Waterfall",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Heat Wave",
+          "Superpower",
+          "Dragon Claw",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Iron Head",
+          "Stone Edge",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [
+
+        ],
+        "transferMoves": [
+          "Aerial Ace",
+          "Air Cutter",
+          "Barrier",
+          "Bide",
+          "Bind",
+          "Bubble Beam",
+          "Captivate",
+          "Confide",
+          "Curse",
+          "Cut",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Double-Edge",
+          "Dragon Rage",
+          "Dynamic Punch",
+          "Focus Punch",
+          "Frustration",
+          "Fury Cutter",
+          "Haze",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Hone Claws",
+          "Horn Drill",
+          "Incinerate",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Power-Up Punch",
+          "Rage",
+          "Razor Wind",
+          "Reflect",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Skull Bash",
+          "Sky Drop",
+          "Strength",
+          "Swagger",
+          "Tailwind",
+          "Take Down",
+          "Toxic",
+          "Water Gun",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Steel Wing",
+          "Focus Blast",
+          "Fling",
+          "Sky Drop",
+          "Brutal Swing",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Fly",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Steel Wing",
+          "Focus Blast",
+          "Fling",
+          "Sky Drop",
+          "Incinerate",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Power-Up Punch",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Focus Blast",
+          "Fling",
+          "Sky Drop",
+          "Incinerate",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Focus Punch",
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Steel Wing",
+          "Roost",
+          "Focus Blast",
+          "Fling",
+          "Endure",
+          "Dragon Pulse",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Captivate",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Focus Punch",
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Hail",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Steel Wing"
+        ],
+        "tmMoves2": [
+          "Dynamic Punch",
+          "Headbutt",
+          "Curse",
+          "Toxic",
+          "Zap Cannon",
+          "Rock Smash",
+          "Hidden Power",
+          "Snore",
+          "Blizzard",
+          "Hyper Beam",
+          "Icy Wind",
+          "Protect",
+          "Rain Dance",
+          "Endure",
+          "Frustration",
+          "Iron Tail",
+          "Dragon Breath",
+          "Thunder",
+          "Return",
+          "Mud-Slap",
+          "Double Team",
+          "Ice Punch",
+          "Swagger",
+          "Sleep Talk",
+          "Sandstorm",
+          "Fire Blast",
+          "Swift",
+          "Thunder Punch",
+          "Detect",
+          "Rest",
+          "Attract",
+          "Steel Wing",
+          "Fire Punch",
+          "Fury Cutter"
+        ],
+        "tmMoves1": [
+          "Razor Wind",
+          "Toxic",
+          "Horn Drill",
+          "Body Slam",
+          "Take Down",
+          "Double-Edge",
+          "Bubble Beam",
+          "Water Gun",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Rage",
+          "Dragon Rage",
+          "Thunderbolt",
+          "Thunder",
+          "Mimic",
+          "Double Team",
+          "Reflect",
+          "Bide",
+          "Fire Blast",
+          "Swift",
+          "Skull Bash",
+          "Rest",
+          "Thunder Wave",
+          "Substitute"
+        ],
+        "tmMoves": [
+
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "InnerFocus"
+        ],
+        "hiddenAbilities": [
+          "Multiscale"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.88,
+            "z": -0.6
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.55,
+            "z": 0.6
+          }
+        },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 20,
+          "flySpeedModifier": 0.8,
+          "flyRefreshRateY": 100,
+          "flyRefreshRateXZ": 100,
+          "flyRefreshRateSpeed": 100,
+          "flightTimeMin": 0,
+          "flightTimeMax": 20,
+          "flapRate": 5,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 39,
+          "lower_angle_limit": -44,
+          "max_fly_speed": 1.8,
+          "deceleration_rate": 0.1,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.9,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.8,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 5,
+          "hover_ticks": 40
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 91,
+        "attack": 134,
+        "defense": 95,
+        "specialAttack": 100,
+        "specialDefense": 100,
+        "speed": 80
+      },
+      "tags": [
+
+      ],
+      "spawn": {
+        "baseExp": 218,
+        "baseFriendship": 35,
+        "spawnLevel": 55,
+        "spawnLevelRange": 15,
+        "spawnLocations": [
+          "AIR_PERSISTENT"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/149_dragonite/all/base/none/model.pqc"
+                ],
+                "movementThreshold": 0.02
+              },
+              "sounds": [
+                "pixelmon.mob.dragonite",
+                "pixelmon.mob.dragonite",
+                "pixelmon.mob.dragonite",
+                "pixelmon.mob.dragonite"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "ashen",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/ashen/texture.png",
+              "emissive": "pixelmon:pokemon/149_dragonite/all/base/ashen/dragonite.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/ashen/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "coralp",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-coralp/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-coralp/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "coralw",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-coralw/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-coralw/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosplay",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-cosplay/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-cosplay/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dessert 1",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-dessert1/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-dessert1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dessert 2",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-dessert2/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-dessert2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-ditto/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-ditto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "easter",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-easter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "event",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-event/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-event/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion 1",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-fusion1/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-fusion1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion 2",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-fusion2/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-fusion2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gembound",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-gembound/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-gembound/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "insectoid",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-insectoid/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-insectoid/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magma",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-magma/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-magma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "metal",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-metal/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-metal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-molten/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-molten/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "moon",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-moon/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-moon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "purple haze",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-purplehaze/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-purplehaze/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rising sun",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-risingsun/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-risingsun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "royal",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-royal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "school 1",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-school1/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-school1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "school 2",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-school2/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-school2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "steampunk 1",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-steampunk1/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-steampunk1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "steampunk 2",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-steampunk2/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-steampunk2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sun",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-sun/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-sun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sunset",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-sunset/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-sunset/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-toxic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "video game",
+              "texture": "pixelmon:pokemon/149_dragonite/all/base/custom-videogame/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/base/custom-videogame/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "WATER_ONE",
+        "DRAGON"
+      ],
+      "types": [
+        "DRAGON",
+        "FLYING"
+      ],
+      "preEvolutions": [
+        "Dragonair",
+        "Dratini"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+
+      ],
+      "megas": [
+
+      ],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 41,
+      "weight": 210.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [
+
+      ],
+      "evYields": {
+        "attack": 3
+      }
+    },
+    {
+      "name": "creator",
+      "tags": [
+
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/149_dragonite/all/creator/none/texture.png",
+              "sprite": "pixelmon:pokemon/149_dragonite/all/creator/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/149_dragonite/all/creator/none/model.pqc"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 1
+}

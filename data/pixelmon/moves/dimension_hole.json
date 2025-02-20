@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900036,
+    "attackName": "Dimension Hole",
+    "attackType": "Ground",
+    "attackCategory": "PHYSICAL",
+    "basePower": 70,
+    "ppBase": 10,
+    "ppMax": 24,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "message": "pixelmon.effect.dighole",
+      "base": "UnderGround",
+      "type": "UnderGround",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "Dig"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Flee"
+    }
+    ],
+    "animations": [
+	{
+		"id": "verticalStomp",
+		"landingEffect": {
+			"id": "radial",
+			"texture": "DUST"
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

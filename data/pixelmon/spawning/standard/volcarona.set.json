@@ -1,0 +1,1202 @@
+{
+  "id": "Volcarona",
+  "spawnInfos": [
+    {
+      "spec": "species:Volcarona",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Volcarona palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:charged",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:galaxy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:galaxy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:sakura",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Volcarona palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 85
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Volcarona",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Volcarona palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:charged",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:dark",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:galaxy 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:galaxy 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:norse",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:primal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:sakura",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Volcarona palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Volcarona palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 59,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:silver_powder",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

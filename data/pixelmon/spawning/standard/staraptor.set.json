@@ -1,0 +1,347 @@
+{
+  "id": "Staraptor",
+  "spawnInfos": [
+    {
+      "spec": "species:Staraptor",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Staraptor palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:arctic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:atlante",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:forest",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:infernal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:poison",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Staraptor palette:toxic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Staraptor",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Staraptor palette:animalistic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:arctic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:atlante",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:forest",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:infernal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:poison",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Staraptor palette:toxic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "id": "Calyrex",
+  "spawnInfos": [
+    {
+      "spec": "species:Calyrex level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Calyrex palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Calyrex palette:easter level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Calyrex palette:halloween 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Calyrex palette:halloween 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Calyrex palette:halloween 3 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Calyrex palette:halloween 4 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "heldItems": [
+        {
+          "itemID": "pixelmon:reins_of_unity",
+          "percentChance": 100
+        }
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "freezing forests"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

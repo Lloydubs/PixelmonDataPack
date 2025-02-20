@@ -1,0 +1,85 @@
+{
+  "id": "Spinda",
+  "spawnInfos": [
+    {
+      "spec": "species:Spinda",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 85
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Spinda palette:event blue",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 85
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Spinda palette:event pink",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 85
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Spinda palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 85
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Spinda palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 85
+      },
+      "rarity": 9.0
+    }
+  ]
+}

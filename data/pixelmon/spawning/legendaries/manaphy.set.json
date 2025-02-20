@@ -1,0 +1,205 @@
+{
+  "id": "Manaphy",
+  "spawnInfos": [
+    {
+      "spec": "species:Manaphy level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.4
+    },
+	{
+      "spec": "species:Manaphy palette:crimson level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:halloween level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:insectoid level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:midnight level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:toy level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:valentines level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Manaphy palette:vapor level:50",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "minecraft:warm_ocean",
+          "minecraft:lukewarm_ocean"
+        ]
+      },
+      "rarity": 0.04
+    }
+  ]
+}

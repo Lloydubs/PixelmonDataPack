@@ -1,0 +1,20 @@
+{
+  "id": "Minervamon X",
+  "spawnInfos": [
+    {
+      "spec": "species:Minervamon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:sunflower_plains"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

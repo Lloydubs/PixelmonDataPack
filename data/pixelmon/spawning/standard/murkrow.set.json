@@ -1,0 +1,418 @@
+{
+  "id": "Murkrow",
+  "spawnInfos": [
+    {
+      "spec": "species:Murkrow",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 1",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 2",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 3",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 4",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 1",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 2",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Murkrow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 4",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Murkrow",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:halloween 4",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 1",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Murkrow palette:kal 2",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "minLevel": 5,
+      "maxLevel": 29,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 9.0
+    }
+  ]
+}

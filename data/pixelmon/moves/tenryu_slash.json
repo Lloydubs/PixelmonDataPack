@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900133,
+    "attackName": "Tenryu Slash",
+    "attackType": "FLYING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 70,
+    "ppBase": 18,
+    "ppMax": 24,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "RapidSpin"
+    },
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "SPIRAL",
+				"rgb": [255, 177, 20],
+				"power": 25,
+				"scale": 0.1,
+				"radius": 0.9,
+				"conical": false
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

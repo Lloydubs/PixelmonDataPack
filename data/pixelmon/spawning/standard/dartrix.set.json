@@ -1,0 +1,190 @@
+{
+  "id": "Dartrix",
+  "spawnInfos": [
+    {
+      "spec": "species:Dartrix",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Dartrix palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Dartrix",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Dartrix palette:diamond",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:ice",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Dartrix palette:pearl",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 17,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

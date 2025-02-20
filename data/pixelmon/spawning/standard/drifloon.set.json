@@ -1,0 +1,165 @@
+{
+  "id": "Drifloon",
+  "spawnInfos": [
+    {
+      "spec": "species:Drifloon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Drifloon palette:carnival",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:crimson",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:halloween 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:lantern",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Drifloon palette:valentines",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 15,
+      "maxLevel": 24,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

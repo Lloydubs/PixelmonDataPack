@@ -1,0 +1,66 @@
+{
+    "attackIndex": 900123,
+    "attackName": "Dark Musical",
+    "attackType": "GHOST",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "LuckyChant",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "LuckyChant"
+    }
+],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"15": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"20": {
+				"id": "tube",
+				"texture": "NORMAL",
+				"conical": false,
+				"rgb": [178, 102, 255],
+				"scale": 0.25
+			},
+			"30": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			},
+			"45": {
+				"id": "radial",
+				"texture": "NORMAL",
+				"rgb": [220, 28, 28]
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true,
+        "sound": true
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "attackIndex": 900054,
+    "attackName": "Full Metal Blaze",
+    "attackType": "ELECTRIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 250,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+         {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    },
+    {
+      "type": "Paralysis",
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "SOLID",
+				"scale": 0.7,
+				"speed": 0.9
+			},
+			"7": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"scale": 0.6,
+				"lifetimeTicks": 40,
+				"speed": 0.9
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

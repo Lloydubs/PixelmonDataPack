@@ -1,0 +1,1157 @@
+{
+  "id": "Milotic",
+  "spawnInfos": [
+    {
+      "spec": "species:Milotic",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Milotic palette:aether",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:akuma",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:autumn",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:coralp",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:coral reef",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:coralw",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:dark",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:dream",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:fall",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:festive",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:fusion",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:galaxy",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:gem",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:gembound",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:gemstone 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:gemstone 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:halloween 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:halloween 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:halloween 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:halloween 4",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:ice",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:lunar",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:molten",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:mythology 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:mythology 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:neon",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:nippon",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:resolute",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:rgb 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:rgb 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:rgb 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:rgb 4",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:river",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:royal",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:shadow",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:skeletal",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:spring",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:sunset",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:valentines 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:valentines 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Milotic palette:vapor",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ],
+        "minY": 45
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Milotic palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 30,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

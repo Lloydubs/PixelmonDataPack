@@ -1,0 +1,102 @@
+{
+    "attackIndex": 900136,
+    "attackName": "Terrors Cluster",
+    "attackType": "GROUND",
+    "attackCategory": "SPECIAL",
+    "basePower": 100,
+    "ppBase": 15,
+    "ppMax": 25,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+              {
+      "type": "Paralysis",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 33.3
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    },
+    {
+      "langStart": "pixelmon.status.electricterrain",
+      "langEnd": "pixelmon.status.electricterrainend",
+      "type": "ElectricTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ElectricTerrain"
+    }
+],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [208, 149, 47],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [208, 149, 47],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [208, 149, 47],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [208, 149, 47],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [208, 149, 47],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			}
+		}
+	}
+  ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

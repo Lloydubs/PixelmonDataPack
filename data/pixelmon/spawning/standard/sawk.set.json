@@ -1,0 +1,205 @@
+{
+  "id": "Sawk",
+  "spawnInfos": [
+    {
+      "spec": "species:Sawk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Sawk palete:event",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sawk palete:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Sawk palete:otaku",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:windswept_savanna",
+          "terralith:savanna_badlands",
+          "terralith:savanna_slopes"
+        ]
+      },
+      "rarity": 3.0
+    },
+    {
+      "spec": "species:Sawk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Sawk palette:event",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Sawk palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Sawk palette:otaku",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 48,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_belt",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

@@ -1,0 +1,288 @@
+{
+	"name": "Loweemon",
+	"dex": 2114,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 2.2,
+			"width": 1.4,
+			"length": 1.0,
+			"eyeHeight": 2.2,
+			"hoverHeight": 2.2
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Pursuit"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Icy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Pursuit"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Heart Stamp"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Thunder Punch"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"Hyper Fang"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Wild Charge"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Iron Tail"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Foul Play"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Aura Wheel"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Zap Cannon",
+          "Steel Beam",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Ice Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "U-turn",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Rock Blast",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Low Sweep",
+          "Round",
+          "Retaliate",
+          "Snarl",
+          "False Swipe"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Ice Beam",
+          "Blizzard",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Poison Jab",
+          "Dark Pulse",
+          "X-Scissor",
+          "Focus Blast",
+          "Nasty Plot",
+          "Baton Pass",
+          "Nasty Plot",
+          "Electro Ball",
+          "Foul Play",
+          "Wild Charge",
+          "Psychic Fangs"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Telepathy"
+			],
+			"hiddenAbilities": [
+				"ShadowShield"
+			]
+		},
+		"movement": {
+			"rideable": true,
+			"canFly": false,
+			"canSurf": false,
+			"canRideShoulder": false
+		},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 63,
+			"attack": 88,
+			"defense":61,
+			"specialAttack": 74,
+			"specialDefense": 66,
+			"speed": 98
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 102,
+			"baseFriendship": 70,
+			"spawnLevel": 20,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2114_loweemon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2114_loweemon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2114_loweemon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2114_loweemon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2114_loweemon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2114_loweemon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2114_loweemon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"DARK",
+                        "ELECTRIC"
+		],
+		"preEvolutions": [ "BlackGabumon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [],
+		"megas": [],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 22.0,
+		"catchRate": 75,
+		"malePercentage": -1,
+		"evolutions": [
+                        {
+				"level": 32,
+				"to": "JagerLoweemon",
+				"conditions": [],
+				"evoType": "leveling",
+				"moves": [
+					"Psychic Fangs"
+				]
+			}
+			
+		],
+		"evYields": {
+			"attack": 1,
+                        "speed":1
+		}
+	}],
+	"generation": 20
+}

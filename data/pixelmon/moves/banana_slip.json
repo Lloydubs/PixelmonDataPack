@@ -1,0 +1,60 @@
+{
+    "attackIndex": 900120,
+    "attackName": "Banana Slip",
+    "attackType": "NORMAL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 5,
+    "ppBase": 6,
+    "ppMax": 7,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SuckerPunch"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [255, 255, 102],
+				"scale": 0.1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

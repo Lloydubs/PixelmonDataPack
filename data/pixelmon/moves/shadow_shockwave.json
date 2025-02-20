@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900120,
+    "attackName": "Shadow Shockwave",
+    "attackType": "GHOST",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 25,
+    "ppMax": 32,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Paralysis",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+    }
+    ],
+    "animations": [
+                 {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

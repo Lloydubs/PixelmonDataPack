@@ -1,0 +1,1040 @@
+{
+  "id": "Leafeon",
+  "spawnInfos": [
+    {
+      "spec": "species:Leafeon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Leafeon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:harvest 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:harvest 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:rocket",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Leafeon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "neededNearbyBlocks": [
+          "pixelmon:moss_rock"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Leafeon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Leafeon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:autumn",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:harvest 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:harvest 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:nippon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:rocket",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Leafeon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Leafeon palette:strike",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Leafeon palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

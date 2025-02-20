@@ -1,0 +1,167 @@
+{
+  "id": "Seaking",
+  "spawnInfos": [
+    {
+      "spec": "species:Seaking",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Seaking palette:akuma",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Seaking palette:coralp",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Seaking palette:coralw",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Seaking palette:ice",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Seaking palette:soulfire",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 33,
+      "maxLevel": 38,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/lakes",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/magical",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "Koffing",
+  "spawnInfos": [
+    {
+      "spec": "species:Koffing",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Koffing palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Koffing palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Koffing palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DUSK",
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 13.0
+    },
+    {
+      "spec": "species:Koffing",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:visceral_heap",
+          "byg:embur_bog",
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Koffing palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:visceral_heap",
+          "byg:embur_bog",
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Koffing palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:visceral_heap",
+          "byg:embur_bog",
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Koffing palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:smoke_ball",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:visceral_heap",
+          "byg:embur_bog",
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 13.0
+    }
+  ]
+}

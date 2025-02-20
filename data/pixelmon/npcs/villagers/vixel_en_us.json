@@ -1,0 +1,517 @@
+{
+    "skins": [
+{
+"filename": "AthleteSteve.png",
+},
+{
+"filename": "BackwardsSteve.png",
+},
+{
+"filename": "BoxerSteve.png",
+},
+{
+"filename": "business_1.png",
+},
+{
+"filename": "business_2.png",
+},
+{
+"filename": "business_3.png",
+},
+{
+"filename": "business_4.png",
+},
+{
+"filename": "business_5.png",
+},
+{
+"filename": "business_6.png",
+},
+{
+"filename": "casual_1.png",
+},
+{
+"filename": "casual_2.png",
+},
+{
+"filename": "casual_3.png",
+},
+{
+"filename": "casual_4.png",
+},
+{
+"filename": "casual_5.png",
+},
+{
+"filename": "casual_6.png",
+},
+{
+"filename": "CyclistSteve.png",
+},
+{
+"filename": "DeveloperSteve.png",
+},
+{
+"filename": "docwho_1.png",
+},
+{
+"filename": "docwho_10.png",
+},
+{
+"filename": "docwho_12.png",
+},
+{
+"filename": "docwho_13.png",
+},
+{
+"filename": "docwho_14.png",
+},
+{
+"filename": "docwho_15.png",
+},
+{
+"filename": "docwho_19.png",
+},
+{
+"filename": "docwho_2.png",
+},
+{
+"filename": "docwho_3.png",
+},
+{
+"filename": "docwho_4.png",
+},
+{
+"filename": "docwho_6.png",
+},
+{
+"filename": "docwho_7.png",
+},
+{
+"filename": "docwho_8.png",
+},
+{
+"filename": "docwho_9-1.png",
+},
+{
+"filename": "docwho_9-2.png",
+},
+{
+"filename": "FrozenSteve.png",
+},
+{
+"filename": "gamers_1.png",
+},
+{
+"filename": "gamers_2.png",
+},
+{
+"filename": "gamers_3.png",
+},
+{
+"filename": "gamers_4.png",
+},
+{
+"filename": "gamers_5.png",
+},
+{
+"filename": "gamers_6.png",
+},
+{
+"filename": "gamers_7.png",
+},
+{
+"filename": "gamers_8.png",
+},
+{
+"filename": "HalfSteveHalfZombie.png",
+},
+{
+"filename": "KingSteve.png",
+},
+{
+"filename": "NewSteve.png",
+},
+{
+"filename": "NewSteve[Hat].png",
+},
+{
+"filename": "panda_build.png",
+},
+{
+"filename": "panda_cura.png",
+},
+{
+"filename": "panda_engineer.png",
+},
+{
+"filename": "panda_korean.png",
+},
+{
+"filename": "panda_medieval.png",
+},
+{
+"filename": "panda_nuclear.png",
+},
+{
+"filename": "panda_nueva_ropa.png",
+},
+{
+"filename": "panda_tirantes.png",
+},
+{
+"filename": "panda_traje.png",
+},
+{
+"filename": "ParkaSteve.png",
+},
+{
+"filename": "pkmn_brendan.png",
+},
+{
+"filename": "pkmn_calem.png",
+},
+{
+"filename": "pkmn_elio.png",
+},
+{
+"filename": "pkmn_ethan.png",
+},
+{
+"filename": "pkmn_florian.png",
+},
+{
+"filename": "pkmn_lucas.png",
+},
+{
+"filename": "pkmn_nate.png",
+},
+{
+"filename": "pkmn_victor.png",
+},
+{
+"filename": "PrisonerSteve.png",
+},
+{
+"filename": "SantaSteve.png",
+},
+{
+"filename": "ScottishSteve.png",
+},
+{
+"filename": "sketchs-blue-hoodie.png",
+},
+{
+"filename": "sketchs-green-hoodie.png",
+},
+{
+"filename": "sketchs-halloween-hoodie.png",
+},
+{
+"filename": "sketchs-orange-hoodie.png",
+},
+{
+"filename": "sketchs-pink-hoodie.png",
+},
+{
+"filename": "sketchs-red-hoodie.png",
+},
+{
+"filename": "sketchs-yellow-hoodie.png",
+},
+{
+"filename": "snorlax_1.png",
+},
+{
+"filename": "snorlax_2.png",
+},
+{
+"filename": "snorlax_3.png",
+},
+{
+"filename": "Steve.png",
+},
+{
+"filename": "Steve123.png",
+},
+{
+"filename": "SteveExplorer.png",
+},
+{
+"filename": "SteveInBlackClothes.png",
+},
+{
+"filename": "Steve[Beard].png",
+},
+{
+"filename": "Steve[CreeperShirt].png",
+},
+{
+"filename": "Steve[DiamondArmor].png",
+},
+{
+"filename": "Steve[Flannel].png",
+},
+{
+"filename": "Steve[GlassHelmet].png",
+},
+{
+"filename": "Steve[IronArmor].png",
+},
+{
+"filename": "Steve[NoColor].png",
+},
+{
+"filename": "Steve_with_Beard[NoColor].png",
+},
+{
+"filename": "TennisSteve.png",
+},
+{
+"filename": "TuxedoSteve.png",
+},
+{
+"filename": "WatermelonSteve.png",
+},
+{
+"filename": "WinterSteve.png",
+},
+{
+"filename": "WinterSteve2.png"
+}
+],
+"names": [
+{
+"name": "Michael",
+},
+{
+"name": "Christopher",
+},
+{
+"name": "Jessica",
+},
+{
+"name": "Matthew",
+},
+{
+"name": "Ashley",
+},
+{
+"name": "Jennifer",
+},
+{
+"name": "Joshua",
+},
+{
+"name": "Amanda",
+},
+{
+"name": "Daniel",
+},
+{
+"name": "David",
+},
+{
+"name": "James",
+},
+{
+"name": "Robert",
+},
+{
+"name": "John",
+},
+{
+"name": "Joseph",
+},
+{
+"name": "Andrew",
+},
+{
+"name": "Ryan",
+},
+{
+"name": "Brandon",
+},
+{
+"name": "Jason",
+},
+{
+"name": "Justin",
+},
+{
+"name": "Sarah",
+},
+{
+"name": "William",
+},
+{
+"name": "Jonathan",
+},
+{
+"name": "Stephanie",
+},
+{
+"name": "Brian",
+},
+{
+"name": "Nicole",
+},
+{
+"name": "Nicholas",
+},
+{
+"name": "Anthony",
+},
+{
+"name": "Heather",
+},
+{
+"name": "Eric",
+},
+{
+"name": "Elizabeth",
+},
+{
+"name": "Adam",
+},
+{
+"name": "Megan",
+},
+{
+"name": "Melissa",
+},
+{
+"name": "Kevin",
+},
+{
+"name": "Steven",
+},
+{
+"name": "Thomas",
+},
+{
+"name": "Timothy",
+},
+{
+"name": "Christina",
+},
+{
+"name": "Kyle",
+},
+{
+"name": "Rachel",
+},
+{
+"name": "Laura",
+},
+{
+"name": "Lauren",
+},
+{
+"name": "Amber",
+},
+{
+"name": "Brittany",
+},
+{
+"name": "Danielle",
+},
+{
+"name": "Richard",
+},
+{
+"name": "Kimberly",
+},
+{
+"name": "Jeffrey",
+},
+{
+"name": "Amy",
+},
+{
+"name": "Crystal",
+},
+],
+"chat": [
+{
+"lines": [
+{
+"text": "I'm verrry good. Will you challenge me? I'm sure this will be a good match. Let's begin!"
+},
+{
+"text": "Well, you were good. That was nice, but you could be even stronger."
+}
+]
+},
+{
+"lines": [
+{
+"text": "Well, this should be pretty fun. First, I'll tell you this... I'm verrry good. Will you challenge me? I hope this will be a good match. Let's begin!"
+},
+{
+"text": "Well, you were good. I like that. Go on ahead. Brag a bit if you must.."
+}
+]
+},
+{
+"lines": [
+{
+"text": "Well, this should be fun. First, I'll tell you this... I'm verrry good. Will you challenge me? I hope this will be a good match. Let's begin!"
+},
+{
+"text": "Well, you were good. Go on ahead. Brag a bit if you must.."
+}
+]
+},
+{
+"lines": [
+{
+"text": "Well, this should be fun. First, I'll tell you this... I'm verrry good. Will you take me on? I hope this will be a good match. Let's begin!"
+},
+{
+"text": "Well, you were good. I like that. Go on ahead. Brag a bit if you must.."
+}
+]
+},
+{
+"lines": [
+{
+"text": "I hope you can at least provide me a bit of entertainment."
+},
+{
+"text": "Me? Team up with you? I suppose that could be interesting."
+}
+]
+},
+{
+"lines": [
+{
+"text": "I love Dark-type Pokémon. I find their wild, tough image so appealing."
+},
+{
+"text": "Truly skilled trainers should try to win with their favorites."
+}
+]
+},
+{
+"lines": [
+{
+"text": "I'll be coming along with you."
+},
+{
+"text": "Excellent. The tactics available to us have expanded."
+}
+]
+},
+{
+"lines": [
+{
+"text": "I suppose I'm satisfied."
+},
+{
+"text": "Now I'm really a force to be reckoned with!"
+}
+]
+}
+]
+}

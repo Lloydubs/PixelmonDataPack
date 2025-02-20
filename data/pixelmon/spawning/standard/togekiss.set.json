@@ -1,0 +1,634 @@
+{
+  "id": "Togekiss",
+  "spawnInfos": [
+    {
+      "spec": "species:Togekiss",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Togekiss palette:abyss",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:easter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:easter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:easter 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:floral",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:glass",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 4",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:midnight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:purple haze",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:valentines 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Togekiss palette:valentines 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.02
+    },
+    {
+      "spec": "species:Togekiss",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Togekiss palette:abyss",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:easter 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:easter 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:easter 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:floral",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:glass",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 3",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:halloween 4",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:midnight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:purple haze",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:valentines 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Togekiss palette:valentines 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

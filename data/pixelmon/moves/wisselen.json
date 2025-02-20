@@ -1,0 +1,45 @@
+{
+    "attackIndex": 900154,
+    "attackName": "Wisselen",
+    "attackType": "GRASS",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 5,
+    "ppMax": 15,
+    "accuracy": -2,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Leech",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Leech"
+    },
+    {
+      "maxLayers": 1,
+      "type": "StickyWeb",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StickyWeb"
+    },
+    {
+      "maxLayers": 1,
+      "type": "Spikes",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Spikes"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

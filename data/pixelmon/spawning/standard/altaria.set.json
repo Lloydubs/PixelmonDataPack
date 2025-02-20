@@ -1,0 +1,443 @@
+{
+  "id": "Altaria",
+  "spawnInfos": [
+    {
+      "spec": "species:Altaria",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 6.0
+    },
+    {
+      "spec": "species:Altaria",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Altaria palette:autumn",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:christmas",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:cosmic 1",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:cosmic 2",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:dream",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:easter",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:fall",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:galaxy",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:halloween",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:mythology 1",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:mythology 2",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:purified 1",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:purified 2",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:shadow",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:sweet",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:sweetshop",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:valentines",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:winter 1",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Altaria palette:winter 2",
+      "stringLocationTypes": [
+        "Air",
+        "Headbutt"
+      ],
+      "minLevel": 35,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+    "attackIndex": 900100,
+    "attackName": "Omega Blade",
+    "attackType": "NORMAL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 180,
+    "ppBase": 3,
+    "ppMax": 5,
+    "accuracy": 65,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

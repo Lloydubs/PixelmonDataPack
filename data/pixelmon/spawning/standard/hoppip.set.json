@@ -1,0 +1,81 @@
+{
+  "id": "Hoppip",
+  "spawnInfos": [
+    {
+      "spec": "species:Hoppip",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Hoppip palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Hoppip palette:dark",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Hoppip palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

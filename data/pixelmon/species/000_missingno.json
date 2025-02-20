@@ -1,0 +1,280 @@
+{
+  "name": "MissingNo",
+  "dex": 0,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.2,
+        "length": 1,
+        "eyeHeight": 3.0,
+        "hoverHeight": 3.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Water Gun",
+              "Sky Attack",
+              "Pay Day",
+              "Bind"
+            ]
+          }
+        ],
+        "tutorMoves": [],
+        "eggMoves": [],
+        "tmMoves8": [],
+        "trMoves": [],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [
+          "Mega Punch",
+          "Razor Wind",
+          "Swords Dance",
+          "Mega Kick",
+          "Toxic",
+          "Take Down",
+          "Double-Edge",
+          "Bubble Beam",
+          "Ice Beam",
+          "Blizzard",
+          "Submission",
+          "Seismic Toss",
+          "Rage",
+          "Thunder",
+          "Earthquake",
+          "Fissure",
+          "Psychic",
+          "Teleport",
+          "Sky Attack",
+          "Rest",
+          "Thunder Wave",
+          "Tri Attack",
+          "Substitute"
+        ],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Error"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "aggressive": 20,
+        "passive": 0,
+        "timid": 80
+      },
+      "battleStats": {
+        "hp": 33,
+        "attack": 136,
+        "defense": 0,
+        "specialAttack": 6,
+        "specialDefense": 6,
+        "speed": 29
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 64,
+        "baseFriendship": 70,
+        "spawnLevel": 10,
+        "spawnLevelRange": 6,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/000_missingno/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+			{
+			  "name": "arctic",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-arctic/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "autumn",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-autumn/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "christmas",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-christmas/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "ditto 1",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-ditto1/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "ditto 2",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-ditto2/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "easter",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-easter/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-easter/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "radioactive",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-radioactive/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-radioactive/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "royal",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-royal/sprite.png",
+              "particle": "",
+			},
+			{
+			  "name": "summer",
+              "texture": "pixelmon:pokemon/000_missingno/all/base/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/base/custom-summer/sprite.png",
+              "particle": "",
+			}
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "FLYING",
+        "NORMAL"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 1590.8,
+      "catchRate": 1,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {}
+    },
+    {
+      "name": "oak",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.2,
+        "length": 1,
+        "eyeHeight": 3.0,
+        "hoverHeight": 3.0
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/000_missingno/all/oak/none/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/oak/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/000_missingno/all/oak/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+			{
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/000_missingno/all/oak/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/oak/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+			}
+          ]
+		}
+	  ]
+	},
+	{
+      "name": "pine",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.2,
+        "length": 1,
+        "eyeHeight": 3.0,
+        "hoverHeight": 3.0
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/000_missingno/all/pine/none/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/pine/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/000_missingno/all/pine/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+			{
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/000_missingno/all/pine/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/000_missingno/all/pine/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+			}
+          ]
+		}
+	  ]
+	}
+  ],
+  "generation": 0
+}

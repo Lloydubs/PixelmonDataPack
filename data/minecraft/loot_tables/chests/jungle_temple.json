@@ -1,0 +1,337 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "name": "artifacts",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:meteorite"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:gracidea"
+        },
+        {
+          "type": "empty",
+          "weight": 20
+        }
+      ]
+    },
+    {
+      "name": "treasure",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "pixelmon:relic_band"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:relic_crown"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "pixelmon:relic_copper"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:relic_gold"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 4,
+          "name": "pixelmon:relic_silver"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "pixelmon:relic_statue"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:relic_vase"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:rare_bone"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:star_piece"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:tiny_mushroom"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:stardust"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:shoal_shell"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:shoal_salt"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:pearl"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:pearl_string"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:nugget"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:comet_shard"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 1,
+          "name": "pixelmon:strange_souvenir"
+        },
+        {
+          "type": "empty",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "helditems",
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:miracle_seed"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:poison_barb"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:silver_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:meadow_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:toxic_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "pixelmon:insect_plate"
+        },
+        {
+          "type": "empty",
+          "weight": 15
+        }
+      ]
+    },
+    {
+      "name": "gems",
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "pixelmon:grass_gem",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "pixelmon:poison_gem",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "pixelmon:bug_gem",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "empty",
+          "weight": 5
+        }
+      ]
+    },
+    {
+      "name": "vanilla",
+      "rolls": {
+        "min": 1,
+        "max": 3
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "weight": 2,
+          "name": "minecraft:emerald",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 3,
+          "name": "minecraft:diamond",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 2
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 6,
+          "name": "minecraft:gold_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 8,
+          "name": "minecraft:iron_ingot",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 3
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 11,
+          "name": "minecraft:bamboo",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 21,
+          "name": "minecraft:cocoa_beans",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 21,
+          "name": "minecraft:bone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 2,
+                "max": 6
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "weight": 11,
+          "name": "minecraft:book",
+          "functions": [
+            {
+              "function": "minecraft:enchant_randomly"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

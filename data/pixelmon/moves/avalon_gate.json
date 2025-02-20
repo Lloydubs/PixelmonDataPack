@@ -1,0 +1,51 @@
+{
+    "attackIndex": 900005,
+    "attackName": "Avalon's Gate",
+    "attackType": "DRAGON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "SPECIAL_DEFENSE",
+            "amount": -1,
+            "isUser": false,
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 40.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        },
+        {
+            "type": "DEFENSE",
+            "amount": -1,
+            "isUser": false,
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 40.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

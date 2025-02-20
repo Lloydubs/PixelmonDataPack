@@ -1,0 +1,118 @@
+{
+  "id": "Rotom",
+  "spawnInfos": [
+    {
+      "spec": "species:Rotom",
+      "stringLocationTypes": [
+        "Indoors",
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "structures": [
+          "pixelmon:haunted_tower",
+          "minecraft:mansion"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 15.0
+    },
+    {
+      "spec": "species:Rotom",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Rotom palette:corrupt",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Rotom palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Rotom palette:kirby",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Rotom palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 13,
+      "maxLevel": 27,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

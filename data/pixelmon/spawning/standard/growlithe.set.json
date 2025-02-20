@@ -1,0 +1,307 @@
+{
+  "id": "Growlithe",
+  "spawnInfos": [
+    {
+      "spec": "species:Growlithe",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Growlithe palette:aether",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:black and white",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Growlithe palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Growlithe form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 90
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Growlithe form:hisuian palette:gembound",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/volcanic"
+        ],
+        "minY": 90
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Growlithe form:hisuian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Growlithe form:hisuian palette:gembound",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 5,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

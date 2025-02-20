@@ -1,0 +1,347 @@
+{
+	"name": "Ebidramon",
+	"dex": 2184,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 4.3,
+				"width": 2.5,
+				"length": 6,
+				"eyeHeight": 4.3,
+				"hoverHeight": 4.3
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+						"Water Wave",
+                                                "Core Enforcer"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Ember"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Smokescreen"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Clamp"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Aurora Beam"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Shell Smash"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Dragon Pulse"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Clangorous Soul"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Water Spout"
+						]
+					}
+				],
+				"tutorMoves": [
+          "Lash Out",
+          "Scale Shot"],
+				"eggMoves": [],
+				"tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Attract",
+          "Sandstorm",
+          "Rain Dance",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Whirlpool",
+          "Facade",
+          "Swift",
+          "Brick Break",
+          "Dive",
+          "Avalanche",
+          "Shadow Claw",
+          "Trick Room",
+          "Bulldoze",
+          "Stomping Tantrum",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Ice Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Ice Beam",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Dark Pulse",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Hydro Pump",
+          "Surf",
+          "Thunderbolt",
+          "Thunder",
+          "Waterfall",
+          "Substitute",
+          "Sludge Bomb",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Shadow Ball",
+          "Toxic Spikes",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Dragon Pulse"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+          "Bubble",
+          "Camouflage",
+          "Confide",
+          "Feint Attack",
+          "Frustration",
+          "Hidden Power",
+					"Crunch",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+          "Frustration",
+          "Fury Cutter",
+          "Gravity",
+          "Headbutt",
+          "Heal Block",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Twister",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"Pickup"
+				],
+				"hiddenAbilities": [
+					"Soundproof"
+				]
+			},
+         "movement":{
+            "rideable":true,
+            "canFly":false,
+            "canSurf":true,
+            "canRideShoulder":false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0,
+						"y": 0.2,
+						"z": 1.0
+					},
+					"moving": {
+						"x": 0,
+						"y": 2.2,
+						"z": 0
+          }
+        },
+        "swimmingParameters": {
+          "depthRangeStart": 5,
+          "depthRangeEnd": 100,
+          "swimSpeed": 15,
+          "decayRate": 0.99,
+          "refreshRate": 100
+        }
+      },
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 152,
+				"attack": 82,
+				"defense": 99,
+				"specialAttack": 109,
+				"specialDefense": 90,
+				"speed": 28
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 32,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2184_ebidramon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2184_ebidramon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2184_ebidramon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2184_ebidramon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2184_ebidramon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2184_ebidramon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2184_ebidramon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"WATER",
+                                "DRAGON"
+			],
+			"preEvolutions": ["Shellmon"],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 56.2,
+			"catchRate": 50,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "Leviamon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Dragon Energy",
+                                                "Anima",
+                                                "Rostrum"
+					]
+				}
+			],
+			"evYields": {
+				"Specialattack": 2,
+                                "HP":4
+			}
+		}
+	],
+	"generation": 20
+}

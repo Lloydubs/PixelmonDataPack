@@ -1,0 +1,100 @@
+{
+  "id": "Whiscash",
+  "spawnInfos": [
+    {
+      "spec": "species:Whiscash",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Whiscash palette:radioactive",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Whiscash palette:staff 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Whiscash palette:staff 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Whiscash palette:valentines",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

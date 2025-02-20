@@ -1,0 +1,135 @@
+{
+  "id": "Azelf",
+  "spawnInfos": [
+    {
+      "spec": "species:Azelf level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "lakes"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "minecraft:desert_lakes"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Azelf palette:blood level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "lakes"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "minecraft:desert_lakes"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Azelf palette:crimson level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "lakes"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "minecraft:desert_lakes"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Azelf palette:galaxy level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "lakes"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "minecraft:desert_lakes"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Azelf palette:hero level:50",
+      "stringLocationTypes": [
+        "Surface Water"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "stringBiomes": [
+          "forests",
+          "lakes"
+        ]
+      },
+      "anticondition": {
+        "stringBiomes": [
+          "minecraft:desert_lakes"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

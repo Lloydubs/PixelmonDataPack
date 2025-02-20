@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900124,
+    "attackName": "Lightning-speed Attack",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 110,
+    "ppBase": 15,
+    "ppMax": 20,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+    {
+      "langStart": "pixelmon.status.electricterrain",
+      "langEnd": "pixelmon.status.electricterrainend",
+      "type": "ElectricTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "ElectricTerrain"
+    },
+    {
+      "percentRecoil": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": false,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": false,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

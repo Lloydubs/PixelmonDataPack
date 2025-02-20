@@ -1,0 +1,658 @@
+{
+  "name": "Yveltal",
+  "dex": 717,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 3.5,
+        "width": 1.6,
+        "length": 1,
+        "eyeHeight": 3.5,
+        "hoverHeight": 3.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Double Team",
+              "Gust"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Taunt"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Snarl"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Disable"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Sucker Punch"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Tailwind"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Roost"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Air Slash"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Dark Pulse"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Psychic"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Oblivion Wing"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Phantom Force"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Foul Play"
+            ]
+          },
+          {
+            "level": 65,
+            "attacks": [
+              "Dragon Rush"
+            ]
+          },
+          {
+            "level": 70,
+            "attacks": [
+              "Hurricane"
+            ]
+          },
+          {
+            "level": 75,
+            "attacks": [
+              "Focus Blast"
+            ]
+          },
+          {
+            "level": 80,
+            "attacks": [
+              "Sky Attack"
+            ]
+          },
+          {
+            "level": 85,
+            "attacks": [
+              "Hyper Beam"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Dual Wingbeat",
+          "Lash Out"
+        ],
+        "eggMoves": [
+
+        ],
+        "tmMoves8": [
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Steel Wing",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "U-turn",
+          "Payback",
+          "Shadow Claw",
+          "Round",
+          "Acrobatics",
+          "Snarl",
+          "Phantom Force",
+          "Air Slash"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Psychic",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Shadow Ball",
+          "Heat Wave",
+          "Taunt",
+          "Hyper Voice",
+          "Dragon Claw",
+          "Dark Pulse",
+          "Focus Blast",
+          "Zen Headbutt",
+          "Foul Play",
+          "Hurricane"
+        ],
+        "hmMoves": [
+
+        ],
+        "transferMoves": [
+          "Aerial Ace",
+          "Block",
+          "Confide",
+          "Cut",
+          "Defog",
+          "Dream Eater",
+          "Embargo",
+          "Frustration",
+          "Hidden Power",
+          "Hone Claws",
+          "Knock Off",
+          "Laser Focus",
+          "Razor Wind",
+          "Return",
+          "Secret Power",
+          "Sky Drop",
+          "Swagger",
+          "Torment",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Dragon Claw",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Frustration",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Thief",
+          "Round",
+          "Steel Wing",
+          "Focus Blast",
+          "Sky Drop",
+          "Acrobatics",
+          "Embargo",
+          "Shadow Claw",
+          "Giga Impact",
+          "Fly",
+          "Rock Slide",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Snarl",
+          "Dark Pulse",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Frustration",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Aerial Ace",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Thief",
+          "Round",
+          "Steel Wing",
+          "Focus Blast",
+          "Sky Drop",
+          "Acrobatics",
+          "Embargo",
+          "Shadow Claw",
+          "Giga Impact",
+          "Rock Slide",
+          "Dream Eater",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Secret Power",
+          "Snarl",
+          "Dark Pulse",
+          "Confide"
+        ],
+        "tmMoves5": [
+
+        ],
+        "tmMoves4": [
+
+        ],
+        "tmMoves3": [
+
+        ],
+        "tmMoves2": [
+
+        ],
+        "tmMoves1": [
+
+        ],
+        "tmMoves": [
+
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "DarkAura"
+        ],
+        "hiddenAbilities": [
+
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 1.2,
+            "z": -0.3
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.1,
+            "z": -0.3
+          }
+        },
+        "flyingParameters": {
+          "flyHeightMin": 15,
+          "flyHeightMax": 25,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 100,
+          "flyRefreshRateXZ": 100,
+          "flyRefreshRateSpeed": 100,
+          "flightTimeMin": 20,
+          "flightTimeMax": 60,
+          "flapRate": 4,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "specialAttack": 131,
+        "specialDefense": 98,
+        "speed": 99
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 306,
+        "baseFriendship": 0,
+        "spawnLevel": 70,
+        "spawnLevelRange": 0,
+        "spawnLocations": [
+          "AIR"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/717_yveltal/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.yveltal"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-alter/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-anubis1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-anubis1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-anubis2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-anubis2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-arctic/texture.png",
+			  "emissive": "pixelmon:pokemon/717_yveltal/all/base/custom-arctic/emissive.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "beta",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-beta/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-beta/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "black and white",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-black-white/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-black-white/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "class",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-class/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-class/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosmic",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-cosmic/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-cosmic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-dark1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-dark1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-dark2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-dark2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ethereal",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-ethereal/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-ethereal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-galaxy1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-galaxy1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-galaxy2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-galaxy2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gamma",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-gamma/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-gamma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meadownian 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-meadownian1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-meadownian1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meadownian 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-meadownian2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-meadownian2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-molten1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-molten1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-molten2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-molten2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "oblivion",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-oblivion/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-oblivion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rising sun",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-risingsun/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-risingsun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "school 1",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-school1/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-school1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "school 2",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-school2/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-school2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-shadow/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-shadow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sun",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-sun/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-sun/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sunset",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-sunset/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-sunset/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/717_yveltal/all/base/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/717_yveltal/all/base/custom-temple/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FLYING"
+      ],
+      "types": [
+        "DARK",
+        "FLYING"
+      ],
+      "preEvolutions": [
+
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+
+      ],
+      "megas": [
+
+      ],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 121,
+      "weight": 203.0,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [
+
+      ],
+      "evYields": {
+        "hp": 3
+      }
+    }
+  ],
+  "generation": 6
+}

@@ -1,0 +1,45 @@
+{
+    "attackIndex": 900023,
+    "attackName": "Cocytus Breath",
+    "attackType": "ICE",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 25,
+    "ppMax": 32,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 33.3
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    },
+    {
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 10.0
+        }],
+      "persists": false,
+      "effectTypeID": "OHKO"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

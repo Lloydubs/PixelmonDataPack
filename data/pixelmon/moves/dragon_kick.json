@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900038,
+    "attackName": "Dragon Kick",
+    "attackType": "DRAGON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 130,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 85,
+    "makesContact": true,
+    "effects": [
+        {
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "JumpKick"
+        },
+            {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 33.3
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

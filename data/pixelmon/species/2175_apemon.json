@@ -1,0 +1,308 @@
+{
+	"name": "Apemon",
+	"dex": 2175,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 3.1,
+				"width": 1.5,
+				"length": 1,
+				"eyeHeight": 3.1,
+				"hoverHeight": 3.1
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Vine Whip"
+						]
+					},
+					{
+						"level": 9,
+						"attacks": [
+							"Rock Blast"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Bullet Seed"
+						]
+					},
+					{
+						"level": 15,
+						"attacks": [
+							"Rock Throw"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Mach Punch"
+						]
+					},
+					{
+						"level": 25,
+						"attacks": [
+							"Rolling Kick"
+						]
+					},
+					{
+						"level": 30,
+						"attacks": [
+							"Shadow Bone"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Wild Charge"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Headlong Rush"
+						]
+					},
+					{
+						"level": 51,
+						"attacks": [
+							"High Jump Kick"
+						]
+					},
+					{
+						"level": 58,
+						"attacks": [
+							"Double Shock"
+						]
+					}
+				],
+				"tutorMoves": [
+					"Grass Pledge"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Solar Blade",
+          "Screech",
+          "Rest",
+					"Safeguard",
+					"Protect",
+					"Giga Drain",
+					"Charm",
+					"Attract",
+					"Sunny Day",
+					"Facade",
+					"Bullet Seed",
+					"Fling",
+					"Drain Punch",
+					"Venoshock",
+          "Substitute",
+          "Iron Defense",
+          "Heavy Slam",
+          "Thunderbolt",
+          "Play Rough",
+          "Reversal",
+          "Electric Terrain",
+          "Wild Charge",
+          "Earthquake",
+          "Hyper Beam",
+          "Thunder",
+          "Close Combat",
+          "Tera Blast",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+          "Low Sweep",
+          "Fling",
+          "Endure",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Earthquake",
+					"Substitute",
+					"Outrage",
+					"Endure",
+          "Bulk Up",
+          "Sleep Talk",
+          "Seed Bomb",
+          "Electro Ball",
+          "Metronome",
+          "Grass Knot",
+          "Body Press",
+					"Grass Knot",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+          "Aerial Ace",
+          "Ancient Power",
+          "Block",
+          "Confide",
+          "Dizzy Punch",
+          "Double Team",
+          "Focus Punch",
+          "Foresight",
+          "Frustration",
+					"Morning Sun",
+					"Rage",
+					"Secret Power",
+					"Take Down",
+					"Teeter Dance",
+          "Mud-Slap",
+          "Natural Gift",
+          "Nature Power",
+          "Power-Up Punch",
+          "Laser Focus",
+          "Me First",
+          "Meditate",
+          "Power-Up Punch",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Role Play",
+          "Secret Power",
+          "Smelling Salts",
+					"Skull Bash",
+					"Strength",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"Harvest"
+				],
+				"hiddenAbilities": [
+					"CudChew"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 78,
+				"attack": 96,
+				"defense": 75,
+				"specialAttack": 53,
+				"specialDefense": 57,
+				"speed": 91
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 20,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2175_apemon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2175_apemon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2175_apemon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2175_apemon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2175_apemon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2175_apemon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2175_apemon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"ELECTRIC"
+			],
+			"preEvolutions": [
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 23.1,
+			"catchRate": 75,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 32,
+					"to": "Makuramon",
+					"conditions": [
+					],
+					"evoType": "leveling",
+					"moves": [
+						"Bao Yu",
+                                                "Flying Press"
+					]
+				}
+			],
+			"evYields": {
+				"attack": 2,
+ 				"speed": 2                               
+			}
+		}
+	],
+	"generation": 20
+}

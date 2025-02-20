@@ -1,0 +1,1265 @@
+{
+  "id": "Hatterene",
+  "spawnInfos": [
+    {
+      "spec": "species:Hatterene",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Hatterene palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:alluring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 5",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:resolute",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Hatterene",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatterene palette:akuma",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:alluring",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:alter",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:demonic",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:festive",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:fusion",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:galaxy",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:gamma",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 4",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 5",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:oblivion",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:patchwork",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:resolute",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:summer",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:winter 1",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hatterene palette:winter 2",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Hatterene",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Hatterene palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:alluring",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:festive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 4",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:halloween 5",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:patchwork",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:resolute",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Hatterene palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 42,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:end_barrens",
+          "byg:nightshade_forest",
+          "byg:shulkren_forest",
+          "byg:imparius_grove",
+          "byg:imparius_clearing",
+          "byg:ethereal_forest",
+          "byg:ethereal_clearing"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

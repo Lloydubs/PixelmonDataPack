@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900148,
+    "attackName": "Venom Infusion",
+    "attackType": "POISON",
+    "attackCategory": "PHYSICAL",
+    "basePower": 85,
+    "ppBase": 15,
+    "ppMax": 32,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    },
+    {
+      "type": "PoisonBadly",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PoisonBadly"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Toxic"
+    }],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

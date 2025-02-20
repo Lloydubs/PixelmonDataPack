@@ -1,0 +1,357 @@
+{
+  "id": "Druddigon",
+  "spawnInfos": [
+    {
+      "spec": "species:Druddigon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Druddigon palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:infernal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:malice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:otaku",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:phantom",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Druddigon palette:temple",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "minY": 100
+      },
+      "rarity": 0.6
+    },
+    {
+      "spec": "species:Druddigon",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Druddigon palette:angelic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:christmas",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:infernal",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:malice",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:otaku",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:phantom",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Druddigon palette:temple",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 50,
+      "maxLevel": 62,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:dragon_fang",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "maxY": 50
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "Barboach",
+  "spawnInfos": [
+    {
+      "spec": "species:Barboach",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Barboach palette:radioactive",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Barboach palette:valentines",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 25,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "minecraft:river",
+          "byg:polluted_lake",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

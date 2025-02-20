@@ -1,0 +1,322 @@
+{
+  "name": "dinobeemon",
+  "dex": 2077,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 5.0,
+        "width": 3.0,
+        "length": 2.0,
+        "eyeHeight": 5.0,
+        "hoverHeight": 5.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Fury Attack",
+              "Twineedle",
+              "Hell Masquerade"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Poison Sting"
+            ]
+          },
+          {
+            "level": 14,
+            "attacks": [
+              "Fell Stinger"
+            ]
+          },
+          {
+            "level": 17,
+            "attacks": [
+              "Pursuit"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Snarl"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Venoshock"
+            ]
+          },
+          {
+            "level": 26,
+            "attacks": [
+              "Assurance"
+            ]
+          },
+          {
+            "level": 29,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Infestation"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Dark Pulse"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Dragon Pulse"
+            ]
+          },
+          {
+            "level": 41,
+            "attacks": [
+              "Bug Buzz"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Draco Meteor"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Sludge Wave"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Bug Bite",
+          "Defog",
+          "Drill Run",
+          "Electroweb",
+          "Endeavor",
+          "Giga Drain",
+          "Knock Off",
+          "Laser Focus",
+          "Snore",
+          "Tailwind",
+          "Throat Chop"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Screech",
+          "Light Screen",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Round",
+          "Acrobatics",
+          "Volt Switch",
+          "Electroweb",
+          "Eerie Impulse",
+          "Air Slash",
+          "Hyper Beam",
+          "Giga Impact",
+          "Swift",
+          "Revenge",
+          "U-turn",
+          "Assurance",
+          "Fling",
+          "Cross Poison",
+          "Venoshock",
+          "Round",
+          "Hex"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Agility",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Megahorn",
+          "X-Scissor",
+          "Bug Buzz",
+          "Power Gem",
+          "Close Combat",
+          "Poison Jab",
+          "X-Scissor",
+          "Bug Buzz",
+          "Focus Blast",
+          "Energy Ball",
+          "Iron Head",
+          "Drill Run"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Bide",
+          "Body Slam",
+          "Bug Bite",
+          "Captivate",
+          "Curse",
+          "Cut",
+          "Double-Edge",
+          "Endure",
+          "Flash",
+          "Mimic",
+          "Morning Sun",
+          "Rage",
+          "Secret Power",
+          "Take Down",
+          "Teeter Dance",
+          "Ominous Wind",
+          "Secret Power",
+          "String Shot",
+          "Struggle Bug",
+          "Swift",
+          "Twister",
+          "Rage",
+          "Reflect",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Seismic Toss",
+          "Skull Bash",
+          "Strength",
+          "Submission",
+          "Swagger",
+          "Take Down",
+          "Toxic"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Contrary"
+        ],
+        "hiddenAbilities": [
+          "Telepathy"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 87,
+        "attack": 84,
+        "defense": 90,
+        "specialAttack": 106,
+        "specialDefense": 92,
+        "speed": 101
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 32,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2077_dinobeemon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2077_dinobeemon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2077_dinobeemon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2077_dinobeemon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2077_dinobeemon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2077_dinobeemon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2077_dinobeemon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "BUG",
+        "DRAGON"
+      ],
+      "preEvolutions": [
+        "Stingmon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 32.8,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "level": 45,
+          "to": "ImperialdramonBlack",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Night Daze",
+            "Positron Laser",
+            "Mega Death"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 2,
+        "specialattack": 2
+      }
+    }
+  ],
+  "generation": 20
+}

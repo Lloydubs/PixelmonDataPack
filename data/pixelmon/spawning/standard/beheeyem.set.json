@@ -1,0 +1,117 @@
+{
+  "id": "Beheeyem",
+  "spawnInfos": [
+    {
+      "spec": "species:Beheeyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Beheeyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/redwoods"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Beheeyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:small_end_islands",
+          "minecraft:end_barrens",
+          "byg:ivis_fields",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:viscal_isles",
+          "byg:shattered_viscal_isles",
+          "nullscape:void_barrens"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Beheeyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:small_end_islands",
+          "minecraft:end_barrens",
+          "byg:ivis_fields",
+          "byg:shattered_desert",
+          "byg:shattered_desert_isles",
+          "byg:viscal_isles",
+          "byg:shattered_viscal_isles",
+          "nullscape:void_barrens"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Beheeyem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Beheeyem palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 43,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

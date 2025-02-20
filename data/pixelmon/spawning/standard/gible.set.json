@@ -1,0 +1,857 @@
+{
+  "id": "Gible",
+  "spawnInfos": [
+    {
+      "spec": "species:Gible",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Gible palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Gible",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Gible palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Gible palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Gible",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Gible palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Gible palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Gible",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Gible palette:angelic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:anubis",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:arctic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:blood",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:christmas",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:ice",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:lunar 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:lunar 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:magma",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:rainbow",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Gible palette:rgb",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 14,
+      "maxLevel": 23,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 70
+      },
+      "rarity": 0.6
+    }
+  ]
+}

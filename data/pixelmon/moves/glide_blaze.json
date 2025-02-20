@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900067,
+    "attackName": "Glide Blaze",
+    "attackType": "DRAGON",
+    "attackCategory": "SPECIAL",
+    "basePower": 110,
+    "ppBase": 20,
+    "ppMax": 25,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "SPEED",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "percentRecoil": 33,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recoil"
+    }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

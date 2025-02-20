@@ -1,0 +1,374 @@
+{
+   "name":"MaloMyotismon",
+   "dex":2144,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":5.8,
+            "width":4.3,
+            "length":0.8,
+            "eyeHeight":5.8,
+            "hoverHeight":5.8
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch",
+                     "Night Raid",
+                     "Leech life",
+		     "Shadow Force",
+                     "Screaming Darkness",
+                     "Pandemonium"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Tackle"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Pound"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Peck"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Bite"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Shadow Sneak"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Assurance"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Cross Poison"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Ceaseless Edge"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Poison Jab"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Bitter Malice"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Fiery Wrath"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Moongeist Beam"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+          "Poltergeist",
+               "Earth Power",
+               "Burning Jealousy",
+               "Corrosive Gas",
+          "Steel Beam",
+               "Lash Out",
+               "Skitter Smack",
+               "Dual Wingbeat",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+               "Hyper Beam",
+               "Giga Impact",
+               "Fire Spin",
+               "Dig",
+               "Screech",
+               "Rest",
+               "Thief",
+               "Snore",
+               "Protect",
+               "Scary Face",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Facade",
+          "Brick Break",
+          "Shadow Claw",
+               "Cross Poison",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Retaliate",
+               "Magic Room",
+               "Round",
+               "Air Slash",
+          "Payback",
+          "Fling",
+          "Drain Punch",
+          "Shadow Claw",
+          "Wonder Room",
+          "Low Sweep",
+          "Round",
+          "Hex",
+          "Retaliate",
+          "Snarl"
+            ],
+            "trMoves":[
+               "Swords Dance",
+               "Earthquake",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Sludge Bomb",
+               "Endure",
+               "Sleep Talk",
+               "Iron Tail",
+               "Crunch",
+          "Shadow Ball",
+          "Taunt",
+          "Trick",
+          "Calm Mind",
+          "Gyro Ball",
+          "Poison Jab",
+          "Aura Sphere",
+          "Power Gem",
+          "Nasty Plot",
+          "Zen Headbutt",
+          "Foul Play",
+          "Ally Switch",
+          "Dazzling Gleam",
+               "Trick",
+          "Overheat",
+          "Calm Mind",
+          "Dark Pulse",
+          "Energy Ball",
+          "Ally Switch",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+          "Dazzling Gleam",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+               
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "Defiant"
+            ],
+            "hiddenAbilities":[
+               "PoisonPoint"
+            ]
+         },
+         "movement":{
+                  "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.0,
+						"y": 4.2,
+						"z": -1.0
+					},
+					"moving": {
+						"x": 5,
+						"y": 2.15,
+						"z": 5.15
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":123,
+            "attack":101,
+            "defense":92,
+            "specialAttack":144,
+            "specialDefense":100,
+            "speed":120
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":45,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2144_malomyotismon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2144_malomyotismon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2144_malomyotismon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2144_malomyotismon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2144_malomyotismon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2144_malomyotismon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2144_malomyotismon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "DARK",
+            "GHOST"
+         ],
+         "preEvolutions":[
+            "Myotismon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":102.1,
+         "catchRate":10,
+         "malePercentage":-1,
+         "evolutions":[
+         ],
+         "evYields":{
+            "hp":3,
+            "specialattack":4
+         }
+      }
+   ],
+   "generation":20
+}

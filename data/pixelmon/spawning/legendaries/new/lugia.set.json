@@ -1,0 +1,585 @@
+{
+  "id": "Lugia",
+  "spawnInfos": [
+    {
+      "spec": "species:Lugia level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Lugia palette:drowned level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:online level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:alluring level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:boreal 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:boreal 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:coralp level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:coralw level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:cosplay level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:crimson level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:fusion 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:fusion 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:gembound level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:gemstone 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:gemstone 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:irradiated level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:meadownian 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:meadownian 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:moon level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:online 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:phantom level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:shadow 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:shadow 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:shadow 3 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:squad level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:sunset level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:tier 1 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:tier 2 level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Lugia palette:vapor level:50",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

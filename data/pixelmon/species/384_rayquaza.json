@@ -1,0 +1,1161 @@
+{
+  "name": "Rayquaza",
+  "dex": 384,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 3.0,
+        "length": 1,
+        "eyeHeight": 3.0,
+        "hoverHeight": 3.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Air Slash",
+              "Ancient Power",
+              "Dragon Ascent",
+              "Scary Face",
+              "Twister"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Dragon Dance"
+            ]
+          },
+          {
+            "level": 27,
+            "attacks": [
+              "Extreme Speed"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Dragon Pulse"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Hyper Voice"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Rest"
+            ]
+          },
+          {
+            "level": 63,
+            "attacks": [
+              "Fly"
+            ]
+          },
+          {
+            "level": 72,
+            "attacks": [
+              "Hurricane"
+            ]
+          },
+          {
+            "level": 81,
+            "attacks": [
+              "Outrage"
+            ]
+          },
+          {
+            "level": 90,
+            "attacks": [
+              "Hyper Beam"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Meteor Beam",
+          "Scale Shot"
+        ],
+        "eggMoves": [
+
+        ],
+        "tmMoves8": [
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Thunder Wave",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Sandstorm",
+          "Rain Dance",
+          "Sunny Day",
+          "Whirlpool",
+          "Facade",
+          "Swift",
+          "Brick Break",
+          "Dive",
+          "Rock Tomb",
+          "Fling",
+          "Avalanche",
+          "Shadow Claw",
+          "Round",
+          "Bulldoze",
+          "Air Slash",
+          "Brutal Swing",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Body Slam",
+          "Flamethrower",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Fire Blast",
+          "Waterfall",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Uproar",
+          "Hyper Voice",
+          "Overheat",
+          "Cosmic Power",
+          "Dragon Claw",
+          "Bulk Up",
+          "Dragon Dance",
+          "Gyro Ball",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Energy Ball",
+          "Earth Power",
+          "Iron Head",
+          "Stone Edge",
+          "Hurricane"
+        ],
+        "hmMoves": [
+
+        ],
+        "transferMoves": [
+          "Aerial Ace",
+          "Aqua Tail",
+          "Bind",
+          "Celebrate",
+          "Confide",
+          "Defog",
+          "Double Team",
+          "Double-Edge",
+          "Dragon Tail",
+          "Echoed Voice",
+          "Frustration",
+          "Fury Cutter",
+          "Headbutt",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Sky Drop",
+          "Strength",
+          "Swagger",
+          "Tailwind",
+          "Toxic",
+          "V-create",
+          "Water Pulse"
+        ],
+        "tmMoves7": [
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Round",
+          "Echoed Voice",
+          "Overheat",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Sky Drop",
+          "Brutal Swing",
+          "Shadow Claw",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Gyro Ball",
+          "Swords Dance",
+          "Fly",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Surf",
+          "Waterfall",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Round",
+          "Echoed Voice",
+          "Overheat",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Sky Drop",
+          "Incinerate",
+          "Shadow Claw",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Gyro Ball",
+          "Swords Dance",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Hone Claws",
+          "Dragon Claw",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Round",
+          "Echoed Voice",
+          "Overheat",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Sky Drop",
+          "Incinerate",
+          "Shadow Claw",
+          "Giga Impact",
+          "Stone Edge",
+          "Thunder Wave",
+          "Gyro Ball",
+          "Swords Dance",
+          "Psych Up",
+          "Bulldoze",
+          "Rock Slide",
+          "Dragon Tail",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Rock Tomb",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Overheat",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Endure",
+          "Dragon Pulse",
+          "Shadow Claw",
+          "Giga Impact",
+          "Stone Edge",
+          "Avalanche",
+          "Thunder Wave",
+          "Gyro Ball",
+          "Swords Dance",
+          "Psych Up",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [
+          "Dragon Claw",
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Bulk Up",
+          "Hidden Power",
+          "Sunny Day",
+          "Ice Beam",
+          "Blizzard",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Solar Beam",
+          "Iron Tail",
+          "Thunderbolt",
+          "Thunder",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Shock Wave",
+          "Flamethrower",
+          "Sandstorm",
+          "Fire Blast",
+          "Aerial Ace",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Overheat"
+        ],
+        "tmMoves2": [
+
+        ],
+        "tmMoves1": [
+
+        ],
+        "tmMoves": [
+
+        ]
+      },
+      "abilities": {
+        "abilities": [
+          "AirLock"
+        ],
+        "hiddenAbilities": [
+
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.25,
+            "z": 0.1
+          },
+          "moving": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "flyingParameters": {
+          "flyHeightMin": 15,
+          "flyHeightMax": 25,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 100,
+          "flyRefreshRateXZ": 400,
+          "flyRefreshRateSpeed": 400,
+          "flightTimeMin": 0,
+          "flightTimeMax": 20,
+          "flapRate": 5,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 10,
+          "flying_stamina_charges": 10,
+          "hover_ticks": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 105,
+        "attack": 150,
+        "defense": 90,
+        "specialAttack": 150,
+        "specialDefense": 90,
+        "speed": 95
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 0,
+        "spawnLevel": 70,
+        "spawnLevelRange": 0,
+        "spawnLocations": [
+          "AIR_PERSISTENT"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/384_rayquaza/all/base/none/model.pqc"
+                ],
+                "movementThreshold": 0.02
+              },
+              "sounds": [
+                "pixelmon.mob.rayquaza"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "alter",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/alter/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-alter2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-alter2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-anubis/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-anubis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-christmas1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-christmas1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-christmas2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-christmas2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosplay",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-cosplay/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-cosplay/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "elite",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-elite/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-elite/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-galaxy1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-galaxy1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-galaxy2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-galaxy2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gem",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-gem/texture.png",
+			  "emissive": "pixelmon:pokemon/384_rayquaza/all/base/custom-gem/emissive.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-gem/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gmythology 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-gmythology1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-gmythology1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gmythology 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-gmythology2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-gmythology2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magical",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-magical/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-magical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mythology 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-mythology1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-mythology1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mythology 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-mythology2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-mythology2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "naruto",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-naruto/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-naruto/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "obscuros",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-obscuros/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-obscuros/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "otaku",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-otaku/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-otaku/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "purple haze",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-purplehaze/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-purplehaze/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rainbow",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-rainbow/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-rainbow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "rgb",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-rgb/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-rgb/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "royal",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-royal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-shadow1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-shadow1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-shadow2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-shadow2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "skeletal",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-skeletal/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-skeletal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "special 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-special1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-special1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "special 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-special2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-special2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-temple/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-val2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "vampire",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/base/custom-vampire/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/base/custom-vampire/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "DRAGON",
+        "MONSTER"
+      ],
+      "types": [
+        "DRAGON",
+        "FLYING"
+      ],
+      "preEvolutions": [
+
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+
+      ],
+      "megas": [
+        "mega"
+      ],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 121,
+      "weight": 206.5,
+      "catchRate": 3,
+      "malePercentage": 0,
+      "evolutions": [
+
+      ],
+      "evYields": {
+        "attack": 2,
+        "specialAttack": 1
+      }
+    },
+    {
+      "name": "mega",
+      "tags": [
+        "temp"
+      ],
+      "abilities": {
+        "abilities": [
+          "DeltaStream"
+        ]
+      },
+      "battleStats": {
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "specialAttack": 180,
+        "specialDefense": 100,
+        "speed": 115
+      },
+      "weight": 392.0,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/none/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/384_rayquaza/all/mega/none/model.pqc"
+                ],
+                "movementThreshold": 0.02
+              },
+              "sounds": [
+                "pixelmon.mob.rayquaza.mega"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-alter2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-alter2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-anubis/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-anubis/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "blood",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-blood/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-blood/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-christmas1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-christmas1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-christmas2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-christmas2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosplay",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-cosplay/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-cosplay/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "dark",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-dark/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-dark/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "elite",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-elite/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-elite/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-galaxy1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-galaxy1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-galaxy2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-galaxy2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gem",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gem/texture.png",
+			  "emissive": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gem/emissive.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gem/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gmythology 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gmythology1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gmythology1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gmythology 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gmythology2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-gmythology2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "magical",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-magical/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-magical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mythology 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-mythology1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-mythology1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "mythology 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-mythology2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-mythology2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "obscuros",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-obscuros/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-obscuros/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "otaku",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-otaku/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-otaku/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "purple haze",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-purplehaze/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-purplehaze/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "royal",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-royal/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-royal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-shadow1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-shadow1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "skeletal",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-skeletal/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-skeletal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "special 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-special1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-special1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "special 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-special2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-special2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "temple",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-temple/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-temple/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-val2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "vampire",
+              "texture": "pixelmon:pokemon/384_rayquaza/all/mega/custom-vampire/texture.png",
+              "sprite": "pixelmon:pokemon/384_rayquaza/all/mega/custom-vampire/sprite.png",
+              "particle": ""
+            }			
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 3
+}

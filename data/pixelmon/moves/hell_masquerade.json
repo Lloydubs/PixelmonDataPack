@@ -1,0 +1,40 @@
+{
+    "attackIndex": 900074,
+    "attackName": "Hell Masquerade",
+    "attackType": "BUG",
+    "attackCategory": "SPECIAL",
+    "basePower": 30,
+    "ppBase": 25,
+    "ppMax": 32,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "minHits": 2,
+            "maxHits": 4,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        },
+        {  
+      "type": "Evasion",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

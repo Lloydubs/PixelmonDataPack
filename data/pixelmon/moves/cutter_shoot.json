@@ -1,0 +1,56 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Cutter Shoot",
+    "attackType": "ROCK",
+    "attackCategory": "SPECIAL",
+    "basePower": 80,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    },
+    {
+      "type": "Splinters",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Splinters"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			},
+			"7": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			},
+			"14": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"scale": 1.2
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

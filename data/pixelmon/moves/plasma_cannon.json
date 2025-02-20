@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900103,
+    "attackName": "Plasma Cannon",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 110,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Paralysis",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 100.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+                 {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.4,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

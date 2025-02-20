@@ -1,0 +1,329 @@
+{
+	"name": "Jazamon",
+	"dex": 2001,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 1.1,
+				"width": 1.1,
+				"length": 1,
+				"eyeHeight": 1.1,
+				"hoverHeight": 1.1
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Focus Energy",
+							"Tackle"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Metal Claw"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Roar"
+						]
+					},
+					{
+						"level": 16,
+						"attacks": [
+							"Assurance"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Headbutt"
+						]
+					},
+					{
+						"level": 24,
+						"attacks": [
+							"Work Up"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Slam"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Crunch"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Scary Face"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Dragon Pulse"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Body Slam"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Hyper Voice"
+						]
+					},
+					{
+						"level": 52,
+						"attacks": [
+							"Dragon Rush"
+						]
+					},
+					{
+						"level": 56,
+						"attacks": [
+							"Nasty Plot"
+						]
+					},
+					{
+						"level": 60,
+						"attacks": [
+							"Outrage"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [
+					"Draco Meteor"
+				],
+				"tmMoves8": [
+					"Zap Cannon",
+					"Thunder",
+					"Thunder Wave",
+					"Screech",
+					"Mega Punch",
+					"Mega Kick",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Weather Ball",
+					"Rock Tomb",
+					"Shadow Claw",
+					"Fire Fang",
+					"Ice Fang",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up",
+					"Uproar",
+					"Dragon Pulse"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Focus Punch",
+					"Frustration",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic",
+					"Aqua Tail",
+					"Dragon Tail",
+					"Secret Power"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"KeenEye"
+				],
+				"hiddenAbilities": [
+					"MagnetPull"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 50,
+				"attack": 49,
+				"defense": 69,
+				"specialAttack": 86,
+				"specialDefense": 61,
+				"speed": 65
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 5,
+				"spawnLevelRange": 2,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2001_jazamon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2001_jazamon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2001_jazamon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2001_jazamon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2001_jazamon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2001_jazamon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2001_jazamon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"ELECTRIC"
+			],
+			"preEvolutions": [],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 15.5,
+			"catchRate": 100,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 20,
+					"to": "Jazardmon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Twister"
+					]
+				}
+			],
+			"evYields": {
+				"Specialattack": 1
+			}
+		}
+	],
+	"generation": 20
+}

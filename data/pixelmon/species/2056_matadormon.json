@@ -1,0 +1,319 @@
+{
+	"name": "Matadormon",
+	"dex": 2056,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 6.0,
+				"width": 2.0,
+				"length": 3.0,
+				"eyeHeight": 6.0,
+				"hoverHeight": 6.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+							"Poison Fang",
+							"Burudoggu"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Shadow Sneak"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Confuse Ray"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Quick Attack"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Poison Tail"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Crunch"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Night Shade"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Venoshock"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Knock Off"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Poison Jab"
+						]
+					},
+					{
+						"level": 45,
+						"attacks": [
+							"Phantom Force"
+						]
+					},
+					{
+						"level": 52,
+						"attacks": [
+							"Gunk Shot"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Ice Punch",
+					"Thunder Punch",
+					"Dig",
+					"Rest",
+					"Thief",
+					"Snore",
+					"Protect",
+					"Icy Wind",
+					"Attract",
+					"Rain Dance",
+					"Sunny Day",
+					"Will-O-Wisp",
+					"Facade",
+					"Helping Hand",
+					"Brick Break",
+					"Imprison",
+					"Rock Tomb",
+					"Payback",
+					"Fling",
+					"Drain Punch",
+					"Shadow Claw",
+					"Wonder Room",
+					"Low Sweep",
+					"Round",
+					"Hex",
+					"Retaliate",
+					"Snarl"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Low Kick",
+					"Body Slam",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Crunch",
+					"Encore",
+					"Dark Pulse",
+					"Overheat",
+					"Dragon Claw",
+					"Zen Headbutt",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up",
+					"Iron Tail",
+					"Poison Jab",
+					"Dazzling Gleam"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Captivate",
+					"Confide",
+					"Counter",
+					"Cut",
+					"Double Team",
+					"Double-Edge",
+					"Dream Eater",
+					"Dynamic Punch",
+					"Embargo",
+					"Feint Attack",
+					"Flash",
+					"Focus Punch",
+					"Foresight",
+					"Frustration",
+					"Fury Cutter",
+					"Gravity",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Incinerate",
+					"Magic Coat",
+					"Mimic",
+					"Moonlight",
+					"Mud-Slap",
+					"Natural Gift",
+					"Nightmare",
+					"Octazooka",
+					"Ominous Wind",
+					"Pain Split",
+					"Power-Up Punch",
+					"Psych Up",
+					"Punishment",
+					"Return",
+					"Rock Smash",
+					"Role Play",
+					"Secret Power",
+					"Seismic Toss",
+					"Shock Wave",
+					"Signal Beam",
+					"Snatch",
+					"Spite",
+					"Swagger",
+					"Telekinesis",
+					"Tickle",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"PoisonPoint"
+				],
+				"hiddenAbilities": [
+					"Forewarn"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 94,
+				"attack": 101,
+				"defense": 82,
+				"specialAttack": 81,
+				"specialDefense": 93,
+				"speed": 109
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 220,
+				"baseFriendship": 70,
+				"spawnLevel": 32,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2056_matadormon/all/base/none/texture.png", 																"emissive": "pixelmon:pokemon/2056_matadormon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2056_matadormon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2056_matadormon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2056_matadormon/all/base/shiny/texture.png", 																"emissive": "pixelmon:pokemon/2056_matadormon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2056_matadormon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"GHOST",
+				"POISON"
+			],
+			"preEvolutions": [
+				"Sangloupmon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 30.1,
+			"catchRate": 50,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "GranDracmon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Leech Life",
+						"Crystal Revolution",
+						"Gorgon Eye"
+					]
+				}
+			],
+			"evYields": {
+				"Speed": 2,
+				"HP": 2,
+				"Attack": 1
+			}
+		}
+	],
+	"generation": 20
+}

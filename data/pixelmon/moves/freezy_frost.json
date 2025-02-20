@@ -1,0 +1,37 @@
+{
+  "attackIndex": 14729,
+  "attackName": "Freezy Frost",
+  "attackType": "ICE",
+  "attackCategory": "SPECIAL",
+  "basePower": 90,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": false,
+  "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Haze"
+    }
+  ],
+  "animations": [],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "icium_z",
+      "attackName": "Subzero Slammer",
+      "basePower": 110,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

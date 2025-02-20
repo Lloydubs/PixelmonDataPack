@@ -1,0 +1,63 @@
+{
+    "attackIndex": 900058,
+    "attackName": "Garuru Tomahawk",
+    "attackType": "STEEL",
+    "attackCategory": "SPECIAL",
+    "basePower": 95,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "AlwaysHit"
+        },
+        {
+      "type": "Freeze",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Freeze"
+    }     
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			},
+			"7": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			},
+			"14": {
+				"id": "ball",
+				"texture": "NORMAL",
+				"rgb": [253, 141, 212],
+				"scale": 1.2
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

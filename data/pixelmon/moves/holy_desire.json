@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900077,
+    "attackName": "Holy Desire",
+    "attackType": "FAIRY",
+    "attackCategory": "PHYSICAL",
+    "basePower": 85,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Retaliate"
+    },
+    {
+            "priority": 1,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Priority"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

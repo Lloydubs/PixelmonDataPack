@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Vulcan Revenge",
+    "attackType": "ROCK",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 10,
+    "ppMax": 16,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "priority": -4,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Revenge"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

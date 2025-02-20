@@ -1,0 +1,225 @@
+{
+  "id": "Raikou",
+  "spawnInfos": [
+    {
+      "spec": "species:Raikou level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Raikou palette:aquatic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:charged level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:cny tiger 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:cny tiger 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:egyptian level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:sun level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:sunset level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Raikou palette:vapor level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.3
+    }
+  ]
+}

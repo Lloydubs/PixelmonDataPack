@@ -1,0 +1,2498 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+{
+"name": "aquaboss.png"
+},
+{
+"name": "aquagruntfemale.png"
+},
+{
+"name": "aquagruntmale.png"
+},
+{
+"name": "artist.png"
+},
+{
+"name": "baker.png"
+},
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "blacksmith.png"
+},
+{
+"name": "breedergreen_f.png"
+},
+{
+"name": "breedergreen_m.png"
+},
+{
+"name": "bugcatcher1.png"
+},
+{
+"name": "bugcatcher2.png"
+},
+{
+"name": "bugcatcher3.png"
+},
+{
+"name": "bugcatcher4.png"
+},
+{
+"name": "bugcatchergirl.png"
+},
+{
+"name": "cueball.png"
+},
+{
+"name": "cult.png"
+},
+{
+"name": "doctor.png"
+},
+{
+"name": "dress.png"
+},
+{
+"name": "electricleader1.png"
+},
+{
+"name": "engineer.png"
+},
+{
+"name": "evilprofessor.png"
+},
+{
+"name": "firebreather1.png"
+},
+{
+"name": "firebreather2.png"
+},
+{
+"name": "firebreather3.png"
+},
+{
+"name": "firebreather4.png"
+},
+{
+"name": "fireleader2.png"
+},
+{
+"name": "fisherman.png"
+},
+{
+"name": "flaregruntfemale.png"
+},
+{
+"name": "flaregruntmale.png"
+},
+{
+"name": "flyingleader1.png"
+},
+{
+"name": "flyingleader2.png"
+},
+{
+"name": "football1.png"
+},
+{
+"name": "football2.png"
+},
+{
+"name": "galacticboss.png"
+},
+{
+"name": "galacticgruntfemale.png"
+},
+{
+"name": "galacticgruntmale.png"
+},
+{
+"name": "gardenermale1.png"
+},
+{
+"name": "gardenermale2.png"
+},
+{
+"name": "giovanni.png"
+},
+{
+"name": "gnome_trader.png"
+},
+{
+"name": "grassbugleader1.png"
+},
+{
+"name": "guzma.png"
+},
+{
+"name": "hexmaniac.png"
+},
+{
+"name": "hiker.png"
+},
+{
+"name": "iceleader1.png"
+},
+{
+"name": "iceleader2.png"
+},
+{
+"name": "jonsnow.png"
+},
+{
+"name": "knight.png"
+},
+{
+"name": "lass.png"
+},
+{
+"name": "lass2.png"
+},
+{
+"name": "lass3.png"
+},
+{
+"name": "lighthousekeeper.png"
+},
+{
+"name": "list.txt"
+},
+{
+"name": "ListFiles.bat"
+},
+{
+"name": "littleboy.png"
+},
+{
+"name": "littlegirl.png"
+},
+{
+"name": "lumberjack.png"
+},
+{
+"name": "lysandre.png"
+},
+{
+"name": "madame.png"
+},
+{
+"name": "magmaboss.png"
+},
+{
+"name": "magmagruntfemale.png"
+},
+{
+"name": "magmagruntmale.png"
+},
+{
+"name": "mailman.png"
+},
+{
+"name": "mechanic.png"
+},
+{
+"name": "miner.png"
+},
+{
+"name": "monk1.png"
+},
+{
+"name": "monk2.png"
+},
+{
+"name": "monsieur.png"
+},
+{
+"name": "n.png"
+},
+{
+"name": "npcchat1.png"
+},
+{
+"name": "npcchat2.png"
+},
+{
+"name": "nursejoy.png"
+},
+{
+"name": "officerjenny.png"
+},
+{
+"name": "oldfisherman.png"
+},
+{
+"name": "oldman.png"
+},
+{
+"name": "oldwoman.png"
+},
+{
+"name": "ornithologist.png"
+},
+{
+"name": "ornithologist_f.png"
+},
+{
+"name": "piratecaptain.png"
+},
+{
+"name": "pirategrunt1.png"
+},
+{
+"name": "pirategrunt2.png"
+},
+{
+"name": "pkmn_breeder_f.png"
+},
+{
+"name": "plasmagruntfemale.png"
+},
+{
+"name": "plasmagruntmale.png"
+},
+{
+"name": "pokefan_f.png"
+},
+{
+"name": "pokefan_m.png"
+},
+{
+"name": "pokemaniac1.png"
+},
+{
+"name": "pokemaniac2.png"
+},
+{
+"name": "pokemaniac3.png"
+},
+{
+"name": "pokemaniacgirl1.png"
+},
+{
+"name": "pokemaniacgirl2.png"
+},
+{
+"name": "pokemaniacgirl3.png"
+},
+{
+"name": "policeman.png"
+},
+{
+"name": "preschooler_f1.png"
+},
+{
+"name": "prisoner.png"
+},
+{
+"name": "professorras.png"
+},
+{
+"name": "psychic.png"
+},
+{
+"name": "psychicleader1.png"
+},
+{
+"name": "psychic_f.png"
+},
+{
+"name": "punkgirl.png"
+},
+{
+"name": "punkguy.png"
+},
+{
+"name": "rancher.png"
+},
+{
+"name": "ranger_f.png"
+},
+{
+"name": "ranger_m.png"
+},
+{
+"name": "richboy.png"
+},
+{
+"name": "rocketgruntfemale1.png"
+},
+{
+"name": "rocketgruntfemale2.png"
+},
+{
+"name": "rocketgruntfemale3.png"
+},
+{
+"name": "rocketgruntfemale4.png"
+},
+{
+"name": "rocketgruntfemale5.png"
+},
+{
+"name": "rocketgruntfemale6.png"
+},
+{
+"name": "rocketgruntmale1.png"
+},
+{
+"name": "rocketgruntmale2.png"
+},
+{
+"name": "rocketgruntmale3.png"
+},
+{
+"name": "rocketgruntmale4.png"
+},
+{
+"name": "rocketgruntmale5.png"
+},
+{
+"name": "rocketgruntmale6.png"
+},
+{
+"name": "rockleader1.png"
+},
+{
+"name": "sailor.png"
+},
+{
+"name": "sailor2.png"
+},
+{
+"name": "santa.png"
+},
+{
+"name": "schoolboy.png"
+},
+{
+"name": "schoolgirl.png"
+},
+{
+"name": "scientist_f.png"
+},
+{
+"name": "scientist_m.png"
+},
+{
+"name": "scottish.png"
+},
+{
+"name": "shopgirl.png"
+},
+{
+"name": "shoplady.png"
+},
+{
+"name": "shoplady2.png"
+},
+{
+"name": "shoplady3.png"
+},
+{
+"name": "shoplady4.png"
+},
+{
+"name": "shoplady5.png"
+},
+{
+"name": "shopman.png"
+},
+{
+"name": "shopman2.png"
+},
+{
+"name": "shopman3.png"
+},
+{
+"name": "shopman4.png"
+},
+{
+"name": "shopman5.png"
+},
+{
+"name": "shopsecondman.png"
+},
+{
+"name": "skullgruntfemale.png"
+},
+{
+"name": "skullgruntmale.png"
+},
+{
+"name": "spawntrader.png"
+},
+{
+"name": "steelleader1.png"
+},
+{
+"name": "streetthug.png"
+},
+{
+"name": "suit.png"
+},
+{
+"name": "supernerd.png"
+},
+{
+"name": "swimmer_f1.png"
+},
+{
+"name": "swimmer_f2.png"
+},
+{
+"name": "swimmer_m1.png"
+},
+{
+"name": "swimmer_m2.png"
+},
+{
+"name": "teamyellfemale.png"
+},
+{
+"name": "teamyellgruntfemale.png"
+},
+{
+"name": "teamyellgruntmale.png"
+},
+{
+"name": "teamyellmale.png"
+},
+{
+"name": "tesla.png"
+},
+{
+"name": "waterleader1.png"
+},
+{
+"name": "waterleader2.png"
+},
+{
+"name": "youngster1.png"
+},
+{
+"name": "youngster2.png"
+},
+{
+"name": "youngster3.png"
+},
+{
+"name": "youngster4.png"
+},
+{
+"name": "youngster5.png"
+},
+{
+"name": "youngster6.png"
+},
+{
+"name": "youngster7.png"
+},
+{
+"name": "youngstergirl.png"
+},
+{
+"name": "youngstergirl2.png"
+}
+],
+  "names": [
+{
+"name":"Georgie"
+},
+{
+"name":"Deborah"
+},
+{
+"name":"Brianna"
+},
+{
+"name":"Neve"
+},
+{
+"name":"Nina"
+},
+{
+"name":"Maisy"
+},
+{
+"name":"Joanna"
+},
+{
+"name":"Charlotte"
+},
+{
+"name":"Layla"
+},
+{
+"name":"Tianna"
+},
+{
+"name":"Maia"
+},
+{
+"name":"Gabriella"
+},
+{
+"name":"Francesca"
+},
+{
+"name":"Contance"
+},
+{
+"name":"Miriam"
+},
+{
+"name":"Kyra"
+},
+{
+"name":"Alfie"
+},
+{
+"name":"Chelsea"
+},
+{
+"name":"Alicia"
+},
+{
+"name":"Jane"
+},
+{
+"name":"Demi"
+},
+{
+"name":"Elsie"
+},
+{
+"name":"Zahra"
+},
+{
+"name":"Lillian"
+},
+{
+"name":"Ffion"
+},
+{
+"name":"Kayla"
+},
+{
+"name":"Ellen"
+},
+{
+"name":"Barbara"
+},
+{
+"name":"Daisy"
+},
+{
+"name":"Gabrielle"
+},
+{
+"name":"Aliya"
+},
+{
+"name":"Violet"
+},
+{
+"name":"Evangelo"
+},
+{
+"name":"Ismail"
+},
+{
+"name":"Amir"
+},
+{
+"name":"Herbert"
+},
+{
+"name":"Nicolas"
+},
+{
+"name":"Alvin"
+},
+{
+"name":"Rufus"
+},
+{
+"name":"Lara"
+},
+{
+"name":"Willie"
+},
+{
+"name":"Umar"
+},
+{
+"name":"Bret"
+},
+{
+"name":"Pearl"
+},
+{
+"name":"Jak"
+},
+{
+"name":"Zachary"
+},
+{
+"name":"Jesse"
+},
+{
+"name":"Juan"
+},
+{
+"name":"Roy"
+},
+{
+"name":"Fraser"
+},
+{
+"name":"Marshall"
+},
+{
+"name":"Johnny"
+},
+{
+"name":"Raphael"
+},
+{
+"name":"Lloyd"
+},
+{
+"name":"Clause"
+},
+{
+"name":"Edward"
+},
+{
+"name":"Jim"
+},
+{
+"name":"Jeremiah"
+},
+{
+"name":"Bernard"
+},
+{
+"name":"Robert"
+},
+{
+"name":"Harold"
+},
+{
+"name":"Brandon"
+},
+{
+"name":"Patrick"
+},
+{
+"name":"Maximilian"
+},
+{
+"name":"Agrippo"
+},
+{
+"name":"Agrippa"
+},
+{
+"name":"Ailbe"
+},
+{
+"name":"Aldus"
+},
+{
+"name":"Aleks"
+},
+{
+"name":"Amari"
+},
+{
+"name":"Aran"
+},
+{
+"name":"Ariel"
+},
+{
+"name":"Aroha"
+},
+{
+"name":"Aştî"
+},
+{
+"name":"Averill"
+},
+{
+"name":"Awee"
+},
+{
+"name":"Awotwi"
+},
+{
+"name":"Ayotunde"
+},
+{
+"name":"Babe"
+},
+{
+"name":"Bandile"
+},
+{
+"name":"Billie"
+},
+{
+"name":"Cam"
+},
+{
+"name":"Camryn"
+},
+{
+"name":"Carmo"
+},
+{
+"name":"Chan"
+},
+{
+"name":"Châu"
+},
+{
+"name":"Chesley"
+},
+{
+"name":"Chima"
+},
+{
+"name":"Chiyna"
+},
+{
+"name":"Chiyembek"
+},
+{
+"name":"Chizoba"
+},
+{
+"name":"Chun"
+},
+{
+"name":"Codie"
+},
+{
+"name":"D'Arcy"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dara"
+},
+{
+"name":"Dawa"
+},
+{
+"name":"Deniz"
+},
+{
+"name":"Dîyar"
+},
+{
+"name":"Dubaku"
+},
+{
+"name":"Duygu"
+},
+{
+"name":"Eirian"
+},
+{
+"name":"Ejiroghene"
+},
+{
+"name":"Ellington"
+},
+{
+"name":"Emerson"
+},
+{
+"name":"Emmery"
+},
+{
+"name":"Eun-Jung"
+},
+{
+"name":"Evangelista"
+},
+{
+"name":"Feidlimid"
+},
+{
+"name":"Ferdous"
+},
+{
+"name":"Fido"
+},
+{
+"name":"Firdos"
+},
+{
+"name":"Flick"
+},
+{
+"name":"Gerelt"
+},
+{
+"name":"Gili"
+},
+{
+"name":"Glaucia"
+},
+{
+"name":"Gul"
+},
+{
+"name":"Gurpreet"
+},
+{
+"name":"Harley"
+},
+{
+"name":"Heike"
+},
+{
+"name":"Hinata"
+},
+{
+"name":"Hollis"
+},
+{
+"name":"Hui"
+},
+{
+"name":"Isi"
+},
+{
+"name":"Itumeleng"
+},
+{
+"name":"Jae"
+},
+{
+"name":"Jamyang"
+},
+{
+"name":"Jayme"
+},
+{
+"name":"Jessy"
+},
+{
+"name":"Jessica"
+},
+{
+"name":"Jia"
+},
+{
+"name":"Jing"
+},
+{
+"name":"Jip"
+},
+{
+"name":"Jools"
+},
+{
+"name":"Kaede"
+},
+{
+"name":"Kagiso"
+},
+{
+"name":"Kaimana"
+},
+{
+"name":"Kanta"
+},
+{
+"name":"Kaulana"
+},
+{
+"name":"Kehinde"
+},
+{
+"name":"Kennedy"
+},
+{
+"name":"Khayrat"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Lacy"
+},
+{
+"name":"Lakshmi"
+},
+{
+"name":"Laxmi"
+},
+{
+"name":"Lindsay"
+},
+{
+"name":"Liraz"
+},
+{
+"name":"Lorrin"
+},
+{
+"name":"Lucero"
+},
+{
+"name":"Lungile"
+},
+{
+"name":"Lupe"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Maitland"
+},
+{
+"name":"Makana"
+},
+{
+"name":"Martie"
+},
+{
+"name":"Matija"
+},
+{
+"name":"Maurie"
+},
+{
+"name":"McKenzie"
+},
+{
+"name":"Min-Jun"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Monet"
+},
+{
+"name":"Montana"
+},
+{
+"name":"Mudiwa"
+},
+{
+"name":"Naseem"
+},
+{
+"name":"Navneet"
+},
+{
+"name":"Nerþuz"
+},
+{
+"name":"Nilam"
+},
+{
+"name":"Noam"
+},
+{
+"name":"Nour"
+},
+{
+"name":"Nsia"
+},
+{
+"name":"Nuka"
+},
+{
+"name":"Ofra"
+},
+{
+"name":"Ogochukwu"
+},
+{
+"name":"Olayinka"
+},
+{
+"name":"Oluwaseyi"
+},
+{
+"name":"Otgonbayar"
+},
+{
+"name":"Paget"
+},
+{
+"name":"Palmer"
+},
+{
+"name":"Payne"
+},
+{
+"name":"Ratna"
+},
+{
+"name":"Ricmod"
+},
+{
+"name":"Rylie"
+},
+{
+"name":"Şan"
+},
+{
+"name":"Seung"
+},
+{
+"name":"Shahar"
+},
+{
+"name":"Simcha"
+},
+{
+"name":"Sovanna"
+},
+{
+"name":"Stav"
+},
+{
+"name":"Steph"
+},
+{
+"name":"Storm"
+},
+{
+"name":"Suman"
+},
+{
+"name":"Tatum"
+},
+{
+"name":"Tendai"
+},
+{
+"name":"Tivoli"
+},
+{
+"name":"Tiwonge"
+},
+{
+"name":"Tiyamike"
+},
+{
+"name":"Tshepo"
+},
+{
+"name":"Tu"
+},
+{
+"name":"Tumelo"
+},
+{
+"name":"Uche"
+},
+{
+"name":"Udo"
+},
+{
+"name":"Unathi"
+},
+{
+"name":"Vanna"
+},
+{
+"name":"Wambli"
+},
+{
+"name":"Waverly"
+},
+{
+"name":"Wei"
+},
+{
+"name":"Xuân"
+},
+{
+"name":"Yağmur"
+},
+{
+"name":"Yuuki"
+}
+  ],
+  "chat": [
+    {
+      "hello": "Greetings! This is a message that appears when you first talk to me.",
+      "goodbye": "And this is what I say when you exit my service."
+    }
+  ],
+  "items": [
+{
+"name": "economyinc:item_oneb"
+},
+{
+"name": "economyinc:item_fiveb"
+},
+{
+"name": "economyinc:item_tenb"
+},
+{
+"name": "economyinc:item_twentyb"
+},
+{
+"name": "economyinc:item_fiftybe"
+},
+{
+"name": "economyinc:item_hundreedb"
+},
+{
+"name": "economyinc:item_twohundreedb"
+},
+{
+"name": "economyinc:item_fivehundreedb"
+},
+{
+"name": "economyinc:item_creditcard"
+},
+{
+"name": "economyinc:item_wireless"
+},
+{
+"name": "minecraftmodernxl:asialanternrs"
+},
+{
+"name": "minecraftmodernxl:asialanternblanche"
+},
+{
+"name": "minecraftmodernxl:asialanternb"
+},
+{
+"name": "minecraftmodernxl:asia_lanter_bluesomber"
+},
+{
+"name": "minecraftmodernxl:asia_lanter_green_off"
+},
+{
+"name": "minecraftmodernxl:asia_lanter_purple"
+},
+{
+"name": "minecraftmodernxl:asia_lanter_yellow_off"
+},
+{
+"name": "minecraftmodernxl:terrarium1"
+},
+{
+"name": "minecraftmodernxl:terrarium2"
+},
+{
+"name": "minecraftmodernxl:cactusblanc"
+},
+{
+"name": "minecraftmodernxl:cactus_noire"
+},
+{
+"name": "minecraftmodernxl:cactus_darkwood"
+},
+{
+"name": "minecraftmodernxl:cactus_lightwood"
+},
+{
+"name": "minecraftmodernxl:cactus_yellow_lightwood"
+},
+{
+"name": "minecraftmodernxl:candleplate_orange_dw"
+},
+{
+"name": "minecraftmodernxl:candle_plate_black"
+},
+{
+"name": "minecraftmodernxl:candle_plate_white"
+},
+{
+"name": "minecraftmodernxl:candle_plate_pink"
+},
+{
+"name": "minecraftmodernxl:tvscreen_1"
+},
+{
+"name": "minecraftmodernxl:wall_lamp_1"
+},
+{
+"name": "minecraftmodernxl:wall_lamp_2"
+},
+{
+"name": "minecraftmodernxl:wall_lamp_3"
+},
+{
+"name": "minecraftmodernxl:wall_lamp_4"
+},
+{
+"name": "minecraftmodernxl:wall_lamp_5"
+},
+{
+"name": "minecraftmodernxl:etbl_1"
+},
+{
+"name": "minecraftmodernxl:etbl_2"
+},
+{
+"name": "minecraftmodernxl:etbl_3"
+},
+{
+"name": "minecraftmodernxl:glass_tabl_grey_1_x_1"
+},
+{
+"name": "minecraftmodernxl:glass_tabl_white_1_x_1"
+},
+{
+"name": "minecraftmodernxl:box_grey"
+},
+{
+"name": "minecraftmodernxl:lily_light_grey"
+},
+{
+"name": "minecraftmodernxl:lily_light_dw"
+},
+{
+"name": "minecraftmodernxl:lily_light_lw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_dw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_lw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_white_dw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_wg"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_wlw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_grey_lw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_grey_dw"
+},
+{
+"name": "minecraftmodernxl:boxcase_stride_grey_w"
+},
+{
+"name": "minecraftmodernxl:comptoire_granite_dw"
+},
+{
+"name": "minecraftmodernxl:comptoire_granite_lw"
+},
+{
+"name": "minecraftmodernxl:comptoire_granite_white"
+},
+{
+"name": "minecraftmodernxl:comptoire_granite_grey"
+},
+{
+"name": "minecraftmodernxl:comptoire_andesite_dw"
+},
+{
+"name": "minecraftmodernxl:comptoire_andesite_lw"
+},
+{
+"name": "minecraftmodernxl:comptoire_andesite_white"
+},
+{
+"name": "minecraftmodernxl:comptoire_andesite_grey"
+},
+{
+"name": "minecraftmodernxl:comptoire_diorite_lw"
+},
+{
+"name": "minecraftmodernxl:comptoire_diorite_dw"
+},
+{
+"name": "minecraftmodernxl:comptoire_diorite_white"
+},
+{
+"name": "minecraftmodernxl:comptoire_diorite_grey"
+},
+{
+"name": "minecraftmodernxl:bookcase_dwlw"
+},
+{
+"name": "minecraftmodernxl:bookcase_white_dw"
+},
+{
+"name": "minecraftmodernxl:placard_diorite_dw"
+},
+{
+"name": "minecraftmodernxl:placard_diorite_grey"
+},
+{
+"name": "minecraftmodernxl:placard_diorite_lw"
+},
+{
+"name": "minecraftmodernxl:placard_diorite_white"
+},
+{
+"name": "minecraftmodernxl:placard_granite_dw"
+},
+{
+"name": "minecraftmodernxl:placard_granite_lw"
+},
+{
+"name": "minecraftmodernxl:placard_granite_white"
+},
+{
+"name": "minecraftmodernxl:placard_granite_grey"
+},
+{
+"name": "minecraftmodernxl:placard_andesite_dw"
+},
+{
+"name": "minecraftmodernxl:placard_andesite_lw"
+},
+{
+"name": "minecraftmodernxl:placard_andesite_white"
+},
+{
+"name": "minecraftmodernxl:placard_andesite_grey"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_diorite"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_diorite_lw"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_diorite_white"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_diorite_grey"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_andesite_dw"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_andesite_lw"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_andesite_white"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_andesite_grey"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_granite"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_granite_lw"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_granite_white"
+},
+{
+"name": "minecraftmodernxl:drawercupboard_granite_grey"
+},
+{
+"name": "minecraftmodernxl:chasie_dw"
+},
+{
+"name": "minecraftmodernxl:chasie_lw"
+},
+{
+"name": "minecraftmodernxl:chasie_grey"
+},
+{
+"name": "minecraftmodernxl:chasie_white"
+},
+{
+"name": "minecraftmodernxl:chasie_white_dw"
+},
+{
+"name": "minecraftmodernxl:chasie_white_lw"
+},
+{
+"name": "minecraftmodernxl:chasie_grey_lw"
+},
+{
+"name": "minecraftmodernxl:chasie_grey_dw"
+},
+{
+"name": "minecraftmodernxl:mchair_lw"
+},
+{
+"name": "minecraftmodernxl:mchair_dw"
+},
+{
+"name": "minecraftmodernxl:mchair_grey_dw"
+},
+{
+"name": "minecraftmodernxl:mchair_grey_lw"
+},
+{
+"name": "minecraftmodernxl:modern_bar_stool_white_lw"
+},
+{
+"name": "minecraftmodernxl:modern_bar_stool_white_dw"
+},
+{
+"name": "minecraftmodernxl:modern_bar_stool_gery_lw"
+},
+{
+"name": "minecraftmodernxl:modern_bar_stool_gery_dw"
+},
+{
+"name": "minecraftmodernxl:modern_lamp_dw"
+},
+{
+"name": "minecraftmodernxl:modern_lamp_lw"
+},
+{
+"name": "minecraftmodernxl:modern_lamp_grey"
+},
+{
+"name": "minecraftmodernxl:modern_lightbulb_dw"
+},
+{
+"name": "minecraftmodernxl:kitchen_light"
+},
+{
+"name": "minecraftmodernxl:tropic_flower_1"
+},
+{
+"name": "minecraftmodernxl:tropic_flower_2"
+},
+{
+"name": "minecraftmodernxl:candle_plate_blue"
+},
+{
+"name": "minecraftmodernxl:candle_plate_bluefonce"
+},
+{
+"name": "minecraftmodernxl:candle_plate_yellow"
+},
+{
+"name": "minecraftmodernxl:candle_plate_red"
+},
+{
+"name": "minecraftmodernxl:candle_plate_green"
+},
+{
+"name": "minecraftmodernxl:candle_plate_purple"
+},
+{
+"name": "minecraftmodernxl:towel_holder"
+},
+{
+"name": "minecraftmodernxl:pile_towel"
+},
+{
+"name": "minecraftmodernxl:utensilpot"
+},
+{
+"name": "minecraftmodernxl:paper_towel"
+},
+{
+"name": "minecraftmodernxl:toilet_paper"
+},
+{
+"name": "minecraftmodernxl:jeuboule"
+},
+{
+"name": "pixelmon:xs_exp_candy"
+},
+{
+"name": "pixelmon:s_exp_candy"
+},
+{
+"name": "pixelmon:m_exp_candy"
+},
+{
+"name": "pixelmon:l_exp_candy"
+},
+{
+"name": "pixelmon:xl_exp_candy"
+},
+{
+"name": "minecraft:grass_block"
+},
+{
+"name": "minecraft:stone"
+},
+{
+"name": "minecraft:cobblestone"
+},
+{
+"name": "minecraft:sand"
+},
+{
+"name": "minecraft:red_sand"
+},
+{
+"name": "minecraft:sandstone"
+},
+{
+"name": "minecraft:red_sandstone"
+},
+{
+"name": "pixelmon:poke_sand"
+},
+{
+"name": "pixelmon:ultra_desert_sand"
+},
+{
+"name": "pixelmon:ultra_desert_sandstone"
+},
+{
+"name": "byg:black_sand"
+},
+{
+"name": "byg:blue_sand"
+},
+{
+"name": "byg:purple_sand"
+},
+{
+"name": "byg:pink_sand"
+},
+{
+"name": "minecraft:diorite"
+},
+{
+"name": "minecraft:andesite"
+},
+{
+"name": "minecraft:granite"
+},
+{
+"name": "minecraft:coarse_dirt"
+},
+{
+"name": "minecraft:oak_log"
+},
+{
+"name": "minecraft:spruce_log"
+},
+{
+"name": "minecraft:birch_log"
+},
+{
+"name": "minecraft:jungle_log"
+},
+{
+"name": "minecraft:acacia_log"
+},
+{
+"name": "minecraft:dark_oak_log"
+},
+{
+"name": "minecraft:sponge"
+},
+{
+"name": "minecraft:white_wool"
+},
+{
+"name": "minecraft:orange_wool"
+},
+{
+"name": "minecraft:magenta_wool"
+},
+{
+"name": "minecraft:light_blue_wool"
+},
+{
+"name": "minecraft:yellow_wool"
+},
+{
+"name": "minecraft:lime_wool"
+},
+{
+"name": "minecraft:pink_wool"
+},
+{
+"name": "minecraft:gray_wool"
+},
+{
+"name": "minecraft:light_gray_wool"
+},
+{
+"name": "minecraft:cyan_wool"
+},
+{
+"name": "minecraft:purple_wool"
+},
+{
+"name": "minecraft:blue_wool"
+},
+{
+"name": "minecraft:brown_wool"
+},
+{
+"name": "minecraft:green_wool"
+},
+{
+"name": "minecraft:red_wool"
+},
+{
+"name": "minecraft:black_wool"
+},
+{
+"name": "minecraft:bricks"
+},
+{
+"name": "minecraft:mossy_cobblestone"
+},
+{
+"name": "minecraft:obsidian"
+},
+{
+"name": "minecraft:purpur_block"
+},
+{
+"name": "minecraft:snow_block"
+},
+{
+"name": "minecraft:ice"
+},
+{
+"name": "minecraft:netherrack"
+},
+{
+"name": "minecraft:soul_sand"
+},
+{
+"name": "minecraft:soul_soil"
+},
+{
+"name": "minecraft:basalt"
+},
+{
+"name": "minecraft:glowstone"
+},
+{
+"name": "minecraft:mycelium"
+},
+{
+"name": "minecraft:nether_bricks"
+},
+{
+"name": "minecraft:quartz_block"
+},
+{
+"name": "minecraft:terracotta"
+},
+{
+"name": "minecraft:white_terracotta"
+},
+{
+"name": "minecraft:orange_terracotta"
+},
+{
+"name": "minecraft:magenta_terracotta"
+},
+{
+"name": "minecraft:light_blue_terracotta"
+},
+{
+"name": "minecraft:yellow_terracotta"
+},
+{
+"name": "minecraft:lime_terracotta"
+},
+{
+"name": "minecraft:pink_terracotta"
+},
+{
+"name": "minecraft:gray_terracotta"
+},
+{
+"name": "minecraft:light_gray_terracotta"
+},
+{
+"name": "minecraft:cyan_terracotta"
+},
+{
+"name": "minecraft:purple_terracotta"
+},
+{
+"name": "minecraft:blue_terracotta"
+},
+{
+"name": "minecraft:brown_terracotta"
+},
+{
+"name": "minecraft:green_terracotta"
+},
+{
+"name": "minecraft:red_terracotta"
+},
+{
+"name": "minecraft:black_terracotta"
+},
+{
+"name": "minecraft:red_terracotta"
+},
+{
+"name": "minecraft:black_terracotta"
+},
+{
+"name": "minecraft:crystal"
+},
+{
+"name": "minecraft:iron_ingot"
+},
+{
+"name": "minecraft:gold_ingot"
+},
+{
+"name": "minecraft:netherite_ingot"
+},
+{
+"name": "dustrial_decor:rusty_iron_ingot"
+},
+{
+"name": "mapperbase:steel_ingot"
+},
+{
+"name": "byg:pendorite_ingot"
+},
+{
+"name": "pixelmon:aluminium_ingot"
+},
+{
+"name": "pixelmon:silver_ingot"
+},
+{
+"name": "pixelmon:platinum_ingot"
+},
+{
+"name": "xkdeco:steel_ingot"
+},
+{
+"name": "projectred-core:copper_ingot"
+},
+{
+"name": "projectred-core:tin_ingot"
+},
+{
+"name": "projectred-core:silver_ingot"
+},
+{
+"name": "projectred-core:red_ingot"
+},
+{
+"name": "projectred-core:electrotine_ingot"
+},
+{
+"name": "pixelmon:exp_all"
+},
+{
+"name": "pixelmon:ruby"
+},
+{
+"name": "pixelmon:emerald"
+},
+{
+"name": "pixelmon:sapphire"
+},
+{
+"name": "minecraft:emerald"
+},
+{
+"name": "minecraft:diamond"
+},
+{
+"name": "pixelmon:exp_share"
+},
+{
+"name": "pixelmon:blue_vending_machine"
+},
+{
+"name": "pixelmon:red_vending_machine"
+},
+{
+"name": "pixelmon:green_vending_machine"
+},
+{
+"name": "pixelmon:orange_vending_machine"
+},
+{
+"name": "pixelmon:pink_vending_machine"
+},
+{
+"name": "pixelmon:purple_vending_machine"
+},
+{
+"name": "pixelmon:yellow_vending_machine"
+},
+{
+"name": "pixelmon:white_vending_machine"
+},
+{
+"name": "pixelmon:brown_vending_machine"
+},
+{
+"name": "pixelmon:black_vending_machine"
+},
+{
+"name": "pixelmon:gray_vending_machine"
+},
+{
+"name": "pixelmon:cyan_vending_machine"
+},
+{
+"name": "minecraft:white_stained_glass"
+},
+{
+"name": "minecraft:orange_stained_glass"
+},
+{
+"name": "minecraft:magenta_stained_glass"
+},
+{
+"name": "minecraft:blue_stained_glass"
+},
+{
+"name": "minecraft:yellow_stained_glass"
+},
+{
+"name": "minecraft:lime_stained_glass"
+},
+{
+"name": "minecraft:pink_stained_glass"
+},
+{
+"name": "minecraft:gray_stained_glass"
+},
+{
+"name": "minecraft:light_gray_stained_glass"
+},
+{
+"name": "minecraft:cyan_stained_glass"
+},
+{
+"name": "minecraft:purple_stained_glass"
+},
+{
+"name": "minecraft:blue_stained_glass"
+},
+{
+"name": "minecraft:brown_stained_glass"
+},
+{
+"name": "minecraft:green_stained_glass"
+},
+{
+"name": "minecraft:red_stained_glass"
+},
+{
+"name": "minecraft:black_stained_glass"
+},
+{
+"name": "minecraft:glass"
+},
+{
+"name": "minecraftmodernxl:whitecobble"
+},
+{
+"name": "minecraftmodernxl:bricksc1"
+},
+{
+"name": "minecraftmodernxl:bricksc2"
+},
+{
+"name": "minecraftmodernxl:bricksc3"
+},
+{
+"name": "minecraftmodernxl:bricksc4"
+},
+{
+"name": "minecraftmodernxl:bricksc5"
+},
+{
+"name": "minecraftmodernxl:bricksc6"
+},
+{
+"name": "minecraftmodernxl:bricksc7"
+},
+{
+"name": "minecraftmodernxl:bricksc8"
+},
+{
+"name": "minecraftmodernxl:bricksc9"
+},
+{
+"name": "minecraftmodernxl:bricksc10"
+},
+{
+"name": "minecraftmodernxl:bricksc11"
+},
+{
+"name": "minecraftmodernxl:bricksc12"
+},
+{
+"name": "minecraftmodernxl:bricksc13"
+},
+{
+"name": "minecraftmodernxl:gardengravel"
+},
+{
+"name": "minecraftmodernxl:waveb1"
+},
+{
+"name": "minecraftmodernxl:waveb2"
+},
+{
+"name": "minecraftmodernxl:waveb3"
+},
+{
+"name": "minecraftmodernxl:waveb4"
+},
+{
+"name": "minecraftmodernxl:waveb5"
+},
+{
+"name": "minecraftmodernxl:waveb6"
+},
+{
+"name": "minecraftmodernxl:waveb7"
+},
+{
+"name": "minecraftmodernxl:waveb8"
+},
+{
+"name": "minecraftmodernxl:waveb9"
+},
+{
+"name": "minecraftmodernxl:waveb10"
+},
+{
+"name": "minecraftmodernxl:waveb11"
+},
+{
+"name": "minecraftmodernxl:waveb12"
+},
+{
+"name": "minecraftmodernxl:waveb13"
+},
+{
+"name": "minecraftmodernxl:waveb14"
+},
+{
+"name": "minecraftmodernxl:waveb15"
+},
+{
+"name": "minecraftmodernxl:brown_cobble"
+},
+{
+"name": "minecraftmodernxl:cacao_cobble"
+},
+{
+"name": "minecraftmodernxl:nut_cobble"
+},
+{
+"name": "minecraftmodernxl:orange_cobble"
+},
+{
+"name": "minecraftmodernxl:concreteslab_black"
+},
+{
+"name": "minecraftmodernxl:concreteslab_white"
+},
+{
+"name": "minecraftmodernxl:concreteslab_grey"
+},
+{
+"name": "minecraftmodernxl:concreteslab_blue"
+},
+{
+"name": "minecraftmodernxl:concreteslab_brown"
+},
+{
+"name": "minecraftmodernxl:concreteslab_green"
+},
+{
+"name": "minecraftmodernxl:concreteslab_cyan"
+},
+{
+"name": "minecraftmodernxl:concreteslab_lightblue"
+},
+{
+"name": "minecraftmodernxl:concreteslab_lime"
+},
+{
+"name": "minecraftmodernxl:concreteslab_magenta"
+},
+{
+"name": "minecraftmodernxl:concreteslab_orange"
+},
+{
+"name": "minecraftmodernxl:concreteslab_pink"
+},
+{
+"name": "minecraftmodernxl:concreteslab_red"
+},
+{
+"name": "minecraftmodernxl:concrete_red"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_1"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_2"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_3"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_4"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_5"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_6"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_7"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_8"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_9"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_10"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_11"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_12"
+},
+{
+"name": "minecraftmodernxl:bricks_stairs_c_13"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_1"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_2"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_3"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_4"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_5"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_6"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_7"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_8"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_9"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_10"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_11"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_12"
+},
+{
+"name": "minecraftmodernxl:bricks_slabs_c_13"
+},
+{
+"name": "minecraftmodernxl:bricks_path_orange"
+},
+{
+"name": "minecraftmodernxl:bricks_path_red"
+},
+{
+"name": "minecraftmodernxl:bricks_path_black"
+},
+{
+"name": "minecraftmodernxl:bricks_path_sepia"
+},
+{
+"name": "minecraftmodernxl:bricks_path_orange_slab"
+},
+{
+"name": "minecraftmodernxl:bricks_path_red_slab"
+},
+{
+"name": "minecraftmodernxl:bricks_path_black_slab"
+},
+{
+"name": "minecraftmodernxl:bricks_path_sepia_slab"
+},
+{
+"name": "minecraftmodernxl:bricks_path_stairs_orange"
+},
+{
+"name": "minecraftmodernxl:bricks_path_stairs_red"
+},
+{
+"name": "minecraftmodernxl:bricks_path_stairs_black"
+},
+{
+"name": "minecraftmodernxl:bricks_path_stairs_sepia"
+},
+{
+"name": "minecraftmodernxl:wallpaper_1"
+},
+{
+"name": "minecraftmodernxl:wallpaper_2"
+},
+{
+"name": "minecraftmodernxl:wallpaper_3"
+},
+{
+"name": "minecraftmodernxl:wallpaper_4"
+},
+{
+"name": "minecraftmodernxl:wallpaper_5"
+},
+{
+"name": "minecraftmodernxl:wallpaper_6"
+},
+{
+"name": "minecraftmodernxl:wallpaper_7"
+},
+{
+"name": "minecraftmodernxl:wallpaper_8"
+},
+{
+"name": "minecraftmodernxl:wallpaper_9"
+},
+{
+"name": "minecraftmodernxl:wallpaper_10"
+},
+{
+"name": "minecraftmodernxl:wallpaper_11"
+},
+{
+"name": "minecraftmodernxl:wallpaper_12"
+},
+{
+"name": "minecraftmodernxl:white_plank"
+},
+{
+"name": "minecraftmodernxl:white_plank_slab"
+},
+{
+"name": "minecraftmodernxl:white_plank_stairs"
+},
+{
+"name": "minecraftmodernxl:black_plank"
+},
+{
+"name": "minecraftmodernxl:black_plank_slab"
+},
+{
+"name": "minecraftmodernxl:black_plank_stairs"
+},
+{
+"name": "minecraftmodernxl:floortile_noire_1x_1"
+},
+{
+"name": "minecraftmodernxl:floortile_noire_2x_2"
+},
+{
+"name": "minecraftmodernxl:floortile_noire_3x_3"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_black"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_dblue"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_brown"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_grey"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_blue"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_green"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_white"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_pink"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_pruple"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_orange"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_yellow"
+},
+{
+"name": "minecraftmodernxl:woven_fabric_slab_red"
+},
+{
+"name": "minecraftmodernxl:dark_stone"
+},
+{
+"name": "minecraftmodernxl:grey_block"
+},
+{
+"name": "minecraftmodernxl:grey_stairs"
+},
+{
+"name": "minecraftmodernxl:cust_plank_1"
+},
+{
+"name": "minecraftmodernxl:cust_plank_2"
+},
+{
+"name": "minecraftmodernxl:cust_plank_3"
+},
+{
+"name": "minecraftmodernxl:cust_plank_4"
+},
+{
+"name": "minecraftmodernxl:cust_plank_5"
+},
+{
+"name": "minecraftmodernxl:cust_plank_slab_1"
+},
+{
+"name": "minecraftmodernxl:cust_plank_slab_2"
+},
+{
+"name": "minecraftmodernxl:cust_plank_slab_3"
+},
+{
+"name": "minecraftmodernxl:cust_plank_slab_4"
+},
+{
+"name": "minecraftmodernxl:cust_plank_slab_5"
+},
+{
+"name": "minecraftmodernxl:cust_stone_1"
+},
+{
+"name": "minecraftmodernxl:cust_stone_2"
+},
+{
+"name": "minecraftmodernxl:cust_stone_3"
+},
+{
+"name": "minecraftmodernxl:cust_stone_slab_1"
+},
+{
+"name": "minecraftmodernxl:cust_stone_slab_2"
+},
+{
+"name": "minecraftmodernxl:cust_stone_slab_3"
+},
+{
+"name": "minecraftmodernxl:cust_stone_slab_4"
+},
+{
+"name": "minecraftmodernxl:cust_stone_slab_5"
+},
+{
+"name": "minecraftmodernxl:color_block"
+},
+{
+"name": "minecraftmodernxl:color_block_2"
+},
+{
+"name": "minecraftmodernxl:color_block_3"
+},
+{
+"name": "minecraftmodernxl:color_block_4"
+},
+{
+"name": "minecraftmodernxl:color_block_5"
+},
+{
+"name": "minecraftmodernxl:color_block_6"
+},
+{
+"name": "minecraftmodernxl:color_block_7"
+},
+{
+"name": "minecraftmodernxl:color_block_8"
+},
+{
+"name": "minecraftmodernxl:color_block_9"
+},
+{
+"name": "minecraftmodernxl:color_block_10"
+},
+{
+"name": "minecraftmodernxl:color_block_11"
+},
+{
+"name": "minecraftmodernxl:color_block_12"
+},
+{
+"name": "minecraftmodernxl:color_block_13"
+},
+{
+"name": "minecraftmodernxl:color_block_14"
+},
+{
+"name": "minecraftmodernxl:color_block_15"
+},
+{
+"name": "minecraftmodernxl:color_block_16"
+},
+{
+"name": "minecraftmodernxl:color_block_17"
+},
+{
+"name": "minecraftmodernxl:color_block_18"
+},
+{
+"name": "minecraftmodernxl:color_block_19"
+},
+{
+"name": "minecraftmodernxl:color_block_20"
+},
+{
+"name": "minecraftmodernxl:color_block_21"
+},
+{
+"name": "minecraftmodernxl:color_block_22"
+},
+{
+"name": "minecraftmodernxl:color_block_23"
+},
+{
+"name": "minecraftmodernxl:color_block_24"
+},
+{
+"name": "minecraftmodernxl:color_block_25"
+},
+{
+"name": "minecraftmodernxl:color_block_26"
+},
+{
+"name": "minecraftmodernxl:color_block_27"
+},
+{
+"name": "minecraftmodernxl:color_block_28"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_1"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_2"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_3"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_4"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_5"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_6"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_7"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_8"
+},
+{
+"name": "minecraftmodernxl:wave_wall_paper_9"
+},
+{
+"name": "minecraftmodernxl:blackstone"
+},
+{
+"name": "minecraftmodernxl:black_moderncobble"
+},
+{
+"name": "minecraftmodernxl:white_oak"
+},
+{
+"name": "minecraftmodernxl:black_oak"
+},
+{
+"name": "minecraftmodernxl:massifstone_1"
+},
+{
+"name": "minecraftmodernxl:massifstone_2"
+},
+{
+"name": "minecraftmodernxl:massifstone_3"
+},
+{
+"name": "minecraftmodernxl:massifstone_4"
+},
+{
+"name": "minecraftmodernxl:umodern_bricks"
+},
+{
+"name": "minecraftmodernxl:umodern_bricks_2"
+},
+{
+"name": "minecraftmodernxl:umodern_bricks_3"
+},
+{
+"name": "minecraftmodernxl:umodern_bricks_4"
+},
+{
+"name": "minecraftmodernxl:purwhite"
+},
+{
+"name": "minecraftmodernxl:pur_whiteslab"
+},
+{
+"name": "minecraftmodernxl:purwhite_strais"
+}
+  ]
+}

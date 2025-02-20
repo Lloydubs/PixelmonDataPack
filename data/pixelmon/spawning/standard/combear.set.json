@@ -1,0 +1,26 @@
+{
+  "id": "Combear",
+  "spawnInfos": [
+    {
+      "spec": "species:Combear",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 16,
+      "maxLevel": 32,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches",
+          "byg:crag_gardens",
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

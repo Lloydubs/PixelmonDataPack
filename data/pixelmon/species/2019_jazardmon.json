@@ -1,0 +1,357 @@
+{
+	"name": "Jazardmon",
+	"dex": 2019,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 4.0,
+				"width": 2.0,
+				"length": 2.0,
+				"eyeHeight": 4.0,
+				"hoverHeight": 4.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Focus Energy",
+							"Tackle",
+							"Twister"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Metal Claw"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Roar"
+						]
+					},
+					{
+						"level": 16,
+						"attacks": [
+							"Snarl"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Thunder Shock"
+						]
+					},
+					{
+						"level": 24,
+						"attacks": [
+							"Work Up"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Slam"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Crunch"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Scary Face"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Dragon Pulse"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Body Slam"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Hyper Voice"
+						]
+					},
+					{
+						"level": 52,
+						"attacks": [
+							"Dragon Rush"
+						]
+					},
+					{
+						"level": 56,
+						"attacks": [
+							"Nasty Plot"
+						]
+					},
+					{
+						"level": 60,
+						"attacks": [
+							"Outrage"
+						]
+					}
+				],
+				"tutorMoves": [
+					"Draco Meteor"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Thunder Punch",
+					"Fire Spin",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Focus Punch",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"FullMetalBody"
+				],
+				"hiddenAbilities": [
+					"Battery"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": true,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 72,
+				"attack": 69,
+				"defense": 67,
+				"specialAttack": 94,
+				"specialDefense": 67,
+				"speed": 81
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 20,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2019_jazardmon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2019_jazardmon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2019_jazardmon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2019_jazardmon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2019_jazardmon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2019_jazardmon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2019_jazardmon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"ELECTRIC",
+				"STEEL"
+			],
+			"preEvolutions": [
+				"Jazamon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 27.5,
+			"catchRate": 75,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 32,
+					"to": "MailBirdramon",
+					"conditions": [
+						{
+							"biomes": [
+								"minecraft:wooded_mountains",
+								"minecraft:taiga_mountains",
+								"minecraft:snowy_taiga_mountains",
+								"minecraft:mountains"
+							],
+							"evoConditionType": "biome"
+						}
+					],
+					"evoType": "leveling",
+					"moves": [
+						"Twister",
+						"Plasma Cannon"
+					]
+				},
+				{
+					"level": 32,
+					"to": "Jazarichmon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Messer Spiral"
+					]
+				}
+			],
+			"evYields": {
+				"Specialattack": 1,
+				"attack": 1
+			}
+		}
+	],
+	"generation": 20
+}

@@ -1,0 +1,210 @@
+{
+  "id": "Taillow",
+  "spawnInfos": [
+    {
+      "spec": "species:Taillow",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Taillow palette:akuma",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Taillow palette:halloween 1",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Taillow palette:halloween 2",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Taillow palette:shadow",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Taillow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 150.0
+    },
+	{
+      "spec": "species:Taillow palette:akuma",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 15.0
+    },
+	{
+      "spec": "species:Taillow palette:halloween 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 15.0
+    },
+	{
+      "spec": "species:Taillow palette:halloween 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 15.0
+    },
+	{
+      "spec": "species:Taillow palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed"
+        ]
+      },
+      "rarity": 15.0
+    }
+  ]
+}

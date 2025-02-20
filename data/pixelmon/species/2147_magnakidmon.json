@@ -1,0 +1,297 @@
+{
+	"name": "MagnaKidmon",
+	"dex": 2147,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 3.2,
+			"width": 1.1,
+			"length": 1.1,
+			"eyeHeight": 3.2,
+			"hoverHeight": 3.2
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch",
+                                                "Hellfire",
+                                                "Rolling Kick",
+                                                "Happy Bullet Showering",
+                                                "Bind Red Trigger"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Beat Up"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Poison Fang"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Heart Stamp"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Shadow Sneak"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Psycho Cut"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"Cross Poison"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Ceaseless Edge"
+					]
+				},
+				{
+					"level": 45,
+					"attacks": [
+						"Psystrike"
+					]
+				},
+				{
+					"level": 50,
+					"attacks": [
+						"Electro Drift"
+					]
+				},
+				{
+					"level": 55,
+					"attacks": [
+						"Expanding Force"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Rising Voltage",
+          "Lash Out",
+                                "Steel Beam",
+          "Misty Explosion",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Return",
+          "Ice Punch",
+          "Thunder Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Thunder Wave",
+          "Light Screen",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Brick Break",
+          "Fling",
+          "Speed Swap",
+          "Magic Room",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Shadow Claw",
+          "Guard Swap",
+          "Psycho Cut",
+          "Trick Room",
+          "Round",
+          "Misty Terrain",
+          "Psychic Terrain",
+          "Mystical Fire",
+          "Electric Terrain"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Iron Tail",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Poison Jab",
+          "Dark Pulse",
+          "X-Scissor",
+          "Focus Blast",
+          "Nasty Plot",
+          "Baton Pass",
+          "Poison Jab",
+          "Dark Pulse",
+          "Power Gem",
+          "Stored Power",
+          "Work Up",
+          "Foul Play",
+          "Dazzling Gleam",
+          "Darkest Lariat",
+          "Gyro Ball",
+          "Tri Attack",
+          "Fire Blast",
+          "Thunder",
+          "Ice Beam",
+          "Psychic",
+          "Swords Dance",
+          "Shadow Ball",
+          "Future Sight",
+          "Blaze Kick",
+          "Focus Blast"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"Opportunist"
+			],
+			"hiddenAbilities": [
+				"SoulHeart"
+			]
+		},
+		"movement": {
+			"rideable": false,
+			"canFly": false,
+			"canSurf": false,
+			"canRideShoulder": false
+		},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 95,
+			"attack": 84,
+			"defense":88,
+			"specialAttack": 155,
+			"specialDefense": 100,
+			"speed": 158
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 220,
+			"baseFriendship": 70,
+			"spawnLevel": 45,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2147_magnakidmon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2147_magnakidmon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2147_magnakidmon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2147_magnakidmon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2147_magnakidmon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2147_magnakidmon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2147_magnakidmon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"PSYCHIC",
+                        "ELECTRIC"
+		],
+		"preEvolutions": [ "Astamon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [],
+		"megas": [],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 23.2,
+		"catchRate": 50,
+		"malePercentage": -1,
+		"evolutions": [
+		],
+		"evYields": {
+			"speed": 4,
+                        "specialattack":4
+		}
+	}],
+	"generation": 20
+}

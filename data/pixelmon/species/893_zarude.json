@@ -1,0 +1,397 @@
+{
+  "name": "Zarude",
+  "dex": 893,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.4,
+        "width": 1.0,
+        "length": 1,
+        "eyeHeight": 1.4,
+        "hoverHeight": 1.4
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Bind",
+              "Scratch"
+            ]
+          },
+          {
+            "level": 6,
+            "attacks": [
+              "Leer"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Vine Whip"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Growth"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Fury Swipes"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Scary Face"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Grass Knot"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Bite"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "U-turn"
+            ]
+          },
+          {
+            "level": 54,
+            "attacks": [
+              "Swagger"
+            ]
+          },
+          {
+            "level": 60,
+            "attacks": [
+              "Energy Ball"
+            ]
+          },
+          {
+            "level": 66,
+            "attacks": [
+              "Synthesis"
+            ]
+          },
+          {
+            "level": 72,
+            "attacks": [
+              "Hammer Arm"
+            ]
+          },
+          {
+            "level": 78,
+            "attacks": [
+              "Thrash"
+            ]
+          },
+          {
+            "level": 84,
+            "attacks": [
+              "Power Whip"
+            ]
+          },
+          {
+            "level": 90,
+            "attacks": [
+              "Jungle Healing"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Grassy Glide",
+          "Lash Out"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Solar Blade",
+          "Dig",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Giga Drain",
+          "Sunny Day",
+          "Facade",
+          "Swift",
+          "Revenge",
+          "Brick Break",
+          "Rock Tomb",
+          "Bullet Seed",
+          "Mud Shot",
+          "U-turn",
+          "Payback",
+          "Assurance",
+          "Fling",
+          "Drain Punch",
+          "Round",
+          "Acrobatics",
+          "Snarl",
+          "Grassy Terrain",
+          "Brutal Swing",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Low Kick",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Iron Tail",
+          "Crunch",
+          "Taunt",
+          "Superpower",
+          "Hyper Voice",
+          "Bulk Up",
+          "Close Combat",
+          "Dark Pulse",
+          "Seed Bomb",
+          "Energy Ball",
+          "Nasty Plot",
+          "Power Whip",
+          "Grass Knot",
+          "Darkest Lariat",
+          "Throat Chop"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "LeafGuard"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": -0.15
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": -0.15
+          }
+        }
+      },
+      "aggression": {
+        "aggressive": 100,
+        "passive": 0,
+        "timid": 0
+      },
+      "battleStats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "specialAttack": 70,
+        "specialDefense": 95,
+        "speed": 105
+      },
+      "tags": [
+        "mythical"
+      ],
+      "spawn": {
+        "baseExp": 64,
+        "baseFriendship": 70,
+        "spawnLevel": 70,
+        "spawnLevelRange": 0,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/893_zarude/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.zarude"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "autumn",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-autumn/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-autumn/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "battlecast",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-battlecast/texture.png",
+			  "emissive": "pixelmon:pokemon/893_zarude/all/base/custom-battlecast/emissive.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-battlecast/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "giftmas 1",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-giftmas1/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-giftmas1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "giftmas 2",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-giftmas2/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-giftmas2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meadownian 1",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-meadownian1/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-meadownian1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "meadownian 2",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-meadownian2/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-meadownian2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-molten/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-molten/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds 1",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-outerworlds1/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-outerworlds1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds 2",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-outerworlds2/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-outerworlds2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sunset",
+              "texture": "pixelmon:pokemon/893_zarude/all/base/custom-sunset/texture.png",
+              "sprite": "pixelmon:pokemon/893_zarude/all/base/custom-sunset/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD",
+        "HUMAN_LIKE"
+      ],
+      "types": [
+        "DARK",
+        "GRASS"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 121,
+      "weight": 70.0,
+      "catchRate": 3,
+      "malePercentage": 0,
+      "evYields": {
+        "attack": 3
+      }
+    }
+  ],
+  "generation": 8
+}

@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900112,
+    "attackName": "Rosy Cradle",
+    "attackType": "POISON",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Yawn",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Yawn"
+    },
+    {
+      "type": "Evasion",
+      "amount": -2,
+      "isUser": false,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

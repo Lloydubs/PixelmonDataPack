@@ -1,0 +1,59 @@
+{
+  "id": "Duraludon",
+  "spawnInfos": [
+    {
+      "spec": "species:Duraludon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Duraludon palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Duraludon palette:outer worlds",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 55,
+      "maxLevel": 75,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

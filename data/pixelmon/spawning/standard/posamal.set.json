@@ -1,0 +1,28 @@
+{
+  "id": "Posamal",
+  "spawnInfos": [
+    {
+      "spec": "species:Posamal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 2,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:chilan_berry",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/evil"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

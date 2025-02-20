@@ -1,0 +1,257 @@
+{
+  "id": "Zeraora",
+  "spawnInfos": [
+    {
+      "spec": "species:Zeraora level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Zeraora palette:aquatic level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:arctic level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:charged level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:crimson level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:dynasty level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:galaxy level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:hero level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:magma level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:neon 1 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:neon 2 level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zeraora palette:sun level:50",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "stringBiomes": [
+          "minecraft:savanna_plateau"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

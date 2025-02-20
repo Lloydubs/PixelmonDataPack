@@ -1,0 +1,140 @@
+{
+  "id": "Zamazenta",
+  "spawnInfos": [
+    {
+      "spec": "species:Zamazenta level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Zamazenta palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zamazenta palette:demonic level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zamazenta palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Zamazenta palette:molten level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:rusted_shield",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "minecraft:forest",
+          "minecraft:birch_forest"
+        ]
+      },
+      "rarity": 0.3
+    }
+  ]
+}

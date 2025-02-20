@@ -1,0 +1,620 @@
+{
+  "id": "Flygon",
+  "spawnInfos": [
+    {
+      "spec": "species:Flygon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Flygon palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:boosted 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:boosted 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:ethereal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:gem",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:glass",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:magical",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:midnight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },{
+      "spec": "species:Flygon palette:moon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:sakura",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:vampire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Flygon palette:venomous",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "minY": 90
+      },
+      "anticondition": {
+        "biomes": [
+          "terralith:desert_oasis",
+          "terralith:red_oasis"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Flygon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Flygon palette:battlecast",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:boosted 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:boosted 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:ethereal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:gem",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:glass",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:magical",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:midnight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:moon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:sakura",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:soulfire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:vampire",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Flygon palette:venomous",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 45,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "Lumineon",
+  "spawnInfos": [
+    {
+      "spec": "species:Lumineon",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Lumineon palette:prismatic",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lumineon palette:rainbow",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lumineon palette:valentines",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lumineon palette:vapor",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 32,
+      "maxLevel": 43,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

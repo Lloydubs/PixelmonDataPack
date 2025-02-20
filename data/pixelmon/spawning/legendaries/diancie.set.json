@@ -1,0 +1,401 @@
+{
+  "id": "Diancie",
+  "spawnInfos": [
+    {
+      "spec": "species:Diancie level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.4
+    },
+	{
+      "spec": "species:Diancie palette:amethyst level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:arctic 1 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:arctic 2 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:arctic 3 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:casino level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:crimson level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:dark level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:dream level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:emerald level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:gold level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:heroic level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:ice level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:rainbow level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:ruby level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:sapphire level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    },
+	{
+      "spec": "species:Diancie palette:summer level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous"
+        ],
+        "maxY": 50
+      },
+      "rarity": 0.04
+    }
+  ]
+}

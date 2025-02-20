@@ -1,0 +1,31 @@
+{
+    "attackIndex": 900123,
+    "attackName": "Slash Nail",
+    "attackType": "PSYCHIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 95,
+    "ppBase": 10,
+    "ppMax": 24,
+    "accuracy": 95,
+    "makesContact": true,
+    "effects": [
+        {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

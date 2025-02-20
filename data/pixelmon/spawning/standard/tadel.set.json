@@ -1,0 +1,25 @@
+{
+  "id": "Tadel",
+  "spawnInfos": [
+    {
+      "spec": "species:Tadel",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "rarity": 250.0
+    }
+  ]
+}

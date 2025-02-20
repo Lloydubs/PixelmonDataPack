@@ -1,0 +1,328 @@
+{
+	"name": "MetalEtemon",
+	"dex": 2180,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 3.5,
+				"width": 1.4,
+				"length": 1,
+				"eyeHeight": 3.5,
+				"hoverHeight": 3.5
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch",
+						"Love Serenade",
+                                                "Sing",
+						"Banana Slip",
+                                                "Number One Punch",
+                                                "Meteor Mash"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Vine Whip"
+						]
+					},
+					{
+						"level": 9,
+						"attacks": [
+							"Rock Blast"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Bullet Seed"
+						]
+					},
+					{
+						"level": 15,
+						"attacks": [
+							"Rock Throw"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Echoed Voice"
+						]
+					},
+					{
+						"level": 25,
+						"attacks": [
+							"Flash Cannon"
+						]
+					},
+					{
+						"level": 30,
+						"attacks": [
+							"Final Gambit"
+						]
+					},
+					{
+						"level": 37,
+						"attacks": [
+							"Beat Up"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Boomburst"
+						]
+					},
+					{
+						"level": 51,
+						"attacks": [
+							"Teeter Dance"
+						]
+					},
+					{
+						"level": 58,
+						"attacks": [
+							"Double Iron Bash"
+						]
+					}
+				],
+				"tutorMoves": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Covet",
+          "Fire Punch",
+          "Focus Punch",
+          "Gunk Shot",
+          "Ice Punch",
+          "Icy Wind",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Sludge Bomb"
+				],
+				"eggMoves": [],
+				"tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Solar Blade",
+          "Dig",
+          "Rest",
+          "Brick Break",
+          "Bounce",
+          "Round",
+          "Retaliate",
+          "Volt Switch",
+          "False Swipe",
+          "Air Slash",
+          "Round",
+          "Retaliate",
+					"Drain Punch",
+					"Venoshock",
+          "Substitute",
+          "Iron Defense",
+          "Facade",
+          "Brick Break",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Round",
+          "Retaliate",
+          "Rock Tomb",
+          "Payback",
+          "Fling",
+          "Drain Punch",
+          "Shadow Claw",
+          "Wonder Room",
+          "Low Sweep",
+					"False Swipe"
+				],
+				"trMoves": [
+          "Swords Dance",
+          "Substitute",
+          "Low Kick",
+          "Psychic",
+          "Metronome",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Shadow Ball",
+          "Taunt",
+          "Sleep Talk",
+          "Iron Defense",
+          "Calm Mind",
+          "Close Combat",
+          "Poison Jab",
+          "X-Scissor",
+          "Focus Blast",
+          "Zen Headbutt",
+          "Flash Cannon",
+          "Iron Head",
+          "Grass Knot",
+          "Body Press",
+					"Grass Knot",
+          "Dazzling Gleam"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+          "Aerial Ace",
+          "Ancient Power",
+          "Block",
+          "Confide",
+          "Dizzy Punch",
+          "Double Team",
+          "Covet",
+          "Cut",
+          "Frustration",
+					"Morning Sun",
+					"Rage",
+					"Secret Power",
+					"Take Down",
+					"Teeter Dance",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Punishment",
+          "Return",
+          "Roar",
+          "Rock Polish",
+          "Rock Smash",
+          "Secret Power",
+          "Octazooka",
+          "Ominous Wind",
+          "Pain Split",
+          "Power-Up Punch",
+          "Psych Up",
+          "Punishment",
+          "Return",
+          "Rock Smash",
+          "Role Play",
+          "Smelling Salts",
+					"Skull Bash",
+					"Strength",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"FullMetalBody"
+				],
+				"hiddenAbilities": [
+					"GorillaTactics"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 138,
+				"attack": 110,
+				"defense": 112,
+				"specialAttack": 98,
+				"specialDefense": 101,
+				"speed": 121
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 45,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2180_metaletemon/all/base/none/texture.png",
+							"emissive": "pixelmon:pokemon/2180_metaletemon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2180_metaletemon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2180_metaletemon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2180_metaletemon/all/base/shiny/texture.png",
+							"emissive": "pixelmon:pokemon/2180_metaletemon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2180_metaletemon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"NORMAL",
+                                "STEEL"
+			],
+			"preEvolutions": [ "Etemon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 53.2,
+			"catchRate": 10,
+			"malePercentage": -1,
+			"evolutions": [
+			],
+			"evYields": {
+				"hp": 3,
+ 				"speed": 3,
+                                "attack": 3                               
+			}
+		}
+	],
+	"generation": 20
+}

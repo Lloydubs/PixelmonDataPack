@@ -1,0 +1,590 @@
+{
+  "id": "Shuckle",
+  "spawnInfos": [
+    {
+      "spec": "species:Shuckle",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 90.0
+    },
+	{
+      "spec": "species:Shuckle form:centonian",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:alter",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:aquatic",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:fusion",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:galaxy 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:galaxy 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:rocket",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+	{
+      "spec": "species:Shuckle palette:squad",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:stony_shore",
+          "pixelmon:ultra_deep_sea",
+          "byg:basalt_barrera",
+          "byg:rocky_beach",
+          "terralith:gravel_beach"
+        ]
+      },
+      "rarity": 9.0
+    },
+    {
+      "spec": "species:Shuckle",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Shuckle form:centonian",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:alter",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:aquatic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:easter",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:fusion",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:galaxy 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:galaxy 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:rocket",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Shuckle palette:squad",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:berry_juice",
+          "percentChance": 100
+        }
+      ],
+      "condition": {
+        "maxY": 60
+      },
+      "rarity": 0.8
+    }
+  ]
+}

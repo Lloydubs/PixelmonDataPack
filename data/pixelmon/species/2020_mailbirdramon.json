@@ -1,0 +1,388 @@
+{
+	"name": "Mailbirdramon",
+	"dex": 2020,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 5.0,
+				"width": 2.0,
+				"length": 2.0,
+				"eyeHeight": 5.0,
+				"hoverHeight": 5.0
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Focus Energy",
+							"Tackle",
+							"Twister",
+							"Plasma Cannon"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Metal Claw"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Roar"
+						]
+					},
+					{
+						"level": 16,
+						"attacks": [
+							"Snarl"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Thunder Shock"
+						]
+					},
+					{
+						"level": 24,
+						"attacks": [
+							"Work Up"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Wing Attack"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Shift Gear"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Steel Wing"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Brave Bird"
+						]
+					},
+					{
+						"level": 44,
+						"attacks": [
+							"Volt Switch"
+						]
+					},
+					{
+						"level": 48,
+						"attacks": [
+							"Extreme Speed"
+						]
+					},
+					{
+						"level": 54,
+						"attacks": [
+							"Aura Wheel"
+						]
+					},
+					{
+						"level": 56,
+						"attacks": [
+							"Drill Run"
+						]
+					},
+					{
+						"level": 60,
+						"attacks": [
+							"Behemoth Bash"
+						]
+					}
+				],
+				"tutorMoves": [],
+				"eggMoves": [],
+				"tmMoves8": [
+					"Mega Punch",
+					"Mega Kick",
+					"Fire Punch",
+					"Thunder Punch",
+					"Fire Spin",
+					"Dig",
+					"Rest",
+					"Rock Slide",
+					"Snore",
+					"Protect",
+					"Scary Face",
+					"Attract",
+					"Sunny Day",
+					"Beat Up",
+					"Will-O-Wisp",
+					"Facade",
+					"Swift",
+					"Helping Hand",
+					"Brick Break",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Fire Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Flamethrower",
+					"Fire Blast",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Heat Wave",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+					"Flare Blitz",
+					"Dragon Pulse",
+					"Work Up"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+					"Aerial Ace",
+					"Air Cutter",
+					"Bide",
+					"Blast Burn",
+					"Block",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Dynamic Punch",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Focus Punch",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+					"Mimic",
+					"Mud-Slap",
+					"Natural Gift",
+					"Power-Up Punch",
+					"Quick Attack",
+					"Rage",
+					"Reflect",
+					"Return",
+					"Rock Smash",
+					"Secret Power",
+					"Seismic Toss",
+					"Skull Bash",
+					"Strength",
+					"Submission",
+					"Swagger",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"FullMetalBody"
+				],
+				"hiddenAbilities": [
+					"Stakeout"
+				]
+			},
+			"movement": {
+				"rideable": true,
+				"canFly": true,
+				"canSurf": false,
+				"canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.0,
+						"y": 3.7,
+						"z": 0.0
+					},
+					"moving": {
+						"x": 0.0,
+						"y": 1.0,
+						"z": 2.0
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 94,
+				"attack": 110,
+				"defense": 94,
+				"specialAttack": 86,
+				"specialDefense": 90,
+				"speed": 86
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 32,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2020_mailbirdramon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2020_mailbirdramon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2020_mailbirdramon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2020_mailbirdramon/all/base/none/model.pqc"
+								]
+							},
+							"flyingModelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2020_mailbirdramon/all/base/none/model.pqc"
+								],
+								"animationIncrement": 2
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2020_mailbirdramon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2020_mailbirdramon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2020_mailbirdramon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"ELECTRIC",
+				"STEEL"
+			],
+			"preEvolutions": [
+				"Jazardmon"
+			],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 30.5,
+			"catchRate": 75,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "GranLocomon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Parabolic Charge",
+						"Wrecking Ball",
+						"Limited Express Attack"
+					]
+				}
+			],
+			"evYields": {
+				"hp": 2,
+				"attack": 2
+			}
+		}
+	],
+	"generation": 20
+}

@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900156,
+    "attackName": "Wrecking Ball",
+    "attackType": "STEEL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 130,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "ATTACK",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Paralysis"
+        },
+        {
+            "percentRecoil": 33,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Recoil"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

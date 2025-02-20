@@ -1,0 +1,347 @@
+{
+  "id": "Buzzwole",
+  "spawnInfos": [
+    {
+      "spec": "species:Buzzwole",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Buzzwole palette:anubis",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:aquatic",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:crimson",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:fantasy",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:fusion",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:gembound",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:heroic",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:irradiated",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:metal",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:otaku",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:spotted",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:steampunk",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:summer 1",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:summer 2",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:sun",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:templar",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Buzzwole palette:toy",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top"
+      ],
+      "tags": [
+        "ultrabeast"
+      ],
+      "minLevel": 60,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

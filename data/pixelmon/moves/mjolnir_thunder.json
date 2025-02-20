@@ -1,0 +1,33 @@
+{
+    "attackIndex": 900116,
+    "attackName": "Mjolnir Thunder",
+    "attackType": "ELECTRIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 180,
+    "ppBase": 15,
+    "ppMax": 20,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FutureSight"
+    }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    },
+    "flags": {
+        "authentic": true
+    }
+}

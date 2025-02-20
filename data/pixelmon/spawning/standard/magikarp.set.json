@@ -1,0 +1,1363 @@
+{
+  "id": "Magikarp",
+  "spawnInfos": [
+    {
+      "spec": "species:Magikarp",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Magikarp palette:bubble 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:bubble 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:bubble 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:ditto",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:glass 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:glass 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:gyrakarp 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:gyrakarp 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:halloween",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:moon",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:neon 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:neon 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:neon 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:neon 4",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:nippon",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:primal",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:purple haze",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:rainbow 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:rainbow 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:rainbow 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:rainbow 4",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:royal",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:valentines 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:valentines 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:winter 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Magikarp palette:winter 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/oceanic",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/swamps",
+          "minecraft:river",
+          "#pixelmon:spawning/jungles",
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/freezing",
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/magical",
+          "#pixelmon:spawning/lakes",
+          "byg:polluted_lake",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.3
+        }
+      ],
+      "rarity": 30.0
+    },
+    {
+      "spec": "species:Magikarp palette:valencian",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 5,
+      "maxLevel": 20,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Magikarp",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 1.0
+        }
+      ],
+      "rarity": 5.0
+    }
+  ]
+}

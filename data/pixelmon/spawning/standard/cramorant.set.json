@@ -1,0 +1,53 @@
+{
+  "id": "Cramorant",
+  "spawnInfos": [
+    {
+      "spec": "species:Cramorant",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/lakes",
+          "minecraft:frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Cramorant palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 15,
+      "maxLevel": 35,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/beaches",
+          "#pixelmon:spawning/lakes",
+          "minecraft:frozen_ocean",
+          "minecraft:deep_frozen_ocean",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 3.0
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "id": "Sharpedo",
+  "spawnInfos": [
+    {
+      "spec": "species:Sharpedo",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 20.0
+    },
+	{
+      "spec": "species:Sharpedo palette:animalistic",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:deep sea",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:halloween 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:halloween 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:pirate",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:radioactive",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:shadow 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:shadow 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:terror",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Sharpedo palette:video game",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:deep_ocean",
+          "minecraft:warm_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 2.0
+    },
+    {
+      "spec": "species:Sharpedo",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Sharpedo palette:animalistic",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:deep sea",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:halloween 1",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:halloween 2",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:pirate",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:radioactive",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:shadow 1",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:shadow 2",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:terror",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Sharpedo palette:video game",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 30,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_tooth",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

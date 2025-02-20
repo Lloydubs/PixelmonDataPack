@@ -1,0 +1,31 @@
+{
+    "attackIndex": 900118,
+    "attackName": "Serpent Cure/Ruin",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+                {
+      "drainPercent": 100,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+                }
+],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

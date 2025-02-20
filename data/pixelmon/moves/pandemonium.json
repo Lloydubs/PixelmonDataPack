@@ -1,0 +1,93 @@
+{
+    "attackIndex": 900101,
+    "attackName": "Pandemonium",
+    "attackType": "GHOST",
+    "attackCategory": "PHYSICAL",
+    "basePower": 120,
+    "ppBase": 15,
+    "ppMax": 28,
+    "accuracy": 85,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Burn",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Burn"
+    }    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.8,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 26
+			},
+			"5": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"10": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"15": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 2
+			},
+			"20": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			},
+			"25": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [0, 0, 0],
+				"variation": 0.1,
+				"speed": 0.8,
+				"scale": 0.6,
+				"segments": 1
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

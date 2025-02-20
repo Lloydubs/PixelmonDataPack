@@ -1,0 +1,197 @@
+{
+  "id": "Lanturn",
+  "spawnInfos": [
+    {
+      "spec": "species:Lanturn",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Lanturn palette:beta",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:coralp",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:coralw",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:halloween 1",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:halloween 2",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:halloween 3",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Lanturn palette:phantom",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 27,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:deep_sea_scale",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

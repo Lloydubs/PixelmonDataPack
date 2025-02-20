@@ -1,0 +1,95 @@
+{
+    "attackIndex": 900076,
+    "attackName": "Hermit Fog",
+    "attackType": "FAIRY",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 15,
+    "ppMax": 24,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+        {
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Haze"
+        },
+        {
+      "type": "SPECIAL_DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "DEFENSE",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPECIAL_ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "ATTACK",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "SPEED",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": true
+    }
+}

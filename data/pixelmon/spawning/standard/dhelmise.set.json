@@ -1,0 +1,217 @@
+{
+  "id": "Dhelmise",
+  "spawnInfos": [
+    {
+      "spec": "species:Dhelmise",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Dhelmise palette:atlante",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:coral reef",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:outer worlds",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Dhelmise",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:dead_sea",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Dhelmise palette:atlante",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:dead_sea",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:coral reef",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:dead_sea",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:outer worlds",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "byg:dead_sea",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Dhelmise",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Dhelmise palette:atlante",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:coral reef",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Dhelmise palette:outer worlds",
+      "stringLocationTypes": [
+        "Water",
+        "Underground Water"
+      ],
+      "minLevel": 15,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "structures": [
+          "pixelmon:water_chalice"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/oceanic"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

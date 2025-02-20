@@ -1,0 +1,1435 @@
+{
+  "id": "Garchomp",
+  "spawnInfos": [
+    {
+      "spec": "species:Garchomp",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Garchomp palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:hunter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:staff 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:staff 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid"
+        ],
+        "maxY": 80
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Garchomp",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Garchomp palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:hunter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:staff 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:staff 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Garchomp palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Garchomp",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Garchomp palette:angelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    }
+	{
+      "spec": "species:Garchomp palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:arctic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:blood",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:easter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:gem",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:hunter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:ice",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:lunar 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:midnight",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:rainbow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:staff 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:staff 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:sun",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Garchomp palette:terra",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 49,
+      "maxLevel": 61,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_desert"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

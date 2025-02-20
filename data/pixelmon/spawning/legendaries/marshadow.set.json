@@ -1,0 +1,577 @@
+{
+  "id": "Marshadow",
+  "spawnInfos": [
+    {
+      "spec": "species:Marshadow level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Marshadow form:advance level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Marshadow form:advance palette:zenith level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Marshadow palette:akuma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:alluring level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:corrupt level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:crimson level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:dream level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:galaxy level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 3 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 4 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 5 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 6 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:halloween 7 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:lucky 1 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:lucky 2 level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:magma level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:midnight level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:norse level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:outer worlds level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:summer level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:sunset level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:terror level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    },
+	{
+      "spec": "species:Marshadow palette:vapire level:70",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary",
+        "mythical"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "rarity": 0.02
+    }
+  ]
+}

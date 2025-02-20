@@ -1,0 +1,545 @@
+{
+  "id": "Hatenna",
+  "spawnInfos": [
+    {
+      "spec": "species:Hatenna",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Hatenna palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/taigas",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 5.0
+    },
+    {
+      "spec": "species:Hatenna",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Hatenna palette:akuma",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:alter",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:galaxy",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:gamma",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:summer",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 1",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 2",
+      "stringLocationTypes": [
+        "Land",
+        "Indoors",
+        "Manmade"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "structures": [
+          "pixelmon:pumpkin_house"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Hatenna",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Hatenna palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:alter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Hatenna palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

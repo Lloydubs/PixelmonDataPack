@@ -1,0 +1,59 @@
+{
+    "attackIndex": 900129,
+    "attackName": "Rostrum",
+    "attackType": "WATER",
+    "attackCategory": "SPECIAL",
+    "basePower": 260,
+    "ppBase": 3,
+    "ppMax": 6,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Eruption"
+    },
+    {
+      "message": "pixelmon.effect.iceburn",
+      "modifiers": [],
+      "persists": true,
+      "effectTypeID": "IceBurn"
+    },
+    {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+    },
+    {
+      "type": "Recharge",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recharge"
+    }
+    ],
+    "animations": [
+    {
+      "id": "stationary",
+      "effects": {
+        "0": {
+          "id": "explosion",
+          "texture": "BUBBLE",
+          "lifetimeTicks": 50,
+          "scale": 10.0,
+          "rgb": [122, 211, 255]
+        }
+      }
+    }
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

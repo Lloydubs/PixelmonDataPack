@@ -1,0 +1,345 @@
+{
+  "id": "Zarude",
+  "spawnInfos": [
+    {
+      "spec": "species:Zarude level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Zarude palette:autumn level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:battlecast level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:crimson level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:fusion level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:giftmas 1 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:giftmas 2 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:halloween level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:lunar level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:meadownian 1 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:meadownian 2 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:molten level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:nippon level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:outer worlds 1 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:outer worlds 2 level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:summer level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Zarude palette:sunset level:70",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "stringBiomes": [
+          "jungles"
+        ]
+      },
+      "rarity": 0.01
+    }
+  ]
+}

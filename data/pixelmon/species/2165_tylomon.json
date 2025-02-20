@@ -1,0 +1,523 @@
+{
+   "name":"Tylomon",
+   "dex":2165,
+   "defaultForms":[
+      ""
+   ],
+   "forms":[
+      {
+         "name":"",
+         "experienceGroup":"MEDIUM_SLOW",
+         "dimensions":{
+            "height":4.1,
+            "width":3.1,
+            "length":19.1,
+            "eyeHeight":4.1,
+            "hoverHeight":4.1
+         },
+         "moves":{
+            "levelUpMoves":[
+               {
+                  "level":0,
+                  "attacks":[
+                     "Growl",
+                     "Scratch",
+		     "Aqua Jet",
+                     "Terror Spiral"
+                  ]
+               },
+               {
+                  "level":4,
+                  "attacks":[
+                     "Ice Shard"
+                  ]
+               },
+               {
+                  "level":8,
+                  "attacks":[
+                     "Double Slap"
+                  ]
+               },
+               {
+                  "level":12,
+                  "attacks":[
+                     "Ice Ball"
+                  ]
+               },
+               {
+                  "level":20,
+                  "attacks":[
+                     "Sing"
+                  ]
+               },
+               {
+                  "level":23,
+                  "attacks":[
+                     "Jet Punch"
+                  ]
+               },
+               {
+                  "level":28,
+                  "attacks":[
+                     "Horn Attack"
+                  ]
+               },
+               {
+                  "level":32,
+                  "attacks":[
+                     "Aqua Cutter"
+                  ]
+               },
+               {
+                  "level":36,
+                  "attacks":[
+                     "Ice Spinner"
+                  ]
+               },
+               {
+                  "level":40,
+                  "attacks":[
+                     "Meteor Mash"
+                  ]
+               },
+               {
+                  "level":45,
+                  "attacks":[
+                     "Sing"
+                  ]
+               },
+               {
+                  "level":50,
+                  "attacks":[
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level":55,
+                  "attacks":[
+                     "Aqua Step"
+                  ]
+               }
+            ],
+            "tutorMoves":[
+               "Coaching",
+               "Steel Roller",
+               "Lash Out",
+               "Earth Power",
+"Hyper Voice",
+          "Flip Turn",
+          "Hydro Cannon",
+          "Misty Explosion",
+"Icy Wind",
+"Iron Defense",
+               "Defog",
+               "Psychic",
+               "Rest",
+"Flip Turn",
+"Foul Play",
+          "Meteor Beam",
+               "Earth Power",
+               "Skitter Smack",
+               "Hyper Beam",
+               "Play Rough",
+"Water Pulse",
+               "Psychic",
+          "Water Pledge",
+               "Zen Headbutt"
+            ],
+            "eggMoves":[
+               
+            ],
+            "tmMoves8":[
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Hail",
+          "Whirlpool",
+          "Sunny Day",
+          "Will-O-Wisp",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Acrobatics",
+               "Volt Switch",
+               "Electroweb",
+               "Eerie Impulse",
+               "Air Slash",
+               "U-Turn",
+               "Revenge",
+               "Drain Punch",
+               "Cross Poison",
+               "Venoshock",
+               "Low Sweep",
+               "Brutal Swing",
+          "Weather Ball",
+          "Brine",
+          "Wonder Room",
+          "Round",
+          "Acrobatics",
+          "Draining Kiss",
+          "Misty Terrain",
+               "Rest",
+               "Thief",
+               "Fly",
+               "Giga Impact",
+          "Mud Shot",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze",
+          "Brutal Swing",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Giga Drain",
+               "Venoshock",
+               "Round",
+               "Smart Strike",
+          "Whirlpool",
+          "Facade",
+          "Helping Hand",
+          "Dive",
+          "Weather Ball",
+          "Brine",
+          "Avalanche",
+          "Round",
+          "Bulldoze",
+               "Dig",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves":[
+          "Blizzard",
+          "Earthquake",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Body Slam",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Psychic",
+          "Waterfall",
+          "Amnesia",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Muddy Water",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Iron Head",
+          "Scald",
+               "Shadow Ball",
+               "Future Sight",
+               "Gyro Ball",
+               "Swords Dance",
+               "Agility",
+               "Leech Life",
+               "Substitute",
+               "Endure",
+               "Sleep Talk",
+               "Baton Pass",
+          "Seed Bomb",
+          "Focus Blast",
+          "Energy Ball",
+          "Earth Power",
+          "Leaf Storm",
+               "Endure",
+          "Skill Swap",
+          "Work Up",
+          "Play Rough",
+          "Dazzling Gleam",
+          "Liquidation",
+               "Endure",
+               "Sleep Talk",
+           "Megahorn",
+          "Iron Tail",
+          "Future Sight",
+          "Hyper Voice",
+          "Dragon Dance",
+          "Dragon Pulse",
+          "Zen Headbutt",
+               "Baton Pass",
+               "Iron Tail",
+               "Superpower",
+               "Iron Defense",
+               "Gyro Ball",
+               "Toxic Spikes",
+               "Poison Jab",
+          "Waterfall",
+               "Throat Chop",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves":[
+               
+            ],
+            "transferMoves":[
+          "Aqua Tail",
+          "Aromatic Mist",
+          "Captivate",
+          "Confide",
+          "Covet",
+          "Double Slap",
+          "Double Team",
+          "Echoed Voice",
+          "Frustration",
+          "Hidden Power",
+               "Fury Cutter",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Rock Smash",
+               "Secret Power",
+               "Silver Wind",
+          "Rollout",
+          "Secret Power",
+          "Signal Beam",
+               "Swift",
+               "Take Down",
+               "Foresight",
+               "Frustration",
+          "Frost Breath",
+          "Frustration",
+          "Grass Whistle",
+          "Headbutt",
+          "Hidden Power",
+               "Nasty Plot",
+               "Gunk Shot",
+               "Ominous Wind",
+               "Pluck",
+               "Hone Claws",
+               "Laser Focus",
+               "Mimic",
+               "Natural Gift",
+               "Ominous Wind",
+               "Return",
+               "Roost",
+          "Swagger",
+          "Toxic",
+          "Water Pulse",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+          "Secret Power",
+          "Strength",
+          "Synthesis",
+          "Toxic",
+          "Water Pulse",
+               "Bestow",
+               "Captivate",
+               "Rock Smash",
+               "Secret Power",
+               "Signal Beam",
+               "Snatch",
+               "Steamroller",
+               "Strength",
+               "Flash",
+          "Mimic",
+          "Mud Sport",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Refresh",
+          "Return",
+          "Secret Power",
+          "Swagger",
+          "Toxic",
+          "Water Sport",
+          "Secret Power",
+          "Shock Wave",
+          "Signal Beam",
+          "Skull Bash",
+          "Solar Beam",
+          "Strength",
+          "Swagger",
+          "Take Down",
+               "Trick",
+               "Skill Swap",
+               "Iron Defense",
+               "Calm Mind",
+               "Bug Buzz",
+          "Natural Gift",
+          "Nightmare",
+          "Psywave",
+          "Rage",
+          "Reflect",
+          "Refresh",
+               "Stored Power",
+               "Ally Switch",
+               "Body Press"
+            ],
+            "tmMoves7":[
+               
+            ],
+            "tmMoves6":[
+               
+            ],
+            "tmMoves5":[
+               
+            ],
+            "tmMoves4":[
+               
+            ],
+            "tmMoves3":[
+               
+            ],
+            "tmMoves2":[
+               
+            ],
+            "tmMoves1":[
+               
+            ],
+            "tmMoves":[
+               
+            ]
+         },
+         "abilities":{
+            "abilities":[
+               "DrySkin"
+            ],
+            "hiddenAbilities":[
+               "Torrent"
+            ]
+         },
+         "movement":{
+            "rideable":true,
+            "canFly":false,
+            "canSurf":true,
+            "canRideShoulder":false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0,
+						"y": 4.7,
+						"z": 0
+					},
+					"moving": {
+						"x": -2,
+						"y": -2,
+						"z": -2
+          }
+        },
+        "swimmingParameters": {
+          "depthRangeStart": 5,
+          "depthRangeEnd": 100,
+          "swimSpeed": 15,
+          "decayRate": 0.99,
+          "refreshRate": 100
+        }
+      },
+         "aggression":{
+            "timid":80,
+            "passive":0,
+            "aggressive":20
+         },
+         "battleStats":{
+            "hp":88,
+            "attack":107,
+            "defense":97,
+            "specialAttack":76,
+            "specialDefense":79,
+            "speed":113
+         },
+         "tags":[
+            "legendary"
+         ],
+         "spawn":{
+            "baseExp":102,
+            "baseFriendship":70,
+            "spawnLevel":32,
+            "spawnLevelRange":5,
+            "spawnLocations":[
+               "LAND"
+            ]
+         },
+         "possibleGenders":[
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties":[
+            {
+               "gender":"ALL",
+               "palettes":[
+                  {
+                     "name":"none",
+                     "texture":"pixelmon:pokemon/2165_tylomon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2165_tylomon/all/base/none/emissive.png",
+                     "sprite":"pixelmon:pokemon/2165_tylomon/all/base/none/sprite.png",
+                     "particle":"",
+                     "modelLocator":{
+                        "factoryType":"NORMAL",
+                        "pqc":[
+                           "pixelmon:pokemon/2165_tylomon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name":"shiny",
+                     "texture":"pixelmon:pokemon/2165_tylomon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2165_tylomon/all/base/shiny/emissive.png",
+                     "sprite":"pixelmon:pokemon/2165_tylomon/all/base/shiny/sprite.png",
+                     "particle":"arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups":[
+            "UNDISCOVERED"
+         ],
+         "types":[
+            "ICE",
+            "WATER"
+         ],
+         "preEvolutions":[
+            "Ikkakumon"
+         ],
+         "defaultBaseForm":"",
+         "megaItems":[
+            
+         ],
+         "megas":[
+            
+         ],
+         "gigantamax":{
+            "canHaveFactor":false,
+            "canGigantamax":false
+         },
+         "eggCycles":21,
+         "weight":24.1,
+         "catchRate":50,
+         "malePercentage":-1,
+			"evolutions": [
+				{
+					"level": 45,
+					"to": "Plesiomon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Moonlight",
+                                                "Sorrow Blue",
+                                                "Shaking Pulse"
+
+					]
+				}
+			],
+         "evYields":{
+            "speed":3,
+            "attack":2
+         }
+      }
+   ],
+   "generation":20
+}

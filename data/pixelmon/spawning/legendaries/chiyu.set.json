@@ -1,0 +1,116 @@
+{
+    "id": "ChiYu",
+    "spawnInfos": [
+      {
+        "spec": "species:Chi-Yu level:60",
+        "stringLocationTypes": [
+          "Lava Floor"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+          ],
+          "minY": 100
+        },
+        "rarity": 3.0
+      },
+	  {
+        "spec": "species:Chi-Yu palette:animalistic level:60",
+        "stringLocationTypes": [
+          "Lava Floor"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      },
+	  {
+        "spec": "species:Chi-Yu palette:fusion level:60",
+        "stringLocationTypes": [
+          "Lava Floor"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      },
+	  {
+        "spec": "species:Chi-Yu palette:oblivion level:60",
+        "stringLocationTypes": [
+          "Lava Floor"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      },
+	  {
+        "spec": "species:Chi-Yu palette:river level:60",
+        "stringLocationTypes": [
+          "Lava Floor"
+        ],
+        "tags": [
+          "legendary"
+        ],
+        "interval": "legendary",
+        "typeID": "pokemon",
+        "condition": {
+          "times": [
+            "DAY"
+          ],
+          "stringBiomes": [
+            "#pixelmon:spawning/mesas",
+            "#pixelmon:spawning/volcanic"
+          ],
+          "minY": 100
+        },
+        "rarity": 0.3
+      }
+    ]
+  }
+  

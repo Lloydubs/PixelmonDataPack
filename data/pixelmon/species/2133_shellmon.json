@@ -1,0 +1,324 @@
+{
+	"name": "Shellmon",
+	"dex": 2133,
+	"defaultForms": [
+		""
+	],
+	"forms": [
+		{
+			"name": "",
+			"experienceGroup": "MEDIUM_SLOW",
+			"dimensions": {
+				"height": 3.3,
+				"width": 2.5,
+				"length": 4,
+				"eyeHeight": 3.3,
+				"hoverHeight": 3.3
+			},
+			"moves": {
+				"levelUpMoves": [
+					{
+						"level": 0,
+						"attacks": [
+							"Growl",
+							"Scratch"
+						]
+					},
+					{
+						"level": 4,
+						"attacks": [
+							"Ember"
+						]
+					},
+					{
+						"level": 8,
+						"attacks": [
+							"Smokescreen"
+						]
+					},
+					{
+						"level": 12,
+						"attacks": [
+							"Dragon Breath"
+						]
+					},
+					{
+						"level": 20,
+						"attacks": [
+							"Chilling Water"
+						]
+					},
+					{
+						"level": 23,
+						"attacks": [
+							"Aurora Beam"
+						]
+					},
+					{
+						"level": 28,
+						"attacks": [
+							"Shell Smash"
+						]
+					},
+					{
+						"level": 32,
+						"attacks": [
+							"Fickle Beam"
+						]
+					},
+					{
+						"level": 36,
+						"attacks": [
+							"Clangorous Soul"
+						]
+					},
+					{
+						"level": 40,
+						"attacks": [
+							"Water Spout"
+						]
+					}
+				],
+				"tutorMoves": [
+          "Lash Out",
+          "Scale Shot"],
+				"eggMoves": [],
+				"tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Thunder Wave",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Icy Wind",
+          "Attract",
+          "Sandstorm",
+          "Rain Dance",
+          "Rain Dance",
+          "Sunny Day",
+          "Hail",
+          "Whirlpool",
+          "Facade",
+          "Swift",
+          "Brick Break",
+          "Dive",
+          "Avalanche",
+          "Shadow Claw",
+          "Trick Room",
+          "Bulldoze",
+          "Stomping Tantrum",
+					"Weather Ball",
+					"Rock Tomb",
+					"Fling",
+					"Shadow Claw",
+					"Ice Fang",
+					"Round",
+					"Acrobatics",
+					"False Swipe"
+				],
+				"trMoves": [
+					"Swords Dance",
+					"Body Slam",
+					"Ice Beam",
+					"Substitute",
+					"Outrage",
+					"Endure",
+					"Sleep Talk",
+					"Iron Tail",
+					"Crunch",
+					"Dark Pulse",
+					"Overheat",
+					"Dragon Claw",
+					"Dragon Dance",
+          "Hydro Pump",
+          "Surf",
+          "Ice Beam",
+          "Blizzard",
+          "Hydro Pump",
+          "Surf",
+          "Thunderbolt",
+          "Thunder",
+          "Waterfall",
+          "Substitute",
+          "Sludge Bomb",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Shadow Ball",
+          "Toxic Spikes",
+          "Dragon Pulse",
+          "Focus Blast",
+          "Dragon Pulse"
+				],
+				"hmMoves": [],
+				"transferMoves": [
+          "Bubble",
+          "Camouflage",
+          "Confide",
+          "Feint Attack",
+          "Frustration",
+          "Hidden Power",
+					"Crunch",
+					"Captivate",
+					"Celebrate",
+					"Confide",
+					"Curse",
+					"Cut",
+					"Defense Curl",
+					"Double Team",
+					"Double-Edge",
+					"Dragon Rage",
+					"Echoed Voice",
+					"Flame Burst",
+					"Flame Charge",
+					"Frustration",
+					"Fury Cutter",
+					"Fury Swipes",
+					"Headbutt",
+					"Hidden Power",
+					"Hone Claws",
+					"Howl",
+					"Incinerate",
+					"Leer",
+          "Frustration",
+          "Fury Cutter",
+          "Gravity",
+          "Headbutt",
+          "Heal Block",
+          "Hidden Power",
+          "Hone Claws",
+          "Incinerate",
+          "Mud-Slap",
+          "Natural Gift",
+          "Psych Up",
+          "Return",
+          "Roar",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Twister",
+					"Take Down",
+					"Toxic"
+				],
+				"tmMoves7": [],
+				"tmMoves6": [],
+				"tmMoves5": [],
+				"tmMoves4": [],
+				"tmMoves3": [],
+				"tmMoves2": [],
+				"tmMoves1": [],
+				"tmMoves": []
+			},
+			"abilities": {
+				"abilities": [
+					"ShellArmour"
+				],
+				"hiddenAbilities": [
+					"SolidRock"
+				]
+			},
+			"movement": {
+				"rideable": false,
+				"canFly": false,
+				"canSurf": false,
+				"canRideShoulder": false
+			},
+			"aggression": {
+				"timid": 80,
+				"passive": 0,
+				"aggressive": 20
+			},
+			"battleStats": {
+				"hp": 124,
+				"attack": 64,
+				"defense": 84,
+				"specialAttack": 85,
+				"specialDefense": 70,
+				"speed": 23
+			},
+			"tags": [
+				"legendary"
+			],
+			"spawn": {
+				"baseExp": 102,
+				"baseFriendship": 70,
+				"spawnLevel": 20,
+				"spawnLevelRange": 5,
+				"spawnLocations": [
+					"LAND"
+				]
+			},
+			"possibleGenders": [
+				"MALE",
+				"FEMALE"
+			],
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2133_shellmon/all/base/none/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2133_shellmon/all/base/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2133_shellmon/all/base/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2133_shellmon/all/base/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2133_shellmon/all/base/shiny/texture.png",
+                                                        "emissive": "pixelmon:pokemon/2133_shellmon/all/base/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2133_shellmon/all/base/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			],
+			"eggGroups": [
+				"UNDISCOVERED"
+			],
+			"types": [
+				"WATER"
+			],
+			"preEvolutions": ["SnowAgumon"],
+			"defaultBaseForm": "",
+			"megaItems": [],
+			"megas": [],
+			"gigantamax": {
+				"canHaveFactor": false,
+				"canGigantamax": false
+			},
+			"eggCycles": 21,
+			"weight": 34.7,
+			"catchRate": 75,
+			"malePercentage": -1,
+			"evolutions": [
+				{
+					"level": 32,
+					"to": "Ebidramon",
+					"conditions": [],
+					"evoType": "leveling",
+					"moves": [
+						"Water Wave",
+                                                "Core Enforcer"
+					]
+				}
+			],
+			"evYields": {
+				"Specialattack": 1,
+                                "HP":2
+			}
+		}
+	],
+	"generation": 20
+}

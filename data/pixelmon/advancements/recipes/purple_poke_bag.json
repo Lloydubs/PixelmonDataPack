@@ -1,0 +1,54 @@
+{
+  "rewards": {
+    "recipes": [
+      "pixelmon:purple_poke_bag"
+    ]
+  },
+  "criteria": {
+	"has_pokeball": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "pixelmon:poke_ball",
+			"nbt": "{\"PokeBallID\": \"poke_ball\"}"
+          }
+        ]
+      }
+    },
+	"has_dye": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "forge:dyes/purple"
+          }
+        ]
+      }
+    },
+	"twenty_filled_slots": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "slots": {
+          "occupied": {
+            "min": 20
+          }
+        }
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "pixelmon:purple_poke_bag"
+      }
+    }
+  },
+  "requirements": [
+    [
+	  "has_pokeball",
+	  "has_dye",
+	  "twenty_filled_slots",
+	  "has_the_recipe"
+    ]
+  ]
+}

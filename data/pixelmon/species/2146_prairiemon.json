@@ -1,0 +1,360 @@
+{
+   "name": "Prairiemon",
+   "dex": 2146,
+   "defaultForms": [
+      ""
+   ],
+   "forms": [
+      {
+         "name": "",
+         "experienceGroup": "MEDIUM_SLOW",
+         "dimensions": {
+            "height": 2.1,
+            "width": 1.0,
+            "length": 0.2,
+            "eyeHeight": 2.1,
+            "hoverHeight": 2.1
+         },
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch",
+                     "Dimension Hole",
+                     "Sonic Ears"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Tackle"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Pay Day"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Accelerock"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Bulldoze"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Metal Claw"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Acrobatics"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Dig"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Pluck"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Iron Head"
+                  ]
+               },
+               {
+                  "level": 45,
+                  "attacks": [
+                     "Drill Run"
+                  ]
+               },
+               {
+                  "level": 50,
+                  "attacks": [
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level": 55,
+                  "attacks": [
+                     "Headlong Rush"
+                  ]
+               }
+            ],
+            "tutorMoves": [
+          "Endeavor",
+          "Gravity",
+          "Stealth Rock",
+          "Tailwind",
+          "Throat Chop",
+          "Snore",
+               "Earth Power",
+          "Earth Power",
+          "Iron Tail",
+          "Knock Off",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves": [],
+            "tmMoves8": [
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+          "Toxic",
+          "Venoshock",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Protect",
+          "Rain Dance",
+          "Roost",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Brick Break",
+          "Double Team",
+               "Rest",
+               "Snore",
+               "Protect",
+          "Earthquake",
+          "Bounce",
+          "Return",
+          "Psychic",
+          "Double Team",
+          "Sandstorm",
+          "Brick Break",
+          "Imprison",
+          "Weather Ball",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Mud Shot",
+          "Rock Slide",
+          "X-Scissor",
+          "Poison Jab",
+          "Swagger",
+          "Sleep Talk",
+          "U-turn",
+          "Substitute",
+          "Dazzling Gleam",
+               "Smart Strike"
+            ],
+            "trMoves": [
+          "Earthquake",
+          "Agility",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Uproar",
+          "Heat Wave",
+               "Endure",
+               "Sleep Talk",
+          "Baton Pass",
+          "Shadow Ball",
+          "Future Sight",
+          "Heat Wave",
+          "Trick",
+               "Brave Bird",
+               "Heat Wave",
+               "Trick",
+          "Calm Mind",
+          "Dark Pulse",
+          "Energy Ball",
+          "Zen Headbutt",
+          "Flash Cannon",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+          "Aerial Ace",
+          "Charge Beam",
+          "Confide",
+          "Defog",
+          "Double Team",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+          "Ominous Wind",
+          "Pain Split",
+          "Pluck",
+          "Psych Up",
+          "Refresh",
+          "Return",
+          "Secret Power",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+          "Smack Down",
+          "Swagger",
+          "Synchronoise",
+          "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "Anticipation"
+            ],
+            "hiddenAbilities": [
+               "EmergencyExit"
+            ]
+         },
+         "movement": {
+            "rideable": false,
+            "canFly": false,
+            "canSurf": false,
+            "canRideShoulder": false
+         },
+         "aggression": {
+            "timid": 80,
+            "passive": 0,
+            "aggressive": 20
+         },
+         "battleStats": {
+            "hp": 106,
+            "attack": 146,
+            "defense": 95,
+            "specialAttack": 85,
+            "specialDefense": 91,
+            "speed": 157
+         },
+         "tags": [
+            "legendary"
+         ],
+         "spawn": {
+            "baseExp": 102,
+            "baseFriendship": 70,
+            "spawnLevel": 45,
+            "spawnLevelRange": 5,
+            "spawnLocations": [
+               "LAND"
+            ]
+         },
+         "possibleGenders": [
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties": [
+            {
+               "gender": "ALL",
+               "palettes": [
+                  {
+                     "name": "none",
+                     "texture": "pixelmon:pokemon/2146_prairiemon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2146_prairiemon/all/base/none/emissive.png",
+                     "sprite": "pixelmon:pokemon/2146_prairiemon/all/base/none/sprite.png",
+                     "particle": "",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2146_prairiemon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name": "shiny",
+                     "texture": "pixelmon:pokemon/2146_prairiemon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2146_prairiemon/all/base/shiny/emissive.png",
+                     "sprite": "pixelmon:pokemon/2146_prairiemon/all/base/shiny/sprite.png",
+                     "particle": "arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups": [
+            "UNDISCOVERED"
+         ],
+         "types": [
+            "FLYING",
+            "GROUND"
+         ],
+         "preEvolutions": ["Patamon"],
+         "defaultBaseForm": "",
+         "megaItems": [],
+         "megas": [],
+         "gigantamax": {
+            "canHaveFactor": false,
+            "canGigantamax": false
+         },
+         "eggCycles": 21,
+         "weight": 24.7,
+         "catchRate": 10,
+         "malePercentage": -1,
+         "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Patamon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+         ],
+         "evYields": {
+            "attack":3,
+            "speed":4
+         }
+      }
+   ],
+   "generation": 20
+}

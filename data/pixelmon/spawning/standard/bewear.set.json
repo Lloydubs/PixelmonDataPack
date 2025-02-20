@@ -1,0 +1,158 @@
+{
+  "id": "Bewear",
+  "spawnInfos": [
+    {
+      "spec": "species:Bewear",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Bewear palette:event",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:valentines",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:video game",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Bewear palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 27,
+      "maxLevel": 45,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hills",
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

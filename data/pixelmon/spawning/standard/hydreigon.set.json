@@ -1,0 +1,542 @@
+{
+  "id": "Hydreigon",
+  "spawnInfos": [
+    {
+      "spec": "species:Hydreigon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:blood",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:deep sea",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:fusion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:oblivion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:primal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:prismatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:resolute",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:sun",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Hydreigon palette:withered",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Hydreigon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Hydreigon palette:blood",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:deep sea",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:fusion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:oblivion",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:primal",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:prismatic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:radioactive",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:resolute",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:shadow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:sun",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Hydreigon palette:withered",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Hydreigon palette:ashen",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDDAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Hydreigon palette:ashen",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 65,
+      "maxLevel": 71,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "nullscape:shadowlands"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

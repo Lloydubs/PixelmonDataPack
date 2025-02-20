@@ -1,0 +1,58 @@
+{
+    "attackIndex": 900017,
+    "attackName": "Blowback Breath",
+    "attackType": "ICE",
+    "attackCategory": "SPECIAL",
+    "basePower": 55,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [
+          ],
+      "persists": false,
+      "effectTypeID": "Flee"
+    },
+    {
+      "priority": 3,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [153, 255, 255],
+				"variation": 0.6,
+				"speed": 0.5,
+				"scale": 1.0,
+				"segments": 25
+			},
+			"7": {
+				"id": "explosion",
+				"texture": "NORMAL",
+				"atTarget": true,
+				"scale": 0.6,
+				"lifetimeTicks": 40,
+				"speed": 0.9
+			}
+		}
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    }
+}

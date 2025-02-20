@@ -1,0 +1,378 @@
+{
+  "name": "Raguelmon",
+  "dex": 2106,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 4.6,
+        "width": 3.2,
+        "length": 1.5,
+        "eyeHeight": 4.6,
+        "hoverHeight": 4.6
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Scratch",
+              "No Retreat",
+              "Form Taranis",
+              "Darkness Zone",
+              "Berserk Sinking"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Pound"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Fairy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Confusion"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Mirror Shot"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Ceaseless Edge"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Poison Jab"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "High Jump Kick"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Darkest Lariat"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Brave Bird"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Gunk Shot"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Coaching",
+          "Corrosive Gas",
+          "Lash Out",
+          "Earth Power",
+          "Giga Impact",
+          "Expanding Force",
+          "Mystical Fire",
+          "Play Rough",
+          "Psychic",
+          "Rest",
+          "Dual Wingbeat",
+          "Corrosive Gas",
+          "Zen Headbutt"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Pay Day",
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Hyper Beam",
+          "Bounce",
+          "Dig",
+          "Screech",
+          "Rest",
+          "Rock Slide",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Steel Wing",
+          "Facade",
+          "Helping Hand",
+          "Revenge",
+          "Brick Break",
+          "Rock Tomb",
+          "U-Turn",
+          "Revenge",
+          "Drain Punch",
+          "Cross Poison",
+          "Venoshock",
+          "Low Sweep",
+          "Brutal Swing",
+          "Smart Strike"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Low Kick",
+          "Earthquake",
+          "Substitute",
+          "Agility",
+          "Thunderbolt",
+          "Thunder",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Sleep Talk",
+          "Taunt",
+          "Baton Pass",
+          "Bulk Up",
+          "Brave Bird",
+          "Shadow Ball",
+          "Future Sight",
+          "Gyro Ball",
+          "Heat Wave",
+          "Trick",
+          "Hyper Voice",
+          "Aura Sphere",
+          "Stored Power",
+          "Ally Switch",
+          "Sludge Wave",
+          "Drill Run",
+          "Play Rough",
+          "Work Up",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Air Cutter",
+          "Bestow",
+          "Captivate",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Hyper Voice",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Dream Eater",
+          "Echoed Voice",
+          "Endeavor",
+          "Flash",
+          "Focus Punch",
+          "Foresight",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Incinerate",
+          "X-Scissor",
+          "Focus Blast",
+          "Nasty Plot",
+          "Gunk Shot",
+          "Mirror Move",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Roost",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Silver Wind",
+          "Soft-Boiled",
+          "Swagger",
+          "Tailwind",
+          "Telekinesis",
+          "Toxic",
+          "Twister",
+          "Water Pulse",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Merciless"
+        ],
+        "hiddenAbilities": [
+          "Moody"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 101,
+        "attack": 140,
+        "defense": 96,
+        "specialAttack": 87,
+        "specialDefense": 93,
+        "speed": 163
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 45,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2106_raguelmon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2106_raguelmon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2106_raguelmon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2106_raguelmon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2106_raguelmon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2106_raguelmon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2106_raguelmon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "POISON",
+        "FAIRY"
+      ],
+      "preEvolutions": [
+        "MeicrackmonVicious"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 34.7,
+      "catchRate": 100,
+      "malePercentage": -1,
+      "evolutions": [
+            {
+               "with": "Ophanimon form:falldown",
+               "to": "Ordinemon",
+               "conditions": [],
+               "evoType": "trade",
+               "moves": [
+                  "Baneful Bunker",
+                  "End of the World",
+                  "Miasma"
+               ]
+            },
+            {
+               "to": "Ordinemon",
+               "conditions": [
+                  {
+                     "withPokemon": [
+                        "Ophanimon form:falldown"
+                     ],
+                     "withTypes": [],
+                     "evoConditionType": "party"
+                  },
+                  {
+                     "friendship": 220,
+                     "evoConditionType": "friendship"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Baneful Bunker",
+                  "End of the World",
+                  "Miasma"
+               ]
+            }],
+      "evYields": {
+        "speed": 3,
+        "attack": 3,
+        "hp": 2
+      }
+    }
+  ],
+  "generation": 20
+}

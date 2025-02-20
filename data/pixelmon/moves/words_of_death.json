@@ -1,0 +1,30 @@
+{
+    "attackIndex": 900155,
+    "attackName": "Words of Death",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": 45,
+    "makesContact": false,
+    "effects": [
+        {
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "OHKO"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

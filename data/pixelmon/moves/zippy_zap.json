@@ -1,0 +1,53 @@
+{
+  "attackIndex": 14720,
+  "attackName": "Zippy Zap",
+  "attackType": "ELECTRIC",
+  "attackCategory": "PHYSICAL",
+  "basePower": 50,
+  "ppBase": 15,
+  "ppMax": 24,
+  "accuracy": 100,
+  "makesContact": true,
+  "effects": [
+    {
+      "priority": 2,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "stages": 2,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    }
+  ],
+  "animations": [
+    {
+	  "id": "stationary",
+	  "effects": {
+		"0": {
+		  "id": "lightning"
+		}
+	  }
+	}
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+  },
+  "z": [
+    {
+      "crystal": "electrium_z",
+      "attackName": "Gigavolt Havoc",
+      "basePower": 110,
+      "effects": [],
+      "allowedPokemon": []
+    }
+  ]
+}

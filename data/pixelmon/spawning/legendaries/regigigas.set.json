@@ -1,0 +1,404 @@
+{
+  "id": "Regigigas",
+  "spawnInfos": [
+    {
+      "spec": "species:Regigigas level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Regigigas palette:atlante level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:autumn level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:ben 10 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:christmas level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:coral reef level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:crimson level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:deep sea level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:elite level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:gembound level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:halloween level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:irradiated level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:mecha level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:norse level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:shadow level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:soup 1 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:soup 2 level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:spartan level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regigigas palette:temple level:70",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON",
+          "DUSK"
+        ],
+        "structures": [
+          "minecraft:ancient_city"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

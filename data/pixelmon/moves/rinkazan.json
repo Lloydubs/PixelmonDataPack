@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900110,
+    "attackName": "Rinkazan",
+    "attackType": "NORMAL",
+    "attackCategory": "PHYSICAL",
+    "basePower": 100,
+    "ppBase": 10,
+    "ppMax": 18,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "ATTACK",
+            "amount": 1,
+            "isUser": true,
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 40.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "StatsEffect"
+        },
+        {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

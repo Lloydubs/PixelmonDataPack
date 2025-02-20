@@ -1,0 +1,832 @@
+{
+   "name": "Ophanimon",
+   "dex": 2101,
+   "defaultForms": [
+      ""
+   ],
+   "forms": [
+      {
+         "name": "",
+         "experienceGroup": "MEDIUM_SLOW",
+         "dimensions": {
+            "height": 3.1,
+            "width": 3.1,
+            "length": 0.3,
+            "eyeHeight": 3.1,
+            "hoverHeight": 3.1
+         },
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch",
+                     "Eden's Javelin",
+                     "Sefirot Crystal",
+                     "Celestial Arrow"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Sweet Kiss"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Pound"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Fairy Wind"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Heart Stamp"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Return"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Tail Slap"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Acrobatics"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Fly"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level": 45,
+                  "attacks": [
+                     "Psycho Cut"
+                  ]
+               },
+               {
+                  "level": 50,
+                  "attacks": [
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level": 55,
+                  "attacks": [
+                     "Sunsteel Strike"
+                  ]
+               }
+            ],
+            "tutorMoves": [
+               "Calm Mind",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Giga Impact",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves": [],
+            "tmMoves8": [
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Giga Impact",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Attract",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+               "Assurance",
+               "Round",
+               "Retaliate",
+               "Draining Kiss",
+               "Mystical Fire",
+               "Air Slash",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves": [
+               "Body Slam",
+               "Flamethrower",
+               "Psychic",
+               "Metronome",
+               "Fire Blast",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Hyper Voice",
+               "Aura Sphere",
+               "Nasty Plot",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Rollout",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "PrismArmor"
+            ],
+            "hiddenAbilities": [
+               "WonderGuard"
+            ]
+         },
+         "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 0,
+						"y": 1.6,
+						"z": 0.25
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+         "aggression": {
+            "timid": 80,
+            "passive": 0,
+            "aggressive": 20
+         },
+         "battleStats": {
+            "hp": 135,
+            "attack": 142,
+            "defense": 114,
+            "specialAttack": 87,
+            "specialDefense": 98,
+            "speed": 104
+         },
+         "tags": [
+            "legendary"
+         ],
+         "spawn": {
+            "baseExp": 220,
+            "baseFriendship": 70,
+            "spawnLevel": 45,
+            "spawnLevelRange": 5,
+            "spawnLocations": [
+               "LAND"
+            ]
+         },
+         "possibleGenders": [
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties": [
+            {
+               "gender": "ALL",
+               "palettes": [
+                  {
+                     "name": "none",
+                     "texture": "pixelmon:pokemon/2101_ophanimon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/base/none/emissive.png",
+                     "sprite": "pixelmon:pokemon/2101_ophanimon/all/base/none/sprite.png",
+                     "particle": "",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2101_ophanimon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name": "shiny",
+                     "texture": "pixelmon:pokemon/2101_ophanimon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/base/shiny/emissive.png",
+                     "sprite": "pixelmon:pokemon/2101_ophanimon/all/base/shiny/sprite.png",
+                     "particle": "arcanery:shiny"
+                  }
+               ]
+            }
+         ],
+         "eggGroups": [
+            "UNDISCOVERED"
+         ],
+         "types": [
+            "FLYING",
+            "FAIRY"
+         ],
+         "preEvolutions": [
+            "Angewomon",
+            "OphanimonFalldown"
+         ],
+         "defaultBaseForm": "",
+         "megaItems": ["pixelmon:charizardite_x"],
+         "megas": ["X-Antibody"],
+         "gigantamax": {
+            "canHaveFactor": false,
+            "canGigantamax": false
+         },
+         "eggCycles": 21,
+         "weight": 27.5,
+         "catchRate": 100,
+         "malePercentage": -1,
+         "evolutions": [
+            {
+          "item": {
+            "itemID": "pixelmon:dusk_stone"
+          },
+          "to": "Ophanimon form:Falldown",
+          "conditions": [],
+          "evoType": "interact",
+               "moves": [
+                  "Spirit Shackle",
+                  "Sacred Fire",
+                  "Flame Hellscythe",
+                  "Demon Crystal"
+               ]
+            }
+         ],
+         "evYields": {
+            "hp": 3,
+            "attack": 3,
+            "speed": 2
+         }
+      },
+		{
+			"name": "X-Antibody",
+			"tags": [
+				"temp"
+			],
+			"abilities": {
+				"abilities": [
+					"QueenlyMajesty"
+				]
+			},
+			"battleStats": {
+            "hp": 150,
+            "attack": 167,
+            "defense": 124,
+            "specialAttack": 100,
+            "specialDefense": 107,
+            "speed": 132
+			},
+			"weight": 110.5,
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2101_ophanimon/all/x/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/x/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2101_ophanimon/all/x/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2101_ophanimon/all/x/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2101_ophanimon/all/x/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/x/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2101_ophanimon/all/x/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Falldown",
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch",
+                     "Eden's Javelin",
+                     "Sefirot Crystal",
+                     "Spirit Shackle",
+                     "Sacred Fire",
+                     "Flame Hellscythe",
+                     "Demon Crystal",
+                     "Celestial Arrow"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Sweet Kiss"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Pound"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Fairy Wind"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Heart Stamp"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Return"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Tail Slap"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Acrobatics"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Fly"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Brave Bird"
+                  ]
+               },
+               {
+                  "level": 45,
+                  "attacks": [
+                     "Psycho Cut"
+                  ]
+               },
+               {
+                  "level": 50,
+                  "attacks": [
+                     "Play Rough"
+                  ]
+               },
+               {
+                  "level": 55,
+                  "attacks": [
+                     "Sunsteel Strike"
+                  ]
+               }
+            ],
+            "tutorMoves": [
+               "Calm Mind",
+               "Dazzling Gleam",
+               "Earth Power",
+               "Giga Impact",
+               "Hyper Beam",
+               "Mystical Fire",
+               "Play Rough",
+               "Power Shift",
+               "Psychic",
+               "Rest",
+               "Dual Wingbeat",
+               "Steel Beam",
+               "Zen Headbutt"
+            ],
+            "eggMoves": [],
+            "tmMoves8": [
+               "Thunder Punch",
+               "Fire Punch",
+               "Ice Punch",
+               "Mega Punch",
+               "Mega Kick",
+               "Fly",
+               "Hyper Beam",
+               "Giga Impact",
+               "Magical Leaf",
+               "Solar Beam",
+               "Thunder Wave",
+               "Light Screen",
+               "Reflect",
+               "Safeguard",
+               "Rest",
+               "Snore",
+               "Protect",
+               "Charm",
+               "Steel Wing",
+               "Attract",
+               "Facade",
+               "Swift",
+               "Revenge",
+               "Fake Tears",
+               "U-turn",
+               "Payback",
+               "Assurance",
+               "Round",
+               "Retaliate",
+               "Draining Kiss",
+               "Mystical Fire",
+               "Air Slash",
+               "Brutal Swing",
+               "Smart Strike"
+            ],
+            "trMoves": [
+               "Body Slam",
+               "Flamethrower",
+               "Psychic",
+               "Metronome",
+               "Fire Blast",
+               "Amnesia",
+               "Tri Attack",
+               "Substitute",
+               "Psyshock",
+               "Endure",
+               "Sleep Talk",
+               "Taunt",
+               "Iron Defense",
+               "Bulk Up",
+               "Brave Bird",
+               "Shadow Ball",
+               "Future Sight",
+               "Uproar",
+               "Heat Wave",
+               "Trick",
+               "Hyper Voice",
+               "Aura Sphere",
+               "Nasty Plot",
+               "Zen Headbutt",
+               "Grass Knot",
+               "Stored Power",
+               "Iron Head",
+               "Heavy Slam",
+               "Work Up",
+               "Hurricane",
+               "Body Press"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+               "Air Cutter",
+               "Bestow",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Covet",
+               "Curse",
+               "Hyper Voice",
+               "Defog",
+               "Detect",
+               "Double Team",
+               "Dream Eater",
+               "Echoed Voice",
+               "Endeavor",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Headbutt",
+               "Heal Bell",
+               "Hidden Power",
+               "Incinerate",
+               "Laser Focus",
+               "Lucky Chant",
+               "Magic Coat",
+               "Mimic",
+               "Mirror Move",
+               "Mud-Slap",
+               "Natural Gift",
+               "Ominous Wind",
+               "Pluck",
+               "Psych Up",
+               "Return",
+               "Rock Smash",
+               "Rollout",
+               "Roost",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Silver Wind",
+               "Soft-Boiled",
+               "Swagger",
+               "Tailwind",
+               "Telekinesis",
+               "Toxic",
+               "Twister",
+               "Water Pulse",
+               "Zap Cannon"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "NoGuard"
+            ],
+            "hiddenAbilities": [
+               "PerishBody"
+            ]
+         },
+         "types": [
+            "GHOST",
+            "FIRE"
+         ],
+         "movement": {
+            "rideable": true,
+            "canFly": true,
+            "canSurf": false,
+            "canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.1,
+						"y": 2.2,
+						"z": -0.1
+					},
+					"moving": {
+						"x": 0,
+						"y": 0.8,
+						"z": 0.5
+					}
+				},
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 0.5,
+          "pitch_rate": 0.8,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+		},
+			"battleStats": {
+            "hp": 94,
+            "attack": 154,
+            "defense": 98,
+            "specialAttack": 96,
+            "specialDefense": 94,
+            "speed": 144
+			},
+         "evolutions": [
+            {
+          "item": {
+            "itemID": "pixelmon:dawn_stone"
+          },
+          "to": "Ophanimon",
+          "conditions": [],
+          "evoType": "interact"
+            },
+            {
+               "with": "Raguelmon",
+               "to": "Ordinemon",
+               "conditions": [],
+               "evoType": "trade",
+               "moves": [
+                  "Baneful Bunker",
+                  "End of the World",
+                  "Miasma"
+               ]
+            },
+            {
+               "to": "Ordinemon",
+               "conditions": [
+                  {
+                     "withPokemon": [
+                        "Raguelmon"
+                     ],
+                     "withTypes": [],
+                     "evoConditionType": "party"
+                  },
+                  {
+                     "friendship": 220,
+                     "evoConditionType": "friendship"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Baneful Bunker",
+                  "End of the World",
+                  "Miasma"
+               ]
+            }
+         ],
+         "evYields": {
+            "hp": 2,
+            "attack": 3,
+            "speed": 3
+         },
+			"weight": 110.5,
+			"genderProperties": [
+				{
+					"gender": "ALL",
+					"palettes": [
+						{
+							"name": "none",
+							"texture": "pixelmon:pokemon/2101_ophanimon/all/falldown/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/falldown/none/emissive.png",
+							"sprite": "pixelmon:pokemon/2101_ophanimon/all/falldown/none/sprite.png",
+							"particle": "",
+							"modelLocator": {
+								"factoryType": "NORMAL",
+								"pqc": [
+									"pixelmon:pokemon/2101_ophanimon/all/falldown/none/model.pqc"
+								]
+							}
+						},
+						{
+							"name": "shiny",
+							"texture": "pixelmon:pokemon/2101_ophanimon/all/falldown/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2101_ophanimon/all/falldown/shiny/emissive.png",
+							"sprite": "pixelmon:pokemon/2101_ophanimon/all/falldown/shiny/sprite.png",
+							"particle": "arcanery:shiny"
+						}
+					]
+				}
+			]
+		}
+	],
+	"generation": 20
+}

@@ -1,0 +1,52 @@
+{
+    "attackIndex": 900149,
+    "attackName": "Victory Charge",
+    "attackType": "FIGHTING",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 3,
+    "ppMax": 6,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "FoulPlay"
+    },
+    {
+      "priority": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Priority"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 100.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "SuckerPunch"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

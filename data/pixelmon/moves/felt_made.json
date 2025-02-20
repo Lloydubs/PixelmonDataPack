@@ -1,0 +1,45 @@
+{
+    "attackIndex": 900048,
+    "attackName": "Felt Made",
+    "attackType": "FAIRY",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Substitute",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Substitute"
+    },
+    {
+      "increment": 25,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Recover"
+    },
+    {
+      "type": "Evasion",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": false,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

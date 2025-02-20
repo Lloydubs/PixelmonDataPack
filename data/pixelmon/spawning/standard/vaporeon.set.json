@@ -1,0 +1,809 @@
+{
+  "id": "Vaporeon",
+  "spawnInfos": [
+    {
+      "spec": "species:Vaporeon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Vaporeon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:rangos",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Vaporeon palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "baseBlocks": [
+          "beach"
+        ],
+        "biomes": [
+          "minecraft:beach",
+          "biomesoplenty:dune_beach",
+          "byg:rainbow_beach",
+          "byg:white_beach"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Vaporeon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Vaporeon palette:alternative",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:anniversary",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:chocolate",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:purple haze",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:rangos",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Vaporeon palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Vaporeon palette:strike",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_plant"
+        ]
+      },
+      "rarity": 1.0
+    },
+    {
+      "spec": "species:Vaporeon palette:spirit",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 35,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:adamant_crystal",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "name": "Nefertimon",
+  "dex": 2110,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 2.0,
+        "width": 1.7,
+        "length": 1,
+        "eyeHeight": 2.0,
+        "hoverHeight": 2.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Scratch",
+              "Rosetta Stone",
+              "Curse of Queen"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Pound"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Fairy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Gust"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Confusion"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Mud Shot"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Ancient Power"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Mist Ball"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Aeroblast"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Earth Power"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Power Gem"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Earth Power",
+          "Giga Impact",
+          "Hyper Beam",
+          "Mystical Fire",
+          "Play Rough",
+          "Power Shift",
+          "Psychic",
+          "Rest",
+          "Dual Wingbeat",
+          "Steel Beam",
+          "Zen Headbutt"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Solar Beam",
+          "Thunder Wave",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Steel Wing",
+          "Attract",
+          "Facade",
+          "Swift",
+          "Revenge",
+          "Fake Tears",
+          "U-turn",
+          "Payback",
+          "Assurance",
+          "Round",
+          "Retaliate",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Air Slash",
+          "Brutal Swing",
+          "Smart Strike"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Flamethrower",
+          "Psychic",
+          "Metronome",
+          "Fire Blast",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Iron Defense",
+          "Bulk Up",
+          "Brave Bird",
+          "Shadow Ball",
+          "Future Sight",
+          "Uproar",
+          "Heat Wave",
+          "Trick",
+          "Hyper Voice",
+          "Aura Sphere",
+          "Nasty Plot",
+          "Zen Headbutt",
+          "Grass Knot",
+          "Stored Power",
+          "Iron Head",
+          "Heavy Slam",
+          "Work Up",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Air Cutter",
+          "Bestow",
+          "Captivate",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Hyper Voice",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Dream Eater",
+          "Echoed Voice",
+          "Endeavor",
+          "Flash",
+          "Focus Punch",
+          "Foresight",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Incinerate",
+          "Laser Focus",
+          "Lucky Chant",
+          "Magic Coat",
+          "Mimic",
+          "Mirror Move",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Roost",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Silver Wind",
+          "Soft-Boiled",
+          "Swagger",
+          "Tailwind",
+          "Telekinesis",
+          "Toxic",
+          "Twister",
+          "Water Pulse",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Soundproof"
+        ],
+        "hiddenAbilities": [
+          "ArenaTrap"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.25
+               }
+            },
+        "flyingParameters": {
+          "flyHeightMin": 0,
+          "flyHeightMax": 0,
+          "flySpeedModifier": 1.0,
+          "flyRefreshRateY": 0,
+          "flyRefreshRateXZ": 0,
+          "flyRefreshRateSpeed": 0,
+          "flightTimeMin": 0,
+          "flightTimeMax": 0,
+          "flapRate": 0,
+          "landingMaterials": "LEAVES_AND_GRASS"
+        },
+        "mountedFlyingParameters": {
+          "type": "pixelmon:default",
+          "upper_angle_limit": 20,
+          "lower_angle_limit": -20,
+          "max_fly_speed": 1,
+          "deceleration_rate": 0.07,
+          "hover_deceleration_rate": 0.09,
+          "acceleration_rate": 0.07,
+          "strafe_acceleration_rate": 0.08,
+          "strafe_roll_conversion": 30,
+          "turn_rate": 10,
+          "pitch_rate": 10,
+          "stays_horizontal_flying": true,
+          "gravity_drop_per_tick": 0.005,
+          "continuous_forward_motion": true,
+          "continuous_forward_motion_ticks": 5,
+          "flying_stamina_charges": 3,
+          "hover_ticks": 100
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 103,
+        "attack": 92,
+        "defense": 94,
+        "specialAttack": 151,
+        "specialDefense": 99,
+        "speed": 141
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2110_nefertimon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2110_nefertimon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2110_nefertimon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2110_nefertimon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2110_nefertimon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2110_nefertimon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2110_nefertimon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "GROUND",
+        "FLYING"
+      ],
+      "preEvolutions": [
+        "Gatomon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 24.8,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Gatomon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
+      "evYields": {
+        "hp": 2,
+        "attack": 2
+      }
+    }
+  ],
+  "generation": 20
+}

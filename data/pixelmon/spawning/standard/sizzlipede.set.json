@@ -1,0 +1,91 @@
+{
+  "id": "Sizzlipede",
+  "spawnInfos": [
+    {
+      "spec": "species:Sizzlipede",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Sizzlipede palette:gamma",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/arid",
+          "#pixelmon:spawning/mesas",
+          "#pixelmon:spawning/volcanic"
+        ]
+      },
+      "rarity": 10.0
+    },
+    {
+      "spec": "species:Sizzlipede",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Sizzlipede palette:gamma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 9,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/hellish"
+        ]
+      },
+      "anticondition": {
+        "biomes": [
+          "byg:subzero_hypogeal"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

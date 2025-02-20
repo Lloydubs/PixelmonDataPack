@@ -1,0 +1,29 @@
+{
+  "id": "Bandicoon",
+  "spawnInfos": [
+    {
+      "spec": "species:Bandicoon",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 2,
+      "maxLevel": 13,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:power_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/taigas"
+        ]
+      },
+      "rarity": 130.0
+    }
+  ]
+}

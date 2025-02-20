@@ -1,0 +1,869 @@
+{
+  "id": "Muk",
+  "spawnInfos": [
+    {
+      "spec": "species:Muk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Muk palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:elemental",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:psychedelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:relic castle",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:slime",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:toy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:venomous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Muk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Muk palette:aquatic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:elemental",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:molten",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:moon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:psychedelic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:relic castle",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:shadow",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:slime",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:sunset",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:toy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Muk palette:vanomous",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Muk form:alolan",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Muk form:alolan palette:fall festival 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:fall festival 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/evil",
+          "pixelmon:ultra_deep_sea",
+          "byg:polluted_lake"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Muk form:alolan",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Muk form:alolan palette:fall festival 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:fall festival 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:radioactive",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Muk form:alolan palette:sweetshop",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 38,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:black_sludge",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "incendium:toxic_heap"
+        ]
+      },
+      "rarity": 0.01
+    },
+  ]
+}

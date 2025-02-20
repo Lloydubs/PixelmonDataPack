@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900125,
+    "attackName": "Spike Buster",
+    "attackType": "FIGHTING",
+    "attackCategory": "SPECIAL",
+    "basePower": 75,
+    "ppBase": 25,
+    "ppMax": 38,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "priority": 1,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Priority"
+        },
+        {
+            "type": "Paralysis",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 33.3
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

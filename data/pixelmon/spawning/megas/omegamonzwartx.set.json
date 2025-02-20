@@ -1,0 +1,23 @@
+{
+  "id": "OmegamonZwart X",
+  "spawnInfos": [
+    {
+      "spec": "species:OmegamonZwart",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:snowy_taiga",
+          "arid",
+          "minecraft:badlands",
+          "biomesoplenty:volcanic_plains"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.1
+    }
+  ]
+}

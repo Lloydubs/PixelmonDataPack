@@ -1,0 +1,62 @@
+{
+    "attackIndex": 900019,
+    "attackName": "Buffalo Breath",
+    "attackType": "GHOST",
+    "attackCategory": "PHYSICAL",
+    "basePower": 65,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Paralysis",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 100
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [154, 51, 255],
+				"scale": 0.8
+			},
+			"10": {
+				"id": "tube",
+				"texture": "FLAME",
+				"rgb": [154, 51, 255],
+				"conical": false,
+				"radius": 0.8,
+				"scale": 0.4
+			},
+			"20": {
+				"id": "buff",
+				"texture": "NORMAL",
+				"rgb": [154, 51, 255],
+				"conical": false,
+				"scale": 0.8,
+				"segments": 5
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

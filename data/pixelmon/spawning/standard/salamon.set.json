@@ -1,0 +1,26 @@
+{
+  "id": "Salamon",
+  "spawnInfos": [
+    {
+      "spec": "species:salamon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN"
+        ],
+        "stringBiomes": [
+          "minecraft:sunflower_plains"
+        ]
+      },
+      "rarity": 1.0
+    }
+  ]
+}

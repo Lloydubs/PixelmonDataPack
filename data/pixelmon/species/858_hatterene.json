@@ -1,0 +1,420 @@
+{
+  "name": "Hatterene",
+  "dex": 858,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.8,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 1.8,
+        "hoverHeight": 1.8
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Brutal Swing",
+              "Confusion",
+              "Disarming Voice",
+              "Life Dew",
+              "Play Nice",
+              "Psycho Cut"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Aromatherapy"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Psybeam"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Heal Pulse"
+            ]
+          },
+          {
+            "level": 30,
+            "attacks": [
+              "Dazzling Gleam"
+            ]
+          },
+          {
+            "level": 37,
+            "attacks": [
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 46,
+            "attacks": [
+              "Psychic"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Healing Wish"
+            ]
+          },
+          {
+            "level": 64,
+            "attacks": [
+              "Magic Powder"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Expanding Force",
+          "Misty Explosion"
+        ],
+        "eggMoves": [
+          "After You",
+          "Aromatic Mist",
+          "Nuzzle",
+          "Quash"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Thunder Wave",
+          "Light Screen",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Giga Drain",
+          "Charm",
+          "Attract",
+          "Facade",
+          "Helping Hand",
+          "Imprison",
+          "Power Swap",
+          "Guard Swap",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Trick Room",
+          "Wonder Room",
+          "Magic Room",
+          "Round",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Psychic",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Baton Pass",
+          "Shadow Ball",
+          "Future Sight",
+          "Skill Swap",
+          "Calm Mind",
+          "Dark Pulse",
+          "Power Whip",
+          "Stored Power",
+          "Play Rough",
+          "Dazzling Gleam"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Healer",
+          "Anticipation"
+        ],
+        "hiddenAbilities": [
+          "MagicBounce"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": -0.5
+          },
+          "moving": {
+            "x": 0.0,
+            "y": 0.3,
+            "z": -0.5
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "specialAttack": 136,
+        "specialDefense": 103,
+        "speed": 29
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 255,
+        "baseFriendship": 50,
+        "spawnLevel": 55,
+        "spawnLevelRange": 3,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/858_hatterene/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": []
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alluring",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-alluring/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-alluring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "alter",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-alter/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "christmas",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-christmas/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-christmas/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "festive",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-festive/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-festive/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "gamma",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-gamma/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-gamma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween2/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 3",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween3/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 4",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween4/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween4/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 5",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween5/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-halloween5/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "oblivion",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-oblivion/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-oblivion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "patchwork",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-patchwork/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-patchwork/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "resolute",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-resolute/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-resolute/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "summer",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-summer/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-summer/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 1",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-winter1/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-winter1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "winter 2",
+              "texture": "pixelmon:pokemon/858_hatterene/all/base/custom-winter2/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/base/custom-winter2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FAIRY"
+      ],
+      "types": [
+        "PSYCHIC",
+        "FAIRY"
+      ],
+      "preEvolutions": [
+        "Hattrem",
+        "Hatenna"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": true,
+        "canGigantamax": true,
+        "form": "gmax",
+        "move": "G-Max Smite"
+      },
+      "eggCycles": 21,
+      "weight": 5.1,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evYields": {
+        "specialAttack": 3
+      }
+    },
+    {
+      "name": "gmax",
+      "tags": [
+        "temp"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/858_hatterene/all/gmax/none/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/gmax/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/858_hatterene/all/gmax/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/858_hatterene/all/gmax/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/gmax/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "halloween 1",
+              "texture": "pixelmon:pokemon/858_hatterene/all/gmax/custom-halloween1/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/gmax/custom-halloween1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween 2",
+              "texture": "pixelmon:pokemon/858_hatterene/all/gmax/custom-halloween2/texture.png",
+              "sprite": "pixelmon:pokemon/858_hatterene/all/gmax/custom-halloween2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 8
+}

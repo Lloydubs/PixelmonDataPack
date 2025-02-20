@@ -1,0 +1,125 @@
+{
+  "id": "Kingler",
+  "spawnInfos": [
+    {
+      "spec": "species:Kingler",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Kingler palette:atlante",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Kingler palette:christmas",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Kingler palette:fusion",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Kingler palette:metal",
+      "stringLocationTypes": [
+        "Seafloor",
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 28,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING",
+          "NIGHT"
+        ],
+        "biomes": [
+          "minecraft:ocean",
+          "minecraft:warm_ocean",
+          "#pixelmon:spawning/beaches"
+        ]
+      },
+      "rarity": 0.8
+    }
+  ]
+}

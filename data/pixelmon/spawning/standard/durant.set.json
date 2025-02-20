@@ -1,0 +1,533 @@
+{
+  "id": "Durant",
+  "spawnInfos": [
+    {
+      "spec": "species:Durant",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Durant palette:aluminum",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:amethyst",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:coal",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:crystal",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:diamond",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:emerald",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:gold 1",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:gold 2",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:iron",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:lapis",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:quartz",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:redstone",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:ruby",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:sapphire",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Durant palette:silicon",
+      "stringLocationTypes": [
+        "Underground",
+        "Forage"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mesas"
+        ],
+        "maxLightLevel": 5
+      },
+      "rarity": 3.0
+    },
+    {
+      "spec": "species:Durant",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Durant palette:aluminum",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:amethyst",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:coal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:crystal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:diamond",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:emerald",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:gold 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:gold 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:iron",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:lapis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:quartz",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:redstone",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:ruby",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:sapphire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Durant palette:silicon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 34,
+      "maxLevel": 46,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

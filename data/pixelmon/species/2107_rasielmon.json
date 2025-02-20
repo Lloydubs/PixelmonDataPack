@@ -1,0 +1,348 @@
+{
+  "name": "Rasielmon",
+  "dex": 2107,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 4.6,
+        "width": 3.2,
+        "length": 1.5,
+        "eyeHeight": 4.6,
+        "hoverHeight": 4.6
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Scratch",
+              "Cosmic Power",
+              "Knowledge Stream",
+              "Sefer Raziel",
+              "Felt Made"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Pound"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Fairy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Confusion"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Mirror Shot"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Psyshock"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Tri Attack"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Dazzling Gleam"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Recover"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Geomancy"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Light of Ruin"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Earth Power",
+          "Giga Impact",
+          "Expanding Force",
+          "Mystical Fire",
+          "Play Rough",
+          "Power Shift",
+          "Psychic",
+          "Rest",
+          "Dual Wingbeat",
+          "Corrosive Gas",
+          "Zen Headbutt"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Pay Day",
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Hyper Beam",
+          "Bounce",
+          "Psycho Cut",
+          "Trick Room",
+          "Wonder Room",
+          "Magic Room",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Charm",
+          "Steel Wing",
+          "Attract",
+          "Facade",
+          "Swift",
+          "Revenge",
+          "Venoshock",
+          "U-turn",
+          "Misty Terrain",
+          "Psychic Terrain",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Air Slash",
+          "Brutal Swing",
+          "Smart Strike"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Low Kick",
+          "Psychic",
+          "Agility",
+          "Thunderbolt",
+          "Thunder",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Baton Pass",
+          "Bulk Up",
+          "Brave Bird",
+          "Shadow Ball",
+          "Future Sight",
+          "Gyro Ball",
+          "Heat Wave",
+          "Trick",
+          "Hyper Voice",
+          "Aura Sphere",
+          "Stored Power",
+          "Ally Switch",
+          "Sludge Wave",
+          "Drill Run",
+          "Play Rough",
+          "Work Up",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Air Cutter",
+          "Bestow",
+          "Captivate",
+          "Confide",
+          "Counter",
+          "Covet",
+          "Curse",
+          "Hyper Voice",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Dream Eater",
+          "Echoed Voice",
+          "Endeavor",
+          "Flash",
+          "Focus Punch",
+          "Foresight",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Incinerate",
+          "Laser Focus",
+          "Lucky Chant",
+          "Magic Coat",
+          "Mimic",
+          "Mirror Move",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Roost",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Signal Beam",
+          "Silver Wind",
+          "Soft-Boiled",
+          "Swagger",
+          "Tailwind",
+          "Telekinesis",
+          "Toxic",
+          "Twister",
+          "Water Pulse",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "FurCoat"
+        ],
+        "hiddenAbilities": [
+          "Anticipation"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": true,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 116,
+        "attack": 94,
+        "defense": 101,
+        "specialAttack": 124,
+        "specialDefense": 145,
+        "speed": 100
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 45,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2107_rasielmon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2107_rasielmon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2107_rasielmon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2107_rasielmon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2107_rasielmon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2107_rasielmon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2107_rasielmon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "PSYCHIC",
+        "FAIRY"
+      ],
+      "preEvolutions": [
+        "Meicrackmon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 41.2,
+      "catchRate": 10,
+      "malePercentage": -1,
+      "evolutions": [],
+      "evYields": {
+        "hp": 3,
+        "defense": 2,
+        "specialdefense": 2,
+        "specialattack": 2
+      }
+    }
+  ],
+  "generation": 20
+}

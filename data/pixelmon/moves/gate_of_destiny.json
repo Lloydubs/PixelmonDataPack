@@ -1,0 +1,39 @@
+{
+    "attackIndex": 900059,
+    "attackName": "Gate of Destiny",
+    "attackType": "Psychic",
+    "attackCategory": "SPECIAL",
+    "basePower": 70,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Flee"
+    },
+    {
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }],
+      "persists": false,
+      "effectTypeID": "OHKO"
+    }
+    ],
+    "animations": [
+      "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

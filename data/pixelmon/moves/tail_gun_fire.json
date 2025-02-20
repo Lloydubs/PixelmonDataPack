@@ -1,0 +1,48 @@
+{
+    "attackIndex": 900131,
+    "attackName": "Tail Gun Fire",
+    "attackType": "FIRE",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 8,
+    "ppMax": 15,
+    "accuracy": 100,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "RapidSpin"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "AlwaysHit"
+    }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "tube",
+				"texture": "SPIRAL",
+				"rgb": [255, 91, 20],
+				"power": 25,
+				"scale": 0.1,
+				"radius": 0.9,
+				"conical": false
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

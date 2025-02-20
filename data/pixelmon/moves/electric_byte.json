@@ -1,0 +1,47 @@
+{
+    "attackIndex": 900043,
+    "attackName": "Electric Byte",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 95,
+    "ppBase": 25,
+    "ppMax": 32,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+        {
+            "type": "Flinch",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 25.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Flinch"
+        },
+        {
+            "type": "Paralysis",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 50.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

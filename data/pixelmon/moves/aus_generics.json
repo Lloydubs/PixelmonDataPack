@@ -1,0 +1,35 @@
+{
+    "attackIndex": 900004,
+    "attackName": "Aus Generics",
+    "attackType": "DRAGON",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Acupressure"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Acupressure"
+    }      
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": false,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": true,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

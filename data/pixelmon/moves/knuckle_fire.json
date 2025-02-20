@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900080,
+    "attackName": "Knuckle Fire",
+    "attackType": "FIRE",
+    "attackCategory": "SPECIAL",
+    "basePower": 80,
+    "ppBase": 15,
+    "ppMax": 25,
+    "accuracy": 90,
+    "makesContact": true,
+    "effects": [
+    {
+      "type": "SPEED",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        },
+        {
+      "drainPercent": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Drain"
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

@@ -1,0 +1,414 @@
+{
+  "name": "Honedge",
+  "dex": 679,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_FAST",
+      "dimensions": {
+        "height": 1.3,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 1.3,
+        "hoverHeight": 1.3
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Fury Cutter",
+              "Tackle"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Shadow Sneak"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Autotomize"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Aerial Ace"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Metal Sound"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Slash"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Night Slash"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Retaliate"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Iron Defense"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Iron Head"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Power Trick"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Swords Dance"
+            ]
+          },
+          {
+            "level": 48,
+            "attacks": [
+              "Sacred Sword"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Steel Beam"
+        ],
+        "eggMoves": [
+          "Block",
+          "Destiny Bond",
+          "Wide Guard"
+        ],
+        "tmMoves8": [
+          "Solar Blade",
+          "Screech",
+          "Reflect",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Attract",
+          "Rain Dance",
+          "Facade",
+          "Brick Break",
+          "Shadow Claw",
+          "Psycho Cut",
+          "Round",
+          "Retaliate",
+          "False Swipe",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Iron Defense",
+          "Gyro Ball",
+          "Close Combat",
+          "Flash Cannon",
+          "Iron Head"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "After You",
+          "Confide",
+          "Cut",
+          "Double Team",
+          "Frustration",
+          "Hidden Power",
+          "Laser Focus",
+          "Magnet Rise",
+          "Pursuit",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Shock Wave",
+          "Spite",
+          "Swagger",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Toxic",
+          "Hidden Power",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Reflect",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "False Swipe",
+          "Brutal Swing",
+          "Shadow Claw",
+          "Gyro Ball",
+          "Swords Dance",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Toxic",
+          "Hidden Power",
+          "Protect",
+          "Rain Dance",
+          "Frustration",
+          "Return",
+          "Brick Break",
+          "Double Team",
+          "Reflect",
+          "Aerial Ace",
+          "Facade",
+          "Rest",
+          "Attract",
+          "False Swipe",
+          "Shadow Claw",
+          "Retaliate",
+          "Gyro Ball",
+          "Swords Dance",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Flash Cannon",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "NoGuard"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 45,
+        "attack": 80,
+        "defense": 100,
+        "specialAttack": 35,
+        "specialDefense": 37,
+        "speed": 28
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 65,
+        "baseFriendship": 0,
+        "spawnLevel": 21,
+        "spawnLevelRange": 13,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/679_honedge/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.honedge"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "alter",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/alter/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/alter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 1",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-arkasian1/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-arkasian1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arkasian 2",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-arkasian2/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-arkasian2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cosmic",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-cosmic/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-cosmic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 1",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-ditto1/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-ditto1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "ditto 2",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-ditto2/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-ditto2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "four sword",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-foursword/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-foursword/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "glass",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-glass/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-glass/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "lunar",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-lunar/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-lunar/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "outer worlds",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-outerworlds/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-outerworlds/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "poison",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-poison/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-poison/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "squad",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-squad/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-squad/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "sweet",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-sweet/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-sweet/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "toxic",
+              "texture": "pixelmon:pokemon/679_honedge/all/base/custom-toxic/texture.png",
+              "sprite": "pixelmon:pokemon/679_honedge/all/base/custom-toxic/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "MINERAL"
+      ],
+      "types": [
+        "STEEL",
+        "GHOST"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 2.0,
+      "catchRate": 180,
+      "malePercentage": 0,
+      "evolutions": [
+        {
+          "level": 35,
+          "to": "Doublade",
+          "conditions": [],
+          "evoType": "leveling"
+        }
+      ],
+      "evYields": {
+        "defense": 1
+      }
+    }
+  ],
+  "generation": 6
+}

@@ -1,0 +1,95 @@
+{
+  "id": "Meowscarada",
+  "spawnInfos": [
+    {
+      "spec": "species:Meowscarada",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Meowscarada palette:anubis",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Meowscarada palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Meowscarada palette:hunter",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Meowscarada palette:mecha",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 36,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/birches"
+        ]
+      },
+      "rarity": 0.1
+    }
+  ]
+}

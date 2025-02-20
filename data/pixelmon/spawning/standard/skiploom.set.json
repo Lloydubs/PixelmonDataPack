@@ -1,0 +1,62 @@
+{
+  "id": "Skiploom",
+  "spawnInfos": [
+    {
+      "spec": "species:Skiploom",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 18,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Skiploom palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 18,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Skiploom palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 18,
+      "maxLevel": 26,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

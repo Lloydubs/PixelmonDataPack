@@ -1,0 +1,34 @@
+{
+  "id": "Hopibug",
+  "spawnInfos": [
+    {
+      "spec": "species:Hopibug",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Tree Top",
+        "Forage"
+      ],
+      "minLevel": 2,
+      "maxLevel": 7,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests",
+          "#pixelmon:spawning/roofed",
+          "#pixelmon:spawning/birches",
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/jungles",
+          "byg:crag_gardens",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "rarity": 300.0
+    }
+  ]
+}

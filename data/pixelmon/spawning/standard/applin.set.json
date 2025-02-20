@@ -1,0 +1,469 @@
+{
+  "id": "Applin",
+  "spawnInfos": [
+    {
+      "spec": "species:Applin",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Applin palette:autumn",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:black and white",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:christmas",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:gamma",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:spotted",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:valentines 1",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin palette:valentines 2",
+      "stringLocationTypes": [
+        "Tree Top",
+        "Headbutt",
+        "Sweet Scent"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/forests"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Applin",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Applin palette:autumn",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:black and white",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:christmas",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:gamma",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:spotted",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:valentines 1",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Applin palette:valentines 2",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 10,
+      "maxLevel": 25,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:tart_apple",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:sweet_apple",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

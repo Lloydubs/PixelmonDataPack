@@ -1,0 +1,629 @@
+{
+  "id": "Corviknight",
+  "spawnInfos": [
+    {
+      "spec": "species:Corviknight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Corviknight palette:alter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:corrupt",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:nippon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:norse 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:norse 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:patriotic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Corviknight palette:rgb",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/redwoods",
+          "#pixelmon:spawning/swamps"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Corviknight",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Corviknight palette:alter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:corrupt",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:demonic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:lunar",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:nippon",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:norse 1",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:norse 2",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:patriotic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:rainbow",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Corviknight palette:rgb",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 38,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:metal_coat",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

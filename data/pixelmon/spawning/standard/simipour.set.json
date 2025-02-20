@@ -1,0 +1,110 @@
+{
+  "id": "Simipour",
+  "spawnInfos": [
+    {
+      "spec": "species:Simipour",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Simipour palette:candy",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Simipour palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Tree Top",
+        "Headbutt"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/jungles"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Simipour",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 50.0
+    },
+	{
+      "spec": "species:Simipour palette:candy",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Simipour palette:halloween",
+      "stringLocationTypes": [
+        "Tree Top"
+      ],
+      "minLevel": 27,
+      "maxLevel": 36,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 5.0
+    }
+  ]
+}

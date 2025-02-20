@@ -1,0 +1,313 @@
+{
+   "name": "Dracmon",
+   "dex": 2052,
+   "defaultForms": [
+      ""
+   ],
+   "forms": [
+      {
+         "name": "",
+         "experienceGroup": "MEDIUM_SLOW",
+         "dimensions": {
+            "height": 1.1,
+            "width": 1.1,
+            "length": 1,
+            "eyeHeight": 1.1,
+            "hoverHeight": 1.1
+         },
+         "moves": {
+            "levelUpMoves": [
+               {
+                  "level": 0,
+                  "attacks": [
+                     "Growl",
+                     "Scratch"
+                  ]
+               },
+               {
+                  "level": 4,
+                  "attacks": [
+                     "Shadow Sneak"
+                  ]
+               },
+               {
+                  "level": 8,
+                  "attacks": [
+                     "Confuse Ray"
+                  ]
+               },
+               {
+                  "level": 12,
+                  "attacks": [
+                     "Quick Attack"
+                  ]
+               },
+               {
+                  "level": 20,
+                  "attacks": [
+                     "Metal Claw"
+                  ]
+               },
+               {
+                  "level": 23,
+                  "attacks": [
+                     "Bite"
+                  ]
+               },
+               {
+                  "level": 28,
+                  "attacks": [
+                     "Night Shade"
+                  ]
+               },
+               {
+                  "level": 32,
+                  "attacks": [
+                     "Pursuit"
+                  ]
+               },
+               {
+                  "level": 36,
+                  "attacks": [
+                     "Knock Off"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Foul Play"
+                  ]
+               },
+               {
+                  "level": 40,
+                  "attacks": [
+                     "Shadow Ball"
+                  ]
+               }
+            ],
+            "tutorMoves": [],
+            "eggMoves": [],
+            "tmMoves8": [],
+            "trMoves": [
+               "Swords Dance",
+               "Low Kick",
+               "Body Slam",
+               "Substitute",
+               "Outrage",
+               "Endure",
+               "Crunch",
+               "Encore",
+               "Dark Pulse",
+               "Overheat",
+               "Dragon Claw",
+               "Zen Headbutt",
+               "Dragon Dance",
+               "Flare Blitz",
+               "Dragon Pulse",
+               "Work Up",
+               "Iron Tail",
+               "Poison Jab",
+               "Dazzling Gleam"
+            ],
+            "hmMoves": [],
+            "transferMoves": [
+               "Aerial Ace",
+               "Captivate",
+               "Confide",
+               "Counter",
+               "Cut",
+               "Double Team",
+               "Double-Edge",
+               "Dream Eater",
+               "Dynamic Punch",
+               "Embargo",
+               "Feint Attack",
+               "Flash",
+               "Focus Punch",
+               "Foresight",
+               "Frustration",
+               "Fury Cutter",
+               "Gravity",
+               "Headbutt",
+               "Hidden Power",
+               "Hone Claws",
+               "Incinerate",
+               "Magic Coat",
+               "Mimic",
+               "Moonlight",
+               "Mud-Slap",
+               "Natural Gift",
+               "Nightmare",
+               "Octazooka",
+               "Ominous Wind",
+               "Pain Split",
+               "Power-Up Punch",
+               "Psych Up",
+               "Punishment",
+               "Return",
+               "Rock Smash",
+               "Role Play",
+               "Secret Power",
+               "Seismic Toss",
+               "Shock Wave",
+               "Signal Beam",
+               "Snatch",
+               "Spite",
+               "Swagger",
+               "Telekinesis",
+               "Tickle",
+               "Toxic"
+            ],
+            "tmMoves7": [],
+            "tmMoves6": [],
+            "tmMoves5": [],
+            "tmMoves4": [],
+            "tmMoves3": [],
+            "tmMoves2": [],
+            "tmMoves1": [],
+            "tmMoves": []
+         },
+         "abilities": {
+            "abilities": [
+               "Prankster"
+            ],
+            "hiddenAbilities": [
+               "Frisk"
+            ]
+         },
+         "movement": {
+            "rideable": false,
+            "canFly": false,
+            "canSurf": false,
+            "canRideShoulder": false
+         },
+         "aggression": {
+            "timid": 80,
+            "passive": 0,
+            "aggressive": 20
+         },
+         "battleStats": {
+            "hp": 60,
+            "attack": 64,
+            "defense": 53,
+            "specialAttack": 64,
+            "specialDefense": 58,
+            "speed": 81
+         },
+         "tags": [
+            "legendary"
+         ],
+         "spawn": {
+            "baseExp": 102,
+            "baseFriendship": 70,
+            "spawnLevel": 5,
+            "spawnLevelRange": 2,
+            "spawnLocations": [
+               "LAND"
+            ]
+         },
+         "possibleGenders": [
+            "MALE",
+            "FEMALE"
+         ],
+         "genderProperties": [
+            {
+               "gender": "ALL",
+               "palettes": [
+                  {
+                     "name": "none",
+                     "texture": "pixelmon:pokemon/2052_dracmon/all/base/none/texture.png",
+                     "emissive": "pixelmon:pokemon/2052_dracmon/all/base/none/emissive.png",
+                     "sprite": "pixelmon:pokemon/2052_dracmon/all/base/none/sprite.png",
+                     "particle": "",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2052_dracmon/all/base/none/model.pqc"
+                        ]
+                     }
+                  },
+                  {
+                     "name": "shiny",
+                     "texture": "pixelmon:pokemon/2052_dracmon/all/base/shiny/texture.png",
+                     "emissive": "pixelmon:pokemon/2052_dracmon/all/base/shiny/emissive.png",
+                     "sprite": "pixelmon:pokemon/2052_dracmon/all/base/shiny/sprite.png",
+                     "particle": "arcanery:shiny",
+                     "modelLocator": {
+                        "factoryType": "NORMAL",
+                        "pqc": [
+                           "pixelmon:pokemon/2052_dracmon/all/base/none/model.pqc"
+                        ]
+                     }
+                  }
+               ]
+            }
+         ],
+         "eggGroups": [
+            "UNDISCOVERED"
+         ],
+         "types": [
+            "GHOST"
+         ],
+         "preEvolutions": [],
+         "defaultBaseForm": "",
+         "megaItems": [],
+         "megas": [],
+         "gigantamax": {
+            "canHaveFactor": false,
+            "canGigantamax": false
+         },
+         "eggCycles": 21,
+         "weight": 14.4,
+         "catchRate": 100,
+         "malePercentage": -1,
+         "evolutions": [
+            {
+               "level": 20,
+               "to": "Bakemon",
+               "conditions": [
+                  {
+                     "biomes": [
+                        "minecraft:dark_forest"
+                     ],
+                     "evoConditionType": "biome"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Astonish"
+               ]
+            },
+            {
+               "level": 20,
+               "to": "Soulmon",
+               "conditions": [
+                  {
+                     "biomes": [
+                        "minecraft:swamp"
+                     ],
+                     "evoConditionType": "biome"
+                  }
+               ],
+               "evoType": "leveling",
+               "moves": [
+                  "Astonish"
+               ]
+            },
+            {
+               "level": 20,
+               "to": "Sangloupmon",
+               "conditions": [],
+               "evoType": "leveling",
+               "moves": [
+                  "Crunch"
+               ]
+            }
+         ],
+         "evYields": {
+            "Speed": 1
+         }
+      }
+   ],
+   "generation": 20
+}

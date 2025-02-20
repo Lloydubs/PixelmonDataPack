@@ -1,0 +1,65 @@
+{
+  "id": "Barbaracle",
+  "spawnInfos": [
+    {
+      "spec": "species:Barbaracle",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 40,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Barbaracle palette:atlante",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 40,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Barbaracle palette:malice",
+      "stringLocationTypes": [
+        "Land",
+        "Rock Smash"
+      ],
+      "minLevel": 40,
+      "maxLevel": 54,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "pixelmon:ultra_deep_sea"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

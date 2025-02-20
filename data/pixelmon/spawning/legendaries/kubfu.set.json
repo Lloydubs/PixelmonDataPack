@@ -1,0 +1,152 @@
+{
+  "id": "Kubfu",
+  "spawnInfos": [
+    {
+      "spec": "species:Kubfu level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 2.0
+    },
+	{
+      "spec": "species:Kubfu palette:crimson level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Kubfu palette:demonic level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Kubfu palette:ice level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Kubfu palette:nippon level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Kubfu palette:river level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    },
+	{
+      "spec": "species:Kubfu palette:valentines level:15",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "minecraft:bamboo_jungle",
+          "byg:bamboo_forest"
+        ]
+      },
+      "rarity": 0.2
+    }
+  ]
+}

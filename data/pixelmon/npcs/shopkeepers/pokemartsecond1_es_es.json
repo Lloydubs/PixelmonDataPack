@@ -1,0 +1,1574 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+{
+"name": "aquaboss.png"
+},
+{
+"name": "aquagruntfemale.png"
+},
+{
+"name": "aquagruntmale.png"
+},
+{
+"name": "artist.png"
+},
+{
+"name": "baker.png"
+},
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "blacksmith.png"
+},
+{
+"name": "breedergreen_f.png"
+},
+{
+"name": "breedergreen_m.png"
+},
+{
+"name": "bugcatcher1.png"
+},
+{
+"name": "bugcatcher2.png"
+},
+{
+"name": "bugcatcher3.png"
+},
+{
+"name": "bugcatcher4.png"
+},
+{
+"name": "bugcatchergirl.png"
+},
+{
+"name": "cueball.png"
+},
+{
+"name": "cult.png"
+},
+{
+"name": "doctor.png"
+},
+{
+"name": "dress.png"
+},
+{
+"name": "electricleader1.png"
+},
+{
+"name": "engineer.png"
+},
+{
+"name": "evilprofessor.png"
+},
+{
+"name": "firebreather1.png"
+},
+{
+"name": "firebreather2.png"
+},
+{
+"name": "firebreather3.png"
+},
+{
+"name": "firebreather4.png"
+},
+{
+"name": "fireleader2.png"
+},
+{
+"name": "fisherman.png"
+},
+{
+"name": "flaregruntfemale.png"
+},
+{
+"name": "flaregruntmale.png"
+},
+{
+"name": "flyingleader1.png"
+},
+{
+"name": "flyingleader2.png"
+},
+{
+"name": "football1.png"
+},
+{
+"name": "football2.png"
+},
+{
+"name": "galacticboss.png"
+},
+{
+"name": "galacticgruntfemale.png"
+},
+{
+"name": "galacticgruntmale.png"
+},
+{
+"name": "gardenermale1.png"
+},
+{
+"name": "gardenermale2.png"
+},
+{
+"name": "giovanni.png"
+},
+{
+"name": "gnome_trader.png"
+},
+{
+"name": "grassbugleader1.png"
+},
+{
+"name": "guzma.png"
+},
+{
+"name": "hexmaniac.png"
+},
+{
+"name": "hiker.png"
+},
+{
+"name": "iceleader1.png"
+},
+{
+"name": "iceleader2.png"
+},
+{
+"name": "jonsnow.png"
+},
+{
+"name": "knight.png"
+},
+{
+"name": "lass.png"
+},
+{
+"name": "lass2.png"
+},
+{
+"name": "lass3.png"
+},
+{
+"name": "lighthousekeeper.png"
+},
+{
+"name": "littleboy.png"
+},
+{
+"name": "littlegirl.png"
+},
+{
+"name": "lumberjack.png"
+},
+{
+"name": "lysandre.png"
+},
+{
+"name": "madame.png"
+},
+{
+"name": "magmaboss.png"
+},
+{
+"name": "magmagruntfemale.png"
+},
+{
+"name": "magmagruntmale.png"
+},
+{
+"name": "mailman.png"
+},
+{
+"name": "mechanic.png"
+},
+{
+"name": "miner.png"
+},
+{
+"name": "monk1.png"
+},
+{
+"name": "monk2.png"
+},
+{
+"name": "monsieur.png"
+},
+{
+"name": "n.png"
+},
+{
+"name": "npcchat1.png"
+},
+{
+"name": "npcchat2.png"
+},
+{
+"name": "nursejoy.png"
+},
+{
+"name": "officerjenny.png"
+},
+{
+"name": "oldfisherman.png"
+},
+{
+"name": "oldman.png"
+},
+{
+"name": "oldwoman.png"
+},
+{
+"name": "ornithologist.png"
+},
+{
+"name": "ornithologist_f.png"
+},
+{
+"name": "piratecaptain.png"
+},
+{
+"name": "pirategrunt1.png"
+},
+{
+"name": "pirategrunt2.png"
+},
+{
+"name": "pkmn_breeder_f.png"
+},
+{
+"name": "plasmagruntfemale.png"
+},
+{
+"name": "plasmagruntmale.png"
+},
+{
+"name": "pokefan_f.png"
+},
+{
+"name": "pokefan_m.png"
+},
+{
+"name": "pokemaniac1.png"
+},
+{
+"name": "pokemaniac2.png"
+},
+{
+"name": "pokemaniac3.png"
+},
+{
+"name": "pokemaniacgirl1.png"
+},
+{
+"name": "pokemaniacgirl2.png"
+},
+{
+"name": "pokemaniacgirl3.png"
+},
+{
+"name": "policeman.png"
+},
+{
+"name": "preschooler_f1.png"
+},
+{
+"name": "prisoner.png"
+},
+{
+"name": "professorras.png"
+},
+{
+"name": "psychic.png"
+},
+{
+"name": "psychicleader1.png"
+},
+{
+"name": "psychic_f.png"
+},
+{
+"name": "punkgirl.png"
+},
+{
+"name": "punkguy.png"
+},
+{
+"name": "rancher.png"
+},
+{
+"name": "ranger_f.png"
+},
+{
+"name": "ranger_m.png"
+},
+{
+"name": "richboy.png"
+},
+{
+"name": "rocketgruntfemale1.png"
+},
+{
+"name": "rocketgruntfemale2.png"
+},
+{
+"name": "rocketgruntfemale3.png"
+},
+{
+"name": "rocketgruntfemale4.png"
+},
+{
+"name": "rocketgruntfemale5.png"
+},
+{
+"name": "rocketgruntfemale6.png"
+},
+{
+"name": "rocketgruntmale1.png"
+},
+{
+"name": "rocketgruntmale2.png"
+},
+{
+"name": "rocketgruntmale3.png"
+},
+{
+"name": "rocketgruntmale4.png"
+},
+{
+"name": "rocketgruntmale5.png"
+},
+{
+"name": "rocketgruntmale6.png"
+},
+{
+"name": "rockleader1.png"
+},
+{
+"name": "sailor.png"
+},
+{
+"name": "sailor2.png"
+},
+{
+"name": "santa.png"
+},
+{
+"name": "schoolboy.png"
+},
+{
+"name": "schoolgirl.png"
+},
+{
+"name": "scientist_f.png"
+},
+{
+"name": "scientist_m.png"
+},
+{
+"name": "scottish.png"
+},
+{
+"name": "shopgirl.png"
+},
+{
+"name": "shoplady.png"
+},
+{
+"name": "shoplady2.png"
+},
+{
+"name": "shoplady3.png"
+},
+{
+"name": "shoplady4.png"
+},
+{
+"name": "shoplady5.png"
+},
+{
+"name": "shopman.png"
+},
+{
+"name": "shopman2.png"
+},
+{
+"name": "shopman3.png"
+},
+{
+"name": "shopman4.png"
+},
+{
+"name": "shopman5.png"
+},
+{
+"name": "shopsecondman.png"
+},
+{
+"name": "skullgruntfemale.png"
+},
+{
+"name": "skullgruntmale.png"
+},
+{
+"name": "spawntrader.png"
+},
+{
+"name": "steelleader1.png"
+},
+{
+"name": "streetthug.png"
+},
+{
+"name": "suit.png"
+},
+{
+"name": "supernerd.png"
+},
+{
+"name": "swimmer_f1.png"
+},
+{
+"name": "swimmer_f2.png"
+},
+{
+"name": "swimmer_m1.png"
+},
+{
+"name": "swimmer_m2.png"
+},
+{
+"name": "teamyellfemale.png"
+},
+{
+"name": "teamyellgruntfemale.png"
+},
+{
+"name": "teamyellgruntmale.png"
+},
+{
+"name": "teamyellmale.png"
+},
+{
+"name": "tesla.png"
+},
+{
+"name": "waterleader1.png"
+},
+{
+"name": "waterleader2.png"
+},
+{
+"name": "youngster1.png"
+},
+{
+"name": "youngster2.png"
+},
+{
+"name": "youngster3.png"
+},
+{
+"name": "youngster4.png"
+},
+{
+"name": "youngster5.png"
+},
+{
+"name": "youngster6.png"
+},
+{
+"name": "youngster7.png"
+},
+{
+"name": "youngstergirl.png"
+},
+{
+"name": "youngstergirl2.png"
+}
+],
+  "names": [
+{
+"name":"Georgie"
+},
+{
+"name":"Deborah"
+},
+{
+"name":"Brianna"
+},
+{
+"name":"Neve"
+},
+{
+"name":"Nina"
+},
+{
+"name":"Maisy"
+},
+{
+"name":"Joanna"
+},
+{
+"name":"Charlotte"
+},
+{
+"name":"Layla"
+},
+{
+"name":"Tianna"
+},
+{
+"name":"Maia"
+},
+{
+"name":"Gabriella"
+},
+{
+"name":"Francesca"
+},
+{
+"name":"Contance"
+},
+{
+"name":"Miriam"
+},
+{
+"name":"Kyra"
+},
+{
+"name":"Alfie"
+},
+{
+"name":"Chelsea"
+},
+{
+"name":"Alicia"
+},
+{
+"name":"Jane"
+},
+{
+"name":"Demi"
+},
+{
+"name":"Elsie"
+},
+{
+"name":"Zahra"
+},
+{
+"name":"Lillian"
+},
+{
+"name":"Ffion"
+},
+{
+"name":"Kayla"
+},
+{
+"name":"Ellen"
+},
+{
+"name":"Barbara"
+},
+{
+"name":"Daisy"
+},
+{
+"name":"Gabrielle"
+},
+{
+"name":"Aliya"
+},
+{
+"name":"Violet"
+},
+{
+"name":"Evangelo"
+},
+{
+"name":"Ismail"
+},
+{
+"name":"Amir"
+},
+{
+"name":"Herbert"
+},
+{
+"name":"Nicolas"
+},
+{
+"name":"Alvin"
+},
+{
+"name":"Rufus"
+},
+{
+"name":"Lara"
+},
+{
+"name":"Willie"
+},
+{
+"name":"Umar"
+},
+{
+"name":"Bret"
+},
+{
+"name":"Pearl"
+},
+{
+"name":"Jak"
+},
+{
+"name":"Zachary"
+},
+{
+"name":"Jesse"
+},
+{
+"name":"Juan"
+},
+{
+"name":"Roy"
+},
+{
+"name":"Fraser"
+},
+{
+"name":"Marshall"
+},
+{
+"name":"Johnny"
+},
+{
+"name":"Raphael"
+},
+{
+"name":"Lloyd"
+},
+{
+"name":"Clause"
+},
+{
+"name":"Edward"
+},
+{
+"name":"Jim"
+},
+{
+"name":"Jeremiah"
+},
+{
+"name":"Bernard"
+},
+{
+"name":"Robert"
+},
+{
+"name":"Harold"
+},
+{
+"name":"Brandon"
+},
+{
+"name":"Patrick"
+},
+{
+"name":"Maximilian"
+},
+{
+"name":"Agrippo"
+},
+{
+"name":"Agrippa"
+},
+{
+"name":"Ailbe"
+},
+{
+"name":"Aldus"
+},
+{
+"name":"Aleks"
+},
+{
+"name":"Amari"
+},
+{
+"name":"Aran"
+},
+{
+"name":"Ariel"
+},
+{
+"name":"Aroha"
+},
+{
+"name":"Aştî"
+},
+{
+"name":"Averill"
+},
+{
+"name":"Awee"
+},
+{
+"name":"Awotwi"
+},
+{
+"name":"Ayotunde"
+},
+{
+"name":"Babe"
+},
+{
+"name":"Bandile"
+},
+{
+"name":"Billie"
+},
+{
+"name":"Cam"
+},
+{
+"name":"Camryn"
+},
+{
+"name":"Carmo"
+},
+{
+"name":"Chan"
+},
+{
+"name":"Châu"
+},
+{
+"name":"Chesley"
+},
+{
+"name":"Chima"
+},
+{
+"name":"Chiyna"
+},
+{
+"name":"Chiyembek"
+},
+{
+"name":"Chizoba"
+},
+{
+"name":"Chun"
+},
+{
+"name":"Codie"
+},
+{
+"name":"D'Arcy"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dara"
+},
+{
+"name":"Dawa"
+},
+{
+"name":"Deniz"
+},
+{
+"name":"Dîyar"
+},
+{
+"name":"Dubaku"
+},
+{
+"name":"Duygu"
+},
+{
+"name":"Eirian"
+},
+{
+"name":"Ejiroghene"
+},
+{
+"name":"Ellington"
+},
+{
+"name":"Emerson"
+},
+{
+"name":"Emmery"
+},
+{
+"name":"Eun-Jung"
+},
+{
+"name":"Evangelista"
+},
+{
+"name":"Feidlimid"
+},
+{
+"name":"Ferdous"
+},
+{
+"name":"Fido"
+},
+{
+"name":"Firdos"
+},
+{
+"name":"Flick"
+},
+{
+"name":"Gerelt"
+},
+{
+"name":"Gili"
+},
+{
+"name":"Glaucia"
+},
+{
+"name":"Gul"
+},
+{
+"name":"Gurpreet"
+},
+{
+"name":"Harley"
+},
+{
+"name":"Heike"
+},
+{
+"name":"Hinata"
+},
+{
+"name":"Hollis"
+},
+{
+"name":"Hui"
+},
+{
+"name":"Isi"
+},
+{
+"name":"Itumeleng"
+},
+{
+"name":"Jae"
+},
+{
+"name":"Jamyang"
+},
+{
+"name":"Jayme"
+},
+{
+"name":"Jessy"
+},
+{
+"name":"Jessica"
+},
+{
+"name":"Jia"
+},
+{
+"name":"Jing"
+},
+{
+"name":"Jip"
+},
+{
+"name":"Jools"
+},
+{
+"name":"Kaede"
+},
+{
+"name":"Kagiso"
+},
+{
+"name":"Kaimana"
+},
+{
+"name":"Kanta"
+},
+{
+"name":"Kaulana"
+},
+{
+"name":"Kehinde"
+},
+{
+"name":"Kennedy"
+},
+{
+"name":"Khayrat"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Lacy"
+},
+{
+"name":"Lakshmi"
+},
+{
+"name":"Laxmi"
+},
+{
+"name":"Lindsay"
+},
+{
+"name":"Liraz"
+},
+{
+"name":"Lorrin"
+},
+{
+"name":"Lucero"
+},
+{
+"name":"Lungile"
+},
+{
+"name":"Lupe"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Maitland"
+},
+{
+"name":"Makana"
+},
+{
+"name":"Martie"
+},
+{
+"name":"Matija"
+},
+{
+"name":"Maurie"
+},
+{
+"name":"McKenzie"
+},
+{
+"name":"Min-Jun"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Monet"
+},
+{
+"name":"Montana"
+},
+{
+"name":"Mudiwa"
+},
+{
+"name":"Naseem"
+},
+{
+"name":"Navneet"
+},
+{
+"name":"Nerþuz"
+},
+{
+"name":"Nilam"
+},
+{
+"name":"Noam"
+},
+{
+"name":"Nour"
+},
+{
+"name":"Nsia"
+},
+{
+"name":"Nuka"
+},
+{
+"name":"Ofra"
+},
+{
+"name":"Ogochukwu"
+},
+{
+"name":"Olayinka"
+},
+{
+"name":"Oluwaseyi"
+},
+{
+"name":"Otgonbayar"
+},
+{
+"name":"Paget"
+},
+{
+"name":"Palmer"
+},
+{
+"name":"Payne"
+},
+{
+"name":"Ratna"
+},
+{
+"name":"Ricmod"
+},
+{
+"name":"Rylie"
+},
+{
+"name":"Şan"
+},
+{
+"name":"Seung"
+},
+{
+"name":"Shahar"
+},
+{
+"name":"Simcha"
+},
+{
+"name":"Sovanna"
+},
+{
+"name":"Stav"
+},
+{
+"name":"Steph"
+},
+{
+"name":"Storm"
+},
+{
+"name":"Suman"
+},
+{
+"name":"Tatum"
+},
+{
+"name":"Tendai"
+},
+{
+"name":"Tivoli"
+},
+{
+"name":"Tiwonge"
+},
+{
+"name":"Tiyamike"
+},
+{
+"name":"Tshepo"
+},
+{
+"name":"Tu"
+},
+{
+"name":"Tumelo"
+},
+{
+"name":"Uche"
+},
+{
+"name":"Udo"
+},
+{
+"name":"Unathi"
+},
+{
+"name":"Vanna"
+},
+{
+"name":"Wambli"
+},
+{
+"name":"Waverly"
+},
+{
+"name":"Wei"
+},
+{
+"name":"Xuân"
+},
+{
+"name":"Yağmur"
+},
+{
+"name":"Yuuki"
+}
+  ],
+
+  "chat": [
+    {
+      "hello": "Welcome to our lovely store. I am sure the quality of our goods will please you.",
+      "goodbye": "Delighted to have met you. Good day."
+    },
+    {
+      "hello": "Hello, and welcome to the Poké Mart. We have an exciting range of luxury goods.",
+      "goodbye": "Thank you for shopping at the Poké Mart."
+    },
+    {
+      "hello": "Bienvenu! Our Poké Mart has fine quality merchandise to offer you.",
+      "goodbye": "It was indeed a privilege to do business with you."
+    },
+    {
+      "hello": "Welcome to our fine Poké Mart. Enjoy browsing our luxury range.",
+      "goodbye": "Good day to you, and thank you for shopping at our store."
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:tm8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "pixelmon:tr8_blank",
+      "variation": false,
+      "rarity": 1.0
+    },
+    {
+      "name": "Galar: Mega Punch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Mega Kick",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Pay Day",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fire Punch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Ice Punch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Thunder Punch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fly",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Pin Missile",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Hyper Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Giga Impact",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Magical Leaf",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Solar Beam",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Solar Blade",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fire Spin",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Thunder Wave",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Dig",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Screech",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Light Screen",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Reflect",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Safeguard",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Self-Destruct",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Rest",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Rock Slide",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Thief",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Snore",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Protect",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Scary Face",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Icy Wind",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Giga Drain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Charm",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Steel Wing",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Attract",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Sandstorm",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Rain Dance",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Sunny Day",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Hail",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Whirlpool",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Beat Up",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Will-O-Wisp",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Facade",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Swift",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Helping Hand",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Revenge",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Brick Break",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Imprison",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Dive",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Weather Ball",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fake Tears",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Rock Tomb",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Sand Tomb",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Bullet Seed",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Icicle Spear",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Bounce",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Mud Shot",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Rock Blast",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Brine",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: U-Turn",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Payback",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Assurance",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fling",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Power Swap",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Guard Swap",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Speed Swap",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Drain Punch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Avalanche",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Shadow Claw",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Thunder Fang",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Ice Fang",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Fire Fang",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Psycho Cut",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Trick Room",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Wonder Room",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Magic Room",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Cross Poison",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Venoshock",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Low Sweep",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Round",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Hex",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Acrobatics",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Retaliate",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Volt Switch",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Bulldoze",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Electroweb",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Razor Shell",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Tail Slap",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Snarl",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Phantom Force",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Draining Kiss",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Grassy Terrain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Misty Terrain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Electric Terrain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Psychic Terrain",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Mystical Fire",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Eerie Impulse",
+      "rarity": 0.10
+    },
+    {
+      "name": "galar: False Swipe",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Air Slash",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Smart Strike",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Brutal Swing",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Stomping Tantrum",
+      "rarity": 0.10
+    },
+    {
+      "name": "Galar: Breaking Swipe",
+      "rarity": 0.10
+    }
+  ]
+}

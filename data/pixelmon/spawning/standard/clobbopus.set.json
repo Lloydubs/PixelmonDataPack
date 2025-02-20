@@ -1,0 +1,105 @@
+{
+  "id": "Clobbopus",
+  "spawnInfos": [
+    {
+      "spec": "species:Clobbopus",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean"
+        ]
+      },
+      "rarity": 100.0
+    },
+	{
+      "spec": "species:Clobbopus palette:battlecast",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Clobbopus palette:st patricks 1",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean"
+        ]
+      },
+      "rarity": 10.0
+    },
+	{
+      "spec": "species:Clobbopus palette:st patricks 2",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 10,
+      "maxLevel": 30,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:lucky_punch",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "#pixelmon:spawning/beaches",
+          "minecraft:ocean",
+          "minecraft:lukewarm_ocean",
+          "minecraft:cold_ocean",
+          "minecraft:frozen_ocean"
+        ]
+      },
+      "rarity": 10.0
+    }
+  ]
+}

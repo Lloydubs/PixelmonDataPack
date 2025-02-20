@@ -1,0 +1,1757 @@
+{
+  "id": "Rapidash",
+  "spawnInfos": [
+    {
+      "spec": "species:Rapidash",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Rapidash palette:akuma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:arctic 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:arctic 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:cny 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:cny 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:cosmic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:demonic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:forest",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:galaxy",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:halloween 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:halloween 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:halloween 3",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:irradiated",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:magma",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:nintendo",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:phantom",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:rgb",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:royal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:shadow 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:shadow 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:skeletal",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:soulfire",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:steampunk",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash palette:vapor",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/savannas"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 5
+          },
+          "spawn_range_minimum": {
+            "x": -3,
+            "y": -3,
+            "z": -3
+          },
+          "spawn_range_maximum": {
+            "x": 3,
+            "y": 3,
+            "z": 3
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+    {
+      "spec": "species:Rapidash form:galarian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:event",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:giftmas 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:giftmas 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:mythology 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:mythology 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:winter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/flowery",
+          "#pixelmon:spawning/magical"
+        ]
+      },
+      "groupSpawnSettings": [
+        {
+          "spec": "Ponyta",
+          "amount": {
+            "min_value": 3,
+            "max_value": 4
+          },
+          "spawn_range_minimum": {
+            "x": 1,
+            "y": 1,
+            "z": 1
+          },
+          "spawn_range_maximum": {
+            "x": 5,
+            "y": 5,
+            "z": 5
+          },
+          "chance": 0.5
+        }
+      ],
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Rapidash form:galarian",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:ditto",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:event",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:giftmas 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:giftmas 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:halloween",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:mythology 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:mythology 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:oblivion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:winter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Rapidash form:galarian palette:wintr 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 50,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_forest"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

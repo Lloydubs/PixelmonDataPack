@@ -1,0 +1,31 @@
+{
+  "id": "Agumon",
+  "spawnInfos": [
+    {
+      "spec": "species:Agumon",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+      "legendary"
+      ], 
+      "minLevel": 10,
+      "maxLevel": 16,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "weathers": [
+          "CLEAR"
+        ],
+        "stringBiomes": [
+          "arid",
+          "minecraft:badlands",
+          "biomesoplenty:volcanic_plains"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

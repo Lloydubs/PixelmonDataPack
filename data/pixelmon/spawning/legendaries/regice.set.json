@@ -1,0 +1,320 @@
+{
+  "id": "Regice",
+  "spawnInfos": [
+    {
+      "spec": "species:Regice level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 3.0
+    },
+	{
+      "spec": "species:Regice palette:christmas level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:crimson level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:dessert 1 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:dessert 2 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:gembound level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:gemstone 1 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:gemstone 2 level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:glass level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:magical level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:magma level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:mecha level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:rainbow level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:samurai level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    },
+	{
+      "spec": "species:Regice palette:shadow level:40",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MORNING"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/freezing"
+        ],
+        "maxY": 30
+      },
+      "rarity": 0.3
+    }
+  ]
+}

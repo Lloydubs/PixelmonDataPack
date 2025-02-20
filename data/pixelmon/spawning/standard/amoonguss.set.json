@@ -1,0 +1,1853 @@
+{
+  "id": "Amoonguss",
+  "spawnInfos": [
+    {
+      "spec": "species:Amoonguss",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:arctic",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:cherish ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:diveball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:dream ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:dusk ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:easter 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:easter 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:fast ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:friend ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:gamer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:great ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:heal ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:heavy ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:level ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:love ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:lure ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:luxury ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:master ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:moon ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:nest ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:net ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:park ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:premier ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:quick ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:repeat ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:safari ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:shadow ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:sport ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:timer ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:ultra ball",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:valentines 1",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+	{
+      "spec": "species:Amoonguss palette:valentines 2",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/mushroom"
+        ]
+      },
+      "rarity": 0.8
+    },
+    {
+      "spec": "species:Amoonguss",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:arctic",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:cherish ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:diveball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:dream ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:dusk ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:easter 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:easter 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:fast ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:friend ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:gamer",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:great ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:heal ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:heavy ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:level ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:love ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:lure ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:luxury ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:master ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:moon ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:nest ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:net ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:park ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:premier ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:quick ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:repeat ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:safari ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:shadow ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:sport ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:timer ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:ultra ball",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:valentines 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Amoonguss palette:valentines 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 40,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:big_mushroom",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:tiny_mushroom",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "biomesoplenty:glowing_grotto",
+          "terralith:cave/fungal_caves"
+        ]
+      },
+      "rarity": 8.0
+    }	
+  ]
+}

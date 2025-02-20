@@ -1,0 +1,49 @@
+{
+    "attackIndex": 900121,
+    "attackName": "Shadow Starburst",
+    "attackType": "GHOST",
+    "attackCategory": "SPECIAL",
+    "basePower": 400,
+    "ppBase": 5,
+    "ppMax": 8,
+    "accuracy": 100,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Suicide"
+    },
+    {
+      "langStart": "pixelmon.status.mistyterrain",
+      "langEnd": "pixelmon.status.mistyterrainend",
+      "type": "MistyTerrain",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "MistyTerrain"
+    }
+  ],
+  "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "explosion",
+				"texture": "DUST",
+				"rgb": [127, 0, 255],
+				"lifetimeTicks": 30,
+				"speed": 0.6
+			}
+		}
+	}
+  ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

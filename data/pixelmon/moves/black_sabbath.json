@@ -1,0 +1,37 @@
+{
+    "attackIndex": 900013,
+    "attackName": "Black Sabbath",
+    "attackType": "DARK",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 5,
+    "ppMax": 8,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Perish",
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Perish"
+        },
+    {
+      "type": "Wish",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Wish"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

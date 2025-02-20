@@ -1,0 +1,327 @@
+{
+  "id": "Araquanid",
+  "spawnInfos": [
+    {
+      "spec": "species:Araquanid",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 8.0
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 1",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 2",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 3",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid palette:mecha",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid palette:molten",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid palette:neon",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "minecraft:river",
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes",
+          "byg:crag_gardens",
+          "terralith:warm_river"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Araquanid",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 1",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 2",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Araquanid palette:halloween 3",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Araquanid palette:mecha",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Araquanid palette:molten",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Araquanid palette:neon",
+      "stringLocationTypes": [
+        "Seafloor"
+      ],
+      "minLevel": 22,
+      "maxLevel": 40,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mystic_water",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "biomes": [
+          "pixelmon:ultra_jungle"
+        ]
+      },
+      "rarity": 2.5
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "name": "GoldVeedramon",
+  "dex": 2124,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 3.0,
+        "width": 1.5,
+        "length": 1.5,
+        "eyeHeight": 3.5,
+        "hoverHeight": 3.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Quick Attack",
+              "Leer",
+            "Ancient Power",
+            "V-Nova Blast",
+            "Cutter Shoot"
+            ]
+          },
+          {
+            "level": 5,
+            "attacks": [
+              "Fake Out"
+            ]
+          },
+          {
+            "level": 10,
+            "attacks": [
+              "Dragon Breath"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Headbutt"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Return"
+            ]
+          },
+          {
+            "level": 25,
+            "attacks": [
+              "Mud Shot"
+            ]
+          },
+          {
+            "level": 31,
+            "attacks": [
+              "Dragon Pulse"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Overdrive"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Power Gem"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Psycho Boost"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Clanging Scales"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Make It Rain"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Draco Meteor",
+          "Scale Shot",
+          "Meteor Beam"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Rest",
+          "Rock Slide",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Dig",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Fly",
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Beam",
+          "Facade",
+          "Brick Break",
+          "Rock Tomb",
+          "Rock Blast",
+          "Payback",
+          "Assurance",
+          "Thunder Fang",
+          "Ice Fang",
+          "Fire Fang",
+          "Bulldoze",
+          "False Swipe",
+          "Stomping Tantrum",
+          "Breaking Swipe"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Earthquake",
+          "Substitute",
+          "Outrage",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Superpower",
+          "Hyper Voice",
+          "Iron Defense",
+          "Dragon Claw",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Dragon Claw",
+          "Poison Jab",
+          "Earth Power",
+          "Heat Wave",
+          "Superpower",
+          "Bug Buzz",
+          "Dragon Pulse",
+          "Earth Power",
+          "Iron Head",
+          "Stone Edge",
+          "Stealth Rock",
+          "Play Rough",
+          "High Horsepower",
+          "Psychic Fangs"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Double Team",
+          "Dragon Rage",
+          "Dragon Tail",
+          "Bide",
+          "Block",
+          "Confide",
+          "Double Team",
+          "Frustration",
+          "Hidden Power",
+          "Hone Claws",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Hone Claws",
+          "Incinerate",
+          "Reflect",
+          "Return",
+          "Rock Polish",
+          "Rock Smash",
+          "Rock Throw",
+          "Secret Power",
+          "Sky Attack",
+          "Sky Drop",
+          "Smack Down",
+          "Strength",
+          "Swagger",
+          "Torment",
+          "Toxic",
+          "Twister"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Stamina"
+        ],
+        "hiddenAbilities": [
+          "MirrorArmor"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 132,
+        "attack": 85,
+        "defense": 162,
+        "specialAttack": 100,
+        "specialDefense": 141,
+        "speed": 60
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 30,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2124_goldveedramon/all/base/none/texture.png",
+              "emissive": "pixelmon:pokemon/2124_goldveedramon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2124_goldveedramon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2124_goldveedramon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2124_goldveedramon/all/base/shiny/texture.png",
+              "emissive": "pixelmon:pokemon/2124_goldveedramon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2124_goldveedramon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "DRAGON",
+        "ROCK"
+      ],
+      "preEvolutions": [
+        "Veemon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 26.7,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "item": {
+            "itemID": "pixelmon:copper_hourglass"
+          },
+          "to": "Veemon",
+          "conditions": [],
+          "evoType": "interact"
+        }
+      ],
+      "evYields": {
+        "defense": 3,
+        "specialdefense": 3
+      }
+    }
+  ],
+  "generation": 20
+}

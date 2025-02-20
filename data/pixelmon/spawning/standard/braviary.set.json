@@ -1,0 +1,239 @@
+{
+  "id": "Braviary",
+  "spawnInfos": [
+    {
+      "spec": "species:Braviary",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Braviary palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Braviary palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.05
+    },
+    {
+      "spec": "species:Braviary",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Braviary palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+	{
+      "spec": "species:Braviary palette:heroic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAY"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 2.5
+    },
+    {
+      "spec": "species:Braviary form:hisuian",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Braviary form:hisuian palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+	{
+      "spec": "species:Braviary form:hisuian palette:patriotic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DAWN",
+          "DAY"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/mountainous",
+          "#pixelmon:spawning/mountainous_forests",
+          "#pixelmon:spawning/freezing_forests"
+        ]
+      },
+      "rarity": 0.01
+    },
+    {
+      "spec": "species:Braviary form:hisuian",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Braviary form:hisuian palette:molten",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Braviary form:hisuian palette:patriotic",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 54,
+      "maxLevel": 65,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "pixelmon:ultra_crater"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

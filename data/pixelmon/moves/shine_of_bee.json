@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900009,
+    "attackName": "Shine of Bee",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 140,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    },
+    {
+            "percentRecoil": 25,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "Recoil"
+    }
+    ],
+    "animations": [
+    "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

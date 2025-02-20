@@ -1,0 +1,775 @@
+{
+  "name": "Gardevoir",
+  "dex": 282,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.5,
+        "width": 0.8,
+        "length": 1,
+        "eyeHeight": 1.5,
+        "hoverHeight": 1.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Charm",
+              "Confusion",
+              "Dazzling Gleam",
+              "Disarming Voice",
+              "Double Team",
+              "Growl",
+              "Healing Wish",
+              "Misty Terrain",
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 9,
+            "attacks": [
+              "Hypnosis"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Draining Kiss"
+            ]
+          },
+          {
+            "level": 15,
+            "attacks": [
+              "Teleport"
+            ]
+          },
+          {
+            "level": 18,
+            "attacks": [
+              "Psybeam"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Life Dew"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Wish"
+            ]
+          },
+          {
+            "level": 35,
+            "attacks": [
+              "Calm Mind"
+            ]
+          },
+          {
+            "level": 42,
+            "attacks": [
+              "Psychic"
+            ]
+          },
+          {
+            "level": 49,
+            "attacks": [
+              "Heal Pulse"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Dream Eater"
+            ]
+          },
+          {
+            "level": 63,
+            "attacks": [
+              "Future Sight"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Expanding Force",
+          "Misty Explosion",
+          "Triple Axel"
+        ],
+        "eggMoves": [
+          "Confuse Ray",
+          "Destiny Bond",
+          "Disable",
+          "Grudge",
+          "Knock Off",
+          "Mean Look",
+          "Memento",
+          "Shadow Sneak"
+        ],
+        "tmMoves8": [
+          "Mega Punch",
+          "Mega Kick",
+          "Fire Punch",
+          "Ice Punch",
+          "Thunder Punch",
+          "Hyper Beam",
+          "Giga Impact",
+          "Magical Leaf",
+          "Thunder Wave",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Thief",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Charm",
+          "Attract",
+          "Rain Dance",
+          "Sunny Day",
+          "Will-O-Wisp",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Imprison",
+          "Fling",
+          "Power Swap",
+          "Guard Swap",
+          "Trick Room",
+          "Wonder Room",
+          "Magic Room",
+          "Round",
+          "Draining Kiss",
+          "Misty Terrain",
+          "Psychic Terrain",
+          "Mystical Fire"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Thunderbolt",
+          "Psychic",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Encore",
+          "Shadow Ball",
+          "Future Sight",
+          "Taunt",
+          "Trick",
+          "Skill Swap",
+          "Hyper Voice",
+          "Calm Mind",
+          "Focus Blast",
+          "Energy Ball",
+          "Zen Headbutt",
+          "Grass Knot",
+          "Stored Power",
+          "Ally Switch",
+          "Dazzling Gleam"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Captivate",
+          "Charge Beam",
+          "Confide",
+          "Defense Curl",
+          "Double-Edge",
+          "Echoed Voice",
+          "Flash",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Laser Focus",
+          "Lucky Chant",
+          "Magic Coat",
+          "Mimic",
+          "Mud-Slap",
+          "Natural Gift",
+          "Nightmare",
+          "Pain Split",
+          "Psych Up",
+          "Recycle",
+          "Return",
+          "Secret Power",
+          "Shock Wave",
+          "Signal Beam",
+          "Sing",
+          "Snatch",
+          "Swagger",
+          "Synchronoise",
+          "Telekinesis",
+          "Torment",
+          "Toxic"
+        ],
+        "tmMoves7": [
+          "Psyshock",
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Reflect",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Charge Beam",
+          "Will-O-Wisp",
+          "Giga Impact",
+          "Thunder Wave",
+          "Psych Up",
+          "Dream Eater",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Trick Room",
+          "Dazzling Gleam",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Psyshock",
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Reflect",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Charge Beam",
+          "Will-O-Wisp",
+          "Giga Impact",
+          "Flash",
+          "Thunder Wave",
+          "Psych Up",
+          "Dream Eater",
+          "Grass Knot",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Trick Room",
+          "Secret Power",
+          "Dazzling Gleam",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Psyshock",
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Telekinesis",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Reflect",
+          "Torment",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Round",
+          "Echoed Voice",
+          "Ally Switch",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Charge Beam",
+          "Will-O-Wisp",
+          "Giga Impact",
+          "Flash",
+          "Thunder Wave",
+          "Psych Up",
+          "Dream Eater",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Trick Room"
+        ],
+        "tmMoves4": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Reflect",
+          "Shock Wave",
+          "Torment",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Skill Swap",
+          "Snatch",
+          "Focus Blast",
+          "Energy Ball",
+          "Fling",
+          "Charge Beam",
+          "Endure",
+          "Recycle",
+          "Giga Impact",
+          "Flash",
+          "Thunder Wave",
+          "Psych Up",
+          "Captivate",
+          "Sleep Talk",
+          "Natural Gift",
+          "Dream Eater",
+          "Grass Knot",
+          "Swagger",
+          "Substitute",
+          "Trick Room"
+        ],
+        "tmMoves3": [
+          "Calm Mind",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Taunt",
+          "Hyper Beam",
+          "Light Screen",
+          "Protect",
+          "Rain Dance",
+          "Safeguard",
+          "Frustration",
+          "Thunderbolt",
+          "Return",
+          "Psychic",
+          "Shadow Ball",
+          "Double Team",
+          "Reflect",
+          "Shock Wave",
+          "Torment",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Thief",
+          "Skill Swap",
+          "Snatch"
+        ],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Synchronize",
+          "Trace"
+        ],
+        "hiddenAbilities": [
+          "Telepathy"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 65,
+        "specialAttack": 125,
+        "specialDefense": 115,
+        "speed": 80
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 208,
+        "baseFriendship": 35,
+        "spawnLevel": 30,
+        "spawnLevelRange": 35,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/282_gardevoir/all/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.gardevoir",
+                "pixelmon.mob.gardevoir"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+            {
+              "name": "valentine",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/valentine/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/valentine/sprite.png",
+              "particle": ""
+            },
+            {
+              "name": "strike",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/strike/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/strike/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "akuma",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-akuma/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-akuma/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "angelic",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-angelic/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-angelic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cheongsam",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-cheongsam/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-cheongsam/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "city",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-city/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-city/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hunter",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-hunter/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-hunter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "musical",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-musical/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-musical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow 1",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-shadow1/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-shadow1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "shadow 2",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-shadow2/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-shadow2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "spring",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-spring/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-spring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-val1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 2",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/base/custom-val2/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/base/custom-val2/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "AMORPHOUS",
+        "HUMAN_LIKE"
+      ],
+      "types": [
+        "PSYCHIC",
+        "FAIRY"
+      ],
+      "preEvolutions": [
+        "Kirlia",
+        "Ralts"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [
+        "pixelmon:gardevoirite"
+      ],
+      "megas": [
+        "mega"
+      ],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 48.4,
+      "catchRate": 45,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "specialAttack": 3
+      }
+    },
+    {
+      "name": "mega",
+      "tags": [
+        "temp"
+      ],
+      "dimensions": {
+        "height": 1.5,
+        "width": 1.0,
+        "length": 1.0
+      },
+      "abilities": {
+        "abilities": [
+          "Pixilate"
+        ]
+      },
+      "battleStats": {
+        "hp": 68,
+        "attack": 85,
+        "defense": 65,
+        "specialAttack": 165,
+        "specialDefense": 135,
+        "speed": 100
+      },
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/none/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/282_gardevoir/all/mega/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "angelic",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-angelic/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-angelic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "cheongsam",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-cheongsam/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-cheongsam/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "fusion",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-fusion/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-fusion/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "halloween",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-halloween/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-halloween/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hunter",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-hunter/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-hunter/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "musical",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-musical/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-musical/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "neon",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-neon/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-neon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "spring",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-spring/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-spring/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "valentines 1",
+              "texture": "pixelmon:pokemon/282_gardevoir/all/mega/custom-val1/texture.png",
+              "sprite": "pixelmon:pokemon/282_gardevoir/all/mega/custom-val1/sprite.png",
+              "particle": ""
+            }			
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 3
+}

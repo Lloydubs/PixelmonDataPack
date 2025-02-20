@@ -1,0 +1,36 @@
+{
+    "attackIndex": 900128,
+    "attackName": "Summon Apocalypse",
+    "attackType": "FLYING",
+    "attackCategory": "SPECIAL",
+    "basePower": 100,
+    "ppBase": 1,
+    "ppMax": 1,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "increment": 50,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "RevivalBlessing"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "BeatUp"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": true
+    }
+}

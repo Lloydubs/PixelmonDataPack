@@ -1,0 +1,326 @@
+{
+  "id": "Regieleki",
+  "spawnInfos": [
+    {
+      "spec": "species:Regieleki level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 1.0
+    },
+	{
+      "spec": "species:Regieleki palette:akuma level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:christmas 1 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:christmas 2 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:crimson level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:deep sea level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:easter level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:gamma level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:irradiated level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:meadownian 1 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:meadownian 2 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:summer 1 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:summer 2 level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:sweetshop level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+	{
+      "spec": "species:Regieleki palette:temple level:40",
+      "stringLocationTypes": [
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/end"
+        ]
+      },
+      "rarity": 0.1
+    },
+    {
+      "spec": "species:Regieleki palette:spirit level:40",
+      "stringLocationTypes": [
+        "Land",
+        "Manmade"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "MIDNIGHT"
+        ],
+        "structures": [
+          "pixelmon:graveyard"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

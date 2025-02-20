@@ -1,0 +1,307 @@
+{
+	"name": "Garurumon",
+	"dex": 2117,
+	"defaultForms": [
+		""
+	],
+	"forms": [{
+		"name": "",
+		"experienceGroup": "MEDIUM_SLOW",
+		"dimensions": {
+			"height": 1.8,
+			"width": 1.3,
+			"length": 2.0,
+			"eyeHeight": 1.8,
+			"hoverHeight": 1.8
+		},
+		"moves": {
+			"levelUpMoves": [{
+					"level": 0,
+					"attacks": [
+						"Growl",
+						"Scratch"
+					]
+				},
+				{
+					"level": 4,
+					"attacks": [
+						"Double Slap"
+					]
+				},
+				{
+					"level": 8,
+					"attacks": [
+						"Mist"
+					]
+				},
+				{
+					"level": 12,
+					"attacks": [
+						"Icy Wind"
+					]
+				},
+				{
+					"level": 20,
+					"attacks": [
+						"Bite"
+					]
+				},
+				{
+					"level": 23,
+					"attacks": [
+						"Aurora Beam"
+					]
+				},
+				{
+					"level": 28,
+					"attacks": [
+						"Glaciate"
+					]
+				},
+				{
+					"level": 32,
+					"attacks": [
+						"High Jump Kick"
+					]
+				},
+				{
+					"level": 36,
+					"attacks": [
+						"Volt Switch"
+					]
+				},
+				{
+					"level": 40,
+					"attacks": [
+						"Flash Cannon"
+					]
+				},
+				{
+					"level": 48,
+					"attacks": [
+						"Blue Flare"
+					]
+				},
+				{
+					"level": 54,
+					"attacks": [
+						"Ice Beam"
+					]
+				}
+			],
+			"tutorMoves": [
+          "Hydro Cannon",
+          "Zap Cannon",
+          "Steel Beam",
+                                "Steel Beam",
+                                "Steel Roller",
+                                "Triple Axel"
+			],
+			"eggMoves": [
+			],
+			"tmMoves8": [
+          "Ice Punch",
+          "Pin Missile",
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Icy Wind",
+          "Rain Dance",
+          "Hail",
+          "Facade",
+          "Rock Tomb",
+          "Icicle Spear",
+          "Rock Blast",
+          "Payback",
+          "Avalanche",
+          "Thunder Fang",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum",
+          "Weather Ball",
+          "Fake Tears",
+          "Icicle Spear",
+          "Avalanche",
+          "Ice Fang",
+          "Round",
+          "Bulldoze",
+          "Snarl",
+          "Smart Strike",
+          "Stomping Tantrum",
+          "Retaliate"
+			],
+			"trMoves": [
+				"Swords Dance",
+          "Thunderbolt",
+          "Thunder",
+          "Substitute",
+          "Endure",
+          "Uproar",
+          "Trick",
+          "Dark Pulse",
+          "Nasty Plot",
+          "Electro Ball",
+				"Outrage",
+				"Endure",
+				"Sleep Talk",
+				"Iron Tail",
+          "Ice Beam",
+          "Blizzard",
+          "Focus Energy",
+          "Endure",
+          "Sleep Talk",
+          "Superpower",
+          "Iron Defense",
+          "Close Combat",
+          "Heavy Slam",
+          "High Horsepower",
+          "Throat Chop",
+          "Body Press",
+          "Baton Pass",
+          "Iron Tail",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Stored Power",
+          "Work Up"
+			],
+			"hmMoves": [],
+			"transferMoves": [
+			],
+			"tmMoves7": [
+			],
+			"tmMoves6": [
+			],
+			"tmMoves5": [
+			],
+			"tmMoves4": [
+			],
+			"tmMoves3": [
+			],
+			"tmMoves2": [
+			],
+			"tmMoves1": [
+			],
+			"tmMoves": []
+		},
+		"abilities": {
+			"abilities": [
+				"FurCoat"
+			],
+			"hiddenAbilities": [
+				"BallFetch"
+			]
+		},
+		"movement": {
+			"rideable": true,
+			"canFly": false,
+			"canSurf": false,
+			"canRideShoulder": false,
+				"ridingOffsets": {
+					"standing": {
+						"x": 0.0,
+						"y": 0.3,
+						"z": 0.15
+					},
+					"moving": {
+						"x": 2,
+						"y": 0,
+						"z": 2.7
+               }
+                          }
+			},
+		"aggression": {
+			"timid": 80,
+			"passive": 0,
+			"aggressive": 20
+		},
+		"battleStats": {
+			"hp": 62,
+			"attack": 70,
+			"defense":65,
+			"specialAttack": 94,
+			"specialDefense": 67,
+			"speed": 92
+		},
+		"tags": ["legendary"],
+		"spawn": {
+			"baseExp": 102,
+			"baseFriendship": 70,
+			"spawnLevel": 20,
+			"spawnLevelRange": 5,
+			"spawnLocations": [
+				"LAND"
+			]
+		},
+		"possibleGenders": [
+			"MALE",
+			"FEMALE"
+		],
+		"genderProperties": [{
+			"gender": "ALL",
+			"palettes": [{
+					"name": "none",
+					"texture": "pixelmon:pokemon/2117_garurumon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2117_garurumon/all/base/none/emissive.png",
+                                        "emissive": "pixelmon:pokemon/2117_garurumon/all/base/none/emissive.png",
+					"sprite": "pixelmon:pokemon/2117_garurumon/all/base/none/sprite.png",
+					"particle": "",
+					"modelLocator": {
+						"factoryType": "NORMAL",
+						"pqc": [
+							"pixelmon:pokemon/2117_garurumon/all/base/none/model.pqc"
+						]
+					}
+				},
+				{
+					"name": "shiny",
+					"texture": "pixelmon:pokemon/2117_garurumon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2117_garurumon/all/base/shiny/emissive.png",
+					"sprite": "pixelmon:pokemon/2117_garurumon/all/base/shiny/sprite.png",
+					"particle": "arcanery:shiny"
+				}
+			]
+		}],
+		"eggGroups": [
+			"UNDISCOVERED"
+		],
+		"types": [
+			"ICE"
+		],
+		"preEvolutions": [ "Gabumon"
+		],
+		"defaultBaseForm": "",
+		"megaItems": [],
+		"megas": [],
+		"gigantamax": {
+			"canHaveFactor": false,
+			"canGigantamax": false
+		},
+		"eggCycles": 21,
+		"weight": 22.0,
+		"catchRate": 75,
+		"malePercentage": -1,
+		"evolutions": [
+                               {
+				"level": 32,
+				"to": "WereGarurumon",
+				"conditions": [],
+				"evoType": "leveling",
+				"moves": [
+					"Vacuum Wave",
+                                        "Circle Moon Kick"
+				]
+			}
+			
+		],
+		"evYields": {
+			"specialattack": 1,
+                        "attack":1,
+                        "speed":1
+		}
+	}],
+	"generation": 20
+}

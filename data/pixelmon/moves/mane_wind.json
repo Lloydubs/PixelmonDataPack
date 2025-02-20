@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900091,
+    "attackName": "Mane Wind",
+    "attackType": "FLYING",
+    "attackCategory": "SPECIAL",
+    "basePower": 95,
+    "ppBase": 20,
+    "ppMax": 25,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+    {
+      "stages": 1,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "CriticalHit"
+    },
+    {
+      "type": "Flinch",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 25.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Flinch"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

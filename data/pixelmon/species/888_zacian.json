@@ -1,0 +1,483 @@
+{
+  "name": "Zacian",
+  "dex": 888,
+  "defaultForms": [
+    "hero"
+  ],
+  "forms": [
+    {
+      "name": "hero",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 2.0,
+        "width": 2.4,
+        "length": 1,
+        "eyeHeight": 2.0,
+        "hoverHeight": 2.0
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Bite",
+              "Howl",
+              "Metal Claw",
+              "Quick Attack",
+              "Quick Guard",
+              "Sacred Sword"
+            ]
+          },
+          {
+            "level": 11,
+            "attacks": [
+              "Slash"
+            ]
+          },
+          {
+            "level": 22,
+            "attacks": [
+              "Swords Dance"
+            ]
+          },
+          {
+            "level": 33,
+            "attacks": [
+              "Iron Head"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Laser Focus"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 66,
+            "attacks": [
+              "Moonblast"
+            ]
+          },
+          {
+            "level": 77,
+            "attacks": [
+              "Close Combat"
+            ]
+          },
+          {
+            "level": 88,
+            "attacks": [
+              "Giga Impact"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Steel Beam"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Solar Blade",
+          "Dig",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Scary Face",
+          "Facade",
+          "Swift",
+          "Helping Hand",
+          "Revenge",
+          "Brick Break",
+          "Imprison",
+          "Assurance",
+          "Thunder Fang",
+          "Ice Fang",
+          "Fire Fang",
+          "Psycho Cut",
+          "Round",
+          "Retaliate",
+          "Tail Slap",
+          "Snarl",
+          "False Swipe",
+          "Air Slash",
+          "Brutal Swing"
+        ],
+        "trMoves": [
+          "Swords Dance",
+          "Agility",
+          "Focus Energy",
+          "Substitute",
+          "Reversal",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Hyper Voice",
+          "Close Combat",
+          "Focus Blast",
+          "Iron Head",
+          "Work Up",
+          "Wild Charge",
+          "Play Rough",
+          "Psychic Fangs"
+        ],
+        "hmMoves": [],
+        "transferMoves": [],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "IntrepidSword"
+        ],
+        "hiddenAbilities": []
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.4
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -1.0,
+            "z": 0.4
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 115,
+        "specialAttack": 80,
+        "specialDefense": 115,
+        "speed": 138
+      },
+      "tags": [
+        "legendary",
+        "cannot_dynamax"
+      ],
+      "spawn": {
+        "baseExp": 335,
+        "baseFriendship": 0,
+        "spawnLevel": 70,
+        "spawnLevelRange": 0,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/none/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/888_zacian/all/hero/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.zacian"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "anubis 1",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis1/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 2",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis2/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 3",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis3/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-anubis3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "battlecast",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-battlecast/texture.png",
+			  "emissive": "pixelmon:pokemon/888_zacian/all/hero/custom-battlecast/emissive.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-battlecast/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "molten",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-molten/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-molten/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nintendo",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-nintendo/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-nintendo/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "phantom",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-phantom/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-phantom/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "video game",
+              "texture": "pixelmon:pokemon/888_zacian/all/hero/custom-videogame/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/hero/custom-videogame/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD"
+      ],
+      "types": [
+        "FAIRY"
+      ],
+      "preEvolutions": [],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 121,
+      "weight": 110.0,
+      "catchRate": 10,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "speed": 3
+      }
+    },
+    {
+      "name": "crowned",
+      "tags": [
+        "temp",
+        "legendary",
+        "cannot_dynamax"
+      ],
+      "battleStats": {
+        "hp": 92,
+        "attack": 150,
+        "defense": 115,
+        "specialAttack": 80,
+        "specialDefense": 115,
+        "speed": 148
+      },
+      "types": [
+        "FAIRY",
+        "STEEL"
+      ],
+      "weight": 355.0,
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/none/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/888_zacian/all/crowned/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "anubis 1",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis1/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 2",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis2/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "anubis 3",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis3/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-anubis3/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "arctic",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-arctic/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-arctic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "battlecast",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-battlecast/texture.png",
+			  "emissive": "pixelmon:pokemon/888_zacian/all/crowned/custom-battlecast/emissive.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-battlecast/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "crimson",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-crimson/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-crimson/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "demonic",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-demonic/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-demonic/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "galaxy",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-galaxy/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-galaxy/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nintendo",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-nintendo/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-nintendo/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "nippon",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-nippon/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-nippon/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "norse",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-norse/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-norse/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "phantom",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-phantom/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-phantom/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 1",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-staff1/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-staff1/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "staff 2",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-staff2/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-staff2/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "video game",
+              "texture": "pixelmon:pokemon/888_zacian/all/crowned/custom-videogame/texture.png",
+              "sprite": "pixelmon:pokemon/888_zacian/all/crowned/custom-videogame/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "generation": 8
+}

@@ -1,0 +1,191 @@
+{
+  "id": "Necrozma",
+  "spawnInfos": [
+    {
+      "spec": "species:Necrozma level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Necrozma palette:crimson level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Necrozma palette:demonic level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Necrozma palette:galaxy level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Necrozma palette:god level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Necrozma palette:magma level:65",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "tags": [
+        "legendary"
+      ],
+      "interval": "legendary",
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:n_solarizer",
+          "percentChance": 50
+        },
+        {
+          "itemID": "pixelmon:n_lunarizer",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/roofed"
+        ],
+        "maxY": 85
+      },
+      "rarity": 0.05
+    }
+  ]
+}

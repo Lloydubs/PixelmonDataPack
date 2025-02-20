@@ -1,0 +1,119 @@
+{
+  "id": "Watchog",
+  "spawnInfos": [
+    {
+      "spec": "species:Watchog",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 40.0
+    },
+	{
+      "spec": "species:Watchog palette:christmas",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Watchog palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Watchog palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Watchog palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    },
+	{
+      "spec": "species:Watchog palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 21,
+      "maxLevel": 33,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 4.0
+    }
+  ]
+}

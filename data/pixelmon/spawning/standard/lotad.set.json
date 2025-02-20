@@ -1,0 +1,195 @@
+{
+  "id": "Lotad",
+  "spawnInfos": [
+    {
+      "spec": "species:Lotad",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 130.0
+    },
+	{
+      "spec": "species:Lotad palette:christmas",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Lotad palette:easter",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Lotad palette:fall",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    },
+	{
+      "spec": "species:Lotad palette:trick or treat",
+      "stringLocationTypes": [
+        "Land",
+        "Sweet Scent"
+      ],
+      "minLevel": 3,
+      "maxLevel": 14,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:mental_herb",
+          "percentChance": 5
+        }
+      ],
+      "condition": {
+        "weathers": [
+          "RAIN"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/swamps",
+          "#pixelmon:spawning/lakes"
+        ]
+      },
+      "rarityMultipliers": [
+        {
+          "multiplier": 2,
+          "condition": {
+            "neededNearbyBlocks": [
+              "minecraft:lily_pad",
+              "biomesoplenty:huge_lily_pad",
+              "byg:tiny_lilypads"
+            ]
+          }
+        }
+      ],
+      "rarity": 13.0
+    }
+  ]
+}

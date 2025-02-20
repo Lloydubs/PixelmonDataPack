@@ -1,0 +1,46 @@
+{
+    "attackIndex": 900045,
+    "attackName": "Eternal Nightmare",
+    "attackType": "Dark",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 3,
+    "ppMax": 4,
+    "accuracy": 75,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Sleep",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Sleep"
+    },
+    {
+      "type": "Nightmare",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "Nightmare"
+    },
+    {
+      "type": "Accuracy",
+      "amount": -1,
+      "isUser": false,
+      "modifiers": [
+      ],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+  ],
+  "animations": [
+    "leapForward"
+  ],
+  "targetingInfo": {
+    "hitsAll": false,
+    "hitsOppositeFoe": true,
+    "hitsAdjacentFoe": true,
+    "hitsExtendedFoe": false,
+    "hitsSelf": false,
+    "hitsAdjacentAlly": true,
+    "hitsExtendedAlly": false
+    }
+}

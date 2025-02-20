@@ -1,0 +1,81 @@
+{
+  "id": "Jumpluff",
+  "spawnInfos": [
+    {
+      "spec": "species:Jumpluff",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 27,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Jumpluff palette:christmas",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 27,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Jumpluff palette:easter",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 27,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    },
+	{
+      "spec": "species:Jumpluff palette:halloween",
+      "stringLocationTypes": [
+        "Air"
+      ],
+      "minLevel": 27,
+      "maxLevel": 55,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "AFTERNOON"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/plains",
+          "#pixelmon:spawning/flowery"
+        ]
+      },
+      "rarity": 0.05
+    }
+  ]
+}

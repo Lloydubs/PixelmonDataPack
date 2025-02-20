@@ -1,0 +1,42 @@
+{
+    "attackIndex": 900090,
+    "attackName": "Magna Blast",
+    "attackType": "PSYCHIC",
+    "attackCategory": "SPECIAL",
+    "basePower": 35,
+    "ppBase": 10,
+    "ppMax": 20,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+        {
+            "minHits": 3,
+            "maxHits": 3,
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "MultipleHit"
+        }
+    ],
+    "animations": [
+            {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"texture": "FLAME",
+				"rgb": [153, 255, 255],
+				"scale": 0.3
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

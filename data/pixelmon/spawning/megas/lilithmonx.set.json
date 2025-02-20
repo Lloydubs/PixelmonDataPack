@@ -1,0 +1,21 @@
+{
+  "id": "Lilithmon X",
+  "spawnInfos": [
+    {
+      "spec": "species:Lilithmon",
+      "stringLocationTypes": [
+        "LAND"
+      ],
+      "spawnSpecificBossRate": 1,
+      "condition": {
+        "stringBiomes": [
+          "minecraft:sunflower_plains",
+          "plains"
+        ]
+      },
+      "interval": "megaBoss",
+      "typeID": "pokemon",
+      "rarity": 0.2
+    }
+  ]
+}

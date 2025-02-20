@@ -1,0 +1,100 @@
+{
+  "id": "Patrat",
+  "spawnInfos": [
+    {
+      "spec": "species:Patrat",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Patrat palette:fusion",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Patrat palette:hero",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Patrat palette:spotted",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Patrat palette:summer",
+      "stringLocationTypes": [
+        "Land"
+      ],
+      "minLevel": 6,
+      "maxLevel": 17,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/savannas",
+          "#pixelmon:spawning/plains"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

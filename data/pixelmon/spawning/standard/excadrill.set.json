@@ -1,0 +1,70 @@
+{
+  "id": "Excadrill",
+  "spawnInfos": [
+    {
+      "spec": "species:Excadrill",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 6.0
+    },
+	{
+      "spec": "species:Excadrill plette:gembound",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Excadrill plette:mecha",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Excadrill plette:soulfire",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 0.6
+    },
+	{
+      "spec": "species:Excadrill plette:terror",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 32,
+      "maxLevel": 44,
+      "typeID": "pokemon",
+      "condition": {
+        "maxY": 80
+      },
+      "rarity": 0.6
+    }
+  ]
+}

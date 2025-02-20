@@ -1,0 +1,227 @@
+{
+  "id": "Spinarak",
+  "spawnInfos": [
+    {
+      "spec": "species:Spinarak",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 1",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 2",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 3",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:shadow 1",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:shadow 2",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "NIGHT"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests",
+          "#pixelmon:spawning/evil",
+          "byg:crag_gardens"
+        ]
+      },
+      "rarity": 25.0
+    },
+    {
+      "spec": "species:Spinarak",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 250.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:halloween 3",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:shadow 1",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 25.0
+    },
+	{
+      "spec": "species:Spinarak palette:shadow 2",
+      "stringLocationTypes": [
+        "Underground"
+      ],
+      "minLevel": 5,
+      "maxLevel": 21,
+      "typeID": "pokemon",
+      "condition": {
+        "biomes": [
+          "biomesoplenty:spider_nest",
+          "terralith:cave/infested_caves"
+        ]
+      },
+      "rarity": 25.0
+    }
+  ]
+}

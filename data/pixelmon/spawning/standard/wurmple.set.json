@@ -1,0 +1,165 @@
+{
+  "id": "Wurmple",
+  "spawnInfos": [
+    {
+      "spec": "species:Wurmple",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 300.0
+    },
+	{
+      "spec": "species:Wurmple palette:alluring",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Wurmple palette:glass",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Wurmple palette:halloween",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 30.0
+    },
+	{
+      "spec": "species:Wurmple palette:valentines",
+      "stringLocationTypes": [
+        "Land",
+        "Headbutt",
+        "Sweet Scent",
+        "Forage"
+      ],
+      "minLevel": 4,
+      "maxLevel": 8,
+      "typeID": "pokemon",
+      "heldItems": [
+        {
+          "itemID": "pixelmon:bright_powder",
+          "percentChance": 5
+        },
+        {
+          "itemID": "pixelmon:pecha_berry",
+          "percentChance": 50
+        }
+      ],
+      "condition": {
+        "times": [
+          "DAWN",
+          "DUSK"
+        ],
+        "biomes": [
+          "#pixelmon:spawning/all_forests"
+        ]
+      },
+      "rarity": 30.0
+    }
+  ]
+}

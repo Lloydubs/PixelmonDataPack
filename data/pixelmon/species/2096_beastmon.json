@@ -1,0 +1,364 @@
+{
+  "name": "Beastmon",
+  "dex": 2096,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "MEDIUM_SLOW",
+      "dimensions": {
+        "height": 2.1,
+        "width": 1.3,
+        "length": 1,
+        "eyeHeight": 2.1,
+        "hoverHeight": 2.1
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Growl",
+              "Scratch",
+              "Drill Run",
+              "Mind Fogger"
+            ]
+          },
+          {
+            "level": 4,
+            "attacks": [
+              "Sweet Kiss"
+            ]
+          },
+          {
+            "level": 8,
+            "attacks": [
+              "Pound"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Fairy Wind"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Heart Stamp"
+            ]
+          },
+          {
+            "level": 23,
+            "attacks": [
+              "Return"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Bone Club"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Sky Uppercut"
+            ]
+          },
+          {
+            "level": 36,
+            "attacks": [
+              "Extreme Speed"
+            ]
+          },
+          {
+            "level": 40,
+            "attacks": [
+              "Play Rough"
+            ]
+          },
+          {
+            "level": 45,
+            "attacks": [
+              "Close Combat"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Behemoth Blade"
+            ]
+          },
+          {
+            "level": 55,
+            "attacks": [
+              "Head Charge"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Calm Mind",
+          "Dazzling Gleam",
+          "Earth Power",
+          "Giga Impact",
+          "Expanding Force",
+          "Mystical Fire",
+          "Play Rough",
+          "Power Shift",
+          "Psychic",
+          "Rest",
+          "Dual Wingbeat",
+          "Corrosive Gas",
+          "Zen Headbutt"
+        ],
+        "eggMoves": [],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Light Screen",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Rock Slide",
+          "Pay Day",
+          "Thunder Punch",
+          "Fire Punch",
+          "Ice Punch",
+          "Mega Punch",
+          "Mega Kick",
+          "Fly",
+          "Hyper Beam",
+          "Bounce",
+          "Reflect",
+          "Safeguard",
+          "Rest",
+          "Snore",
+          "Protect",
+          "Fling",
+          "Drain Punch",
+          "Low Sweep",
+          "Swift",
+          "Rock Tomb",
+          "Sand Tomb",
+          "U-turn",
+          "Misty Terrain",
+          "Psychic Terrain",
+          "Draining Kiss",
+          "Mystical Fire",
+          "Air Slash",
+          "Brutal Swing",
+          "Smart Strike"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Low Kick",
+          "Psychic",
+          "Agility",
+          "Low Kick",
+          "Thunderbolt",
+          "Thunder",
+          "Agility",
+          "Substitute",
+          "Amnesia",
+          "Tri Attack",
+          "Substitute",
+          "Psyshock",
+          "Endure",
+          "Sleep Talk",
+          "Taunt",
+          "Bulk Up",
+          "Shadow Ball",
+          "Hyper Voice",
+          "Cosmic Power",
+          "Close Combat",
+          "Trick",
+          "Hyper Voice",
+          "Earth Power",
+          "Stone Edge",
+          "Stealth Rock",
+          "Stored Power",
+          "Focus Blast",
+          "Grass Knot",
+          "Work Up",
+          "Drill Run",
+          "Play Rough",
+          "Work Up",
+          "Hurricane",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "After You",
+          "Confide",
+          "Covet",
+          "Double Team",
+          "Endeavor",
+          "Covet",
+          "Cut",
+          "Dizzy Punch",
+          "Double Team",
+          "Defog",
+          "Detect",
+          "Double Team",
+          "Dream Eater",
+          "Last Resort",
+          "Mud Sport",
+          "Mud-Slap",
+          "Natural Gift",
+          "Power-Up Punch",
+          "Frustration",
+          "Headbutt",
+          "Heal Bell",
+          "Hidden Power",
+          "Incinerate",
+          "Laser Focus",
+          "Lucky Chant",
+          "Magic Coat",
+          "Mimic",
+          "Mirror Move",
+          "Mud-Slap",
+          "Natural Gift",
+          "Ominous Wind",
+          "Pluck",
+          "Psych Up",
+          "Return",
+          "Rock Smash",
+          "Rollout",
+          "Roost",
+          "Secret Power",
+          "Seismic Toss",
+          "Shock Wave",
+          "Rock Throw",
+          "Secret Power",
+          "Sharpen",
+          "Swagger",
+          "Swagger",
+          "Tailwind",
+          "Telekinesis",
+          "Toxic",
+          "Twister",
+          "Water Pulse",
+          "Zap Cannon"
+        ],
+        "tmMoves7": [],
+        "tmMoves6": [],
+        "tmMoves5": [],
+        "tmMoves4": [],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "Unaware"
+        ],
+        "hiddenAbilities": [
+          "Stakeout"
+        ]
+      },
+      "movement": {
+        "rideable": false,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 87,
+        "attack": 114,
+        "defense": 94,
+        "specialAttack": 82,
+        "specialDefense": 81,
+        "speed": 102
+      },
+      "tags": [
+        "legendary"
+      ],
+      "spawn": {
+        "baseExp": 220,
+        "baseFriendship": 70,
+        "spawnLevel": 32,
+        "spawnLevelRange": 5,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "ALL",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/2096_beastmon/all/base/none/texture.png",                                                                 "emissive": "pixelmon:pokemon/2096_beastmon/all/base/none/emissive.png",
+              "sprite": "pixelmon:pokemon/2096_beastmon/all/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/2096_beastmon/all/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/2096_beastmon/all/base/shiny/texture.png",                                                                 "emissive": "pixelmon:pokemon/2096_beastmon/all/base/shiny/emissive.png",
+              "sprite": "pixelmon:pokemon/2096_beastmon/all/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "UNDISCOVERED"
+      ],
+      "types": [
+        "GROUND",
+        "FIGHTING"
+      ],
+      "preEvolutions": [
+        "Mikemon"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 21,
+      "weight": 27.7,
+      "catchRate": 50,
+      "malePercentage": -1,
+      "evolutions": [
+        {
+          "level": 45,
+          "to": "Minervamon",
+          "conditions": [],
+          "evoType": "leveling",
+          "moves": [
+            "Precipice Blades",
+            "Madness Merry-Go-Round",
+            "Rolling Strike"
+          ]
+        }
+      ],
+      "evYields": {
+        "speed": 2,
+        "attack": 1
+      }
+    }
+  ],
+  "generation": 20
+}

@@ -1,0 +1,54 @@
+{
+    "attackIndex": 900113,
+    "attackName": "Rot Kreuz",
+    "attackType": "ELECTRIC",
+    "attackCategory": "PHYSICAL",
+    "basePower": 130,
+    "ppBase": 10,
+    "ppMax": 15,
+    "accuracy": 90,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Paralysis",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 25.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Paralysis"
+        },
+        {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "IgnoreDefense"
+    }
+    ],
+    "animations": [
+                  {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "beam",
+				"texture": "NORMAL",
+				"rgb": [255, 0, 0],
+				"variation": 0.6,
+				"speed": 0.6,
+				"scale": 0.1,
+				"segments": 20
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

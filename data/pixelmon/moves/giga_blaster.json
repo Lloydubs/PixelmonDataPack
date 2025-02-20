@@ -1,0 +1,44 @@
+{
+    "attackIndex": 900064,
+    "attackName": "Giga Blaster",
+    "attackType": "FIRE",
+    "attackCategory": "PHYSICAL",
+    "basePower": 90,
+    "ppBase": 5,
+    "ppMax": 10,
+    "accuracy": 80,
+    "makesContact": false,
+    "effects": [
+        {
+            "type": "Flinch",
+            "modifiers": [
+                {
+                    "type": "Chance",
+                    "value": 40.0
+                }
+            ],
+            "persists": false,
+            "effectTypeID": "Flinch"
+        }
+    ],
+    "animations": [
+    {
+		"id": "stationary",
+		"effects": {
+			"0": {
+				"id": "ball",
+				"scale": 0.7
+			}
+		}
+	}
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

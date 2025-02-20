@@ -1,0 +1,551 @@
+{
+  "name": "Hippowdon",
+  "dex": 450,
+  "defaultForms": [
+    ""
+  ],
+  "forms": [
+    {
+      "name": "",
+      "experienceGroup": "SLOW",
+      "dimensions": {
+        "height": 1.5,
+        "width": 1.6,
+        "length": 1,
+        "eyeHeight": 1.5,
+        "hoverHeight": 1.5
+      },
+      "moves": {
+        "levelUpMoves": [
+          {
+            "level": 0,
+            "attacks": [
+              "Bite",
+              "Fire Fang",
+              "Ice Fang",
+              "Sand Attack",
+              "Tackle",
+              "Thunder Fang",
+              "Yawn"
+            ]
+          },
+          {
+            "level": 12,
+            "attacks": [
+              "Sand Tomb"
+            ]
+          },
+          {
+            "level": 16,
+            "attacks": [
+              "Dig"
+            ]
+          },
+          {
+            "level": 20,
+            "attacks": [
+              "Crunch"
+            ]
+          },
+          {
+            "level": 24,
+            "attacks": [
+              "Sandstorm"
+            ]
+          },
+          {
+            "level": 28,
+            "attacks": [
+              "Take Down"
+            ]
+          },
+          {
+            "level": 32,
+            "attacks": [
+              "Roar"
+            ]
+          },
+          {
+            "level": 38,
+            "attacks": [
+              "Rest"
+            ]
+          },
+          {
+            "level": 44,
+            "attacks": [
+              "Earthquake"
+            ]
+          },
+          {
+            "level": 50,
+            "attacks": [
+              "Double-Edge"
+            ]
+          },
+          {
+            "level": 56,
+            "attacks": [
+              "Fissure"
+            ]
+          },
+          {
+            "level": 62,
+            "attacks": [
+              "Slack Off"
+            ]
+          }
+        ],
+        "tutorMoves": [
+          "Scorching Sands"
+        ],
+        "eggMoves": [
+          "Curse",
+          "Spit Up",
+          "Stockpile",
+          "Swallow",
+          "Whirlwind"
+        ],
+        "tmMoves8": [
+          "Hyper Beam",
+          "Giga Impact",
+          "Dig",
+          "Rest",
+          "Rock Slide",
+          "Snore",
+          "Protect",
+          "Attract",
+          "Sandstorm",
+          "Sunny Day",
+          "Facade",
+          "Revenge",
+          "Weather Ball",
+          "Rock Tomb",
+          "Sand Tomb",
+          "Mud Shot",
+          "Thunder Fang",
+          "Ice Fang",
+          "Fire Fang",
+          "Round",
+          "Bulldoze",
+          "Stomping Tantrum"
+        ],
+        "trMoves": [
+          "Body Slam",
+          "Earthquake",
+          "Amnesia",
+          "Substitute",
+          "Endure",
+          "Sleep Talk",
+          "Iron Tail",
+          "Crunch",
+          "Superpower",
+          "Muddy Water",
+          "Earth Power",
+          "Iron Head",
+          "Stone Edge",
+          "Stealth Rock",
+          "Heavy Slam",
+          "High Horsepower",
+          "Body Press"
+        ],
+        "hmMoves": [],
+        "transferMoves": [
+          "Captivate",
+          "Confide",
+          "Double Team",
+          "Frustration",
+          "Headbutt",
+          "Hidden Power",
+          "Mud-Slap",
+          "Natural Gift",
+          "Return",
+          "Rock Smash",
+          "Secret Power",
+          "Strength",
+          "Swagger",
+          "Toxic",
+          "Water Pulse"
+        ],
+        "tmMoves7": [
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Giga Impact",
+          "Stone Edge",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Confide"
+        ],
+        "tmMoves6": [
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Giga Impact",
+          "Stone Edge",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Sleep Talk",
+          "Substitute",
+          "Secret Power",
+          "Confide"
+        ],
+        "tmMoves5": [
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Frustration",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Rest",
+          "Attract",
+          "Round",
+          "Giga Impact",
+          "Stone Edge",
+          "Bulldoze",
+          "Rock Slide",
+          "Swagger",
+          "Substitute",
+          "Rock Smash"
+        ],
+        "tmMoves4": [
+          "Water Pulse",
+          "Roar",
+          "Toxic",
+          "Hidden Power",
+          "Sunny Day",
+          "Hyper Beam",
+          "Protect",
+          "Frustration",
+          "Iron Tail",
+          "Earthquake",
+          "Return",
+          "Dig",
+          "Double Team",
+          "Sandstorm",
+          "Rock Tomb",
+          "Facade",
+          "Secret Power",
+          "Rest",
+          "Attract",
+          "Endure",
+          "Giga Impact",
+          "Stone Edge",
+          "Stealth Rock",
+          "Captivate",
+          "Rock Slide",
+          "Sleep Talk",
+          "Natural Gift",
+          "Swagger",
+          "Substitute"
+        ],
+        "tmMoves3": [],
+        "tmMoves2": [],
+        "tmMoves1": [],
+        "tmMoves": []
+      },
+      "abilities": {
+        "abilities": [
+          "SandStream"
+        ],
+        "hiddenAbilities": [
+          "SandForce"
+        ]
+      },
+      "movement": {
+        "rideable": true,
+        "canFly": false,
+        "canSurf": false,
+        "canRideShoulder": false,
+        "ridingOffsets": {
+          "standing": {
+            "x": 0.0,
+            "y": -0.7,
+            "z": -0.6
+          },
+          "moving": {
+            "x": 0.0,
+            "y": -0.7,
+            "z": -0.6
+          }
+        }
+      },
+      "aggression": {
+        "timid": 80,
+        "passive": 0,
+        "aggressive": 20
+      },
+      "battleStats": {
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "specialAttack": 68,
+        "specialDefense": 72,
+        "speed": 47
+      },
+      "tags": [],
+      "spawn": {
+        "baseExp": 198,
+        "baseFriendship": 70,
+        "spawnLevel": 35,
+        "spawnLevelRange": 11,
+        "spawnLocations": [
+          "LAND"
+        ]
+      },
+      "possibleGenders": [
+        "MALE",
+        "FEMALE"
+      ],
+      "genderProperties": [
+        {
+          "gender": "MALE",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/450_hippowdon/male/base/none/model.pqc"
+                ]
+              },
+              "sounds": [
+                "pixelmon.mob.hippowdon"
+              ]
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "battlecast",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-battlecast/texture.png",
+			  "emissive": "pixelmon:pokemon/450_hippowdon/male/base/custom-battlecast/emissive.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-battlecast/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry blue",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryblue/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryblue/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry green",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungrygreen/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungrygreen/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry red",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryred/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryred/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry yellow",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryyellow/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-hungryyellow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "relic castle",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-relic-castle/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-relic-castle/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "skeletal",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-skeletal/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-skeletal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "steampunk",
+              "texture": "pixelmon:pokemon/450_hippowdon/male/base/custom-steampunk/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/male/base/custom-steampunk/sprite.png",
+              "particle": ""
+            }
+          ]
+        },
+        {
+          "gender": "FEMALE",
+          "palettes": [
+            {
+              "name": "none",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/none/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/none/sprite.png",
+              "particle": "",
+              "modelLocator": {
+                "factoryType": "NORMAL",
+                "pqc": [
+                  "pixelmon:pokemon/450_hippowdon/female/base/none/model.pqc"
+                ]
+              }
+            },
+            {
+              "name": "shiny",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/shiny/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/shiny/sprite.png",
+              "particle": "arcanery:shiny"
+            },
+			{
+              "name": "battlecast",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-battlecast/texture.png",
+			  "emissive": "pixelmon:pokemon/450_hippowdon/female/base/custom-battlecast/emissive.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-battlecast/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "egyptian",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-egyptian/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-egyptian/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry blue",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryblue/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryblue/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry green",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungrygreen/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungrygreen/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry red",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryred/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryred/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "hungry yellow",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryyellow/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-hungryyellow/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "infernal",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-infernal/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-infernal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "relic castle",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-relic-castle/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-relic-castle/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "skeletal",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-skeletal/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-skeletal/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "soulfire",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-soulfire/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-soulfire/sprite.png",
+              "particle": ""
+            },
+			{
+              "name": "steampunk",
+              "texture": "pixelmon:pokemon/450_hippowdon/female/base/custom-steampunk/texture.png",
+              "sprite": "pixelmon:pokemon/450_hippowdon/female/base/custom-steampunk/sprite.png",
+              "particle": ""
+            }
+          ]
+        }
+      ],
+      "eggGroups": [
+        "FIELD"
+      ],
+      "types": [
+        "GROUND"
+      ],
+      "preEvolutions": [
+        "Hippopotas"
+      ],
+      "defaultBaseForm": "",
+      "megaItems": [],
+      "megas": [],
+      "gigantamax": {
+        "canHaveFactor": false,
+        "canGigantamax": false
+      },
+      "eggCycles": 31,
+      "weight": 300.0,
+      "catchRate": 60,
+      "malePercentage": 0,
+      "evolutions": [],
+      "evYields": {
+        "defense": 2
+      }
+    }
+  ],
+  "generation": 4
+}

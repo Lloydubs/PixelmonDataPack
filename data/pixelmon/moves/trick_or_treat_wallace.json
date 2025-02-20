@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900142,
+    "attackName": "Trick or Treat Wallace",
+    "attackType": "GHOST",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 20,
+    "ppMax": 32,
+    "accuracy": -2,
+    "makesContact": false,
+    "effects": [
+    {
+      "maxLayers": 1,
+      "type": "StealthRock",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StealthRock"
+    },
+    {
+      "type": "Confusion",
+      "modifiers": [
+        {
+          "type": "Chance",
+          "value": 50.0
+        }
+      ],
+      "persists": false,
+      "effectTypeID": "Confusion"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": true,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": true,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

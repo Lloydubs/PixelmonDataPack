@@ -1,0 +1,62 @@
+{
+    "attackIndex": 900157,
+    "attackName": "Meteor Gallops",
+    "attackType": "GROUND",
+    "attackCategory": "STATUS",
+    "basePower": 0,
+    "ppBase": 2,
+    "ppMax": 4,
+    "accuracy": -1,
+    "makesContact": false,
+    "effects": [
+    {
+      "type": "Evasion",
+      "amount": 2,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "Speed",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    },
+    {
+      "type": "PartialTrap",
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "PartialTrap"
+    },
+    {
+      "type": "MeanLook",
+      "modifiers": [],
+      "isUser": true,
+      "persists": false,
+      "effectTypeID": "MeanLook"
+    },
+    {
+      "type": "Accuracy",
+      "amount": 1,
+      "isUser": true,
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "StatsEffect"
+    }
+    ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": false,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": false,
+        "hitsExtendedAlly": false
+    }
+}

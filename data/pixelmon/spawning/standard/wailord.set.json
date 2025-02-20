@@ -1,0 +1,203 @@
+{
+  "id": "Wailord",
+  "spawnInfos": [
+    {
+      "spec": "species:Wailord",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 5.0
+    },
+	{
+      "spec": "species:Wailord palette:abyss",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:arctic",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:event",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:glass",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:prismatic",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:rainbow",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:shadow",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    },
+	{
+      "spec": "species:Wailord palette:vapor",
+      "stringLocationTypes": [
+        "Water"
+      ],
+      "minLevel": 40,
+      "maxLevel": 60,
+      "typeID": "pokemon",
+      "condition": {
+        "times": [
+          "DUSK",
+          "DAWN"
+        ],
+        "biomes": [
+          "minecraft:deep_ocean",
+          "minecraft:deep_warm_ocean",
+          "minecraft:deep_lukewarm_ocean",
+          "minecraft:deep_cold_ocean"
+        ]
+      },
+      "rarity": 0.5
+    }
+  ]
+}

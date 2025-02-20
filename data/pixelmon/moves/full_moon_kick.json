@@ -1,0 +1,43 @@
+{
+    "attackIndex": 900055,
+    "attackName": "Full Moon Kick",
+    "attackType": "DARK",
+    "attackCategory": "SPECIAL",
+    "basePower": 90,
+    "ppBase": 20,
+    "ppMax": 30,
+    "accuracy": 80,
+    "makesContact": true,
+    "effects": [
+        {
+            "modifiers": [],
+            "persists": false,
+            "effectTypeID": "RapidSpin"
+        },
+    {
+      "modifiers": [        {
+          "type": "Chance",
+          "value": 33.3
+        }],
+      "persists": false,
+      "effectTypeID": "Flee"
+    },
+    {
+      "modifiers": [],
+      "persists": false,
+      "effectTypeID": "JumpKick"
+    }
+      ],
+    "animations": [
+        "leapForward"
+    ],
+    "targetingInfo": {
+        "hitsAll": false,
+        "hitsOppositeFoe": true,
+        "hitsAdjacentFoe": true,
+        "hitsExtendedFoe": false,
+        "hitsSelf": false,
+        "hitsAdjacentAlly": true,
+        "hitsExtendedAlly": false
+    }
+}

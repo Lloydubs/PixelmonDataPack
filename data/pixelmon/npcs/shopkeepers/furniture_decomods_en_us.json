@@ -1,0 +1,2562 @@
+{
+  "data": {
+    "type": "PokemartSecond"
+  },
+  "textures": [
+{
+"name": "aquaboss.png"
+},
+{
+"name": "aquagruntfemale.png"
+},
+{
+"name": "aquagruntmale.png"
+},
+{
+"name": "artist.png"
+},
+{
+"name": "baker.png"
+},
+{
+"name": "battlegirl.png"
+},
+{
+"name": "blackbelt.png"
+},
+{
+"name": "blacksmith.png"
+},
+{
+"name": "breedergreen_f.png"
+},
+{
+"name": "breedergreen_m.png"
+},
+{
+"name": "bugcatcher1.png"
+},
+{
+"name": "bugcatcher2.png"
+},
+{
+"name": "bugcatcher3.png"
+},
+{
+"name": "bugcatcher4.png"
+},
+{
+"name": "bugcatchergirl.png"
+},
+{
+"name": "cueball.png"
+},
+{
+"name": "cult.png"
+},
+{
+"name": "doctor.png"
+},
+{
+"name": "dress.png"
+},
+{
+"name": "electricleader1.png"
+},
+{
+"name": "engineer.png"
+},
+{
+"name": "evilprofessor.png"
+},
+{
+"name": "firebreather1.png"
+},
+{
+"name": "firebreather2.png"
+},
+{
+"name": "firebreather3.png"
+},
+{
+"name": "firebreather4.png"
+},
+{
+"name": "fireleader2.png"
+},
+{
+"name": "fisherman.png"
+},
+{
+"name": "flaregruntfemale.png"
+},
+{
+"name": "flaregruntmale.png"
+},
+{
+"name": "flyingleader1.png"
+},
+{
+"name": "flyingleader2.png"
+},
+{
+"name": "football1.png"
+},
+{
+"name": "football2.png"
+},
+{
+"name": "galacticboss.png"
+},
+{
+"name": "galacticgruntfemale.png"
+},
+{
+"name": "galacticgruntmale.png"
+},
+{
+"name": "gardenermale1.png"
+},
+{
+"name": "gardenermale2.png"
+},
+{
+"name": "giovanni.png"
+},
+{
+"name": "gnome_trader.png"
+},
+{
+"name": "grassbugleader1.png"
+},
+{
+"name": "guzma.png"
+},
+{
+"name": "hexmaniac.png"
+},
+{
+"name": "hiker.png"
+},
+{
+"name": "iceleader1.png"
+},
+{
+"name": "iceleader2.png"
+},
+{
+"name": "jonsnow.png"
+},
+{
+"name": "knight.png"
+},
+{
+"name": "lass.png"
+},
+{
+"name": "lass2.png"
+},
+{
+"name": "lass3.png"
+},
+{
+"name": "lighthousekeeper.png"
+},
+{
+"name": "list.txt"
+},
+{
+"name": "ListFiles.bat"
+},
+{
+"name": "littleboy.png"
+},
+{
+"name": "littlegirl.png"
+},
+{
+"name": "lumberjack.png"
+},
+{
+"name": "lysandre.png"
+},
+{
+"name": "madame.png"
+},
+{
+"name": "magmaboss.png"
+},
+{
+"name": "magmagruntfemale.png"
+},
+{
+"name": "magmagruntmale.png"
+},
+{
+"name": "mailman.png"
+},
+{
+"name": "mechanic.png"
+},
+{
+"name": "miner.png"
+},
+{
+"name": "monk1.png"
+},
+{
+"name": "monk2.png"
+},
+{
+"name": "monsieur.png"
+},
+{
+"name": "n.png"
+},
+{
+"name": "npcchat1.png"
+},
+{
+"name": "npcchat2.png"
+},
+{
+"name": "nursejoy.png"
+},
+{
+"name": "officerjenny.png"
+},
+{
+"name": "oldfisherman.png"
+},
+{
+"name": "oldman.png"
+},
+{
+"name": "oldwoman.png"
+},
+{
+"name": "ornithologist.png"
+},
+{
+"name": "ornithologist_f.png"
+},
+{
+"name": "piratecaptain.png"
+},
+{
+"name": "pirategrunt1.png"
+},
+{
+"name": "pirategrunt2.png"
+},
+{
+"name": "pkmn_breeder_f.png"
+},
+{
+"name": "plasmagruntfemale.png"
+},
+{
+"name": "plasmagruntmale.png"
+},
+{
+"name": "pokefan_f.png"
+},
+{
+"name": "pokefan_m.png"
+},
+{
+"name": "pokemaniac1.png"
+},
+{
+"name": "pokemaniac2.png"
+},
+{
+"name": "pokemaniac3.png"
+},
+{
+"name": "pokemaniacgirl1.png"
+},
+{
+"name": "pokemaniacgirl2.png"
+},
+{
+"name": "pokemaniacgirl3.png"
+},
+{
+"name": "policeman.png"
+},
+{
+"name": "preschooler_f1.png"
+},
+{
+"name": "prisoner.png"
+},
+{
+"name": "professorras.png"
+},
+{
+"name": "psychic.png"
+},
+{
+"name": "psychicleader1.png"
+},
+{
+"name": "psychic_f.png"
+},
+{
+"name": "punkgirl.png"
+},
+{
+"name": "punkguy.png"
+},
+{
+"name": "rancher.png"
+},
+{
+"name": "ranger_f.png"
+},
+{
+"name": "ranger_m.png"
+},
+{
+"name": "richboy.png"
+},
+{
+"name": "rocketgruntfemale1.png"
+},
+{
+"name": "rocketgruntfemale2.png"
+},
+{
+"name": "rocketgruntfemale3.png"
+},
+{
+"name": "rocketgruntfemale4.png"
+},
+{
+"name": "rocketgruntfemale5.png"
+},
+{
+"name": "rocketgruntfemale6.png"
+},
+{
+"name": "rocketgruntmale1.png"
+},
+{
+"name": "rocketgruntmale2.png"
+},
+{
+"name": "rocketgruntmale3.png"
+},
+{
+"name": "rocketgruntmale4.png"
+},
+{
+"name": "rocketgruntmale5.png"
+},
+{
+"name": "rocketgruntmale6.png"
+},
+{
+"name": "rockleader1.png"
+},
+{
+"name": "sailor.png"
+},
+{
+"name": "sailor2.png"
+},
+{
+"name": "santa.png"
+},
+{
+"name": "schoolboy.png"
+},
+{
+"name": "schoolgirl.png"
+},
+{
+"name": "scientist_f.png"
+},
+{
+"name": "scientist_m.png"
+},
+{
+"name": "scottish.png"
+},
+{
+"name": "shopgirl.png"
+},
+{
+"name": "shoplady.png"
+},
+{
+"name": "shoplady2.png"
+},
+{
+"name": "shoplady3.png"
+},
+{
+"name": "shoplady4.png"
+},
+{
+"name": "shoplady5.png"
+},
+{
+"name": "shopman.png"
+},
+{
+"name": "shopman2.png"
+},
+{
+"name": "shopman3.png"
+},
+{
+"name": "shopman4.png"
+},
+{
+"name": "shopman5.png"
+},
+{
+"name": "shopsecondman.png"
+},
+{
+"name": "skullgruntfemale.png"
+},
+{
+"name": "skullgruntmale.png"
+},
+{
+"name": "spawntrader.png"
+},
+{
+"name": "steelleader1.png"
+},
+{
+"name": "streetthug.png"
+},
+{
+"name": "suit.png"
+},
+{
+"name": "supernerd.png"
+},
+{
+"name": "swimmer_f1.png"
+},
+{
+"name": "swimmer_f2.png"
+},
+{
+"name": "swimmer_m1.png"
+},
+{
+"name": "swimmer_m2.png"
+},
+{
+"name": "teamyellfemale.png"
+},
+{
+"name": "teamyellgruntfemale.png"
+},
+{
+"name": "teamyellgruntmale.png"
+},
+{
+"name": "teamyellmale.png"
+},
+{
+"name": "tesla.png"
+},
+{
+"name": "waterleader1.png"
+},
+{
+"name": "waterleader2.png"
+},
+{
+"name": "youngster1.png"
+},
+{
+"name": "youngster2.png"
+},
+{
+"name": "youngster3.png"
+},
+{
+"name": "youngster4.png"
+},
+{
+"name": "youngster5.png"
+},
+{
+"name": "youngster6.png"
+},
+{
+"name": "youngster7.png"
+},
+{
+"name": "youngstergirl.png"
+},
+{
+"name": "youngstergirl2.png"
+}
+],
+  "names": [
+{
+"name":"Georgie"
+},
+{
+"name":"Deborah"
+},
+{
+"name":"Brianna"
+},
+{
+"name":"Neve"
+},
+{
+"name":"Nina"
+},
+{
+"name":"Maisy"
+},
+{
+"name":"Joanna"
+},
+{
+"name":"Charlotte"
+},
+{
+"name":"Layla"
+},
+{
+"name":"Tianna"
+},
+{
+"name":"Maia"
+},
+{
+"name":"Gabriella"
+},
+{
+"name":"Francesca"
+},
+{
+"name":"Contance"
+},
+{
+"name":"Miriam"
+},
+{
+"name":"Kyra"
+},
+{
+"name":"Alfie"
+},
+{
+"name":"Chelsea"
+},
+{
+"name":"Alicia"
+},
+{
+"name":"Jane"
+},
+{
+"name":"Demi"
+},
+{
+"name":"Elsie"
+},
+{
+"name":"Zahra"
+},
+{
+"name":"Lillian"
+},
+{
+"name":"Ffion"
+},
+{
+"name":"Kayla"
+},
+{
+"name":"Ellen"
+},
+{
+"name":"Barbara"
+},
+{
+"name":"Daisy"
+},
+{
+"name":"Gabrielle"
+},
+{
+"name":"Aliya"
+},
+{
+"name":"Violet"
+},
+{
+"name":"Evangelo"
+},
+{
+"name":"Ismail"
+},
+{
+"name":"Amir"
+},
+{
+"name":"Herbert"
+},
+{
+"name":"Nicolas"
+},
+{
+"name":"Alvin"
+},
+{
+"name":"Rufus"
+},
+{
+"name":"Lara"
+},
+{
+"name":"Willie"
+},
+{
+"name":"Umar"
+},
+{
+"name":"Bret"
+},
+{
+"name":"Pearl"
+},
+{
+"name":"Jak"
+},
+{
+"name":"Zachary"
+},
+{
+"name":"Jesse"
+},
+{
+"name":"Juan"
+},
+{
+"name":"Roy"
+},
+{
+"name":"Fraser"
+},
+{
+"name":"Marshall"
+},
+{
+"name":"Johnny"
+},
+{
+"name":"Raphael"
+},
+{
+"name":"Lloyd"
+},
+{
+"name":"Clause"
+},
+{
+"name":"Edward"
+},
+{
+"name":"Jim"
+},
+{
+"name":"Jeremiah"
+},
+{
+"name":"Bernard"
+},
+{
+"name":"Robert"
+},
+{
+"name":"Harold"
+},
+{
+"name":"Brandon"
+},
+{
+"name":"Patrick"
+},
+{
+"name":"Maximilian"
+},
+{
+"name":"Agrippo"
+},
+{
+"name":"Agrippa"
+},
+{
+"name":"Ailbe"
+},
+{
+"name":"Aldus"
+},
+{
+"name":"Aleks"
+},
+{
+"name":"Amari"
+},
+{
+"name":"Aran"
+},
+{
+"name":"Ariel"
+},
+{
+"name":"Aroha"
+},
+{
+"name":"Aştî"
+},
+{
+"name":"Averill"
+},
+{
+"name":"Awee"
+},
+{
+"name":"Awotwi"
+},
+{
+"name":"Ayotunde"
+},
+{
+"name":"Babe"
+},
+{
+"name":"Bandile"
+},
+{
+"name":"Billie"
+},
+{
+"name":"Cam"
+},
+{
+"name":"Camryn"
+},
+{
+"name":"Carmo"
+},
+{
+"name":"Chan"
+},
+{
+"name":"Châu"
+},
+{
+"name":"Chesley"
+},
+{
+"name":"Chima"
+},
+{
+"name":"Chiyna"
+},
+{
+"name":"Chiyembek"
+},
+{
+"name":"Chizoba"
+},
+{
+"name":"Chun"
+},
+{
+"name":"Codie"
+},
+{
+"name":"D'Arcy"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dana"
+},
+{
+"name":"Dara"
+},
+{
+"name":"Dawa"
+},
+{
+"name":"Deniz"
+},
+{
+"name":"Dîyar"
+},
+{
+"name":"Dubaku"
+},
+{
+"name":"Duygu"
+},
+{
+"name":"Eirian"
+},
+{
+"name":"Ejiroghene"
+},
+{
+"name":"Ellington"
+},
+{
+"name":"Emerson"
+},
+{
+"name":"Emmery"
+},
+{
+"name":"Eun-Jung"
+},
+{
+"name":"Evangelista"
+},
+{
+"name":"Feidlimid"
+},
+{
+"name":"Ferdous"
+},
+{
+"name":"Fido"
+},
+{
+"name":"Firdos"
+},
+{
+"name":"Flick"
+},
+{
+"name":"Gerelt"
+},
+{
+"name":"Gili"
+},
+{
+"name":"Glaucia"
+},
+{
+"name":"Gul"
+},
+{
+"name":"Gurpreet"
+},
+{
+"name":"Harley"
+},
+{
+"name":"Heike"
+},
+{
+"name":"Hinata"
+},
+{
+"name":"Hollis"
+},
+{
+"name":"Hui"
+},
+{
+"name":"Isi"
+},
+{
+"name":"Itumeleng"
+},
+{
+"name":"Jae"
+},
+{
+"name":"Jamyang"
+},
+{
+"name":"Jayme"
+},
+{
+"name":"Jessy"
+},
+{
+"name":"Jessica"
+},
+{
+"name":"Jia"
+},
+{
+"name":"Jing"
+},
+{
+"name":"Jip"
+},
+{
+"name":"Jools"
+},
+{
+"name":"Kaede"
+},
+{
+"name":"Kagiso"
+},
+{
+"name":"Kaimana"
+},
+{
+"name":"Kanta"
+},
+{
+"name":"Kaulana"
+},
+{
+"name":"Kehinde"
+},
+{
+"name":"Kennedy"
+},
+{
+"name":"Khayrat"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Kiran"
+},
+{
+"name":"Lacy"
+},
+{
+"name":"Lakshmi"
+},
+{
+"name":"Laxmi"
+},
+{
+"name":"Lindsay"
+},
+{
+"name":"Liraz"
+},
+{
+"name":"Lorrin"
+},
+{
+"name":"Lucero"
+},
+{
+"name":"Lungile"
+},
+{
+"name":"Lupe"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Madhu"
+},
+{
+"name":"Maitland"
+},
+{
+"name":"Makana"
+},
+{
+"name":"Martie"
+},
+{
+"name":"Matija"
+},
+{
+"name":"Maurie"
+},
+{
+"name":"McKenzie"
+},
+{
+"name":"Min-Jun"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Minenhle"
+},
+{
+"name":"Monet"
+},
+{
+"name":"Montana"
+},
+{
+"name":"Mudiwa"
+},
+{
+"name":"Naseem"
+},
+{
+"name":"Navneet"
+},
+{
+"name":"Nerþuz"
+},
+{
+"name":"Nilam"
+},
+{
+"name":"Noam"
+},
+{
+"name":"Nour"
+},
+{
+"name":"Nsia"
+},
+{
+"name":"Nuka"
+},
+{
+"name":"Ofra"
+},
+{
+"name":"Ogochukwu"
+},
+{
+"name":"Olayinka"
+},
+{
+"name":"Oluwaseyi"
+},
+{
+"name":"Otgonbayar"
+},
+{
+"name":"Paget"
+},
+{
+"name":"Palmer"
+},
+{
+"name":"Payne"
+},
+{
+"name":"Ratna"
+},
+{
+"name":"Ricmod"
+},
+{
+"name":"Rylie"
+},
+{
+"name":"Şan"
+},
+{
+"name":"Seung"
+},
+{
+"name":"Shahar"
+},
+{
+"name":"Simcha"
+},
+{
+"name":"Sovanna"
+},
+{
+"name":"Stav"
+},
+{
+"name":"Steph"
+},
+{
+"name":"Storm"
+},
+{
+"name":"Suman"
+},
+{
+"name":"Tatum"
+},
+{
+"name":"Tendai"
+},
+{
+"name":"Tivoli"
+},
+{
+"name":"Tiwonge"
+},
+{
+"name":"Tiyamike"
+},
+{
+"name":"Tshepo"
+},
+{
+"name":"Tu"
+},
+{
+"name":"Tumelo"
+},
+{
+"name":"Uche"
+},
+{
+"name":"Udo"
+},
+{
+"name":"Unathi"
+},
+{
+"name":"Vanna"
+},
+{
+"name":"Wambli"
+},
+{
+"name":"Waverly"
+},
+{
+"name":"Wei"
+},
+{
+"name":"Xuân"
+},
+{
+"name":"Yağmur"
+},
+{
+"name":"Yuuki"
+}
+  ],
+  "chat": [
+    {
+      "hello": "All the best designs, right in one place!",
+      "goodbye": "Have a wonderful day."
+    }
+  ],
+  "items": [
+{
+"name": "decorative_blocks:bar_panel",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:lattice",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:chain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:chandelier",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:soul_chandelier",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:brazier",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:soul_brazier",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:birch_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:crimson_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:oak_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:acacia_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:dark_oak_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:warped_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:jungle_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:spruce_seat",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:birch_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:crimson_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:oak_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:acacia_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:dark_oak_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:warped_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:jungle_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "decorative_blocks:spruce_support",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:chain_link_fence",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:barbed_chain_link_fence",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:barbed_iron_bars",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:gold_chain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:large_chain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:large_gold_chain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:anchor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:hook",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:chain_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:industrial_iron_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:sheet_metal_trapdoor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:sheet_metal_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:rusty_sheet_metal_trapdoor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:rusty_sheet_metal_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:cardboard_trapdoor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:cardboard_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:rusty_iron_trapdoor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:rusty_iron_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:iron_bar_trapdoor",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:iron_bar_door",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:redstone_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:large_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:large_soul_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:large_redstone_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:red_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:orange_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:yellow_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:green_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:cyan_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:blue_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:pink_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:purple_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "dustrial_decor:rainbow_neon_light",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:acacia_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:birch_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:dark_oak_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:jungle_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:oak_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:spruce_cava",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:shelf_empty",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:shelf_full",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_apples",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_bread",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_potatoes",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_carrots",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_melon",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_pumpkin",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_fish",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:fruit_box_wt",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:apples",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bread",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:carrots",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:melon_slices",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:potatoes",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:taburete",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:target",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:acacia_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:birch_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:dark_oak_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:jungle_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:oak_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:spruce_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mesa_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:repisa_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:lattice_v_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:world_map",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cards",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:big_rock_block",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:stones_block",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:stones_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:coin",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:few_coins",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:coins",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:treasure",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:desk",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:desk_full_a",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:desk_full_b",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:desk_full_c",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bucket",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mug",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mug_fallen",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:oak_barrel",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:boat_in_bottle",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:wardrobe_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:salmon",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cod",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cantaloupe_block",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:tequila_bottle",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottles_bundlex_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottles_bundlex_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottles_bundle",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottles",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottlesx_9",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cubiertos",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:joyas",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:jewels",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:book_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:book_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:book_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:book_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:book_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:books",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:books_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:books_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:papiro",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:letter",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:map",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:n_compass",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:arrows",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:meal_01",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:meal_02",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:meal_03",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:meal_04",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:nopal_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:saddle_display",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_4",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_5",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_6",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_7",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:plate_dirty_8",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:pot",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mushroom_stew_crude",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mushroom_stew_cooked",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:rabbit_stew_raw",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:rabbit_stew_cooked",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:susp_stew_raw",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:susp_stew_cooked",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:beetroot_stew_raw",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:beetroot_stew_cooked_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:raw_veg_stew",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:veg_stew",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:raw_clay_pot",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:clay_mess",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:clay_pot",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:raw_beet_stew",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:beet_stew_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:beet_stew_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:raw_mush_stew",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mush_stew_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:mush_stew_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:pumpkin_patch",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:pumpkin_patch_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:pumpkin_patch_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:pumpkin_patch_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:bottlesx_3",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:choco_cake",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cheese_cake",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:cookies",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:meal_05",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sleeping_bag",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_0",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_01",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_02",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_03",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_05",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_06",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:sign_07",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:banner_01",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:banner_02",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:street_display",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:biombo_1",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "nefdecomod:biombo_2",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:small_book_stack",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:big_book_stack",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:empty_fish_tank",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:fish_tank",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:solar_system_model",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:solar_system_model_big",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:telescope",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:simple_wooden_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:simple_wooden_stool",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bracket_set",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bracket_interpolation",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bracket_interpolation_hollow",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_bracket_set",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_bracket_interpolation",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_bracket_interpolation_hollow",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_bracket_set",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_bracket_interpolation",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_bracket_interpolation_hollow",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:implicate",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:column_head",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:oblique_brace",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_implicate",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_column_head",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_oblique_brace",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_implicate",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_column_head",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_oblique_brace",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_gooseneck_chair",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_gooseneck_chair_column",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_big_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_desk",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_chair",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_shelf",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_screen",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:ebony_big_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_table",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_desk",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_chair",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_shelf",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:mahogany_screen",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:white_porcelain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:white_porcelain_tall",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:white_porcelain_small",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bluewhite_porcelain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bluewhite_porcelain_tall",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bluewhite_porcelain_small",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:celadon_porcelain",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:celadon_porcelain_tall",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:celadon_porcelain_small",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:fish_bowl",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bonsai",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:coral_bonsai",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:tea_ware",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:go_board",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:paper_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:red_lantern",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:oil_lamp",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:empty_bottle_stack",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:bottle_stack",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:wood_globe",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:globe",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:fan_blade",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:steel_windmill",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:iron_windmill",
+"variation": FALSE,
+"rarity": 1.0
+},
+{
+"name": "xkdeco:wooden_windmill",
+"variation": FALSE,
+"rarity": 1.0
+}
+]
+}
